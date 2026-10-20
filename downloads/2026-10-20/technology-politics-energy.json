@@ -1,0 +1,21 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-20",
+  "title": "2026-10-20 科技与政治 · 能源",
+  "summary": "本期无符合筛选标准的新闻。",
+  "highlights": [],
+  "window_start": "2026-10-13T12:00:00+08:00",
+  "window_end": "2026-10-20T12:00:00+08:00",
+  "generated_at": "2026-10-20T12:09:51.924024+08:00",
+  "edition": "technology-politics-energy",
+  "sections": [
+    {
+      "id": "energy",
+      "name": "能源",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [],
+  "coverage_notes": []
+}
