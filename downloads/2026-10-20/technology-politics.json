@@ -1,0 +1,125 @@
+{
+  "schema_version": 2,
+  "edition": "technology-politics",
+  "date": "2026-10-20",
+  "title": "2026-10-20 科技与政治",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "欧几里得望远镜发现首颗此前未知彗星 C/2026 S1"
+  ],
+  "window_start": "2026-10-19T12:00:00+08:00",
+  "window_end": "2026-10-20T12:00:00+08:00",
+  "generated_at": "2026-10-20T12:02:42.944535+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "ESA|Euclid 望远镜发现新彗星|Euclid 首颗新彗星",
+          "title": "欧几里得望远镜发现首颗此前未知彗星 C/2026 S1",
+          "summary": "ESA 称欧几里得望远镜在9月拍摄的图像中发现其首颗未知彗星，国际天文联合会小行星中心10月8日确认为 C/2026 S1，距地球约13亿公里。",
+          "published_at": "2026-10-19T20:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "欧空局宣布欧几里得望远镜发现首颗此前未知彗星，编号 C/2026 S1 (Euclid)，发现团队将观测报告提交国际天文联合会小行星中心，经地面后续观测后于10月8日确认。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "ESA",
+            "Euclid",
+            "C/2026 S1"
+          ],
+          "limitations": "彗星轨道周期尚待更多数据修正；该彗星不适宜作为彗星拦截器任务目标。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "欧洲空间局10月19日宣布，欧几里得空间望远镜在9月16日至24日拍摄的图像中发现其第一颗此前未知的彗星。发现团队中的 Mikko Pöntinen 将观测报告提交国际天文联合会小行星中心，经地面天文台后续观测，该中心于10月8日确认为彗星，编号 C/2026 S1 (Euclid)。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026."
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "The MPC subsequently confirmed it as a comet on 8 October, and it is now identified as C/2026 S1 (Euclid)."
+                }
+              ],
+              "verification": "official_statement"
+            },
+            {
+              "kind": "fact",
+              "text": "该彗星距地球约13亿公里，位于行星轨道平面之外，绕太阳一周需数千年。欧几里得本为测绘深空星系设计，会刻意避开尘埃密集的太阳系平面，且采用步进凝视方式通常只观测每片天区一次，因此发现新彗星并不容易。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "The comet is located approximately 1.3 billion kilometres away from Earth, equivalent to the distance from the Sun to roughly between the orbits of Jupiter and Saturn."
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "Euclid deliberately avoids the asteroid- and comet-rich band of sky along the Solar System’s plane to reduce unwanted glare from dust that would hinder sensitive deep-sky imaging, making the discovery of new Solar System objects particularly challenging."
+                }
+              ],
+              "verification": "official_statement"
+            },
+            {
+              "kind": "fact",
+              "text": "ESA 表示，这颗彗星不适合作为其未来彗星拦截器任务的目标，但此次发现与预警流程为两个任务团队的后续协作提供了实战检验。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "While this particular comet is not a suitable candidate for Comet Interceptor, the process of discovery and alert gives us a real test case for how our two mission teams will coordinate in the future."
+                }
+              ],
+              "verification": "official_statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics",
+      "name": "政治",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s27",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+      "title": "Euclid discovers new comet ",
+      "published_at": "2026-10-19T14:00:00+02:00"
+    }
+  ],
+  "coverage_notes": [
+    "数码的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

@@ -1,0 +1,242 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-20",
+  "title": "2026-10-20 ACGN",
+  "summary": "本期收录3条通过核验的新闻。",
+  "highlights": [
+    "《本与钥匙的季节》Steam 体验版上线，收录第 1 章「913」",
+    "《灵渡之境》中文试玩版参加 Steam 十月新品节，计划 11 月发售",
+    "Jeff Kaplan 谈离开《守望先锋》：五年未看竞技社区"
+  ],
+  "window_start": "2026-10-19T12:00:00+08:00",
+  "window_end": "2026-10-20T12:00:00+08:00",
+  "generated_at": "2026-10-20T12:05:15.999130+08:00",
+  "sources": [
+    {
+      "id": "s6",
+      "url": "https://www.4gamer.net/games/029/G102927/20261020012/",
+      "title": "米澤穂信氏原作「本と鍵の季節」，体験版をSteamで配信開始。第1章「913」をまるごと収録し，プレイヤー自身が謎解きに挑戦",
+      "published_at": "2026-10-20T12:58:26+09:00"
+    },
+    {
+      "id": "s31",
+      "url": "https://www.gcores.com/articles/221155",
+      "title": "光遇+动森：多人在线治愈生活向网飞新游《Spirit Crossing灵渡之境》亮相新品节",
+      "published_at": "2026-10-20T11:51:16+08:00"
+    },
+    {
+      "id": "s11",
+      "url": "https://www.yystv.cn/p/14519",
+      "title": "为了身心健康，“姐夫”彻底和《守望先锋》断联了五年",
+      "published_at": "2026-10-20T00:00:00+08:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "集英社游戏|发布|本与钥匙的季节 试玩版",
+          "title": "《本与钥匙的季节》Steam 体验版上线，收录第 1 章「913」",
+          "summary": "集英社游戏发行、iMel 开发的米泽穗信原作改编冒险游戏《本与钥匙的季节》在 Steam 推出体验版，可完整游玩第 1 章「913」，正式版计划今年冬季登陆 PC 与 Switch。",
+          "published_at": "2026-10-20T11:58:26+08:00",
+          "follow_up": true,
+          "new_facts": "《本与钥匙的季节》Steam 体验版于 2026 年 10 月 20 日上线，收录第 1 章「913」；正式版计划今冬登陆 PC 与 Switch。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "4Gamer 报道，集英社游戏于 2026 年 10 月 20 日在 Steam 推出《本与钥匙的季节》体验版，配合当日开始的 Steam 新品节。该作由 iMel 开发，正式版计划于今年冬季登陆 PC 与 Switch。",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "集英社ゲームズは本日（2026年10月20日），アドベンチャー 「本と鍵の季節」 の 体験版の配信をSteamで開始 した。"
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "PC / Switch 向けに今冬の発売を予定している。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "体验版可完整游玩第 1 章「913」：图书委员堀川次郎与松仓诗门受前辈浦上麻里所托，设法打开其已故祖父留下的“打不开的金库”。游戏以全篇配音和插画呈现原作故事，并设置了玩家亲自扮演堀川解谜的环节。",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "今回配信された体験版では， 第1章「913」 をまるごとプレイできる。"
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "プレイヤー自身が堀川として謎を解く場面も用意されている。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "本作改编自米泽穗信同名小说，堀川次郎由浦和希配音，松仓诗门由梅原裕一郎配音，浦上麻里由樱庭有纱配音。",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "堀川次郎役を 浦 和希さん ，松倉詩門役を 梅原裕一郎さん ，浦上麻里役を 櫻庭有紗さん が担当する。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "集英社ゲームズ",
+            "iMel",
+            "本と鍵の季節",
+            "米澤穂信"
+          ],
+          "limitations": "信息来自 4Gamer 对发行商公告的转述，未直接取得集英社游戏官方原文；价格与 Switch 版具体日期未公布。"
+        },
+        {
+          "event_key": "Spry Fox|发布|Spirit Crossing 试玩版",
+          "title": "《灵渡之境》中文试玩版参加 Steam 十月新品节，计划 11 月发售",
+          "summary": "《Cozy Grove》开发团队 Spry Fox 的多人生活模拟游戏《灵渡之境》以支持中文的免费试玩版参加 Steam 十月新品节，试玩开放至 11 月 9 日，游戏计划 11 月发售。",
+          "published_at": "2026-10-20T11:51:16+08:00",
+          "follow_up": true,
+          "new_facts": "《灵渡之境》免费试玩版支持中文，参加 Steam 十月新品节，新品节结束后继续开放至 11 月 9 日；游戏计划 11 月发售。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "由《Cozy Grove》开发团队 Spry Fox 制作的多人合作生活模拟游戏《灵渡之境》（Spirit Crossing）以支持中文的免费试玩版参加 Steam 十月新品节。据机核报道，本届新品节于北京时间 10 月 20 日凌晨 1 点至 10 月 27 日凌晨 1 点举行，试玩版在活动结束后继续开放至 11 月 9 日。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "将携 支持中文的免费试玩版 参加 Steam 十月新品节"
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "本届新品节将于 北京时间10月20日凌晨01:00至10月27日凌晨01:00 举行。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "游戏设定在一片介于人类与灵魂世界之间、饱受风暴侵扰的土地上，玩家与其他玩家及灵魂居民共同建设“驿站”，通过采集、钓鱼、演奏等活动建立联系，并在风暴来袭时合作修复烽火。友谊会随共同活动逐步解锁近距离聊天、双人动作、传送和赠礼等互动。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "加入一座由玩家共同打理的“驿站”，与伙伴们携手建造、装饰、加固并维护家园。"
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "随着与其他玩家的关系逐渐加深，近距离聊天、双人表情动作、传送及赠礼等互动功能将陆续解锁"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道称游戏计划于 11 月发售，未说明具体日期、平台范围与商业模式。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "游戏将于11月发售。"
+                }
+              ],
+              "kind": "limitation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Spry Fox",
+            "Spirit Crossing",
+            "灵渡之境",
+            "Netflix"
+          ],
+          "limitations": "来源为机核对发行信息的转述，未直接取得 Spry Fox 或 Netflix 官方公告；正式发售日、平台范围与商业模式未确认。"
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Jeff Kaplan|受访谈|离开守望先锋后状态",
+          "title": "Jeff Kaplan 谈离开《守望先锋》：五年未看竞技社区",
+          "summary": "前《守望先锋》游戏总监 Jeff Kaplan 在采访中称，自 2021 年离开暴雪后已五年未接触《守望先锋》竞技社区，并称当年因营收压力离职。他目前带领独立工作室开发新作《加利福尼亚传奇》。",
+          "published_at": "2026-10-20T00:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Jeff Kaplan 受访称五年未接触《守望先锋》竞技社区；重申离职与营收压力有关；其独立工作室新作《加利福尼亚传奇》EA 阶段推迟至 2027 年。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "前《守望先锋》游戏总监 Jeff Kaplan（国内玩家称“姐夫”）在近期外媒采访中称，自 2021 年离开暴雪后，他再未接触《守望先锋》竞技社区和 Reddit 板块，也不看相关视频或搜索自己的名字。游研社报道了这一访谈。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "为了我自己的精神状态，自从向《守望先锋》竞技社区和Reddit板块道别之后，我就再也没回去过了。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Kaplan 在采访中称，2018 年启动的守望先锋联赛商业化未达预期，高管和外部投资方对营收施压，开发资源向电竞倾斜；他提到当时 CFO 曾以裁员相威胁。这一说法来自其本人叙述，暴雪方面未在本次报道中回应。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "当时的动视暴雪CFO直接向Jeff下了最后通牒：如果《守望先锋》达不到他们规定的营收目标，公司就裁掉1000名员工"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Kaplan 目前带领 33 人独立工作室 Kintsugiyama 开发西部淘金题材第一人称游戏《加利福尼亚传奇》，该作 EA 阶段发布时间已推迟至 2027 年。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "因为团队规模有限，《加利福尼亚传奇》EA阶段的发布时间被推到了2027年"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Jeff Kaplan",
+            "暴雪",
+            "守望先锋",
+            "Kintsugiyama",
+            "加利福尼亚传奇"
+          ],
+          "limitations": "信息来自游研社对访谈的转述，未直接取得采访原文；暴雪方面未回应 Kaplan 的离职原因说法。"
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
