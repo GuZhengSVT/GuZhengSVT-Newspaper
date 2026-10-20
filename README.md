@@ -8,12 +8,13 @@ VPS 自动生成并同步的静态新闻站点，通过 GitHub Pages 发布。
 
 ## 阅读与订阅
 
-站点按“科技与政治”和“ACGN”两个一级板块展示新闻，子板块按各自的日报或周报周期更新。新闻包含正文、来源链接及可选配图，支持深浅配色、目录导航和归档搜索。
+站点按“科技”“政治”和“ACGN”三个一级板块展示新闻，首页默认通过按钮切换，也可在“首页布局”中选择分栏展示；布局选择在浏览器保存。政治细分中国、美国、欧洲、俄乌战争、中东地区、南美、非洲、其他八个子板块。子板块按各自的日报或周报周期更新。新闻包含正文、来源链接及可选配图，支持深浅配色、目录导航和归档搜索。
 
 | RSS | 订阅地址 |
 | --- | --- |
 | 全部新闻 | [feed.xml](https://newspaper.guzhengsvt.cn/feed.xml) |
-| 科技与政治 | [feed-technology-politics.xml](https://newspaper.guzhengsvt.cn/feed-technology-politics.xml) |
+| 科技 | [feed-technology.xml](https://newspaper.guzhengsvt.cn/feed-technology.xml) |
+| 政治 | [feed-politics.xml](https://newspaper.guzhengsvt.cn/feed-politics.xml) |
 | ACGN | [feed-acgn.xml](https://newspaper.guzhengsvt.cn/feed-acgn.xml) |
 
 网站仅展示最近 30 天的新闻。没有符合收录标准的内容时，当期可能为空；空刊不代表相关领域没有发生新闻。
