@@ -24,6 +24,13 @@
   </header>
   <main id="main-content">
 <div class="date-bar"><h1><time datetime="2026-10-20">2026年10月20日</time></h1><span>Asia/Shanghai</span></div>
+<div id="homepage" data-layout="tabs" data-layout-switch="true">
+<div class="home-controls" hidden>
+  <div class="home-tabs" role="tablist" aria-label="新闻板块">
+    <button type="button" id="tab-column-technology-politics" role="tab" aria-controls="column-technology-politics" aria-selected="true" tabindex="0">科技｜政治</button><button type="button" id="tab-column-acgn" role="tab" aria-controls="column-acgn" aria-selected="false" tabindex="-1">ACGN</button>
+  </div>
+  <label class="layout-setting">首页布局 <select id="home-layout" aria-label="首页布局"><option value="tabs">按钮切换</option><option value="columns">分栏展示</option></select></label>
+</div>
 <div class="reading-layout home-layout">
   
 <aside class="contents" aria-label="文章目录">
@@ -143,6 +150,7 @@
     </section>
   
   </div>
+</div>
 </div>
 </main>
 </body>
