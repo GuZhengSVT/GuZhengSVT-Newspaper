@@ -27,7 +27,7 @@
 <div id="homepage" data-layout="tabs" data-layout-switch="true">
 <div class="home-controls" hidden>
   <div class="home-tabs" role="tablist" aria-label="新闻板块">
-    <button type="button" id="tab-column-technology-politics" role="tab" aria-controls="column-technology-politics" aria-selected="true" tabindex="0">科技</button><button type="button" id="tab-column-politics" role="tab" aria-controls="column-politics" aria-selected="false" tabindex="-1">政治</button><button type="button" id="tab-column-acgn" role="tab" aria-controls="column-acgn" aria-selected="false" tabindex="-1">ACGN</button>
+    <button type="button" id="tab-column-technology" role="tab" aria-controls="column-technology" aria-selected="true" tabindex="0">科技</button><button type="button" id="tab-column-politics" role="tab" aria-controls="column-politics" aria-selected="false" tabindex="-1">政治</button><button type="button" id="tab-column-acgn" role="tab" aria-controls="column-acgn" aria-selected="false" tabindex="-1">ACGN</button>
   </div>
   <label class="layout-setting">首页布局 <select id="home-layout" aria-label="首页布局"><option value="tabs">按钮切换</option><option value="columns">分栏展示</option></select></label>
 </div>
@@ -40,13 +40,27 @@
     <ul class="toc-list">
     
       <li>
-        <a class="toc-edition" href="#column-technology-politics">科技</a>
+        <a class="toc-edition" href="#column-technology">科技</a>
         <ul>
         
           <li>
             <a class="toc-section" href="#home-space-s1">航天宇航</a>
             <ul>
-            <li><a class="toc-article" href="#home-space-s1-a1">欧几里得望远镜发现首颗此前未知彗星 C/2026 S1</a></li>
+            <li><a class="toc-article" href="#home-space-s1-a1">欧几里得望远镜发现首颗新彗星 C/2026 S1</a></li>
+            </ul>
+          </li>
+        
+          <li>
+            <a class="toc-section" href="#home-hardware-s1">硬件</a>
+            <ul>
+            <li><a class="toc-article" href="#home-hardware-s1-a1">NVIDIA 在 JUPITER 超算上完成104量子比特容错量子计算模拟</a></li>
+            </ul>
+          </li>
+        
+          <li>
+            <a class="toc-section" href="#home-energy-s1">能源</a>
+            <ul>
+            <li><a class="toc-article" href="#home-energy-s1-a1">美国能源部首次就TRIG煤气化技术发出非独占许可</a></li>
             </ul>
           </li>
         
@@ -102,21 +116,49 @@
 
   <div class="news-columns">
   
-    <section class="news-column" id="column-technology-politics" data-outline>
-      <header class="column-heading"><h2><a href="/archive/technology-politics/" aria-label="查看科技往期新闻">科技</a></h2><a class="history-link" href="/archive/technology-politics/">往期</a></header>
+    <section class="news-column" id="column-technology" data-outline>
+      <header class="column-heading"><h2><a href="/archive/technology/" aria-label="查看科技往期新闻">科技</a></h2><a class="history-link" href="/archive/technology/">往期</a></header>
       
 
 
 <section class="news-section" id="home-space-s1" data-outline>
   <h3 class="section-title">航天宇航</h3>
-  <p class="story-meta">更新于 2026-10-20 · <a href="/daily/2026-10-20/technology-politics/">本期</a></p>
+  <p class="story-meta">更新于 2026-10-20 · <a href="/daily/2026-10-20/technology/">本期</a></p>
   
   <article class="story" id="home-space-s1-a1" data-outline>
-    <h4 class="story-title">欧几里得望远镜发现首颗此前未知彗星 C/2026 S1</h4>
-    <p class="story-meta"><time>10月19日 20:00</time><span>重要</span><span>可靠性 A</span><span>进展</span></p>
-    <div class="news-body"><p>欧洲空间局10月19日宣布，欧几里得空间望远镜在9月16日至24日拍摄的图像中发现其第一颗此前未知的彗星。发现团队中的 Mikko Pöntinen 将观测报告提交国际天文联合会小行星中心，经地面天文台后续观测，该中心于10月8日确认为彗星，编号 C/2026 S1 (Euclid)。</p><p>该彗星距地球约13亿公里，位于行星轨道平面之外，绕太阳一周需数千年。欧几里得本为测绘深空星系设计，会刻意避开尘埃密集的太阳系平面，且采用步进凝视方式通常只观测每片天区一次，因此发现新彗星并不容易。</p><p>ESA 表示，这颗彗星不适合作为其未来彗星拦截器任务的目标，但此次发现与预警流程为两个任务团队的后续协作提供了实战检验。</p></div>
+    <h4 class="story-title">欧几里得望远镜发现首颗新彗星 C/2026 S1</h4>
+    <p class="story-meta"><time>10月19日 20:00</time><span>重要</span><span>可靠性 A</span></p>
+    <div class="news-body"><p>欧空局10月19日宣布，欧几里得空间望远镜在9月16日至24日拍摄的图像中发现其第一颗此前未知的彗星。发现者、赫尔辛基大学博士生 Mikko Pöntinen 利用其开发的移动天体检测软件，在5个不同视野、共16次曝光中捕捉到该目标，并将观测报告提交国际天文联合会小行星中心。经地面天文台后续观测，该中心于10月8日确认其为彗星，编号 C/2026 S1 (Euclid)。</p><p>该彗星距地球约13亿公里，位于行星轨道平面之外，绕太阳一周需数千年。欧几里得本为测绘深空星系设计，会刻意避开太阳系平面尘埃带，且采用步进凝视方式通常只观测每片天区一次，因此发现新彗星并不容易。</p><p>欧空局表示，这颗彗星不适合作为其未来彗星拦截器任务的目标，但此次发现与预警流程为两个任务团队后续协作提供了实战检验。</p></div>
     
     <p class="story-sources">来源：<a href="https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet" title="Euclid discovers new comet " target="_blank" rel="noopener noreferrer">欧洲航天局</a></p>
+  </article>
+  
+</section>
+
+<section class="news-section" id="home-hardware-s1" data-outline>
+  <h3 class="section-title">硬件</h3>
+  <p class="story-meta">更新于 2026-10-20 · <a href="/daily/2026-10-20/technology/">本期</a></p>
+  
+  <article class="story" id="home-hardware-s1-a1" data-outline>
+    <h4 class="story-title">NVIDIA 在 JUPITER 超算上完成104量子比特容错量子计算模拟</h4>
+    <p class="story-meta"><time>10月20日 02:00</time><span>重要</span><span>可靠性 A</span></p>
+    <div class="news-body"><p>NVIDIA 10月19日宣布，其研究人员在欧洲首台百亿亿次超算 JUPITER 上完成了104量子比特的容错量子计算模拟，称这是迄今对容错量子处理器规模最大、最完整的模拟。JUPITER 位于德国于利希超算中心，使用 NVIDIA GH200 超级芯片。</p><p>该模拟在包含真实噪声的条件下验证了 magic state cultivation 方法。NVIDIA 称，这种方法所需的物理量子比特比此前方法少90%，有助于缩短通向实用量子计算的路径。magic state 是容错量子计算中持续消耗的一种特殊量子态，其制备效率直接影响系统规模。</p><p>项目先在 NVIDIA 加速量子研究中心的 GB200 NVL72 系统上开发，随后扩展至 JUPITER 的8192块 GPU，并使用 cuQuantum 软件和 CUDA-Q 平台的容错逻辑层。NVIDIA 称，该流程将原本需数周的模拟缩短至数天。</p></div>
+    
+    <p class="story-sources">来源：<a href="https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre" title="NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre" target="_blank" rel="noopener noreferrer">nvidianews.nvidia.com</a></p>
+  </article>
+  
+</section>
+
+<section class="news-section" id="home-energy-s1" data-outline>
+  <h3 class="section-title">能源</h3>
+  <p class="story-meta">更新于 2026-10-20 · <a href="/daily/2026-10-20/technology-energy/">本期</a></p>
+  
+  <article class="story" id="home-energy-s1-a1" data-outline>
+    <h4 class="story-title">美国能源部首次就TRIG煤气化技术发出非独占许可</h4>
+    <p class="story-meta"><time>10月16日 01:27</time><span>重大</span><span>可靠性 A</span><span>进展</span></p>
+    <div class="news-body"><p>美国能源部碳氢化合物与地热能办公室10月15日宣布，该部已与Latitude Energy Services执行首个TRIG煤气化技术非独占许可，范围仅限电力领域。Latitude另独立持有该技术在工业领域的权利，此次许可与之互补。</p><p>TRIG是由美国能源部与产业伙伴联合开发的煤气化系统，设计针对低阶、高水分煤。能源部称，此次许可被视为该项联邦共同开发技术转移和商业化的重要节点，并为美国煤炭行业增加商业部署机会提供路径。</p><p>公告未披露许可费、项目装机规模、气化效率或成本数据，也未说明是否已有商业运行项目，因此尚不能判断该技术当前处于示范还是商业阶段。</p></div>
+    
+    <p class="story-sources">来源：<a href="https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig" title="Hydrocarbons and Geothermal Energy Office Executes First-Ever License for TRIG Gasification Technology" target="_blank" rel="noopener noreferrer">energy.gov</a></p>
   </article>
   
 </section>

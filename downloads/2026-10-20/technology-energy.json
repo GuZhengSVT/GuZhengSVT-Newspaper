@@ -1,0 +1,94 @@
+{
+  "schema_version": 2,
+  "edition": "technology-energy",
+  "date": "2026-10-20",
+  "title": "2026-10-20 科技 · 能源",
+  "summary": "美国能源部碳氢化合物与地热能办公室宣布首次执行TRIG煤气化技术的非独占许可，被许可方为Latitude Energy Services，许可范围限于电力领域。该技术由能源部与产业伙伴联合开发，面向低阶高水分煤。",
+  "highlights": [
+    "美国能源部HGEO首次执行TRIG煤气化技术非独占许可，被许可方为Latitude Energy Services",
+    "许可仅限电力领域，工业领域权利由Latitude独立持有",
+    "TRIG由能源部与产业伙伴联合开发，设计针对低阶、高水分煤"
+  ],
+  "window_start": "2026-10-13T12:00:00+08:00",
+  "window_end": "2026-10-20T12:00:00+08:00",
+  "generated_at": "2026-10-20T12:40:05.356287+08:00",
+  "sources": [
+    {
+      "id": "s8",
+      "url": "https://www.energy.gov/hgeo/articles/hydrocarbons-and-geothermal-energy-office-executes-first-ever-license-trig",
+      "title": "Hydrocarbons and Geothermal Energy Office Executes First-Ever License for TRIG Gasification Technology",
+      "published_at": "2026-10-15T13:27:36-04:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "energy",
+      "name": "能源",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国能源部|首次执行TRIG煤气化技术非独占许可|Latitude Energy Services",
+          "title": "美国能源部首次就TRIG煤气化技术发出非独占许可",
+          "summary": "美国能源部HGEO宣布与Latitude Energy Services执行首个TRIG煤气化技术非独占许可，仅限电力领域。技术由能源部与产业伙伴联合开发，面向低阶高水分煤，此次许可被视为技术转移与商业化的一步。",
+          "published_at": "2026-10-16T01:27:36+08:00",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "美国能源部",
+            "碳氢化合物与地热能办公室",
+            "Latitude Energy Services",
+            "Transport Integrated Gasification (TRIG)"
+          ],
+          "follow_up": true,
+          "new_facts": "美国能源部碳氢化合物与地热能办公室首次执行TRIG煤气化技术非独占许可，被许可方为Latitude Energy Services，仅限电力领域；Latitude独立持有工业领域权利；TRIG由能源部与产业伙伴联合开发，针对低阶高水分煤。",
+          "verification": "official_statement",
+          "limitations": "来源为美国能源部官网文章，属官方公告。文中未披露许可费、装机规模、效率或成本参数，也未说明是否已有商业运行项目，故无法判断技术成熟度处于示范还是商业阶段。页面标注日期为10月16日，结构化datePublished为10月15日，报道时间以结构化时间为准。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "美国能源部碳氢化合物与地热能办公室10月15日宣布，该部已与Latitude Energy Services执行首个TRIG煤气化技术非独占许可，范围仅限电力领域。Latitude另独立持有该技术在工业领域的权利，此次许可与之互补。",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "The Department has executed its first-ever nonexclusive license with Latitude Energy Services for the Transport Integrated Gasification (TRIG™) technology."
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "Latitude independently holds the rights to TRIG™ in the industrial field of use, which will be complemented by this license."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "TRIG是由美国能源部与产业伙伴联合开发的煤气化系统，设计针对低阶、高水分煤。能源部称，此次许可被视为该项联邦共同开发技术转移和商业化的重要节点，并为美国煤炭行业增加商业部署机会提供路径。",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "TRIG™ is a first‑of‑its‑kind gasification system jointly developed by DOE and industry partners. Designed specifically for low‑rank, high‑moistu"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "The executed license marks a significant milestone in the technology transfer and commercialization of a federally co developed advanced coal gasification system"
+                }
+              ]
+            },
+            {
+              "kind": "limitation",
+              "text": "公告未披露许可费、项目装机规模、气化效率或成本数据，也未说明是否已有商业运行项目，因此尚不能判断该技术当前处于示范还是商业阶段。",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "The license is limited to the power field of use."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "coverage_notes": []
+}

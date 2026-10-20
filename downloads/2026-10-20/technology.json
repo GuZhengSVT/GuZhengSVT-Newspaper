@@ -1,0 +1,191 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-20",
+  "title": "2026-10-20 科技",
+  "summary": "本期收录2条新闻。",
+  "highlights": [
+    "欧几里得望远镜发现首颗新彗星 C/2026 S1",
+    "NVIDIA 在 JUPITER 超算上完成104量子比特容错量子计算模拟"
+  ],
+  "window_start": "2026-10-19T12:00:00+08:00",
+  "window_end": "2026-10-20T12:00:00+08:00",
+  "generated_at": "2026-10-20T12:39:01.904638+08:00",
+  "sources": [
+    {
+      "id": "s23",
+      "url": "https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_discovers_new_comet",
+      "title": "Euclid discovers new comet ",
+      "published_at": "2026-10-19T14:00:00+02:00"
+    },
+    {
+      "id": "s32",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-runs-record-simulation-of-fault-tolerant-quantum-computing-at-julich-supercomputing-centre",
+      "title": "NVIDIA Runs Record Simulation of Fault-Tolerant Quantum Computing at Jülich Supercomputing Centre",
+      "published_at": "2026-10-19T18:00:00+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "ESA|发现|新彗星",
+          "title": "欧几里得望远镜发现首颗新彗星 C/2026 S1",
+          "summary": "欧空局10月19日公布，欧几里得空间望远镜在9月16日至24日拍摄的图像中发现其首颗此前未知彗星 C/2026 S1 (Euclid)，经国际天文联合会小行星中心确认。该彗星距地球约13亿公里，轨道周期达数千年。",
+          "published_at": "2026-10-19T20:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "欧空局10月19日宣布，欧几里得空间望远镜在2026年9月16日至24日拍摄的图像中发现首颗此前未知彗星，编号 C/2026 S1 (Euclid)。发现由赫尔辛基大学博士生 Mikko Pöntinen 利用其开发的移动天体检测软件完成，在5个视野、共16次曝光中捕捉到目标。国际天文联合会小行星中心经地面后续观测后于10月8日确认其为彗星。该彗星距地球约13亿公里，位于行星轨道平面之外，绕太阳周期达数千年。欧空局称其不适合作为未来彗星拦截器任务目标，但发现与预警流程为任务协作提供了检验。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "ESA",
+            "Euclid",
+            "C/2026 S1"
+          ],
+          "limitations": "彗星轨道周期等参数仍需更多观测数据修正；发现与确认过程均来自欧空局公告，未提供独立轨道复核结果。",
+          "facts": [
+            {
+              "text": "欧空局10月19日宣布，欧几里得空间望远镜在9月16日至24日拍摄的图像中发现其第一颗此前未知的彗星。发现者、赫尔辛基大学博士生 Mikko Pöntinen 利用其开发的移动天体检测软件，在5个不同视野、共16次曝光中捕捉到该目标，并将观测报告提交国际天文联合会小行星中心。经地面天文台后续观测，该中心于10月8日确认其为彗星，编号 C/2026 S1 (Euclid)。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "The European Space Agency’s Euclid space telescope has discovered its first previously unknown comet, in images taken between 16 and 24 September 2026."
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "The MPC subsequently confirmed it as a comet on 8 October, and it is now identified as C/2026 S1 (Euclid)."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "该彗星距地球约13亿公里，位于行星轨道平面之外，绕太阳一周需数千年。欧几里得本为测绘深空星系设计，会刻意避开太阳系平面尘埃带，且采用步进凝视方式通常只观测每片天区一次，因此发现新彗星并不容易。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "The comet is located approximately 1.3 billion kilometres away from Earth, equivalent to the distance from the Sun to roughly between the orbits of Jupiter and Saturn."
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "Euclid deliberately avoids the asteroid- and comet-rich band of sky along the Solar System’s plane to reduce unwanted glare from dust that would hinder sensitive deep-sky imaging, making the discovery of new Solar System objects particularly challenging."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "欧空局表示，这颗彗星不适合作为其未来彗星拦截器任务的目标，但此次发现与预警流程为两个任务团队后续协作提供了实战检验。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "While this particular comet is not a suitable candidate for Comet Interceptor, the process of discovery and alert gives us a real test case for how our two mission teams will coordinate in the future."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NVIDIA|完成|容错量子计算纪录模拟",
+          "title": "NVIDIA 在 JUPITER 超算上完成104量子比特容错量子计算模拟",
+          "summary": "NVIDIA 称在德国于利希超算中心 JUPITER 上完成迄今最大规模容错量子计算模拟，规模104量子比特，验证 magic state cultivation 路径，声称较此前方法减少90%物理量子比特需求。",
+          "published_at": "2026-10-20T02:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "NVIDIA 10月19日宣布在德国于利希超算中心 JUPITER（欧洲首台百亿亿次超算）上完成104量子比特容错量子计算模拟，称这是迄今最大规模的容错量子处理器综合模拟。该模拟在真实噪声条件下验证 magic state cultivation 方法，NVIDIA 称该方法所需物理量子比特比此前方法少90%。JUPITER 使用 NVIDIA GH200 超级芯片，项目在 NVAQC 的 GB200 NVL72 系统上开发，最终扩展至8192块 GPU。模拟基于 cuQuantum 与 CUDA-Q。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "JUPITER",
+            "于利希超算中心"
+          ],
+          "limitations": "模拟规模、性能提升与量子比特节省比例均为 NVIDIA 单方面公布，未提供独立复现或同行评审结果；该工作为经典计算机上的模拟，并非在真实量子硬件上实现容错计算。",
+          "facts": [
+            {
+              "text": "NVIDIA 10月19日宣布，其研究人员在欧洲首台百亿亿次超算 JUPITER 上完成了104量子比特的容错量子计算模拟，称这是迄今对容错量子处理器规模最大、最完整的模拟。JUPITER 位于德国于利希超算中心，使用 NVIDIA GH200 超级芯片。",
+              "evidence": [
+                {
+                  "source_id": "s32",
+                  "quote": "The 104-qubit simulation is the largest comprehensive simulation of a fault-tolerant quantum computing system to date"
+                },
+                {
+                  "source_id": "s32",
+                  "quote": "Running on a system of NVIDIA GH200 superchips at Jülich Supercomputing Centre"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "该模拟在包含真实噪声的条件下验证了 magic state cultivation 方法。NVIDIA 称，这种方法所需的物理量子比特比此前方法少90%，有助于缩短通向实用量子计算的路径。magic state 是容错量子计算中持续消耗的一种特殊量子态，其制备效率直接影响系统规模。",
+              "evidence": [
+                {
+                  "source_id": "s32",
+                  "quote": "The simulation validates a quantum computing approach that uses 90% fewer physical qubits than previous methods"
+                },
+                {
+                  "source_id": "s32",
+                  "quote": "this work simulates magic-state cultivation under realistic hardware noise, helping researchers understand the impact of errors."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "项目先在 NVIDIA 加速量子研究中心的 GB200 NVL72 系统上开发，随后扩展至 JUPITER 的8192块 GPU，并使用 cuQuantum 软件和 CUDA-Q 平台的容错逻辑层。NVIDIA 称，该流程将原本需数周的模拟缩短至数天。",
+              "evidence": [
+                {
+                  "source_id": "s32",
+                  "quote": "An NVIDIA GB200 NVL72 system at the NVIDIA Accelerated Quantum Research Center (NVAQC) served as the development platform"
+                },
+                {
+                  "source_id": "s32",
+                  "quote": "enabling researchers to scale tests from four GPUs to hundreds before moving to 8,192 GPUs on JUPITER."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选资料未能充分核实，未予收录。"
+  ],
+  "edition": "technology"
+}
