@@ -102,7 +102,32 @@
             "本と鍵の季節",
             "米澤穂信"
           ],
-          "limitations": "信息来自 4Gamer 对发行商公告的转述，未直接取得集英社游戏官方原文；价格与 Switch 版具体日期未公布。"
+          "limitations": "信息来自 4Gamer 对发行商公告的转述，未直接取得集英社游戏官方原文；价格与 Switch 版具体日期未公布。",
+          "bilingual": {
+            "title_en": "Steam Demo of 'The Season of Books and Keys' Launches, Featuring Chapter 1 '913'",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, Shueisha Games released the demo version of 'The Season of Books and Keys' on Steam on October 20, 2026, to coincide with the Steam Next Fest that began the same day.",
+                "zh": "4Gamer 报道，集英社游戏于 2026 年 10 月 20 日在 Steam 推出《本与钥匙的季节》体验版，配合当日开始的 Steam 新品节。"
+              },
+              {
+                "en": "The game is developed by iMel, and the full version is planned to arrive on PC and Switch this winter.",
+                "zh": "该作由 iMel 开发，正式版计划于今年冬季登陆 PC 与 Switch。"
+              },
+              {
+                "en": "The demo allows players to fully experience Chapter 1, '913': library committee members Jiro Horikawa and Shimon Matsukura, asked by their senior Mari Uragami, try to find a way to open the 'unopenable safe' left behind by her late grandfather.",
+                "zh": "体验版可完整游玩第 1 章「913」：图书委员堀川次郎与松仓诗门受前辈浦上麻里所托，设法打开其已故祖父留下的“打不开的金库”。"
+              },
+              {
+                "en": "The game presents the original story with full voice acting and illustrations, and includes segments where players themselves take on the role of Horikawa to solve puzzles.",
+                "zh": "游戏以全篇配音和插画呈现原作故事，并设置了玩家亲自扮演堀川解谜的环节。"
+              },
+              {
+                "en": "The game is adapted from Honobu Yonezawa's novel of the same name, with Jiro Horikawa voiced by Ura Kazuki, Shimon Matsukura voiced by Yuichiro Umehara, and Mari Uragami voiced by Arisa Sakuraba.",
+                "zh": "本作改编自米泽穗信同名小说，堀川次郎由浦和希配音，松仓诗门由梅原裕一郎配音，浦上麻里由樱庭有纱配音。"
+              }
+            ]
+          }
         },
         {
           "event_key": "Spry Fox|发布|Spirit Crossing 试玩版",
@@ -163,7 +188,32 @@
             "灵渡之境",
             "Netflix"
           ],
-          "limitations": "来源为机核对发行信息的转述，未直接取得 Spry Fox 或 Netflix 官方公告；正式发售日、平台范围与商业模式未确认。"
+          "limitations": "来源为机核对发行信息的转述，未直接取得 Spry Fox 或 Netflix 官方公告；正式发售日、平台范围与商业模式未确认。",
+          "bilingual": {
+            "title_en": "Spirit Crossing Chinese Demo Joins Steam October Next Fest Ahead of November Launch",
+            "sentences": [
+              {
+                "en": "Spirit Crossing, a multiplayer co-op life simulation game from Cozy Grove developer Spry Fox, is taking part in Steam's October Next Fest with a free demo that supports Chinese.",
+                "zh": "由《Cozy Grove》开发团队 Spry Fox 制作的多人合作生活模拟游戏《灵渡之境》（Spirit Crossing）以支持中文的免费试玩版参加 Steam 十月新品节。"
+              },
+              {
+                "en": "According to Gcores, this Next Fest runs from 1 a.m. Beijing time on October 20 to 1 a.m. on October 27, and the demo will remain open until November 9 after the event ends.",
+                "zh": "据机核报道，本届新品节于北京时间 10 月 20 日凌晨 1 点至 10 月 27 日凌晨 1 点举行，试玩版在活动结束后继续开放至 11 月 9 日。"
+              },
+              {
+                "en": "The game is set in a storm-ravaged land between the human and spirit worlds, where players build waystations together with other players and spirit residents, forming connections through activities such as gathering, fishing, and making music, and working together to repair beacons when storms strike.",
+                "zh": "游戏设定在一片介于人类与灵魂世界之间、饱受风暴侵扰的土地上，玩家与其他玩家及灵魂居民共同建设“驿站”，通过采集、钓鱼、演奏等活动建立联系，并在风暴来袭时合作修复烽火。"
+              },
+              {
+                "en": "Friendships gradually unlock interactions such as nearby chat, two-player emotes, teleportation, and gift-giving as players take part in activities together.",
+                "zh": "友谊会随共同活动逐步解锁近距离聊天、双人动作、传送和赠礼等互动。"
+              },
+              {
+                "en": "The report says the game is planned for release in November, without specifying an exact date, platform lineup, or business model.",
+                "zh": "报道称游戏计划于 11 月发售，未说明具体日期、平台范围与商业模式。"
+              }
+            ]
+          }
         }
       ]
     },
@@ -224,7 +274,32 @@
             "Kintsugiyama",
             "加利福尼亚传奇"
           ],
-          "limitations": "信息来自游研社对访谈的转述，未直接取得采访原文；暴雪方面未回应 Kaplan 的离职原因说法。"
+          "limitations": "信息来自游研社对访谈的转述，未直接取得采访原文；暴雪方面未回应 Kaplan 的离职原因说法。",
+          "bilingual": {
+            "title_en": "Jeff Kaplan on Leaving Overwatch: Hasn't Looked at Competitive Community in Five Years",
+            "sentences": [
+              {
+                "en": "In a recent interview with foreign media, former Overwatch game director Jeff Kaplan, known to Chinese players as \"Jiefu,\" said that since leaving Blizzard in 2021, he has not engaged with the Overwatch competitive community or its Reddit forum, nor does he watch related videos or search for his own name.",
+                "zh": "前《守望先锋》游戏总监 Jeff Kaplan（国内玩家称“姐夫”）在近期外媒采访中称，自 2021 年离开暴雪后，他再未接触《守望先锋》竞技社区和 Reddit 板块，也不看相关视频或搜索自己的名字。"
+              },
+              {
+                "en": "Youyanshe reported on this interview.",
+                "zh": "游研社报道了这一访谈。"
+              },
+              {
+                "en": "In the interview, Kaplan said that the commercialization of the Overwatch League, launched in 2018, fell short of expectations, with executives and outside investors pressing for revenue and development resources shifting toward esports; he mentioned that the CFO at the time had threatened layoffs.",
+                "zh": "Kaplan 在采访中称，2018 年启动的守望先锋联赛商业化未达预期，高管和外部投资方对营收施压，开发资源向电竞倾斜；他提到当时 CFO 曾以裁员相威胁。"
+              },
+              {
+                "en": "This account comes from his own narration, and Blizzard did not respond in this report.",
+                "zh": "这一说法来自其本人叙述，暴雪方面未在本次报道中回应。"
+              },
+              {
+                "en": "Kaplan currently leads the 33-person independent studio Kintsugiyama in developing The Legend of California, a Western gold-rush-themed first-person game whose early access release has been delayed to 2027.",
+                "zh": "Kaplan 目前带领 33 人独立工作室 Kintsugiyama 开发西部淘金题材第一人称游戏《加利福尼亚传奇》，该作 EA 阶段发布时间已推迟至 2027 年。"
+              }
+            ]
+          }
         }
       ]
     },

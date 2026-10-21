@@ -96,7 +96,36 @@
               "kind": "fact",
               "verification": "single_source"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Zelensky Alleges US Delayed Delivery of Interceptor Missiles; White House Says Intelligence-Sharing Policy Unchanged",
+            "sentences": [
+              {
+                "en": "According to The Guardian, Ukrainian President Zelensky alleged that the United States deliberately delayed the delivery of air-defense interceptor missiles that European countries had already paid for.",
+                "zh": "据《卫报》报道，乌克兰总统泽连斯基指称美国故意延迟交付欧洲国家已付款的防空拦截导弹。"
+              },
+              {
+                "en": "The allegation was made by the Ukrainian side, and the report did not mention any direct US response to the missile-delivery issue.",
+                "zh": "这一指控由乌方提出，报道未提及美方对导弹交付问题的直接回应。"
+              },
+              {
+                "en": "The White House said that US intelligence-sharing operations with Ukraine have not changed.",
+                "zh": "白宫表示，美国与乌克兰的情报共享操作没有变化。"
+              },
+              {
+                "en": "Secretary of State Rubio denied that there was a \"pause,\" saying he did not know where Zelensky got this information, and said that a few nights earlier Ukraine's early-warning system had experienced a software problem.",
+                "zh": "国务卿鲁比奥否认存在“暂停”，称“不知道泽连斯基从哪里得到这些信息”，并称几晚前乌方早期预警系统出现软件问题。"
+              },
+              {
+                "en": "Zelensky's adviser Beskrestnov told the BBC that the warnings provided by the US side were incomplete and inconsistent, with information sometimes arriving only one minute before an attack, and that \"people have died.\"",
+                "zh": "泽连斯基的顾问别斯克列斯特诺夫对BBC称，美方提供的预警不完整且不一致，曾出现袭击前一分钟才收到信息的情况，“人们已经死亡”。"
+              },
+              {
+                "en": "He also said that the US side had not clarified its restrictions on Starlink and Starshield.",
+                "zh": "他还称，美方对“星链”及“星盾”限制未作澄清。"
+              }
+            ]
+          }
         }
       ]
     },
@@ -150,7 +179,28 @@
               "kind": "fact",
               "verification": "single_source"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Israeli Police Detain 10 Suspects Over West Bank Settler Attacks on Journalists and Diplomats",
+            "sentences": [
+              {
+                "en": "Israeli police said they have detained 10 suspects in multiple locations in the West Bank on suspicion of committing violence, violating orders on a closed military zone and illegal construction, and seized potential evidence and vehicles.",
+                "zh": "以色列警方表示，已在约旦河西岸多地拘留10名嫌疑人，涉嫌实施暴力、违反封闭军事区命令和非法建设，并查获潜在证据和车辆。"
+              },
+              {
+                "en": "Previously, an American photojournalist was severely beaten by masked settlers while reporting on the olive harvest in the village of Abu Falah, and the next day Belgian, French and Polish diplomats and a representative of the Catholic Church were attacked by masked settlers in nearby Taybeh.",
+                "zh": "此前，一名美国摄影记者在阿布法拉赫村报道橄榄收获时遭蒙面定居者殴打受重伤，次日比利时、法国、波兰外交官和天主教会代表在附近泰贝遭蒙面定居者袭击。"
+              },
+              {
+                "en": "US Ambassador to Israel Huckabee welcomed the arrests on social platform X, calling them \"a very positive development.\"",
+                "zh": "美国驻以色列大使赫卡比在社交平台X上欢迎逮捕，称这是“非常积极的进展”。"
+              },
+              {
+                "en": "The office of Israeli Prime Minister Netanyahu, meanwhile, questioned the video evidence and testimony, describing the incident as a \"so-called\" attack and saying it occurred within \"a coordinated campaign to smear Israel.\"",
+                "zh": "以色列总理内塔尼亚胡办公室则质疑相关视频证据和证词，称事件为“所谓”袭击，并称其发生在“协调一致抹黑以色列”的运动中。"
+              }
+            ]
+          }
         }
       ]
     },

@@ -92,7 +92,36 @@
             "胡塞武装",
             "皇家空军台风战斗机"
           ],
-          "limitations": "部署规模与具体时间未公布；英国政府公告原文未直接取得，依据BBC单篇报道，未能取得独立第二来源确认。"
+          "limitations": "部署规模与具体时间未公布；英国政府公告原文未直接取得，依据BBC单篇报道，未能取得独立第二来源确认。",
+          "bilingual": {
+            "title_en": "UK Announces Deployment of Typhoon Fighter Jets for Defensive Mission in Saudi Arabia",
+            "sentences": [
+              {
+                "en": "The UK government has announced that it will deploy Royal Air Force Typhoon fighter jets to carry out a defensive mission for Saudi Arabia, helping to protect Saudi cities and infrastructure from missile and drone attacks by the Houthis.",
+                "zh": "英国政府宣布，将部署皇家空军台风战斗机为沙特阿拉伯执行防御任务，帮助保护沙特城市和基础设施免受胡塞武装的导弹和无人机袭击。"
+              },
+              {
+                "en": "UK Defence Secretary Wes Streeting said in a written statement: \"These aircraft will carry out defensive missions and will not conduct offensive strikes against the Houthis.\"",
+                "zh": "英国国防大臣韦斯·斯特里廷在书面声明中说：“这些飞机将执行防御性任务，不会对胡塞武装实施进攻性打击。”"
+              },
+              {
+                "en": "He also described the attack on Riyadh airport as an example of how far the Houthis are \"escalating the regional situation\".",
+                "zh": "他还将利雅得机场遭袭称为胡塞武装“将地区局势升级到什么程度”的例证。"
+              },
+              {
+                "en": "The UK will also deploy military advisers and Royal Air Force A400M transport aircraft to Saudi Arabia to assist in transporting defensive equipment within Saudi territory; air refuelling support for Saudi defensive operations has been extended by 90 days.",
+                "zh": "英国还将向沙特部署军事顾问和皇家空军A400M运输机，协助在沙特境内运输防御装备；对沙特防御行动的空中加油支持已延长90天。"
+              },
+              {
+                "en": "Saudi authorities said last week that Houthi attacks on Saudi airports had killed 19 people.",
+                "zh": "沙特当局上周称，胡塞武装对沙特机场的袭击已造成19人死亡。"
+              },
+              {
+                "en": "On 10 October, Riyadh International Airport was hit by a missile attack, killing 13 people and injuring 308.",
+                "zh": "10月10日利雅得国际机场遭导弹袭击，造成13人死亡、308人受伤。"
+              }
+            ]
+          }
         },
         {
           "event_key": "以色列|宣布组建太空部队|提升太空作战能力",
@@ -126,7 +155,24 @@
             "以色列国防军",
             "以色列·卡茨"
           ],
-          "limitations": "以色列国防部或军方原文未直接取得，依据中国新闻网综合报道及《以色列时报》转述；部队规模、任务细节与启动时间未公布。"
+          "limitations": "以色列国防部或军方原文未直接取得，依据中国新闻网综合报道及《以色列时报》转述；部队规模、任务细节与启动时间未公布。",
+          "bilingual": {
+            "title_en": "Israel Announces Formation of Space Force",
+            "sentences": [
+              {
+                "en": "Israeli Defense Minister Katz posted on social media on October 20 that the Israel Defense Forces is forming a space force, a move that will enhance the military's operational capabilities in the space domain, with the goal of making Israel \"one of the world's leading countries in the field of space security.\"",
+                "zh": "以色列国防部长卡茨10月20日在社交媒体发文称，以色列国防军正在组建一支太空部队，此举将提高以军在太空领域的作战能力，目标是使以色列成为“太空安全领域的世界领先国家之一”。"
+              },
+              {
+                "en": "Katz said the establishment of the space force would enable Israel to \"monitor, defend against and strike any target across vast areas from space.\"",
+                "zh": "卡茨称，成立太空部队将使以方能够“从太空对广阔区域内的任何目标进行监视、防御和打击”。"
+              },
+              {
+                "en": "According to The Times of Israel, the Israeli military announced on the 19th the appointment of the first commander of the newly formed space force, which will lead the military's space operations work.",
+                "zh": "据《以色列时报》报道，以军19日宣布为新组建的太空部队任命首任指挥官，该部队将领导军方的太空作战工作。"
+              }
+            ]
+          }
         }
       ]
     },

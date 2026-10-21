@@ -80,7 +80,32 @@
               ],
               "verification": "official_statement"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Euclid Telescope Discovers First Previously Unknown Comet, C/2026 S1",
+            "sentences": [
+              {
+                "en": "The European Space Agency announced on October 19 that the Euclid space telescope had discovered its first previously unknown comet in images taken between September 16 and 24.",
+                "zh": "欧洲空间局10月19日宣布，欧几里得空间望远镜在9月16日至24日拍摄的图像中发现其第一颗此前未知的彗星。"
+              },
+              {
+                "en": "Mikko Pöntinen of the discovery team submitted the observation report to the International Astronomical Union's Minor Planet Center, and after follow-up observations by ground-based observatories, the center confirmed it as a comet on October 8, designated C/2026 S1 (Euclid).",
+                "zh": "发现团队中的 Mikko Pöntinen 将观测报告提交国际天文联合会小行星中心，经地面天文台后续观测，该中心于10月8日确认为彗星，编号 C/2026 S1 (Euclid)。"
+              },
+              {
+                "en": "The comet is about 1.3 billion kilometers from Earth, lies outside the plane of the planets' orbits, and takes several thousand years to complete one orbit around the Sun.",
+                "zh": "该彗星距地球约13亿公里，位于行星轨道平面之外，绕太阳一周需数千年。"
+              },
+              {
+                "en": "Euclid was designed to map deep-space galaxies, deliberately avoids the dust-rich plane of the solar system, and uses a step-and-stare method that typically observes each patch of sky only once, so discovering a new comet is not easy.",
+                "zh": "欧几里得本为测绘深空星系设计，会刻意避开尘埃密集的太阳系平面，且采用步进凝视方式通常只观测每片天区一次，因此发现新彗星并不容易。"
+              },
+              {
+                "en": "ESA said the comet is not suitable as a target for its future Comet Interceptor mission, but the discovery and warning process provided a real-world test for follow-up collaboration between the two mission teams.",
+                "zh": "ESA 表示，这颗彗星不适合作为其未来彗星拦截器任务的目标，但此次发现与预警流程为两个任务团队的后续协作提供了实战检验。"
+              }
+            ]
+          }
         }
       ]
     },

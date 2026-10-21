@@ -50,7 +50,20 @@
               "kind": "fact",
               "verification": "official_statement"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "NASA Announces Uzbekistan as a Signatory to the Artemis Accords",
+            "sentences": [
+              {
+                "en": "NASA issued a press release announcing that Uzbekistan has become the latest signatory to the Artemis Accords.",
+                "zh": "NASA 发布新闻稿，宣布乌兹别克斯坦成为《阿尔忒弥斯协定》的最新签署方。"
+              },
+              {
+                "en": "The press release is titled \"NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory.\"",
+                "zh": "新闻稿以“NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory”为题。"
+              }
+            ]
+          }
         }
       ]
     },

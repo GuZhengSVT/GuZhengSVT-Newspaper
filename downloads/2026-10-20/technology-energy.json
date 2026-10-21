@@ -85,7 +85,32 @@
                 }
               ]
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "US Department of Energy Issues First Non-Exclusive License for TRIG Coal Gasification Technology",
+            "sentences": [
+              {
+                "en": "The U.S. Department of Energy's Office of Hydrocarbons and Geothermal Energy announced on October 15 that the department has executed its first non-exclusive license for TRIG coal gasification technology with Latitude Energy Services, covering the power sector only.",
+                "zh": "美国能源部碳氢化合物与地热能办公室10月15日宣布，该部已与Latitude Energy Services执行首个TRIG煤气化技术非独占许可，范围仅限电力领域。"
+              },
+              {
+                "en": "Latitude separately holds the rights to the technology in the industrial sector on its own, and this license is complementary to those rights.",
+                "zh": "Latitude另独立持有该技术在工业领域的权利，此次许可与之互补。"
+              },
+              {
+                "en": "TRIG is a coal gasification system jointly developed by the U.S. Department of Energy and industry partners, designed for low-rank, high-moisture coal.",
+                "zh": "TRIG是由美国能源部与产业伙伴联合开发的煤气化系统，设计针对低阶、高水分煤。"
+              },
+              {
+                "en": "The Department of Energy said the license is regarded as an important milestone in the transfer and commercialization of this federally co-developed technology, and provides a path to expand commercial deployment opportunities for the U.S. coal industry.",
+                "zh": "能源部称，此次许可被视为该项联邦共同开发技术转移和商业化的重要节点，并为美国煤炭行业增加商业部署机会提供路径。"
+              },
+              {
+                "en": "The announcement did not disclose the license fee, project capacity, gasification efficiency or cost data, nor whether any commercial operating project exists, so it is not yet possible to determine whether the technology is currently at the demonstration or commercial stage.",
+                "zh": "公告未披露许可费、项目装机规模、气化效率或成本数据，也未说明是否已有商业运行项目，因此尚不能判断该技术当前处于示范还是商业阶段。"
+              }
+            ]
+          }
         }
       ]
     }

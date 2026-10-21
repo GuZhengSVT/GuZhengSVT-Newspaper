@@ -61,7 +61,28 @@
             "パルワールド",
             "Side by Side"
           ],
-          "limitations": "信息源自4Gamer对官方公告的转述，未直接取得 Pocketpair 公告原文；更新具体内容与配信日期未公布。"
+          "limitations": "信息源自4Gamer对官方公告的转述，未直接取得 Pocketpair 公告原文；更新具体内容与配信日期未公布。",
+          "bilingual": {
+            "title_en": "Palworld Announces Popularity Poll Results; New Update Side by Side to Launch This Winter",
+            "sentences": [
+              {
+                "en": "Pocketpair announced the results of the Palworld global popularity poll 2026 on October 20.",
+                "zh": "Pocketpair 于10月20日公布《幻兽帕鲁》全球人气投票2026结果。"
+              },
+              {
+                "en": "The poll covered more than 280 Pals and in-game characters, with Sekhmet taking first place in the Pal category and Zoe taking first place in the character category, and the full rankings and language-specific lists have been published on a special website.",
+                "zh": "投票以280只以上帕鲁及游戏内角色为对象，帕鲁部门第一名是“塞克梅特”，角色部门第一名是“佐伊”，完整排名与分语言榜单在特设网站公开。"
+              },
+              {
+                "en": "The same announcement also revealed that the new update Palworld: Side by Side will be released this winter.",
+                "zh": "同次公告还宣布新更新《Palworld：Side by Side》将于今冬配信。"
+              },
+              {
+                "en": "The released teaser visual shows the silhouettes of the top three characters, Zoe, Ollie, and Saya, while the specific update contents and exact date have not yet been disclosed.",
+                "zh": "公开的预告视觉中出现了角色部门前三名“佐伊”“奥莉”“沙耶”的剪影，具体更新内容与确切日期尚未披露。"
+              }
+            ]
+          }
         }
       ]
     },
