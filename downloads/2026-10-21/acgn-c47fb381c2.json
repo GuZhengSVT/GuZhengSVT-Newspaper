@@ -1,0 +1,27 @@
+{
+  "schema_version": 2,
+  "edition": "acgn-c47fb381c2",
+  "date": "2026-10-21",
+  "title": "2026-10-21 ACGN · Galgame / 新番播出与情报",
+  "summary": "本期没有符合筛选标准的新闻。",
+  "highlights": [],
+  "window_start": "2026-10-14T12:00:00+08:00",
+  "window_end": "2026-10-21T12:00:00+08:00",
+  "generated_at": "2026-10-21T12:16:54.146140+08:00",
+  "sections": [
+    {
+      "id": "galgame",
+      "name": "Galgame",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "anime",
+      "name": "新番播出与情报",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [],
+  "coverage_notes": []
+}
