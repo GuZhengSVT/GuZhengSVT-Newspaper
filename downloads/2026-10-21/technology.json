@@ -1,0 +1,87 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-21",
+  "title": "2026-10-21 科技",
+  "summary": "本期收录1条新闻：NASA 宣布乌兹别克斯坦成为《阿尔忒弥斯协定》签署方。",
+  "highlights": [
+    "NASA 宣布乌兹别克斯坦成为《阿尔忒弥斯协定》签署方"
+  ],
+  "window_start": "2026-10-20T12:00:00+08:00",
+  "window_end": "2026-10-21T12:00:00+08:00",
+  "generated_at": "2026-10-21T12:01:43.540959+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NASA|签署|乌兹别克斯坦加入阿尔忒弥斯协定",
+          "title": "NASA 宣布乌兹别克斯坦成为阿尔忒弥斯协定签署方",
+          "summary": "NASA 发布题为“NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory”的新闻稿，宣布乌兹别克斯坦成为《阿尔忒弥斯协定》签署方。",
+          "published_at": "2026-10-20T22:21:42+08:00",
+          "follow_up": false,
+          "new_facts": "NASA 宣布乌兹别克斯坦成为《阿尔忒弥斯协定》签署方。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NASA",
+            "乌兹别克斯坦",
+            "Artemis Accords"
+          ],
+          "limitations": "已取得的 NASA 新闻稿页面内容仅支持标题所述信息，签署日期、地点、签署方代表及签署国总数未获可核验原文支持，正文不作表述。",
+          "facts": [
+            {
+              "text": "NASA 发布新闻稿，宣布乌兹别克斯坦成为《阿尔忒弥斯协定》的最新签署方。新闻稿以“NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory”为题。",
+              "evidence": [
+                {
+                  "source_id": "s26",
+                  "quote": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s26",
+      "url": "https://www.nasa.gov/organizations/oiir/artemis-accords/nasa-welcomes-uzbekistan-as-newest-artemis-accords-signatory/",
+      "title": "NASA Welcomes Uzbekistan as Newest Artemis Accords Signatory",
+      "published_at": "2026-10-20T10:21:42-04:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}

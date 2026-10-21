@@ -1,0 +1,102 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-21",
+  "title": "2026-10-21 科技 · 基础学科",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "数学家开始解读所谓“AI证明拟黎曼猜想”：意义重大但细节仍未完全公开"
+  ],
+  "window_start": "2026-10-14T12:00:00+08:00",
+  "window_end": "2026-10-21T12:00:00+08:00",
+  "generated_at": "2026-10-21T12:04:05.126794+08:00",
+  "edition": "technology-science",
+  "sections": [
+    {
+      "id": "science",
+      "name": "基础学科",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Quanta Magazine|报道AI证明拟黎曼猜想|quasi-Riemann hypothesis",
+          "title": "数学家开始解读所谓“AI证明拟黎曼猜想”：意义重大但细节仍未完全公开",
+          "summary": "Quanta Magazine 10月19日报道，OpenAI于10月6日公布的377项结果中，有一项声称解决了弱于黎曼猜想的“拟黎曼猜想”。多位数论学者称这是迄今最重要的AI数学成果，但也强调证明是已知思想的综合，并称正在解读其含义。",
+          "published_at": "2026-10-19T23:40:26+08:00",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Quanta Magazine",
+            "OpenAI",
+            "quasi-Riemann hypothesis",
+            "Riemann hypothesis",
+            "Jared Duker Lichtman",
+            "Maksym Radziwiłł",
+            "Alexander Dunn"
+          ],
+          "follow_up": true,
+          "new_facts": "Quanta Magazine详细报道OpenAI所称拟黎曼猜想证明获数学家初步解读；斯坦福Lichtman称其为迄今最重要的AI数学成果；NYU Radziwiłł称拟RH已包含RH大部分推论；证明未引入新概念而是综合已知思想。",
+          "verification": "single_source",
+          "limitations": "报道为Quanta Magazine单篇分析，未提供原始论文或预印本链接；OpenAI的宣称与证明文本是否公开、是否经同行评审无法从所获材料确认；文中专家评价为转述，未独立核实。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "Quanta Magazine 10月19日刊文称，在OpenAI于10月6日公布的377项结果中，有一项声称解决了“拟黎曼猜想”——黎曼猜想的弱化版本。该刊称，这与此前一些AI数学成果不同，已有人类专家对其展开解读。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "Among the 377 results that OpenAI announced on October 6, 2026, one stood out. It claimed to settle the “quasi-Riemann hypothesis” — a weaker version of the Riemann hypothesis"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "Unlike other recent AI proofs, this one has been unpacked by human experts."
+                }
+              ],
+              "verification": "single_source"
+            },
+            {
+              "kind": "explanation",
+              "text": "黎曼猜想断言黎曼ζ函数的非平凡零点实部均为1/2，它与素数分布紧密相关，已悬置160余年。拟黎曼猜想是较弱形式：纽约大学Maksym Radziwiłł对Quanta表示，黎曼猜想的大部分推论已可由拟黎曼猜想推出，其影响“惊人”。斯坦福的Jared Duker Lichtman称，这是迄今AI在数学上“最重要的成果，且领先幅度相当大”。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "The implications of even the more limited “quasi-RH” result are “staggering,” said Maksym Radziwiłł of New York University. “In a sense, the vast majority of consequences of RH already follow from quasi-RH.”"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "The new proof is, as Jared Duker Lichtman of Stanford University put it, “the most significant AI-for-math achievement so far, by quite a margin.”"
+                }
+              ],
+              "verification": "single_source"
+            },
+            {
+              "kind": "fact",
+              "text": "报道称，与数学家此前预期相反，该证明没有引入新概念，而是把已知思想作了出人意料的综合，并部分依赖Radziwiłł与佐治亚理工Alexander Dunn等人发展的技术。数论学者正合作理解证明内容，但报道未说明证明是否经过正式评审或复现。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "the proof didn’t need to introduce any new concepts — it instead unearthed hidden connections between old ones. “The proof is a surprising synthesis of well-known ideas,” said Alexander Dunn of the Georgia Institute of Technology."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "The result relied in part on techniques pioneered by Radziwiłł and Dunn."
+                }
+              ],
+              "verification": "single_source"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s12",
+      "url": "https://www.quantamagazine.org/ai-proved-the-quasi-riemann-hypothesis-what-happens-now-20261019/",
+      "title": "AI Proved the Quasi-Riemann Hypothesis. What Happens Now?",
+      "published_at": "2026-10-19T15:40:26+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

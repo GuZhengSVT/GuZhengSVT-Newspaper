@@ -1,0 +1,94 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-21",
+  "title": "2026-10-21 ACGN",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "《幻兽帕鲁》公布人气投票结果，新更新《Side by Side》今冬配信"
+  ],
+  "window_start": "2026-10-20T12:00:00+08:00",
+  "window_end": "2026-10-21T12:00:00+08:00",
+  "generated_at": "2026-10-21T12:09:51.060105+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Pocketpair|宣布《幻兽帕鲁》新更新 Side by Side|今冬上线",
+          "title": "《幻兽帕鲁》公布人气投票结果，新更新《Side by Side》今冬配信",
+          "summary": "Pocketpair 于10月20日公布《幻兽帕鲁》全球人气投票2026结果，并宣布新更新《Palworld：Side by Side》将于今冬配信，预告图出现人气角色剪影。",
+          "published_at": "2026-10-21T11:20:07+08:00",
+          "follow_up": false,
+          "new_facts": "人气投票2026结果公布；帕鲁部门第一为塞克梅特，角色部门第一为佐伊；新更新《Side by Side》今冬配信。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "Pocketpair 于10月20日公布《幻兽帕鲁》全球人气投票2026结果。投票以280只以上帕鲁及游戏内角色为对象，帕鲁部门第一名是“塞克梅特”，角色部门第一名是“佐伊”，完整排名与分语言榜单在特设网站公开。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "ポケットペアは2026年10月20日，オープンワールドサバイバルクラフト「Palworld / パルワールド」（ PC / Mac / PS5 / Xbox Series X|S / Xbox One ）の 「パルワールド全世界人気投票2026」 について， 結果を発表 した。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "同次公告还宣布新更新《Palworld：Side by Side》将于今冬配信。公开的预告视觉中出现了角色部门前三名“佐伊”“奥莉”“沙耶”的剪影，具体更新内容与确切日期尚未披露。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "また，新アップデート 「パルワールド：Side by Side」 を今冬に配信すると発表した。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Pocketpair",
+            "Palworld",
+            "パルワールド",
+            "Side by Side"
+          ],
+          "limitations": "信息源自4Gamer对官方公告的转述，未直接取得 Pocketpair 公告原文；更新具体内容与配信日期未公布。"
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ],
+  "edition": "acgn",
+  "sources": [
+    {
+      "id": "s11",
+      "url": "https://www.4gamer.net/games/574/G057444/20261021002/",
+      "title": "「Palworld / パルワールド」，全世界人気投票2026の結果を発表。新アップデート「パルワールド：Side by Side」は今冬に配信決定",
+      "published_at": "2026-10-21T12:20:07+09:00"
+    }
+  ]
+}

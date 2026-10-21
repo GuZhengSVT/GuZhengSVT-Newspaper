@@ -1,0 +1,172 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-21",
+  "title": "2026-10-21 政治",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "英国宣布部署台风战机为沙特执行防御任务",
+    "以色列宣布组建太空部队"
+  ],
+  "window_start": "2026-10-20T12:00:00+08:00",
+  "window_end": "2026-10-21T12:00:00+08:00",
+  "generated_at": "2026-10-21T12:07:45.774209+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "英国|部署战机|协防沙特应对胡塞袭击",
+          "title": "英国宣布部署台风战机为沙特执行防御任务",
+          "summary": "英国政府宣布部署皇家空军台风战斗机，帮助沙特阿拉伯防御胡塞武装的导弹和无人机袭击。国防大臣斯特里廷称战机仅执行防御任务，不会对胡塞武装发动进攻性打击。",
+          "published_at": "2026-10-21T02:30:16+08:00",
+          "follow_up": false,
+          "new_facts": "英国宣布部署皇家空军台风战机为沙特执行防御任务，应对胡塞武装袭击；国防大臣称不会发动进攻性打击；英国还将部署军事顾问和A400M运输机，空中加油支持延长90天。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "英国政府宣布，将部署皇家空军台风战斗机为沙特阿拉伯执行防御任务，帮助保护沙特城市和基础设施免受胡塞武装的导弹和无人机袭击。英国国防大臣韦斯·斯特里廷在书面声明中说：“这些飞机将执行防御性任务，不会对胡塞武装实施进攻性打击。”他还将利雅得机场遭袭称为胡塞武装“将地区局势升级到什么程度”的例证。",
+              "evidence": [
+                {
+                  "source_id": "s77",
+                  "quote": "The UK will deploy RAF Typhoon jets to defend Saudi Arabia in response to escalating Houthi missile and drone attacks, the government has said."
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "\"These aircraft will operate in a defensive role and will not conduct offensive strikes against the Houthis,\" Defence Secretary Wes Streeting said in a written statement on Tuesday."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "英国还将向沙特部署军事顾问和皇家空军A400M运输机，协助在沙特境内运输防御装备；对沙特防御行动的空中加油支持已延长90天。沙特当局上周称，胡塞武装对沙特机场的袭击已造成19人死亡。10月10日利雅得国际机场遭导弹袭击，造成13人死亡、308人受伤。",
+              "evidence": [
+                {
+                  "source_id": "s77",
+                  "quote": "The UK will also deploy military advisers and an RAF A400M transport aircraft to support the movement of defence equipment within Saudi Arabia."
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "The refuelling has now been extended by 90 days."
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "Saudi authorities said last week that 19 people had been killed in Houthi attacks on the kingdom's airports. One missile strike on Riyadh's international airport on 10 October killed 13 people and injured 308 others"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "英国",
+            "沙特阿拉伯",
+            "胡塞武装",
+            "皇家空军台风战斗机"
+          ],
+          "limitations": "部署规模与具体时间未公布；英国政府公告原文未直接取得，依据BBC单篇报道，未能取得独立第二来源确认。"
+        },
+        {
+          "event_key": "以色列|宣布组建太空部队|提升太空作战能力",
+          "title": "以色列宣布组建太空部队",
+          "summary": "以色列国防部长卡茨称以军正在组建太空部队，目标是使以色列成为“太空安全领域的世界领先国家之一”。以军此前已为新部队任命首任指挥官。",
+          "published_at": "2026-10-21T11:26:24+08:00",
+          "follow_up": false,
+          "new_facts": "以色列国防部长卡茨称以军正在组建太空部队；以军19日宣布为新部队任命首任指挥官。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "以色列国防部长卡茨10月20日在社交媒体发文称，以色列国防军正在组建一支太空部队，此举将提高以军在太空领域的作战能力，目标是使以色列成为“太空安全领域的世界领先国家之一”。卡茨称，成立太空部队将使以方能够“从太空对广阔区域内的任何目标进行监视、防御和打击”。据《以色列时报》报道，以军19日宣布为新组建的太空部队任命首任指挥官，该部队将领导军方的太空作战工作。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "以色列国防部长卡茨20日在社交媒体发文称，以色列国防军正在组建一支太空部队，此举将提高以军在太空领域的作战能力，目标是使以色列成为“太空安全领域的世界领先国家之一”。"
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "据《以色列时报》报道，以军19日宣布为新组建的太空部队任命首任指挥官，该部队将领导军方的太空作战工作。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "以色列",
+            "以色列国防军",
+            "以色列·卡茨"
+          ],
+          "limitations": "以色列国防部或军方原文未直接取得，依据中国新闻网综合报道及《以色列时报》转述；部队规模、任务细节与启动时间未公布。"
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s14",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-21/10718330.shtml",
+      "title": "以色列宣布组建太空部队 提高太空领域作战能力",
+      "published_at": "2026-10-21T11:26:24+08:00"
+    },
+    {
+      "id": "s77",
+      "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+      "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": [
+    "欧洲的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ],
+  "edition": "politics"
+}
