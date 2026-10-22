@@ -4,6 +4,7 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
+  unicode-range: U+2E80-2FFF, U+3000-303F, U+31C0-31EF, U+3400-4DBF, U+4E00-9FFF, U+F900-FAFF, U+FE10-FE1F, U+FE30-FE4F, U+FF01-FF0F, U+FF1A-FF20, U+FF3B-FF40, U+FF5B-FF65, U+20000-2FA1F, U+30000-323AF;
 }
 :root {
   color-scheme: light;
@@ -14,8 +15,8 @@
   --line: #cdc7ba;
   --accent: #6f302b;
   --focus: #9a4538;
-  --serif: "Newspaper Song", "Noto Serif SC", "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", Georgia, serif;
-  --latin-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
+  --latin-serif: "Times New Roman", "Liberation Serif", "Nimbus Roman", "Noto Serif", "DejaVu Serif";
+  --serif: var(--latin-serif), "Newspaper Song", "Noto Serif SC", "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", serif;
   --sans: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
 }
 html[data-theme="dark"] {
@@ -42,7 +43,7 @@ html[data-theme="dark"] {
 }
 * { box-sizing: border-box; }
 html { scroll-padding-top: 88px; }
-body { margin: 0; background: var(--bg); color: var(--ink); font: 18px/1.9 var(--serif); -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--ink); font: 18px/1.9 var(--serif); font-variant-numeric: lining-nums proportional-nums; -webkit-text-size-adjust: 100%; }
 a { color: inherit; text-decoration: none; }
 a:hover { text-decoration: underline; text-underline-offset: .22em; }
 button, input, select { font: inherit; }
@@ -52,7 +53,7 @@ button { cursor: pointer; color: inherit; background: transparent; border: 1px s
 .icon { display: inline-block; flex: 0 0 auto; width: 18px; height: 18px; vertical-align: -.16em; }
 .masthead, main { width: min(1440px, calc(100% - 80px)); margin-inline: auto; }
 .masthead { padding-top: 28px; text-align: center; }
-.wordmark { display: inline-block; max-width: 100%; margin: 4px 0 22px; font-family: var(--latin-serif), var(--serif); font-size: clamp(46px, 5.4vw, 78px); line-height: 1.08; font-weight: 800; letter-spacing: -.055em; overflow-wrap: anywhere; }
+.wordmark { display: inline-block; max-width: 100%; margin: 4px 0 22px; font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, var(--serif); font-size: clamp(46px, 5.4vw, 78px); line-height: 1.08; font-weight: 800; letter-spacing: -.055em; overflow-wrap: anywhere; }
 .wordmark:hover { text-decoration: none; }
 .site-nav { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; column-gap: 26px; padding-block: 5px; border-top: 3px double var(--ink); border-bottom: 1px solid var(--ink); font: 13px/1.5 var(--sans); }
 .site-nav a, .site-nav button { display: inline-flex; align-items: center; justify-content: center; gap: 7px; min-height: 40px; padding: 5px 4px; border: 0; white-space: nowrap; }
