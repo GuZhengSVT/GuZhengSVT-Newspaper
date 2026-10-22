@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "Newspaper Song";
+  src: local("Noto Serif CJK SC"), local("Source Han Serif SC"), local("Songti SC"), local("SimSun"), url("fonts/noto-serif-sc-regular.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
 :root {
   color-scheme: light;
   --bg: #f7f4ec;
@@ -7,7 +14,7 @@
   --line: #cdc7ba;
   --accent: #6f302b;
   --focus: #9a4538;
-  --serif: "Noto Serif SC", "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", Georgia, serif;
+  --serif: "Newspaper Song", "Noto Serif SC", "Noto Serif CJK SC", "Source Han Serif SC", "Songti SC", "STSong", "SimSun", Georgia, serif;
   --latin-serif: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, "Times New Roman", serif;
   --sans: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
 }
