@@ -1,0 +1,187 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-22",
+  "edition": "acgn",
+  "title": "2026-10-22 ACGN",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "EA 关闭 BioWare，裁员约400人，《质量效应》新作开发终止",
+    "《初音未来 拼图 TAMAGOTORI Deluxe》10月29日登陆多平台"
+  ],
+  "window_start": "2026-10-21T12:00:00+08:00",
+  "window_end": "2026-10-22T12:00:00+08:00",
+  "generated_at": "2026-10-22T16:49:14.557195+08:00",
+  "sources": [
+    {
+      "id": "s6",
+      "url": "https://www.gematsu.com/2026/10/electronic-arts-to-lay-off-400-staff-shut-down-bioware",
+      "title": "Electronic Arts to lay off 400 staff, shut down BioWare [Update]",
+      "published_at": "2026-10-21T17:20:08+00:00"
+    },
+    {
+      "id": "s5",
+      "url": "https://www.gematsu.com/2026/10/hatsune-miku-connecting-puzzle-tamagotori-deluxe-coming-to-ps5-ps4-xbox-one-and-pc-on-october-29",
+      "title": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe coming to PS5, PS4, Xbox One, and PC on October 29",
+      "published_at": "2026-10-22T01:13:57+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Electronic Arts|关闭|BioWare",
+          "title": "EA 关闭 BioWare，裁员约400人，《质量效应》新作开发终止",
+          "summary": "EA 宣布关闭成立逾30年的 BioWare 工作室，裁员约400人，《质量效应》新作开发终止；《模拟人生》新项目 Project Lotus 也被取消。",
+          "published_at": "2026-10-22T01:20:08+08:00",
+          "follow_up": true,
+          "new_facts": "EA 宣布关闭 BioWare，裁员约400人；《质量效应》新作开发终止；《模拟人生》Project Lotus 取消，Project Evergreen 与 skate. 继续开发但后者团队缩编。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Electronic Arts",
+            "BioWare",
+            "Mass Effect 5"
+          ],
+          "limitations": "仅据 Gematsu 报道；裁员约400人、BioWare 约50人及《星球大战：前线3》等信息来自其转述的彭博社、Variety 消息，EA 与 BioWare 的公开声明文本未直接取得。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "据 Gematsu 报道，EA 于10月21日宣布关闭旗下工作室 BioWare，并裁员约400人，约占公司总员工数的3%。BioWare 成立于1996年，曾开发《博德之门》《星球大战：旧共和国武士》《龙腾世纪》和《质量效应》等系列。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "Electronic Arts will lay off staff and close BioWare , the developer behind the Mass Effect and Dragon Age series, the company said. Approximately 400 employees will be laid off, representing about three percent of its total workforce, including roughly 50 at BioWare"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "BioWare 在公告中确认工作室关闭，《质量效应》新作的早期开发也随之结束。EA 在致员工的信中提到，公司重新审视业务后取消了一些项目，其中包括这款《质量效应》新作。此外，《模拟人生》系列新项目 Project Lotus 被取消，Project Evergreen 继续开发；免费滑板游戏 skate. 项目保留，但团队规模将缩减。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "For more than 30 years, BioWare has been more than a studio."
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "Now, after more than three decades of shared adventures, BioWare is closing and early development on the next Mass Effect project is ending."
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "A new game in The Sims franchise, code-named “Project Lotus,” was also canceled, while a different project code-named “Project Evergreen” will continue development. The free-to-play skate. will also continue development, but the team behind it will be downsized."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "EA Shuts Down BioWare, Lays Off About 400 Staff, and Ends Development of New Mass Effect Game",
+            "sentences": [
+              {
+                "en": "According to Gematsu, EA announced on October 21 that it is shutting down its studio BioWare and laying off about 400 people, roughly 3% of the company's total workforce.",
+                "zh": "据 Gematsu 报道，EA 于10月21日宣布关闭旗下工作室 BioWare，并裁员约400人，约占公司总员工数的3%。"
+              },
+              {
+                "en": "BioWare was founded in 1996 and developed series such as Baldur's Gate, Star Wars: Knights of the Old Republic, Dragon Age, and Mass Effect.",
+                "zh": "BioWare 成立于1996年，曾开发《博德之门》《星球大战：旧共和国武士》《龙腾世纪》和《质量效应》等系列。"
+              },
+              {
+                "en": "BioWare confirmed the studio's closure in an announcement, and early development of the new Mass Effect game has also come to an end.",
+                "zh": "BioWare 在公告中确认工作室关闭，《质量效应》新作的早期开发也随之结束。"
+              },
+              {
+                "en": "In a letter to employees, EA said that after reviewing its business, the company canceled some projects, including this new Mass Effect game.",
+                "zh": "EA 在致员工的信中提到，公司重新审视业务后取消了一些项目，其中包括这款《质量效应》新作。"
+              },
+              {
+                "en": "In addition, The Sims series' new project Project Lotus has been canceled while Project Evergreen continues development; the free skateboarding game skate. is being kept, but its team size will be reduced.",
+                "zh": "此外，《模拟人生》系列新项目 Project Lotus 被取消，Project Evergreen 继续开发；免费滑板游戏 skate. 项目保留，但团队规模将缩减。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe|公布|多平台发售日",
+          "title": "《初音未来 拼图 TAMAGOTORI Deluxe》10月29日登陆多平台",
+          "summary": "KOMODO 与 Crypton Future Media 宣布，《初音未来 拼图 TAMAGOTORI Deluxe》将于10月29日登陆 PS5、PS4、Xbox One 和 PC，售价1980日元，支持简体中文等五种语言。",
+          "published_at": "2026-10-22T09:13:57+08:00",
+          "follow_up": false,
+          "new_facts": "《初音未来 拼图 TAMAGOTORI Deluxe》10月29日登陆 PS5、PS4、Xbox One 和 PC，售价1980日元，支持英文、日文、韩文、繁体中文和简体中文。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "KOMODO",
+            "Crypton Future Media",
+            "Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe"
+          ],
+          "limitations": "仅据 Gematsu 报道，未直接取得 KOMODO 官方公告原文。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "发行商 KOMODO 与开发商 Crypton Future Media 宣布，《初音未来 拼图 TAMAGOTORI Deluxe》将于10月29日登陆 PlayStation 5、PlayStation 4、Xbox One，以及通过 Steam 和 Microsoft Store 登陆 PC，售价1980日元。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "Publisher KOMODO and developer Crypton Future Media will release Hatsune Miku Connecting Puzzle TAMAGOTORI Deluxe for PlayStation 5 , PlayStation 4 , Xbox One , and PC via Steam and Microsoft Store on October 29 for 1,980 yen, the companies announced ."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "游戏支持英文、日文、韩文、繁体中文和简体中文。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "It will support English, Japanese, Korean, Traditional Chinese, and Simplified Chinese language options."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Hatsune Miku: Puzzle TAMAGOTORI Deluxe Launches October 29 on Multiple Platforms",
+            "sentences": [
+              {
+                "en": "Publisher KOMODO and developer Crypton Future Media announced that Hatsune Miku: Puzzle TAMAGOTORI Deluxe will launch on October 29 for PlayStation 5, PlayStation 4, Xbox One, and PC via Steam and the Microsoft Store, priced at 1,980 yen.",
+                "zh": "发行商 KOMODO 与开发商 Crypton Future Media 宣布，《初音未来 拼图 TAMAGOTORI Deluxe》将于10月29日登陆 PlayStation 5、PlayStation 4、Xbox One，以及通过 Steam 和 Microsoft Store 登陆 PC，售价1980日元。"
+              },
+              {
+                "en": "The game supports English, Japanese, Korean, Traditional Chinese, and Simplified Chinese.",
+                "zh": "游戏支持英文、日文、韩文、繁体中文和简体中文。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
