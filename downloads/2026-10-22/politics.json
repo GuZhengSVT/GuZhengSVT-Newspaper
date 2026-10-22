@@ -1,0 +1,350 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-22",
+  "title": "2026-10-22 政治",
+  "summary": "本期收录3条通过核验的新闻。",
+  "highlights": [
+    "美国驻加使馆指控加拿大干预中期选举，卡尼否认",
+    "普京会见维特科夫时释放美国公民哈伯德",
+    "美媒：美以制定计划，拟中期选举后再次打击伊朗"
+  ],
+  "window_start": "2026-10-21T12:00:00+08:00",
+  "window_end": "2026-10-22T12:00:00+08:00",
+  "generated_at": "2026-10-22T12:06:04.333754+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|指控加拿大干预选举|中期选举前外交摩擦",
+          "title": "美国驻加使馆指控加拿大干预中期选举，卡尼否认",
+          "summary": "美国驻渥太华大使馆发布事实清单，指控加拿大官员轻视干预美国选举的关切；加拿大总理卡尼和安大略省长福特否认，卡尼称加方举措是对美贸易行动的回应。",
+          "published_at": "2026-10-22T11:05:28+08:00",
+          "follow_up": true,
+          "new_facts": "美国驻渥太华大使馆发布事实清单，指控加拿大部长和省长公开描述影响美国政治的计划；卡尼称是美方先发起贸易行动，福特否认有意干预美国选举。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "美国驻渥太华大使馆周三发布事实清单，指控加拿大政府轻视外界对干预美国选举的关切，称加方部长和省长“在官方文件和公开场合公开描述影响美国政治的计划”。清单举例称，加拿大工业部长乔利被问及若民主党赢得中期选举对关税的预期时回应，“这正是我会见这么多州长和潜在总统候选人的原因”；并称安大略省长福特推动联邦政府对“对现政府支持基础具有政治意义的州”加征报复性关税。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "The fact sheet released by the US Embassy on Wednesday alleges the Canadian government \"brushes off concerns about potential interference in U.S. elections, even as its ministers and premiers openly describe plans to influence American politics in official documents and public appearances\"."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "it says that when Industry Minister Mélanie Joly was asked what she expected regarding tariffs if Democrats were to win midterm elections, she responded, \"That's exactly why I'm meeting so many governors and potential presidential candidates.\""
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "加拿大总理卡尼同日回应称，是美国首先对加拿大采取贸易行动，加方回应旨在保护加拿大就业、企业和经济。福特表示自己“完全无意”干预美国选举，称美国人民将在中期选举中自行决定。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "Carney noted that it was the US that first initiated trade actions against Canada. \"We've responded to those to protect Canadian jobs, to protect Canadian companies and develop our economy,\" Carney said."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "Ford said that he has \"no interest at all\" in interfering in US elections."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国驻加拿大大使馆",
+            "加拿大",
+            "马克·卡尼",
+            "道格·福特",
+            "梅拉妮·乔利"
+          ],
+          "limitations": "报道来自BBC单一来源；美方指控属其单方主张，加方否认，未提供具体干预行为证据。",
+          "bilingual": {
+            "title_en": "US Embassy in Canada Accuses Canadian Government of Interfering in Midterms, Carney Denies",
+            "sentences": [
+              {
+                "en": "The US Embassy in Ottawa released a fact sheet on Wednesday accusing the Canadian government of playing down concerns about interference in US elections, saying that Canadian ministers and premiers \"have openly described plans to influence American politics in official documents and in public settings.\"",
+                "zh": "美国驻渥太华大使馆周三发布事实清单，指控加拿大政府轻视外界对干预美国选举的关切，称加方部长和省长“在官方文件和公开场合公开描述影响美国政治的计划”。"
+              },
+              {
+                "en": "The fact sheet cited as an example Canadian Industry Minister Joly's response when asked about tariff expectations if the Democrats win the midterms: \"That is precisely why I have met with so many governors and potential presidential candidates\"; it also said Ontario Premier Ford pushed the federal government to impose retaliatory tariffs on \"states that are politically significant to the current administration's support base.\"",
+                "zh": "清单举例称，加拿大工业部长乔利被问及若民主党赢得中期选举对关税的预期时回应，“这正是我会见这么多州长和潜在总统候选人的原因”；并称安大略省长福特推动联邦政府对“对现政府支持基础具有政治意义的州”加征报复性关税。"
+              },
+              {
+                "en": "Canadian Prime Minister Carney responded the same day that it was the United States that first took trade action against Canada, and that Canada's response was aimed at protecting Canadian jobs, businesses and the economy.",
+                "zh": "加拿大总理卡尼同日回应称，是美国首先对加拿大采取贸易行动，加方回应旨在保护加拿大就业、企业和经济。"
+              },
+              {
+                "en": "Ford said he had \"absolutely no intention\" of interfering in US elections and that the American people will decide for themselves in the midterms.",
+                "zh": "福特表示自己“完全无意”干预美国选举，称美国人民将在中期选举中自行决定。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "俄罗斯|释放美国公民|斯蒂芬·哈伯德并举行维特科夫-普京会谈",
+          "title": "普京会见维特科夫时释放美国公民哈伯德",
+          "summary": "俄罗斯释放74岁美国公民斯蒂芬·哈伯德，普京在圣彼得堡会见特朗普特使维特科夫时宣布其已抵达机场；特朗普称无需交换，维特科夫称普京为“人道主义者”引发部分共和党人批评。",
+          "published_at": "2026-10-22T04:42:43+08:00",
+          "follow_up": true,
+          "new_facts": "俄方释放被以替乌克兰作战罪名判刑的美国公民哈伯德；特朗普称无需交换，称此前直接向普京提出请求；美国务院称目前无美国人在俄被认定遭不当拘留。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "俄罗斯释放了74岁美国公民斯蒂芬·哈伯德。普京在圣彼得堡会见美国总统特朗普特使史蒂夫·维特科夫时表示，哈伯德已被送往该市普尔科沃机场。哈伯德2024年因被控在乌克兰东部防务部队作战被判近七年监禁，俄方称其2022年俄乌全面战争爆发后不久被俘。特朗普随后称哈伯德“正在回家路上”，且“无需交换”。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Russia has released a 74-year-old American citizen who was jailed for allegedly fighting on behalf of Ukraine, as President Vladimir Putin met US envoy Steve Witkoff in St Petersburg for talks."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "President Donald Trump later said the former teacher was \"on his way back home\" and \"there was no 'swap' necessary\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "维特科夫在会谈中称普京为“人道主义者”，引发部分共和党议员批评，众议员培根称这是“又一次尴尬”，参议员科宁称普京“是冷血杀手”。副总统万斯回应称，维特科夫的职责是完成任务，他更在意把美国人质带回家。美国国务院称释放是“值得欢迎的一步”，并表示目前没有美国人在俄被认定为遭不当拘留。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Witkoff praised Putin for releasing Hubbard, saying: \"You talk so much about my president, President Trump, being a humanitarian - you are a humanitarian also sir, and I salute that. I commend you.\""
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "Senator John Cornyn said Putin \"is a stone cold killer\"."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "The state department said in a statement that the release was \"a welcome step that we hope leads to the release of all Americans unjustly held in Russia\". It also said that \"there are currently no Americans determined to be wrongfully detained in Russia\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "特朗普称，他上周与普京讨论结束乌克兰战争时直接提出释放哈伯德，普京同意；他还为两天前暂停即将生效的对俄制裁辩护，称若实施制裁，释放谈判“会完全停止”。CBS新闻（BBC的美国媒体伙伴）报道，哈伯德健康状况不佳，预计将飞往得克萨斯州接受治疗。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Writing on social media after Russian state media reported the release, Trump said it had followed a request he \"made directly\" to Putin last week."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "Trump also appeared to defend his recent decision to suspend sanctions on Russia two days before they were due to come into force , writing online that \"if sanctions would have been placed\", negotiations for Hubbard's release \"would have come to a complete and total halt\"."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "CBS News, the BBC's US media partner, reported that Hubbard had been in poor health and was expected to be flown to Texas for treatment."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "俄罗斯",
+            "美国",
+            "斯蒂芬·哈伯德",
+            "史蒂夫·维特科夫",
+            "弗拉基米尔·普京",
+            "唐纳德·特朗普"
+          ],
+          "limitations": "核心事实主要依据BBC单篇报道，卫报仅有标题与时间可核，不构成独立互证，故按单一来源处理；释放细节及美方表态均来自该报道。",
+          "bilingual": {
+            "title_en": "Putin Frees US Citizen Hubbard During Meeting With Witkoff",
+            "sentences": [
+              {
+                "en": "Russia has released 74-year-old US citizen Stephen Hubbard.",
+                "zh": "俄罗斯释放了74岁美国公民斯蒂芬·哈伯德。"
+              },
+              {
+                "en": "Speaking during a meeting with US President Donald Trump's special envoy Steve Witkoff in St. Petersburg, Putin said Hubbard had been taken to the city's Pulkovo Airport.",
+                "zh": "普京在圣彼得堡会见美国总统特朗普特使史蒂夫·维特科夫时表示，哈伯德已被送往该市普尔科沃机场。"
+              },
+              {
+                "en": "Hubbard was sentenced in 2024 to nearly seven years in prison on charges of fighting in a Ukrainian defense unit in eastern Ukraine, and Russia says he was captured shortly after the full-scale Russia-Ukraine war broke out in 2022.",
+                "zh": "哈伯德2024年因被控在乌克兰东部防务部队作战被判近七年监禁，俄方称其2022年俄乌全面战争爆发后不久被俘。"
+              },
+              {
+                "en": "Trump later said Hubbard was \"on his way home\" and that there was \"no exchange\" involved.",
+                "zh": "特朗普随后称哈伯德“正在回家路上”，且“无需交换”。"
+              },
+              {
+                "en": "During the talks, Witkoff called Putin a \"humanitarian,\" drawing criticism from some Republican lawmakers, with Representative Bacon calling it \"another embarrassment\" and Senator Coons saying Putin \"is a cold-blooded killer.\"",
+                "zh": "维特科夫在会谈中称普京为“人道主义者”，引发部分共和党议员批评，众议员培根称这是“又一次尴尬”，参议员科宁称普京“是冷血杀手”。"
+              },
+              {
+                "en": "Vice President Vance responded by saying that Witkoff's job is to get the task done and that he cares more about bringing American hostages home.",
+                "zh": "副总统万斯回应称，维特科夫的职责是完成任务，他更在意把美国人质带回家。"
+              },
+              {
+                "en": "The US State Department called the release \"a welcome step\" and said no Americans are currently designated as wrongfully detained in Russia.",
+                "zh": "美国国务院称释放是“值得欢迎的一步”，并表示目前没有美国人在俄被认定为遭不当拘留。"
+              },
+              {
+                "en": "Trump said he raised Hubbard's release directly when he discussed ending the Ukraine war with Putin last week, and that Putin agreed; he also defended his suspension two days earlier of imminent sanctions on Russia, saying that if the sanctions had been imposed, the release negotiations \"would have stopped completely.\"",
+                "zh": "特朗普称，他上周与普京讨论结束乌克兰战争时直接提出释放哈伯德，普京同意；他还为两天前暂停即将生效的对俄制裁辩护，称若实施制裁，释放谈判“会完全停止”。"
+              },
+              {
+                "en": "CBS News (the BBC's US media partner) reported that Hubbard is in poor health and is expected to fly to Texas for treatment.",
+                "zh": "CBS新闻（BBC的美国媒体伙伴）报道，哈伯德健康状况不佳，预计将飞往得克萨斯州接受治疗。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国与以色列|制定计划|中期选举后再次打击伊朗",
+          "title": "美媒：美以制定计划，拟中期选举后再次打击伊朗",
+          "summary": "据美国《纽约时报》报道，美国官员称美以军方已制定具体计划，准备在美国中期选举结束后恢复对伊朗打击，但特朗普尚未批准。中国新闻网转述了该报道。",
+          "published_at": "2026-10-22T11:53:17+08:00",
+          "follow_up": false,
+          "new_facts": "《纽约时报》报道美以军方制定中期选举后恢复打击伊朗的具体计划，潜在目标包括能源和核设施；报道称特朗普此前多次否决，尚不确定是否批准。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据美国《纽约时报》报道，美国官员及知情人士称，美国和以色列军方已制定具体计划，准备在美国中期选举结束后恢复对伊朗实施打击。报道称美以军方近期加强演习，包括派飞机飞越伊拉克演练打击；美国国防部长赫格塞思本周在以色列与总理内塔尼亚胡会面讨论新一轮打击计划。美国正集结军事力量，预计11月初完成部署，潜在目标包括伊朗能源基础设施、核设施及导弹和无人机武器库。",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "据美国《纽约时报》21日报道，美国官员及知情人士透露，美国和以色列军方已制定具体计划，准备在美国中期选举结束后恢复对伊朗实施打击。"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "潜在打击目标包括伊朗的能源基础设施、核设施以及导弹和无人机武器库。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道称，部分美国官员认为新一轮打击可进一步冲击伊朗经济，迫使其在谈判中让步；但报道同时指出，特朗普此前多次否决恢复大规模军事行动的计划，目前尚不确定他是否会批准。相关计划均出自匿名官员说法，未见美以官方确认。",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "报道还称，美国总统特朗普此前已多次否决恢复大规模军事行动的计划，目前尚不确定他是否会批准新一轮打击。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "以色列",
+            "伊朗"
+          ],
+          "limitations": "仅中国新闻网转述《纽约时报》匿名官员说法，未取得《纽约时报》原文，也无美以官方确认。",
+          "bilingual": {
+            "title_en": "US Media: US and Israel Draw Up Plan to Strike Iran Again After Midterm Elections",
+            "sentences": [
+              {
+                "en": "According to a report by The New York Times, US officials and people familiar with the matter said that the US and Israeli militaries have drawn up concrete plans to resume strikes on Iran after the US midterm elections.",
+                "zh": "据美国《纽约时报》报道，美国官员及知情人士称，美国和以色列军方已制定具体计划，准备在美国中期选举结束后恢复对伊朗实施打击。"
+              },
+              {
+                "en": "The report said the US and Israeli militaries have recently stepped up exercises, including sending aircraft over Iraq to rehearse strikes; US Secretary of Defense Hegseth met with Prime Minister Netanyahu in Israel this week to discuss the new round of strike plans.",
+                "zh": "报道称美以军方近期加强演习，包括派飞机飞越伊拉克演练打击；美国国防部长赫格塞思本周在以色列与总理内塔尼亚胡会面讨论新一轮打击计划。"
+              },
+              {
+                "en": "The United States is massing military forces, with deployment expected to be completed in early November, and potential targets include Iran's energy infrastructure, nuclear facilities, and missile and drone arsenals.",
+                "zh": "美国正集结军事力量，预计11月初完成部署，潜在目标包括伊朗能源基础设施、核设施及导弹和无人机武器库。"
+              },
+              {
+                "en": "The report said some US officials believe a new round of strikes could further batter Iran's economy and force it to make concessions in negotiations; but the report also noted that Trump has repeatedly vetoed plans to resume large-scale military operations, and it remains uncertain whether he will approve.",
+                "zh": "报道称，部分美国官员认为新一轮打击可进一步冲击伊朗经济，迫使其在谈判中让步；但报道同时指出，特朗普此前多次否决恢复大规模军事行动的计划，目前尚不确定他是否会批准。"
+              },
+              {
+                "en": "The relevant plans all come from accounts by anonymous officials and have not been confirmed by US or Israeli authorities.",
+                "zh": "相关计划均出自匿名官员说法，未见美以官方确认。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s20",
+      "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+      "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+      "published_at": null
+    },
+    {
+      "id": "s3",
+      "url": "https://www.chinanews.com.cn/gj/2026/10-22/10718956.shtml",
+      "title": "美媒：美以制定计划 拟美国中期选举后再次打击伊朗",
+      "published_at": "2026-10-22T11:53:17+08:00"
+    },
+    {
+      "id": "s17",
+      "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+      "title": "US embassy accuses Canada of election meddling ahead of midterms",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

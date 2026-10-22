@@ -1,0 +1,559 @@
+{
+  "schema_version": 2,
+  "edition": "technology",
+  "date": "2026-10-22",
+  "title": "2026-10-22 科技",
+  "summary": "本期收录5条通过核验的新闻。",
+  "highlights": [
+    "Mistral与NVIDIA合作推进工程仿真AI，并计划发布公开基准",
+    "NVIDIA发布关系数据基础模型Kumo Relational，称无需训练即可预测",
+    "台积电高雄F22厂P4工地钢构坠落致4人死亡，全台钢构作业暂停",
+    "NVIDIA联合六家供应链伙伴扩产，目标三年基板产能增2.5倍",
+    "Meta拟发行无投票权新股，为AI投入和并购融资"
+  ],
+  "window_start": "2026-10-21T12:00:00+08:00",
+  "window_end": "2026-10-22T12:00:00+08:00",
+  "generated_at": "2026-10-22T12:02:54.343380+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Mistral|与NVIDIA合作开发AI工程工作流|工业工程AI",
+          "title": "Mistral与NVIDIA合作推进工程仿真AI，并计划发布公开基准",
+          "summary": "Mistral 10月21日宣布与NVIDIA合作开发面向工程领域的AI原生工作流，把Mistral Large 4与数据生成、物理建模流程结合，在CUDA-X库和Warp上加速仿真，并连接仿真、模型开发与工程设计。",
+          "published_at": "2026-10-21T20:00:20+08:00",
+          "follow_up": true,
+          "new_facts": "Mistral与NVIDIA合作开发AI原生工程工作流；计划发布物理模型与CAE/EDA代理的公开基准和开放数据集；Mistral Large 4权重计划10月底发布。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "Mistral 10月21日宣布与NVIDIA合作开发面向工程领域的AI原生工作流，把Mistral Large 4与数据生成、物理建模流程结合，在CUDA-X库和Warp上加速仿真，并连接仿真、模型开发与工程设计。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "合作还包括把Mistral模型接入Omniverse库，用于GPU加速3D场景生成和SimReady资产制作。双方称将建立公开基准和开放数据集，评测模型调用工程工具、完成多步流程和产出技术正确结果的能力。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "A central focus of the collaboration is the development of public benchmarks and open datasets for evaluating physics models."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "These benchmarks will assess agents’ ability to use engineering tools, complete multistep workflows and produce technically correct results"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "Mistral称Large 4已公开预览，总参数约1万亿、激活参数490亿，在欧洲自有数据中心用3800块Grace Blackwell GPU训练，权重计划10月底发布。基准、数据集与工程效果均为公布的计划或初步成果，尚待独立验证。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "With approximately 1 trillion total parameters and 49 billion active parameters, the multimodal model was trained on 3,800 NVIDIA Grace Blackwell GPUs in Mistral-operated data centers in Europe."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "with weights planned for release at the end of October"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Mistral AI",
+            "NVIDIA",
+            "Mistral Large 4"
+          ],
+          "limitations": "合作内容与基准均为两家公司公告中的计划，尚无第三方测试或客户部署数据。",
+          "bilingual": {
+            "title_en": "Mistral and NVIDIA Partner to Advance Engineering-Simulation AI, Plan Public Benchmark",
+            "sentences": [
+              {
+                "en": "On October 21, Mistral announced a partnership with NVIDIA to develop AI-native workflows for engineering, combining Mistral Large 4 with data generation and physical modeling processes, accelerating simulation on CUDA-X libraries and Warp, and connecting simulation, model development, and engineering design.",
+                "zh": "Mistral 10月21日宣布与NVIDIA合作开发面向工程领域的AI原生工作流，把Mistral Large 4与数据生成、物理建模流程结合，在CUDA-X库和Warp上加速仿真，并连接仿真、模型开发与工程设计。"
+              },
+              {
+                "en": "The partnership also includes integrating Mistral models into the Omniverse libraries for GPU-accelerated 3D scene generation and SimReady asset creation.",
+                "zh": "合作还包括把Mistral模型接入Omniverse库，用于GPU加速3D场景生成和SimReady资产制作。"
+              },
+              {
+                "en": "The two sides said they will establish a public benchmark and open datasets to evaluate models' ability to invoke engineering tools, complete multi-step processes, and produce technically correct results.",
+                "zh": "双方称将建立公开基准和开放数据集，评测模型调用工程工具、完成多步流程和产出技术正确结果的能力。"
+              },
+              {
+                "en": "Mistral said Large 4 is already in public preview, with about 1 trillion total parameters and 49 billion active parameters, trained on 3,800 Grace Blackwell GPUs in its own data centers in Europe, with weights planned for release at the end of October.",
+                "zh": "Mistral称Large 4已公开预览，总参数约1万亿、激活参数490亿，在欧洲自有数据中心用3800块Grace Blackwell GPU训练，权重计划10月底发布。"
+              },
+              {
+                "en": "The benchmark, datasets, and engineering results are all announced plans or preliminary results and await independent verification.",
+                "zh": "基准、数据集与工程效果均为公布的计划或初步成果，尚待独立验证。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "NVIDIA|发布Kumo Relational|关系数据无需训练模型",
+          "title": "NVIDIA发布关系数据基础模型Kumo Relational，称无需训练即可预测",
+          "summary": "NVIDIA研究团队10月21日在Hugging Face博客发布Kumo Relational，称这一预训练模型可直接在关系数据库上做预测，在41项任务上超过监督学习基线，并提供论文与文档。",
+          "published_at": "2026-10-22T02:26:30+08:00",
+          "follow_up": true,
+          "new_facts": "NVIDIA发布预训练关系数据库基础模型Kumo Relational，通过上下文学习做预测，无需任务训练或特征工程；称在41项任务、15个数据库上优于监督基线，SAP SALT基准上MRR高于AutoGluon 8%。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "NVIDIA研究团队10月21日在Hugging Face博客发布Kumo Relational，称这是首个在常见关系数据基准上超过监督机器学习的少样本基础模型。用户连接数据库、用预测查询语言描述要预测的目标（如流失、需求或欺诈），模型读取最多1万个历史样本作为上下文，在一次前向计算中给出结果，不需要任务训练、特征工程或把多表压平成单表。",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "NVIDIA Kumo Relational is a pre-trained relational foundation model that makes predictions directly on enterprise databases."
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "It needs no task-specific training, no feature engineering, and no flattening of tables."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "团队称，在15个数据库的41项任务上，该模型优于监督式关系深度学习模型和经专家特征工程的梯度提升树流程；在SAP SALT企业基准上，其平均倒数排名（MRR）比AutoGluon集成高8%。在RelBench V1分类任务上，其AUROC平均比专家特征梯度提升树高近4分。模型可扩展到5000亿行以上的数据库。",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "Across 41 tasks on 15 databases, it beats supervised relational deep learning models and expert-engineered gradient-boosted tree pipelines, and on the SAP SALT enterprise benchmark it surpasses AutoGluon ensembles by 8% in mean reciprocal rank (MRR)."
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "On RelBench V1 classification tasks, Kumo Relational outperforms gradient-boosted trees on expert-engineered features by nearly 4 AUROC points on average."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "这些性能数字来自发布方的基准评测，博客同时列出论文编号与文档入口；模型预训练使用合成关系数据，推理时依赖上下文样本，因此实际企业数据上的效果仍需独立复现。",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "It is pre-trained once on synthetic relational data that reflects real-world datasets and adapts to each new task through in-context learning"
+                }
+              ],
+              "kind": "limitation",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "NVIDIA",
+            "Kumo Relational"
+          ],
+          "limitations": "性能对比全部来自NVIDIA团队自述，尚未见独立复现或第三方基准结果。",
+          "bilingual": {
+            "title_en": "NVIDIA Releases Kumo Relational, a Foundational Model for Relational Data, Claiming Prediction Without Training",
+            "sentences": [
+              {
+                "en": "NVIDIA's research team released Kumo Relational on the Hugging Face blog on October 21, calling it the first few-shot foundational model to outperform supervised machine learning on common relational data benchmarks.",
+                "zh": "NVIDIA研究团队10月21日在Hugging Face博客发布Kumo Relational，称这是首个在常见关系数据基准上超过监督机器学习的少样本基础模型。"
+              },
+              {
+                "en": "Users connect a database and describe the prediction target (such as churn, demand, or fraud) in a predictive query language; the model reads up to 10,000 historical samples as context and produces results in a single forward computation, without task-specific training, feature engineering, or flattening multiple tables into one.",
+                "zh": "用户连接数据库、用预测查询语言描述要预测的目标（如流失、需求或欺诈），模型读取最多1万个历史样本作为上下文，在一次前向计算中给出结果，不需要任务训练、特征工程或把多表压平成单表。"
+              },
+              {
+                "en": "The team says that across 41 tasks on 15 databases, the model outperforms supervised relational deep learning models and gradient-boosted tree pipelines with expert feature engineering; on the SAP SALT enterprise benchmark, its mean reciprocal rank (MRR) is 8% higher than that of the AutoGluon ensemble.",
+                "zh": "团队称，在15个数据库的41项任务上，该模型优于监督式关系深度学习模型和经专家特征工程的梯度提升树流程；在SAP SALT企业基准上，其平均倒数排名（MRR）比AutoGluon集成高8%。"
+              },
+              {
+                "en": "On RelBench V1 classification tasks, its AUROC is on average nearly 4 points higher than that of expert-feature gradient-boosted trees.",
+                "zh": "在RelBench V1分类任务上，其AUROC平均比专家特征梯度提升树高近4分。"
+              },
+              {
+                "en": "The model can scale to databases with more than 500 billion rows.",
+                "zh": "模型可扩展到5000亿行以上的数据库。"
+              },
+              {
+                "en": "These performance figures come from the publisher's own benchmark evaluation, and the blog also lists the paper number and documentation entry point; the model is pretrained on synthetic relational data and relies on in-context samples at inference, so its effectiveness on real enterprise data still requires independent reproduction.",
+                "zh": "这些性能数字来自发布方的基准评测，博客同时列出论文编号与文档入口；模型预训练使用合成关系数据，推理时依赖上下文样本，因此实际企业数据上的效果仍需独立复现。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "台积电|高雄F22厂P4工地钢构坍塌|工安事故停工",
+          "title": "台积电高雄F22厂P4工地钢构坠落致4人死亡，全台钢构作业暂停",
+          "summary": "高雄楠梓台积电F22厂P4工地10月20日钢构吊装时坠落，3名工人当天死亡，第4名伤者21日上午去世。台积电暂停全台新建厂同类钢构作业，园区管理局对吊装作业下达停工令，肇因调查中。",
+          "published_at": "2026-10-21T16:37:59+08:00",
+          "follow_up": true,
+          "new_facts": "台积电高雄F22厂P4工地钢构坠落致4死；台积电自主暂停全台新建厂同类钢构作业；南科管理局对P4吊装作业下达停工令，需提交改善计划方能复工；初判外墙钢构连接板螺栓断裂。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据朝鲜商业网10月21日转述台湾中央社报道，10月20日下午，台积电高雄楠梓科学园区F22厂第四期（P4）工地发生钢构坍塌。当时一家合作商的4名工人在建筑三层吊装钢构，钢构与人员一同坠落，3人当天死亡，最后1名伤者于21日上午在重症监护室去世，死亡人数增至4人。",
+              "evidence": [
+                {
+                  "source_id": "s83",
+                  "quote": "on the afternoon of the 20th a steel frame collapse occurred at the construction site for Phase 4 (P4) of TSMC's F22 plant located in the Nanzih Science Park in Kaohsiung, Taiwan."
+                },
+                {
+                  "source_id": "s83",
+                  "quote": "The remaining one also died in the intensive care unit on the morning of the 21st, bringing the death toll to four."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "南部科学园区管理局初步判断，三层外墙钢构连接板的固定螺栓断裂，导致结构和工人一同坠落，正在调查螺栓老化或数量不足的可能。4名工人都系有安全绳，但也有说法指安全锚点固定在坠落的钢构上，令防护装置失效，确切原因仍在调查。",
+              "evidence": [
+                {
+                  "source_id": "s83",
+                  "quote": "The Southern Taiwan Science Park Administration believes bolts fastening the connection plate of the exterior wall steel frame on the third floor broke, causing the structure and the workers to fall together."
+                },
+                {
+                  "source_id": "s83",
+                  "quote": "there is also a suggestion that the safety anchors were consolidated to the fallen steel frame, preventing the safety devices from functioning properly"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "台积电称事故后立即停止高雄工地相关作业，并自主暂停全台在建新厂的同类钢构作业，正与相关部门和施工承包商调查原因、准备后续安全措施。园区管理局已对P4工地钢构吊装作业下达停工令，承包商须提交改善计划并通过政府审查才能复工。事故涉及的是建设中的厂区，台积电未宣布停产现有生产线，对其2纳米扩产进度的影响尚不明确。",
+              "evidence": [
+                {
+                  "source_id": "s83",
+                  "quote": "TSMC said it halted related work at the Kaohsiung site immediately after the accident and also independently suspended similar steel frame work at new plants under construction across Taiwan."
+                },
+                {
+                  "source_id": "s83",
+                  "quote": "The construction contractor must submit an improvement plan and pass a government review to resume work."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "台积电",
+            "F22厂",
+            "高雄楠梓"
+          ],
+          "limitations": "朝鲜商业网页面标注其为AI翻译稿，核心事实经其转述台湾中央社，未取得中央社原文；事故死因、停工对量产进度的影响尚无台积电官方量化说明。",
+          "bilingual": {
+            "title_en": "Steel Structure Collapse at TSMC's Kaohsiung F22 Plant P4 Site Kills 4, Halts Steel Work Across Taiwan",
+            "sentences": [
+              {
+                "en": "According to Taiwan's Central News Agency as relayed by Choson Business Network on October 21, a steel structure collapsed on the afternoon of October 20 at the Phase 4 (P4) construction site of TSMC's F22 plant in the Nanzih Science Park in Kaohsiung.",
+                "zh": "据朝鲜商业网10月21日转述台湾中央社报道，10月20日下午，台积电高雄楠梓科学园区F22厂第四期（P4）工地发生钢构坍塌。"
+              },
+              {
+                "en": "At the time, four workers from a contractor were hoisting steel structures on the third floor of the building when the steel and the workers fell together; three died that day, and the last injured worker died in intensive care on the morning of October 21, bringing the death toll to four.",
+                "zh": "当时一家合作商的4名工人在建筑三层吊装钢构，钢构与人员一同坠落，3人当天死亡，最后1名伤者于21日上午在重症监护室去世，死亡人数增至4人。"
+              },
+              {
+                "en": "The Southern Taiwan Science Park Bureau preliminarily determined that fixing bolts on the connection plates of the third-floor exterior wall steel structure had broken, causing the structure and the workers to fall together, and it is investigating whether the bolts were aged or insufficient in number.",
+                "zh": "南部科学园区管理局初步判断，三层外墙钢构连接板的固定螺栓断裂，导致结构和工人一同坠落，正在调查螺栓老化或数量不足的可能。"
+              },
+              {
+                "en": "All four workers were wearing safety ropes, but some accounts say the safety anchor points were attached to the steel structure that fell, rendering the protective devices ineffective, and the exact cause is still under investigation.",
+                "zh": "4名工人都系有安全绳，但也有说法指安全锚点固定在坠落的钢构上，令防护装置失效，确切原因仍在调查。"
+              },
+              {
+                "en": "TSMC said it immediately stopped related work at the Kaohsiung site after the accident and voluntarily suspended similar steel structure work at new plants under construction across Taiwan, and that it is working with relevant authorities and the construction contractor to investigate the cause and prepare follow-up safety measures.",
+                "zh": "台积电称事故后立即停止高雄工地相关作业，并自主暂停全台在建新厂的同类钢构作业，正与相关部门和施工承包商调查原因、准备后续安全措施。"
+              },
+              {
+                "en": "The park bureau has issued a work stoppage order for steel structure hoisting at the P4 site, and the contractor must submit an improvement plan and pass a government review before resuming work.",
+                "zh": "园区管理局已对P4工地钢构吊装作业下达停工令，承包商须提交改善计划并通过政府审查才能复工。"
+              },
+              {
+                "en": "The accident involved a plant area under construction; TSMC has not announced a halt to production at existing lines, and the impact on its 2-nanometer capacity expansion schedule remains unclear.",
+                "zh": "事故涉及的是建设中的厂区，台积电未宣布停产现有生产线，对其2纳米扩产进度的影响尚不明确。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "NVIDIA|联合供应链伙伴扩大制造产能|AI基础设施产能",
+          "title": "NVIDIA联合六家供应链伙伴扩产，目标三年基板产能增2.5倍",
+          "summary": "NVIDIA 10月21日在柏林GTC宣布与Amkor、IBIDEN、京元电子、三星电机、矽品和欣兴合作扩产。公司计划三年内把产品基板产能提升2.5倍：三星电机加入基板供应链，欣兴台湾扩产预计2027年第二季度贡献产能，IBIDEN大野工厂扩产预计2028年第一季度爬坡。",
+          "published_at": "2026-10-21T18:33:00+08:00",
+          "follow_up": true,
+          "new_facts": "NVIDIA计划三年内把基板产能提升2.5倍；Amkor到2028年底先进封装能力增逾300%；京元电子获11亿美元产能预订预付款在美建新厂；矽品到2027年中把共封装光学光电引擎产能提升15倍。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "NVIDIA 10月21日在柏林GTC宣布与Amkor、IBIDEN、京元电子、三星电机、矽品和欣兴合作扩产。公司计划三年内把产品基板产能提升2.5倍：三星电机加入基板供应链，欣兴台湾扩产预计2027年第二季度贡献产能，IBIDEN大野工厂扩产预计2028年第一季度爬坡。",
+              "evidence": [
+                {
+                  "source_id": "s35",
+                  "quote": "NVIDIA plans to increase substrate capacity for its products by 2.5x over the next three years."
+                },
+                {
+                  "source_id": "s35",
+                  "quote": "The expansion is expected to begin adding capacity in the second quarter of 2027 and reach full capacity by mid-2028."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "封装测试方面，NVIDIA与Amkor计划到2028年底把韩国中介层晶圆产能提升逾300%；NVIDIA预计半导体测试总产能2026年至2027年翻倍。公司向京元电子提供11亿美元产能预订预付款，支持其在美国新建测试设施，目标2027年4月量产；矽品计划到2027年中把共封装光学光电引擎产能提升15倍，到2028年底再翻一倍。",
+              "evidence": [
+                {
+                  "source_id": "s35",
+                  "quote": "NVIDIA’s $1.1 billion capacity reservation advance to KYEC will support new U.S. testing facilities and equipment, with high-volume production targeted for April 2027."
+                },
+                {
+                  "source_id": "s35",
+                  "quote": "The expansion targets an increase of 15x by mid-2027, with aims for another doubling by the end of 2028."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "黄仁勋称需求极高而产能是约束。上述扩产幅度、投资与量产节点均为NVIDIA与伙伴公布的计划，并附前瞻性声明风险提示，尚待实际投产验证。",
+              "evidence": [
+                {
+                  "source_id": "s35",
+                  "quote": "“We are in the midst of the largest infrastructure buildout in human history. Demand is extraordinary. Capacity is the constraint,” said Jensen Huang"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "Amkor",
+            "IBIDEN",
+            "京元电子",
+            "三星电机",
+            "矽品",
+            "欣兴"
+          ],
+          "limitations": "所有产能数字和时间表均为公告计划，带前瞻性声明，尚未见伙伴方独立确认或实际投产数据。",
+          "bilingual": {
+            "title_en": "NVIDIA Partners with Six Supply Chain Companies to Expand Production, Aiming to Increase Product Substrate Capacity 2.5-Fold in Three Years",
+            "sentences": [
+              {
+                "en": "On October 21, NVIDIA announced at GTC in Berlin that it is partnering with Amkor, IBIDEN, King Yuan Electronics, Samsung Electro-Mechanics, Siliconware Precision Industries (SPIL), and Unimicron to expand production.",
+                "zh": "NVIDIA 10月21日在柏林GTC宣布与Amkor、IBIDEN、京元电子、三星电机、矽品和欣兴合作扩产。"
+              },
+              {
+                "en": "The company plans to increase product substrate capacity 2.5-fold within three years: Samsung Electro-Mechanics is joining the substrate supply chain, Unimicron's expansion in Taiwan is expected to contribute capacity in the second quarter of 2027, and IBIDEN's expansion at its Ono plant is expected to ramp up in the first quarter of 2028.",
+                "zh": "公司计划三年内把产品基板产能提升2.5倍：三星电机加入基板供应链，欣兴台湾扩产预计2027年第二季度贡献产能，IBIDEN大野工厂扩产预计2028年第一季度爬坡。"
+              },
+              {
+                "en": "On packaging and testing, NVIDIA and Amkor plan to increase interposer wafer capacity in South Korea by more than 300% by the end of 2028; NVIDIA expects its total semiconductor testing capacity to double from 2026 to 2027.",
+                "zh": "封装测试方面，NVIDIA与Amkor计划到2028年底把韩国中介层晶圆产能提升逾300%；NVIDIA预计半导体测试总产能2026年至2027年翻倍。"
+              },
+              {
+                "en": "The company is providing King Yuan Electronics with a US$1.1 billion capacity reservation prepayment to support its construction of a new testing facility in the United States, targeting mass production in April 2027; SPIL plans to increase co-packaged optics photonic engine capacity 15-fold by mid-2027 and double it again by the end of 2028.",
+                "zh": "公司向京元电子提供11亿美元产能预订预付款，支持其在美国新建测试设施，目标2027年4月量产；矽品计划到2027年中把共封装光学光电引擎产能提升15倍，到2028年底再翻一倍。"
+              },
+              {
+                "en": "Jensen Huang said demand is extremely high and capacity is the constraint.",
+                "zh": "黄仁勋称需求极高而产能是约束。"
+              },
+              {
+                "en": "The above expansion magnitudes, investments, and mass production milestones are all plans announced by NVIDIA and its partners, accompanied by forward-looking statement risk disclosures, and remain subject to verification through actual production.",
+                "zh": "上述扩产幅度、投资与量产节点均为NVIDIA与伙伴公布的计划，并附前瞻性声明风险提示，尚待实际投产验证。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Meta|发行新类别股份为AI投入融资|无投票权股票",
+          "title": "Meta拟发行无投票权新股，为AI投入和并购融资",
+          "summary": "据The Verge 10月21日报道，Meta在第三季度财报中表示将发行一类新的无投票权股份，用于支持AI计划，也可用于潜在收购和员工薪酬，交易预计2027年开始。Meta称AI转型所需投资规模很大；首席财务官Susan Li在财报电话会上称，新股份将扩大融资工具。",
+          "published_at": "2026-10-22T05:30:02+08:00",
+          "follow_up": true,
+          "new_facts": "Meta拟发行无投票权新类别股份，2027年开始交易，用于AI投入、收购和员工薪酬；今年资本开支预期上调至1350亿至1450亿美元；扎克伯格称Muse自9月初上线以来在美加已有超1000万人使用。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据The Verge 10月21日报道，Meta在第三季度财报中表示将发行一类新的无投票权股份，用于支持AI计划，也可用于潜在收购和员工薪酬，交易预计2027年开始。Meta称AI转型所需投资规模很大；首席财务官Susan Li在财报电话会上称，新股份将扩大融资工具。",
+              "evidence": [
+                {
+                  "source_id": "s54",
+                  "quote": "Meta says it’s issuing a new class of shares to fund its AI initiatives."
+                },
+                {
+                  "source_id": "s54",
+                  "quote": "the company says the non-voting stock will also go toward potential acquisitions and employee compensation, with trading beginning in 2027"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Meta把今年资本开支预期从1300亿至1450亿美元上调到1350亿至1450亿美元。据Engadget报道，扎克伯格在财报电话会上称，AI代理Muse自9月初上线以来，在美国和加拿大已有超过1000万人开始使用。报道未说明新股发行规模和具体结构。",
+              "evidence": [
+                {
+                  "source_id": "s54",
+                  "quote": "The company expects capital expenditures between $135 billion and $145 billion this year, up from the previous $130 billion and $145 billion estimate."
+                },
+                {
+                  "source_id": "s57",
+                  "quote": "Zuckerberg said that more than 10 million people have started using it since its early September rollout."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "扎克伯格称Muse已有明确产品市场契合，公司进入以规模化为重点的新阶段，并计划通过代理促成的交易向商家收费、推出AI订阅。他预计Muse的美国用户年均收入长期可能高于现有应用家族的水平。这些是管理层预期，并非已实现收入。",
+              "evidence": [
+                {
+                  "source_id": "s57",
+                  "quote": "Now that Muse has clear product market fit, we are entering a new phase and a more operational phase that is focused on scaling it"
+                },
+                {
+                  "source_id": "s57",
+                  "quote": "the average revenue per American user for our existing family of apps users is several hundreds of dollars annually, and we expect that Muse will reach an even higher level over time"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Meta",
+            "Meta Muse"
+          ],
+          "limitations": "未取得Meta财报原文，新股发行规模、投票权安排细节及Muse收入预期均来自媒体报道与高管表态。",
+          "bilingual": {
+            "title_en": "Meta Plans to Issue New Non-Voting Shares to Fund AI Investment and Acquisitions",
+            "sentences": [
+              {
+                "en": "According to an October 21 report by The Verge, Meta said in its third-quarter earnings report that it will issue a new class of non-voting shares to support AI initiatives and that the shares may also be used for potential acquisitions and employee compensation, with trading expected to begin in 2027.",
+                "zh": "据The Verge 10月21日报道，Meta在第三季度财报中表示将发行一类新的无投票权股份，用于支持AI计划，也可用于潜在收购和员工薪酬，交易预计2027年开始。"
+              },
+              {
+                "en": "Meta said the investment required for its AI transformation is very large; Chief Financial Officer Susan Li said on the earnings call that the new shares will expand its financing tools.",
+                "zh": "Meta称AI转型所需投资规模很大；首席财务官Susan Li在财报电话会上称，新股份将扩大融资工具。"
+              },
+              {
+                "en": "Meta raised its capital expenditure forecast for this year from $130 billion–$145 billion to $135 billion–$145 billion.",
+                "zh": "Meta把今年资本开支预期从1300亿至1450亿美元上调到1350亿至1450亿美元。"
+              },
+              {
+                "en": "According to Engadget, Zuckerberg said on the earnings call that more than 10 million people in the United States and Canada have begun using the AI agent Muse since it launched in early September.",
+                "zh": "据Engadget报道，扎克伯格在财报电话会上称，AI代理Muse自9月初上线以来，在美国和加拿大已有超过1000万人开始使用。"
+              },
+              {
+                "en": "The report did not specify the size or detailed structure of the new share issuance.",
+                "zh": "报道未说明新股发行规模和具体结构。"
+              },
+              {
+                "en": "Zuckerberg said Muse already has clear product-market fit, that the company has entered a new phase focused on scaling, and that it plans to charge merchants for transactions facilitated by the agent and to launch an AI subscription.",
+                "zh": "扎克伯格称Muse已有明确产品市场契合，公司进入以规模化为重点的新阶段，并计划通过代理促成的交易向商家收费、推出AI订阅。"
+              },
+              {
+                "en": "He expects that, over the long term, average annual revenue per U.S. user for Muse may exceed the level of its existing family of apps.",
+                "zh": "他预计Muse的美国用户年均收入长期可能高于现有应用家族的水平。"
+              },
+              {
+                "en": "These are management expectations, not realized revenue.",
+                "zh": "这些是管理层预期，并非已实现收入。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s14",
+      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/",
+      "title": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
+      "published_at": "2026-10-21T12:00:20+00:00"
+    },
+    {
+      "id": "s15",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "published_at": "2026-10-21T18:26:30+00:00"
+    },
+    {
+      "id": "s35",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+      "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+      "published_at": "2026-10-21T10:33:00+00:00"
+    },
+    {
+      "id": "s54",
+      "url": "https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings",
+      "title": "Meta to create a new class of shares to fund AI push",
+      "published_at": "2026-10-21T21:30:02+00:00"
+    },
+    {
+      "id": "s83",
+      "url": "https://biz.chosun.com/en/en-it/2026/10/21/VGOZQ44DFRG3HEKUWHEIMHQ4C4",
+      "title": "TSMC halts steelwork across Taiwan after fatal Kaohsiung plant collapse - CHOSUNBIZ",
+      "published_at": "2026-10-21T08:37:59.317000+00:00"
+    },
+    {
+      "id": "s57",
+      "url": "https://www.engadget.com/2293705/mark-zuckerberg-says-meta-is-entering-a-new-phase-with-muse/",
+      "title": "Mark Zuckerberg says Meta is 'entering a new phase' with Muse",
+      "published_at": "2026-10-21T22:36:03+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "数码的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
