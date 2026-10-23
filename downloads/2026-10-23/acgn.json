@@ -1,0 +1,347 @@
+{
+  "schema_version": 2,
+  "edition": "acgn",
+  "date": "2026-10-23",
+  "title": "2026-10-23 ACGN",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "HoYoverse《プチプラネット》将于11月1日播出发布前瞻节目",
+    "《卧龙2》公布α体验版反馈报告及改善方针",
+    "《Dispatch》将于12月9日登陆iOS与Android，豪华版新增解说与分镜模式",
+    "AI角色互动社交模拟器《ailiaili 爱哩爱哩》公开概念预告"
+  ],
+  "window_start": "2026-10-22T12:00:00+08:00",
+  "window_end": "2026-10-23T12:00:00+08:00",
+  "generated_at": "2026-10-23T12:07:54.354586+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "HoYoverse|公布プチプラネット发布前瞻节目|プチプラネット",
+          "title": "HoYoverse《プチプラネット》将于11月1日播出发布前瞻节目",
+          "summary": "HoYoverse宣布慢生活游戏《プチプラネット》将于11月1日20时播出发布前瞻节目，介绍游戏内容与后续活动，本作预计今冬发行。",
+          "published_at": "2026-10-23T11:49:45+08:00",
+          "follow_up": false,
+          "new_facts": "11月1日20:00播出发布前瞻节目；今冬发行窗口；PC/iOS/Android平台；节目含开发团队成员与特别嘉宾。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "HoYoverse",
+            "プチプラネット",
+            "Petit Planet"
+          ],
+          "facts": [
+            {
+              "text": "HoYoverse于10月23日宣布，预定今冬发行的慢生活游戏《プチプラネット》将于11月1日20时在YouTube和官方X播出发布前瞻节目。据4Gamer报道，节目将由开发团队成员与特别嘉宾出演，介绍游戏内容以及今后计划展开的活动与活动信息。游戏对应PC、iOS和Android平台。",
+              "evidence": [
+                {
+                  "source_id": "s7",
+                  "quote": "HoYoverseは本日（2026年10月23日），今冬のリリースを予定しているスローライフゲーム 「プチプラネット」 （ PC / iOS / Android ）の リリース予告番組 をYouTubeと公式Xで11月1日20：00から配信すると発表した。"
+                },
+                {
+                  "source_id": "s7",
+                  "quote": "番組には，開発チームのメンバーとスペシャルゲストが出演し， ゲームコンテンツ や 今後展開予定のイベント・キャンペーン情報 を紹介する。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "消息来自4Gamer转述，未直接取得HoYoverse官方公告原文；具体发行日期、价格与地区语言支持尚未公布。",
+          "bilingual": {
+            "title_en": "HoYoverse's Petit Planet to Stream Pre-Launch Program on November 1",
+            "sentences": [
+              {
+                "en": "HoYoverse announced on October 23 that Petit Planet, its slow-life game scheduled for release this winter, will stream a pre-launch program on November 1 at 20:00 on YouTube and its official X account.",
+                "zh": "HoYoverse于10月23日宣布，预定今冬发行的慢生活游戏《プチプラネット》将于11月1日20时在YouTube和官方X播出发布前瞻节目。"
+              },
+              {
+                "en": "According to 4Gamer, the program will feature development team members and special guests, introducing the game's content as well as information on events and activities planned for the future.",
+                "zh": "据4Gamer报道，节目将由开发团队成员与特别嘉宾出演，介绍游戏内容以及今后计划展开的活动与活动信息。"
+              },
+              {
+                "en": "The game will be available on PC, iOS, and Android.",
+                "zh": "游戏对应PC、iOS和Android平台。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Koei Tecmo/Team NINJA|公布卧龙2 α体验版反馈报告与改善方针|Wo Long 2: Wings of Ember",
+          "title": "《卧龙2》公布α体验版反馈报告及改善方针",
+          "summary": "光荣特库摩与Team NINJA公布《卧龙2：Wings of Ember》α体验版问卷结果，将改善凰技的复杂度与成功判定、调整气势收支、优化画质与加载速度，游戏2027年3月4日发售。",
+          "published_at": "2026-10-23T11:10:14+08:00",
+          "follow_up": false,
+          "new_facts": "α体验版反馈报告公开；将改善凰技复杂度和成功判定、调整气势收支、优化画质与加载速度；游戏2027年3月4日发售。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Koei Tecmo",
+            "Team NINJA",
+            "Wo Long 2: Wings of Ember",
+            "卧龙2"
+          ],
+          "facts": [
+            {
+              "text": "光荣特库摩与Team NINJA于10月23日公开了《卧龙2：Wings of Ember》α体验版的反馈报告及改善方针。该α体验版于9月16日至30日配信，收录「长坂」开放战场，玩家可与刘备军协力对抗追击的曹操军与妖魔。据4Gamer报道，报告汇总了画质、难度、武器种类等问卷结果。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "コーエーテクモゲームスは本日（2026年10月23日），ダーク三國アクションRPG 「Wo Long 2: Wings of Ember」 （ PC / Nintendo Switch 2 / PlayStation 5 / XBOX Series X|S ）の最新情報として， α体験版のフィードバックレポート を公開した。"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "本作のα体験版は9月16日から30日まで配信（ 関連記事 ）された。「長坂」のオープンフィールドが収録されており，劉備軍と協力し，追撃する曹操軍や妖魔との戦いを体験できた。"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "本レポートでは，グラフィックスや難度の評価，楽しめた武器種などのアンケート結果がまとめられている。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "根据玩家意见，开发团队将改善新系统「凰技」的复杂度与成功判定，重新审视「气势」的收支平衡，并优化画质、提升加载速度。游戏预定2027年3月4日登陆PS5、Xbox Series、Switch 2和PC，并加入Game Pass。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "同社はプレイヤーからの意見をもとに，新システム「凰技」の煩雑さや成功判定の改善，「氣勢」の収支バランスの見直し，グラフィックスやロード速度の改善なども実施し，ブラッシュアップに努めるとしている。"
+                },
+                {
+                  "source_id": "s2",
+                  "quote": "Wo Long 2: Wings of Ember is due out for PlayStation 5 , Xbox Series , Switch 2 , and PC via Steam and Microsoft Store on March 4, 2027. It will also be available via Game Pass."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "改善方针仅见4Gamer一家明确报道，未直接取得官方公告原文；具体实装效果需待正式版验证。",
+          "bilingual": {
+            "title_en": "Wo Long 2 Releases Alpha Feedback Report and Improvement Plan",
+            "sentences": [
+              {
+                "en": "Koei Tecmo and Team NINJA released the feedback report and improvement plan for the alpha trial version of Wo Long 2: Wings of Ember on October 23.",
+                "zh": "光荣特库摩与Team NINJA于10月23日公开了《卧龙2：Wings of Ember》α体验版的反馈报告及改善方针。"
+              },
+              {
+                "en": "The alpha trial was distributed from September 16 to 30 and includes the open battlefield \"Changban,\" where players can fight alongside Liu Bei's army against the pursuing Cao Cao forces and demons.",
+                "zh": "该α体验版于9月16日至30日配信，收录「长坂」开放战场，玩家可与刘备军协力对抗追击的曹操军与妖魔。"
+              },
+              {
+                "en": "According to 4Gamer, the report summarizes survey results on graphics, difficulty, weapon types, and other aspects.",
+                "zh": "据4Gamer报道，报告汇总了画质、难度、武器种类等问卷结果。"
+              },
+              {
+                "en": "Based on player feedback, the development team will improve the complexity and success judgment of the new \"Phoenix Art\" system, reexamine the balance of \"Morale\" gains and costs, and optimize graphics and increase loading speed.",
+                "zh": "根据玩家意见，开发团队将改善新系统「凰技」的复杂度与成功判定，重新审视「气势」的收支平衡，并优化画质、提升加载速度。"
+              },
+              {
+                "en": "The game is scheduled for release on March 4, 2027, for PS5, Xbox Series, Switch 2, and PC, and will also be available on Game Pass.",
+                "zh": "游戏预定2027年3月4日登陆PS5、Xbox Series、Switch 2和PC，并加入Game Pass。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "AdHoc Studio|公布Dispatch登陆iOS/Android及豪华版更新|Dispatch",
+          "title": "《Dispatch》将于12月9日登陆iOS与Android，豪华版新增解说与分镜模式",
+          "summary": "AdHoc Studio宣布《Dispatch》12月9日登陆iOS和Android，前四集免费，全解锁19.99美元；豪华版新增16小时以上解说模式和分镜模式，游戏销量超500万。",
+          "published_at": "2026-10-23T00:56:36+08:00",
+          "follow_up": false,
+          "new_facts": "12月9日登陆iOS/Android；前四集免费，完整版19.99美元；豪华版新增解说模式与分镜模式；销量超500万。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "AdHoc Studio",
+            "Dispatch"
+          ],
+          "facts": [
+            {
+              "text": "AdHoc Studio于10月22日宣布，超级英雄职场喜剧冒险游戏《Dispatch》将于12月9日登陆iOS和Android。据Gematsu报道，手游版前四集可免费游玩，完整版解锁价格为19.99美元，App Store与Google Play的事前登录即将开启。游戏此前已于2025年10月22日登陆PS5和PC，后陆续登陆Switch 2、Switch、Xbox Series及Microsoft Store，累计销量超过500万份。",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "AdHoc Studio will release superhero workplace comedy adventure game Dispatch for iOS and Android on December 9, the developer announced ."
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "On mobile, the first four episodes will be available free, with the full release available to unlock for $19.99."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "豪华版所有者现已可免费获取更新，新增收录Aaron Paul、Laura Bailey等演职人员超过16小时评论的解说模式，以及让玩家以原始分镜动画体验整个游戏的分镜模式；标准版玩家可以10.99美元购买豪华版升级。",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "Additionally, a free update is available now for Deluxe Edition owners of Dispatch , adding a Commentary Mode with more than 16 hours of cast and crew commentary, including Aaron Paul, Laura Bailey and Erin Yvette, and a Storyboard Mode that lets players experience the entire game through its original storyboard animatics."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "消息来自Gematsu转述开发商公告，未直接取得AdHoc Studio官方原文。",
+          "bilingual": {
+            "title_en": "Dispatch Launches on iOS and Android December 9; Deluxe Edition Adds Commentary and Storyboard Modes",
+            "sentences": [
+              {
+                "en": "AdHoc Studio announced on October 22 that Dispatch, a superhero workplace comedy adventure game, will launch on iOS and Android on December 9.",
+                "zh": "AdHoc Studio于10月22日宣布，超级英雄职场喜剧冒险游戏《Dispatch》将于12月9日登陆iOS和Android。"
+              },
+              {
+                "en": "According to Gematsu, the first four episodes of the mobile version can be played for free, the full version costs $19.99 to unlock, and pre-registration on the App Store and Google Play will open soon.",
+                "zh": "据Gematsu报道，手游版前四集可免费游玩，完整版解锁价格为19.99美元，App Store与Google Play的事前登录即将开启。"
+              },
+              {
+                "en": "The game previously launched on PS5 and PC on October 22, 2025, and later came to Switch 2, Switch, Xbox Series, and the Microsoft Store, with cumulative sales exceeding 5 million copies.",
+                "zh": "游戏此前已于2025年10月22日登陆PS5和PC，后陆续登陆Switch 2、Switch、Xbox Series及Microsoft Store，累计销量超过500万份。"
+              },
+              {
+                "en": "Deluxe Edition owners can now obtain a free update that adds a commentary mode featuring more than 16 hours of commentary from cast and crew including Aaron Paul and Laura Bailey, as well as a storyboard mode that lets players experience the entire game with the original storyboard animation; Standard Edition players can purchase the Deluxe Edition upgrade for $10.99.",
+                "zh": "豪华版所有者现已可免费获取更新，新增收录Aaron Paul、Laura Bailey等演职人员超过16小时评论的解说模式，以及让玩家以原始分镜动画体验整个游戏的分镜模式；标准版玩家可以10.99美元购买豪华版升级。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Ogopogo|公开爱哩爱哩概念预告与商店页|ailiaili 爱哩爱哩",
+          "title": "AI角色互动社交模拟器《ailiaili 爱哩爱哩》公开概念预告",
+          "summary": "Ogopogo公开AI角色互动社交网络模拟器《ailiaili 爱哩爱哩》首支概念影片，Steam与WeGame商店页同步开启，预计支持简繁中英文。",
+          "published_at": "2026-10-23T10:47:53+08:00",
+          "follow_up": false,
+          "new_facts": "首支概念影片公开；Steam与WeGame商店页开启；预计支持简体中文与英文；10月24-25日亮相北京核聚变。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Ogopogo",
+            "ailiaili 爱哩爱哩"
+          ],
+          "facts": [
+            {
+              "text": "Ogopogo于10月21日正式公开新作《ailiaili 爱哩爱哩》，这是一款AI角色互动社交网络模拟器，首支概念影片同步发布，Steam与WeGame商店页也已开启。据机核报道，故事始于一台据说1998年从深圳工厂流出的AI智能学习伙伴机AI-98，玩家多年后修复设备，发现里面居民仍在生活、打工、写日记，并会按照自己的节奏在城市分区移动，把经历变成账号动态。",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "2026 年 10 月 21 日，Ogopogo 正式公开全新作品《ailiaili 爱哩爱哩》，这是一款AI 角色互动社交网络模拟器。游戏首支概念影片今日发布，Steam 与 WeGame 商店页同步开启。"
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "《ailiaili 爱哩爱哩》的故事，从一台据说在 1998 年从深圳工厂流出的 AI 智能学习伙伴机开始。它的型号是 AI-98。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "玩家可以悄悄影响这个世界，但不能与居民直接对话，居民不知道玩家存在。游戏预计支持简体中文与英文，发行时间与价格尚未公布。10月24日至25日，本作将亮相核聚变北京站，现场开放「AI-98现实验证／居民认领」互动。",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "玩家可以悄悄影响这个世界，但不能与居民直接对话。居民不知道玩家在，玩家也无法证明自己存在。"
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "《ailiaili 爱哩爱哩》预计支持简体中文与英文。游戏现已开启 Steam 与 WeGame 商店页，玩家可前往添加愿望单，获取后续消息。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "消息来自机核转述的开发商资料，仅为概念预告阶段，发行日期、价格与完整玩法尚未确认。",
+          "bilingual": {
+            "title_en": "AI Character Interaction Social Simulator ailiaili Unveils Concept Teaser",
+            "sentences": [
+              {
+                "en": "Ogopogo officially unveiled its new title ailiaili on October 21, an AI character interaction social network simulator, alongside the release of its first concept trailer, with Steam and WeGame store pages also now live.",
+                "zh": "Ogopogo于10月21日正式公开新作《ailiaili 爱哩爱哩》，这是一款AI角色互动社交网络模拟器，首支概念影片同步发布，Steam与WeGame商店页也已开启。"
+              },
+              {
+                "en": "According to Gcores, the story begins with an AI smart learning companion device, AI-98, said to have left a Shenzhen factory in 1998; years later, the player repairs the device and discovers that its residents are still living there, working, and writing diaries, moving between city districts at their own pace and turning their experiences into account updates.",
+                "zh": "据机核报道，故事始于一台据说1998年从深圳工厂流出的AI智能学习伙伴机AI-98，玩家多年后修复设备，发现里面居民仍在生活、打工、写日记，并会按照自己的节奏在城市分区移动，把经历变成账号动态。"
+              },
+              {
+                "en": "Players can quietly influence this world but cannot talk directly with the residents, who do not know the player exists.",
+                "zh": "玩家可以悄悄影响这个世界，但不能与居民直接对话，居民不知道玩家存在。"
+              },
+              {
+                "en": "The game is expected to support Simplified Chinese and English, with a release date and price yet to be announced.",
+                "zh": "游戏预计支持简体中文与英文，发行时间与价格尚未公布。"
+              },
+              {
+                "en": "From October 24 to 25, the game will appear at Fusion Beijing, where an \"AI-98 Real-World Verification / Resident Claim\" interaction will be open on site.",
+                "zh": "10月24日至25日，本作将亮相核聚变北京站，现场开放「AI-98现实验证／居民认领」互动。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s7",
+      "url": "https://www.4gamer.net/games/948/G094822/20261023005/",
+      "title": "「プチプラネット」，リリース予告番組を11月1日20：00から配信。ゲームコンテンツや今後展開予定のイベント・キャンペーン情報を紹介",
+      "published_at": "2026-10-23T12:49:45+09:00"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.gematsu.com/2026/10/wo-long-2-wings-of-ember-alpha-demo-survey-results-announced",
+      "title": "Wo Long 2: Wings of Ember Alpha Demo survey results announced",
+      "published_at": "2026-10-23T01:27:17+00:00"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.gematsu.com/2026/10/dispatch-coming-to-ios-android-on-december-9-deluxe-edition-commentary-and-storyboard-modes-update-now-available",
+      "title": "Dispatch coming to iOS, Android on December 9; Deluxe Edition Commentary and Storyboard modes update now available",
+      "published_at": "2026-10-22T16:56:36+00:00"
+    },
+    {
+      "id": "s33",
+      "url": "https://www.gcores.com/articles/221377",
+      "title": "AI 角色互动社交网络模拟器《ailiaili 爱哩爱哩》概念预告公开 将亮相北京核聚变",
+      "published_at": "2026-10-23T10:47:53+08:00"
+    },
+    {
+      "id": "s8",
+      "url": "https://www.4gamer.net/games/014/G101429/20261023007/",
+      "title": "ダーク三國アクションRPG「Wo Long 2: Wings of Ember」，α体験版のフィードバックレポートを公開。改善方針も発表",
+      "published_at": "2026-10-23T12:10:14+09:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

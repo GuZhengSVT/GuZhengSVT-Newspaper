@@ -1,0 +1,392 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-23",
+  "title": "2026-10-23 科技",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "Canva发布首个自研图像生成模型Craft，先规划再生成",
+    "MiniMax发布Code Mini App，Agent应用以插件形式常驻运行",
+    "中电信星辰实验室发布并开源意图理解专用模型Xing4.0-29B-Intent",
+    "NVIDIA发布Minerva平台，面向AI工厂提供端到端可观测性"
+  ],
+  "window_start": "2026-10-22T12:00:00+08:00",
+  "window_end": "2026-10-23T12:00:00+08:00",
+  "generated_at": "2026-10-23T12:03:04.854174+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Canva|发布|Canva Craft 图像模型",
+          "title": "Canva发布首个自研图像生成模型Craft，先规划再生成",
+          "summary": "Canva推出自研图像生成模型Canva Craft，采用两阶段架构，先规划设计方案再生成图像，现已向全球所有用户开放。",
+          "published_at": "2026-10-23T05:51:25+08:00",
+          "follow_up": false,
+          "new_facts": "Canva发布首个自研AI图像生成模型Canva Craft，两阶段架构先规划再出图，支持最高2K分辨率和30多种宽高比，全球所有用户可用。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "Canva于10月22日发布其首个自研AI图像生成模型Canva Craft。据The Verge报道，该模型采用两阶段架构，先生成设计方案再生成图像，Canva称这带来“更高的精确度、一致性和控制力”。模型支持最高2K分辨率和30多种宽高比，可用于社交媒体内容、营销素材、写实场景和数字艺术等，并声称能更准确地生成需要清晰文字和精确物体位置的复杂图像。",
+              "evidence": [
+                {
+                  "source_id": "s51",
+                  "quote": "The model, called Canva Craft , uses a two-stage architecture that allows it to plan a design before generating an image, allowing for “greater precision, consistency and control,” according to an announcement on Thursday ."
+                },
+                {
+                  "source_id": "s51",
+                  "quote": "Canva Craft can generate images at up to 2K resolution and in more than 30 aspect ratios."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Canva称Craft使用平台内容库中“数百万份人工制作的模板”训练。在众包基准Design Arena的图像生成模型排行榜上，该模型目前位列第四，落后于OpenAI的GPT-Image-2.5 Sunburst、GPT-Image-2.5 Flare和GPT-Image-2。Canva Craft已向全球所有用户开放，入口在Canva左侧菜单的Dream Lab。",
+              "evidence": [
+                {
+                  "source_id": "s51",
+                  "quote": "Canva says it trained Craft on “millions of human-made templates” from the platform’s content library"
+                },
+                {
+                  "source_id": "s51",
+                  "quote": "The model is currently ranked fourth on Design Arena’s leaderboard for the best AI image generation models, a crowdsourced benchmark for AI designs."
+                },
+                {
+                  "source_id": "s51",
+                  "quote": "Canva Craft is available now to all users globally."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Canva",
+            "Canva Craft"
+          ],
+          "limitations": "仅The Verge一篇报道，Canva官方公告未直接取得；排行榜为众包基准，非独立技术评测。",
+          "bilingual": {
+            "title_en": "Canva Launches Craft, Its First In-House Image Generation Model, Which Plans Before It Generates",
+            "sentences": [
+              {
+                "en": "Canva released Canva Craft, its first in-house AI image generation model, on October 22.",
+                "zh": "Canva于10月22日发布其首个自研AI图像生成模型Canva Craft。"
+              },
+              {
+                "en": "According to The Verge, the model uses a two-stage architecture that first generates a design plan and then generates the image, which Canva says brings \"greater precision, consistency, and control.\"",
+                "zh": "据The Verge报道，该模型采用两阶段架构，先生成设计方案再生成图像，Canva称这带来“更高的精确度、一致性和控制力”。"
+              },
+              {
+                "en": "The model supports resolutions up to 2K and more than 30 aspect ratios, and can be used for social media content, marketing materials, photorealistic scenes, and digital art, among other things, and it is claimed to generate complex images that require clear text and precise object placement more accurately.",
+                "zh": "模型支持最高2K分辨率和30多种宽高比，可用于社交媒体内容、营销素材、写实场景和数字艺术等，并声称能更准确地生成需要清晰文字和精确物体位置的复杂图像。"
+              },
+              {
+                "en": "Canva says Craft was trained on \"millions of human-made templates\" in the platform's content library.",
+                "zh": "Canva称Craft使用平台内容库中“数百万份人工制作的模板”训练。"
+              },
+              {
+                "en": "On the crowdsourced Design Arena image generation model leaderboard, the model currently ranks fourth, behind OpenAI's GPT-Image-2.5 Sunburst, GPT-Image-2.5 Flare, and GPT-Image-2.",
+                "zh": "在众包基准Design Arena的图像生成模型排行榜上，该模型目前位列第四，落后于OpenAI的GPT-Image-2.5 Sunburst、GPT-Image-2.5 Flare和GPT-Image-2。"
+              },
+              {
+                "en": "Canva Craft is now available to all users worldwide, accessible through Dream Lab in Canva's left-hand menu.",
+                "zh": "Canva Craft已向全球所有用户开放，入口在Canva左侧菜单的Dream Lab。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "MiniMax|发布|Code Mini App",
+          "title": "MiniMax发布Code Mini App，Agent应用以插件形式常驻运行",
+          "summary": "MiniMax于10月22日发布Code Mini App，这是一种带前后端、以插件形式安装、可与Agent互相调用的应用形态，现已在桌面端本地会话中可用。",
+          "published_at": "2026-10-22T14:32:09+08:00",
+          "follow_up": false,
+          "new_facts": "MiniMax发布Code Mini App，插件形式安装，带Node后端和前端页面，可与Agent互相调用，首批含股市看板、CadQuery Viewer等，已在macOS/Windows桌面端可用并开源社区仓库。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "MiniMax于10月22日发布MiniMax Code Mini App。据其博客介绍，Mini App是一种带前端和后端、可以长期运行的应用，以插件形式安装，能与Agent互相调用，让Agent的工作留在一个持续运行的页面上。它兼容MiniMax Plugin协议，包含miniapp.json声明、前端页面和Node.js服务端，由宿主负责端口、鉴权、凭证和可回滚发布。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "Mini App 是一种带前端和后端、可以长期运行的应用，以插件形式安装，能和 Agent 互相调用，让 Agent 干的活留在一个一直在跑的页面上。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "此次发布包括Mini App运行时、可通过一句话把需求做成页面的/miniapp-creator，以及插件市场中的官方Mini App和开源社区仓库MiniMax-Code-MiniApps。首批官方应用包括股票信息看板、3D模型查看器和自驾规划工作台。MiniMax称Mini App代码以用户身份在本机运行，账号凭证由宿主保管，插件和页面无法获取，并提醒只安装来源可信的包。该功能现已在MiniMax Code桌面端macOS和Windows的本地会话中可用。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "今天发布的内容包括三部分： Mini App 运行时：Node 后端与持久数据目录、托管 MCP、Agent API、Host Connector，以及在页面中处理工具审批 /miniapp-creator ：在聊天里用一句话，从需求走到可用的页面 插件市场中的官方 Mini App，和开源社区仓库 MiniMax-Code-MiniApps"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "Mini App 现已在 MiniMax Code 桌面端（macOS / Windows）的本地会话中可用。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "MiniMax",
+            "MiniMax Code Mini App"
+          ],
+          "limitations": "功能与安全描述均来自MiniMax官方博客，未取得独立评测或第三方复现。",
+          "bilingual": {
+            "title_en": "MiniMax Releases Code Mini App, With Agent Applications Running Permanently as Plugins",
+            "sentences": [
+              {
+                "en": "MiniMax released the MiniMax Code Mini App on October 22.",
+                "zh": "MiniMax于10月22日发布MiniMax Code Mini App。"
+              },
+              {
+                "en": "According to its blog, a Mini App is an application with both a front end and a back end that can run over the long term; it is installed as a plugin and can call and be called by the Agent, keeping the Agent's work on a continuously running page.",
+                "zh": "据其博客介绍，Mini App是一种带前端和后端、可以长期运行的应用，以插件形式安装，能与Agent互相调用，让Agent的工作留在一个持续运行的页面上。"
+              },
+              {
+                "en": "It is compatible with the MiniMax Plugin protocol and includes a miniapp.json declaration, front-end pages and a Node.js server, while the host handles ports, authentication, credentials and rollback-capable releases.",
+                "zh": "它兼容MiniMax Plugin协议，包含miniapp.json声明、前端页面和Node.js服务端，由宿主负责端口、鉴权、凭证和可回滚发布。"
+              },
+              {
+                "en": "This release includes the Mini App runtime, /miniapp-creator, which can turn a requirement into a page in a single sentence, as well as official Mini Apps in the plugin marketplace and the open-source community repository MiniMax-Code-MiniApps.",
+                "zh": "此次发布包括Mini App运行时、可通过一句话把需求做成页面的/miniapp-creator，以及插件市场中的官方Mini App和开源社区仓库MiniMax-Code-MiniApps。"
+              },
+              {
+                "en": "The first batch of official applications includes a stock information dashboard, a 3D model viewer and a road-trip planning workbench.",
+                "zh": "首批官方应用包括股票信息看板、3D模型查看器和自驾规划工作台。"
+              },
+              {
+                "en": "MiniMax says Mini App code runs locally under the user's identity, account credentials are kept by the host and cannot be accessed by plugins or pages, and it reminds users to install only packages from trusted sources.",
+                "zh": "MiniMax称Mini App代码以用户身份在本机运行，账号凭证由宿主保管，插件和页面无法获取，并提醒只安装来源可信的包。"
+              },
+              {
+                "en": "The feature is now available in local sessions of the MiniMax Code desktop app on macOS and Windows.",
+                "zh": "该功能现已在MiniMax Code桌面端macOS和Windows的本地会话中可用。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "中电信人工智能公司|发布并开源|Xing4.0-29B-Intent",
+          "title": "中电信星辰实验室发布并开源意图理解专用模型Xing4.0-29B-Intent",
+          "summary": "中电信人工智能公司星辰通用人工智能实验室发布并开源意图理解专用模型Xing4.0-29B-Intent，同步开放275万条训练语料、模型权重与推理镜像，并公布两组自测评测结果。",
+          "published_at": "2026-10-22T15:11:14+08:00",
+          "follow_up": false,
+          "new_facts": "中电信星辰实验室发布并开源Xing4.0-29B-Intent，兼做意图分类和参数抽取，开放275.3万条语料、权重和推理镜像；自测总分58高于参评通用模型最高49。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "中电信人工智能科技有限公司星辰通用人工智能实验室发布并开源意图理解专用模型Xing4.0-29B-Intent，同步开放275.3万条监督微调训练语料、模型权重与推理镜像。模型基于星辰通用基座Xing4.0-29B-A4B微调，把意图识别与参数抽取结合，将用户一句话转换为业务系统可处理的结构化JSON信息，代码采用Apache 2.0许可。据量子位文章，该模型已在电信万号客服、智能家居音箱等场景应用。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "中国电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent，同步开放275万条训练语料、模型权重与推理镜像。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "此次开源包含以下四类资源： 01 275.3万条监督微调训练语料 重构自61个公开数据集，覆盖19个领域、52种语言。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "技术团队公布的评测显示，在48个中英文公开数据集抽取的6000道题上，该模型总分为58，高于其参评的18款通用模型中最高总分49。第二组5606道类别判断题中，其总决策分为70，对比模型Jev为56、GPT-6-Luna为65。文章注明上述评测由该公司技术团队开展，反映本次数据和测试设置下的表现，不代表所有任务和实际部署场景。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Xing4.0-29B-Intent总分为58，高于本次参评的18款市面主流通用模型的最高总分49；四类任务的分项得分也均高于本次参评通用模型。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "上述评测由本公司技术团队开展，评测结果反映参评模型在本次评测数据及测试设置下的表现，不代表所有任务和实际部署场景中的效果。"
+                }
+              ],
+              "kind": "limitation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "中电信人工智能科技有限公司",
+            "星辰通用人工智能实验室",
+            "Xing4.0-29B-Intent"
+          ],
+          "limitations": "报道由量子位获授权转载，原始材料归属发布方；评测为厂商自评，未获独立复现。",
+          "bilingual": {
+            "title_en": "China Telecom's Xingchen Lab releases and open-sources intent-understanding model Xing4.0-29B-Intent",
+            "sentences": [
+              {
+                "en": "The Xingchen Artificial General Intelligence Lab of China Telecom Artificial Intelligence Technology Co., Ltd. has released and open-sourced the intent-understanding dedicated model Xing4.0-29B-Intent, simultaneously opening 2.753 million supervised fine-tuning training corpus entries, the model weights and the inference image.",
+                "zh": "中电信人工智能科技有限公司星辰通用人工智能实验室发布并开源意图理解专用模型Xing4.0-29B-Intent，同步开放275.3万条监督微调训练语料、模型权重与推理镜像。"
+              },
+              {
+                "en": "The model is fine-tuned on the Xingchen general base model Xing4.0-29B-A4B, combines intent recognition with parameter extraction, and converts a user's single sentence into structured JSON information that business systems can process, with the code under the Apache 2.0 license.",
+                "zh": "模型基于星辰通用基座Xing4.0-29B-A4B微调，把意图识别与参数抽取结合，将用户一句话转换为业务系统可处理的结构化JSON信息，代码采用Apache 2.0许可。"
+              },
+              {
+                "en": "According to an article by QbitAI, the model has been applied in scenarios such as telecom ten-thousand-number customer service and smart home speakers.",
+                "zh": "据量子位文章，该模型已在电信万号客服、智能家居音箱等场景应用。"
+              },
+              {
+                "en": "An evaluation published by the technical team shows that on 6,000 questions extracted from 48 Chinese and English public datasets, the model scored 58 in total, higher than the highest total score of 49 among the 18 general models it was evaluated against.",
+                "zh": "技术团队公布的评测显示，在48个中英文公开数据集抽取的6000道题上，该模型总分为58，高于其参评的18款通用模型中最高总分49。"
+              },
+              {
+                "en": "In a second set of 5,606 category judgment questions, its total decision score was 70, compared with 56 for the comparison model Jev and 65 for GPT-6-Luna.",
+                "zh": "第二组5606道类别判断题中，其总决策分为70，对比模型Jev为56、GPT-6-Luna为65。"
+              },
+              {
+                "en": "The article notes that the above evaluation was conducted by the company's technical team, reflects performance under this data and test setup, and does not represent performance on all tasks and in actual deployment scenarios.",
+                "zh": "文章注明上述评测由该公司技术团队开展，反映本次数据和测试设置下的表现，不代表所有任务和实际部署场景。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NVIDIA|发布|Minerva AIOps平台",
+          "title": "NVIDIA发布Minerva平台，面向AI工厂提供端到端可观测性",
+          "summary": "NVIDIA于10月22日推出AIOps平台Minerva，整合基础设施与AI工作负载遥测，用专用AI模型将数据转化为可执行洞察，IREN等多家公司计划部署。",
+          "published_at": "2026-10-22T23:00:02+08:00",
+          "follow_up": false,
+          "new_facts": "NVIDIA发布Minerva AIOps平台，连接GPU、网络、存储、调度器和工作负载遥测，构建动态知识图谱，内置AI助手，IREN等计划部署，Dell、Lenovo、Supermicro将提供。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "NVIDIA于10月22日发布AIOps平台Minerva，用于帮助团队更早发现问题并维持AI工厂产出。该平台汇集NVIDIA GPU、网络、存储、调度器和工作负载的遥测数据，构建动态知识图谱，映射GPU、SuperNIC、交换机和线缆以及其上运行的任务，并称可每小时分析数十亿数据点，学习正常行为、检测异常、预测故障并关联相关事件。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "Minerva connects those signals across NVIDIA GPUs, networking, storage, schedulers and workloads."
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "It analyzes billions of data points per hour using supervised and unsupervised machine learning."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "Minerva提供原生AI助手并可连接外部智能体工具，操作员可通过对话查询集群健康状况并获得修复建议，也可保持人工确认后手动执行或接入自动化。NVIDIA称，IREN、Aolani、Bitdeer AI、IBM、Jio、Lambda、Quake AI和Tesla计划部署Minerva，Dell Technologies、Lenovo和Supermicro将把Minerva纳入其AI工厂运营产品。相关效果均为NVIDIA官方描述，未提供独立测试数据。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "Minerva comes with a native AI assistant and connects to external agentic AI tools."
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "Joining IREN , Aolani , Bitdeer AI , IBM , Jio, Lambda , Quake AI and Tesla plan to deploy Minerva. In addition to Dell Technologies , Lenovo and Supermicro will offer Minerva as part of their AI factory operations portfolios."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "NVIDIA Minerva"
+          ],
+          "limitations": "平台能力和客户计划均来自NVIDIA官方博客，未提供独立性能验证。",
+          "bilingual": {
+            "title_en": "NVIDIA Launches Minerva Platform, Bringing End-to-End Observability to AI Factories",
+            "sentences": [
+              {
+                "en": "On October 22, NVIDIA released Minerva, an AIOps platform designed to help teams detect problems earlier and sustain AI factory output.",
+                "zh": "NVIDIA于10月22日发布AIOps平台Minerva，用于帮助团队更早发现问题并维持AI工厂产出。"
+              },
+              {
+                "en": "The platform aggregates telemetry data from NVIDIA GPUs, networks, storage, schedulers, and workloads to build a dynamic knowledge graph that maps GPUs, SuperNICs, switches, and cables along with the jobs running on them, and it claims to analyze billions of data points per hour, learn normal behavior, detect anomalies, predict failures, and correlate related events.",
+                "zh": "该平台汇集NVIDIA GPU、网络、存储、调度器和工作负载的遥测数据，构建动态知识图谱，映射GPU、SuperNIC、交换机和线缆以及其上运行的任务，并称可每小时分析数十亿数据点，学习正常行为、检测异常、预测故障并关联相关事件。"
+              },
+              {
+                "en": "Minerva provides a native AI assistant and can connect to external agent tools, allowing operators to query cluster health through conversation and receive remediation suggestions, while also keeping manual execution after human confirmation or integrating with automation.",
+                "zh": "Minerva提供原生AI助手并可连接外部智能体工具，操作员可通过对话查询集群健康状况并获得修复建议，也可保持人工确认后手动执行或接入自动化。"
+              },
+              {
+                "en": "NVIDIA said IREN, Aolani, Bitdeer AI, IBM, Jio, Lambda, Quake AI, and Tesla plan to deploy Minerva, and that Dell Technologies, Lenovo, and Supermicro will incorporate Minerva into their AI factory operations offerings.",
+                "zh": "NVIDIA称，IREN、Aolani、Bitdeer AI、IBM、Jio、Lambda、Quake AI和Tesla计划部署Minerva，Dell Technologies、Lenovo和Supermicro将把Minerva纳入其AI工厂运营产品。"
+              },
+              {
+                "en": "These results are all based on NVIDIA's official descriptions, with no independent test data provided.",
+                "zh": "相关效果均为NVIDIA官方描述，未提供独立测试数据。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s13",
+      "url": "https://www.minimax.cn/blog/minimax-code-mini-app-1792650729",
+      "title": "插件即应用：MiniMax Code Mini App 正式发布 MiniMax Code Mini App 2026-10-22 插件即应用：MiniMax Code Mini App 正式发布 Mini App 是一种带前端和后端、可以长期运行的应用，以插件形式安装，能和 Agent 互相调用，让 Agent 干的活留在一个一直在跑的页面上。 阅读更多",
+      "published_at": "2026-10-22T06:32:09+00:00"
+    },
+    {
+      "id": "s18",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "published_at": "2026-10-22T15:11:14+08:00"
+    },
+    {
+      "id": "s51",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "published_at": "2026-10-22T21:51:25+00:00"
+    },
+    {
+      "id": "s31",
+      "url": "https://blogs.nvidia.com/blog/minerva-platform-infrastructure/",
+      "title": "NVIDIA Unveils Minerva to Bring End-to-End Observability for AI Factories",
+      "published_at": "2026-10-22T15:00:02+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "数码的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选资料未能充分核实，未予收录。",
+    "部分候选消息未能充分核实，未予收录。"
+  ],
+  "edition": "technology"
+}
