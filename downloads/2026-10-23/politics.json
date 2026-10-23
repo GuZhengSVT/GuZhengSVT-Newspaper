@@ -1,0 +1,63 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-23",
+  "title": "2026-10-23 政治",
+  "summary": "本期政治日报无合格新闻。候选的西藏巴青地震及中央救灾资金拨付属自然灾害与救灾财政事项，不符合政治板块收录范围；相关内容中BBC报道缺少可核实的发布时间。",
+  "highlights": [],
+  "window_start": "2026-10-22T12:00:00+08:00",
+  "window_end": "2026-10-23T12:00:00+08:00",
+  "generated_at": "2026-10-23T12:13:38.502508+08:00",
+  "sources": [],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [],
+  "edition": "politics"
+}
