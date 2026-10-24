@@ -1,0 +1,813 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-24",
+  "title": "2026-10-24 政治",
+  "summary": "本期收录7条通过核验的新闻。",
+  "highlights": [
+    "白宫调整部分加拿大商品关税，10月30日起生效",
+    "美司法部起诉，要求视情况阻止阿拉斯加参议院选举认证",
+    "白宫称梅拉尼娅·特朗普斡旋促成奥列什基局部停火",
+    "约旦卡拉克教堂葬礼遭枪击，7人死亡",
+    "两名以军士兵在希伯伦遇袭身亡，以军拆除巴方建筑并封锁西岸"
+  ],
+  "window_start": "2026-10-23T12:00:00+08:00",
+  "window_end": "2026-10-24T12:00:00+08:00",
+  "generated_at": "2026-10-24T12:05:35.691095+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|对加拿大部分商品调整关税|加拿大商品",
+          "title": "白宫调整部分加拿大商品关税，10月30日起生效",
+          "summary": "白宫宣布自10月30日起下调部分加拿大商品关税，同时对地毯等商品加征，缅因州共和党参议员柯林斯称曾推动此举。",
+          "published_at": "2026-10-24T08:36:47+08:00",
+          "follow_up": true,
+          "new_facts": "白宫宣布自10月30日起下调对部分加拿大商品的50%关税，涉及胶合板、部分纸制品、特定机械和制冷设备，同时对地毯和废弃物加征关税；共和党参议员柯林斯称曾游说促成。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "白宫10月23日宣布，自10月30日起下调对部分加拿大商品的50%关税，涉及胶合板、部分纸制品、特定机械和制冷设备；同时对地毯和“废弃物”等商品加征关税。白宫发言人米德尔顿称，此举体现特朗普“继续维护美国工人和公平贸易”的努力。加拿大内政贸易部长勒布朗表示，加方正在评估最新举措，愿本着诚意推动更互利的贸易关系。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "Starting on 30 October, tariffs will be eased on products including \"plywood sheets, some paper products, certain machinery and refrigeration equipment,\" the White House said on Friday."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "The White House said while tariffs would be lifted from some items, including some packing crates and boxes, they would be introduced on other items such as carpets and \"waste products\"."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "In a statement to the BBC, Canada's internal trade minister Dominic LeBlanc said: \"While we assess these latest steps, Canada stands ready to work constructively and in good faith towards a more mutually beneficial trading relationship that respects Canada's interests.\""
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "此次调整距美国中期选举不到两周。缅因州共和党参议员苏珊·柯林斯最先公布豁免消息，称这些商品对缅因州蓝莓、土豆、苹果和海藻种植业至关重要，她曾多次要求特朗普政府减轻关税负担。其民主党挑战者杰克逊批评特朗普的贸易战推高缅因州民众生活成本，柯林斯难辞其咎。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "Republican Senator Susan Collins, who is in a tight race to keep her seat in Maine, first announced the exemptions, saying they would help her state's agriculture industry."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "She wrote on X that the tariff exemptions were on products that were \"crucial to Maine's agricultural industries, including blueberry, potato, apple, and seaweed producers\"."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "Collins' Democratic challenger, Troy Jackson, responded: \"Trump's trade wars have made life harder and more expensive for Mainers."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "美加贸易谈判8月破裂后，美国对约200亿美元加拿大商品加征50%关税，加拿大随后以对等措施回应。特朗普同日称加拿大正“非常努力”推动贸易协议，加拿大总理卡尼则表示，若美方准备好，协议“今天下午就能签”，否则加方愿意等待。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "The US imposed a 50% levy on $20bn (£15bn) of Canadian goods after trade talks between the two countries collapsed in August."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "\"We could sign it this afternoon if the US were there. If it has to be months from now or longer than that, or another administration, before a proper deal comes into place, we will do that,\" he said on Friday, according to Canadian broadcaster CBC."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国白宫",
+            "加拿大",
+            "特朗普",
+            "苏珊·柯林斯"
+          ],
+          "limitations": "未取得白宫行政文件原文，商品清单与税率细节依据BBC报道；关税调整对选举的影响属媒体解读。",
+          "bilingual": {
+            "title_en": "White House Adjusts Tariffs on Some Canadian Goods, Effective October 30",
+            "sentences": [
+              {
+                "en": "The White House announced on October 23 that, effective October 30, it will lower the 50% tariff on certain Canadian goods, including plywood, some paper products, specific machinery and refrigeration equipment, while imposing higher tariffs on items such as carpets and \"waste\" materials.",
+                "zh": "白宫10月23日宣布，自10月30日起下调对部分加拿大商品的50%关税，涉及胶合板、部分纸制品、特定机械和制冷设备；同时对地毯和“废弃物”等商品加征关税。"
+              },
+              {
+                "en": "White House spokesperson Middleton said the move reflects Trump's effort to \"continue standing up for American workers and fair trade.\"",
+                "zh": "白宫发言人米德尔顿称，此举体现特朗普“继续维护美国工人和公平贸易”的努力。"
+              },
+              {
+                "en": "Canadian Minister of Domestic Trade Leblanc said Canada is assessing the latest measures and is willing to work in good faith toward a more mutually beneficial trade relationship.",
+                "zh": "加拿大内政贸易部长勒布朗表示，加方正在评估最新举措，愿本着诚意推动更互利的贸易关系。"
+              },
+              {
+                "en": "The adjustment comes less than two weeks before the U.S. midterm elections.",
+                "zh": "此次调整距美国中期选举不到两周。"
+              },
+              {
+                "en": "Republican Senator Susan Collins of Maine was the first to disclose the exemptions, saying these goods are vital to Maine's blueberry, potato, apple and seaweed growers, and that she had repeatedly asked the Trump administration to ease the tariff burden.",
+                "zh": "缅因州共和党参议员苏珊·柯林斯最先公布豁免消息，称这些商品对缅因州蓝莓、土豆、苹果和海藻种植业至关重要，她曾多次要求特朗普政府减轻关税负担。"
+              },
+              {
+                "en": "Her Democratic challenger Jackson criticized Trump's trade war for driving up living costs for Mainers and said Collins must bear her share of the blame.",
+                "zh": "其民主党挑战者杰克逊批评特朗普的贸易战推高缅因州民众生活成本，柯林斯难辞其咎。"
+              },
+              {
+                "en": "After U.S.-Canada trade talks broke down in August, the United States imposed a 50% tariff on about $20 billion in Canadian goods, and Canada responded with equivalent countermeasures.",
+                "zh": "美加贸易谈判8月破裂后，美国对约200亿美元加拿大商品加征50%关税，加拿大随后以对等措施回应。"
+              },
+              {
+                "en": "Trump said the same day that Canada is working \"very hard\" toward a trade deal, while Canadian Prime Minister Carney said that if the U.S. side is ready, a deal \"could be signed this afternoon,\" and otherwise Canada is willing to wait.",
+                "zh": "特朗普同日称加拿大正“非常努力”推动贸易协议，加拿大总理卡尼则表示，若美方准备好，协议“今天下午就能签”，否则加方愿意等待。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "美国司法部|起诉阻止阿拉斯加选举认证|阿拉斯加选举",
+          "title": "美司法部起诉，要求视情况阻止阿拉斯加参议院选举认证",
+          "summary": "美国司法部提起诉讼，主张选票上同名候选人可能误导选民，要求若共和党参议员沙利文落败且差距小于另一同名候选人得票则不得认证结果。",
+          "published_at": "2026-10-24T02:49:14+08:00",
+          "follow_up": true,
+          "new_facts": "司法部就阿拉斯加参议院选举提起诉讼，要求在该州共和党参议员沙利文落败且差距小于同名候选人丹尼尔·沙利文得票时阻止认证；特朗普称“是我让他们这么做的”。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "美国司法部10月22日向联邦法院提起诉讼，要求阻止阿拉斯加11月3日参议院选举结果的认证。诉状称，选票上除共和党现任参议员丹·沙利文外，还有一名同名候选人丹尼尔·沙利文，可能导致选民投错票。司法部请求法官裁定：若参议员沙利文落败且票差小于另一名沙利文的得票数，州政府不得认证结果，须先调查选民是否混淆。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "In a federal lawsuit filed on Thursday, the justice department said the inclusion of another Dan Sullivan on the ballot could lead some to mistakenly cast their votes for the wrong candidate."
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "The government wants the judge to bar the state from certifying the results if Senator Sullivan loses by a margin less than the other Sullivan."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "特朗普在启程参加竞选集会时对记者称“是我让他们这么做的”，并称另一名沙利文参选是“骗局”。此前阿拉斯加最高法院已驳回将这名退休教师沙利文从选票上除名的努力。民调显示参议员沙利文与民主党人佩尔托拉选情胶着。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "\"I'm the one that said do it,\" President Donald Trump told reporters when asked for his thoughts on the lawsuit after he landed in Florida for a campaign rally on Friday."
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "Polls suggest the race between Senator Sullivan and Democrat Mary Peltola is tight, with Peltola holding a narrow lead in the final days before the 3 November vote."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国司法部",
+            "阿拉斯加州",
+            "特朗普政府"
+          ],
+          "limitations": "仅BBC单篇报道，未取得诉状原文；州选举官员与法院未回应，诉讼结果未定。",
+          "bilingual": {
+            "title_en": "Justice Department sues to block Alaska Senate election certification under certain conditions",
+            "sentences": [
+              {
+                "en": "The U.S. Justice Department filed a lawsuit in federal court on October 22, seeking to block certification of the results of Alaska's November 3 Senate election.",
+                "zh": "美国司法部10月22日向联邦法院提起诉讼，要求阻止阿拉斯加11月3日参议院选举结果的认证。"
+              },
+              {
+                "en": "The complaint says that, besides Republican incumbent Senator Dan Sullivan, another candidate with the same name, Daniel Sullivan, was on the ballot, which could cause voters to cast their ballots incorrectly.",
+                "zh": "诉状称，选票上除共和党现任参议员丹·沙利文外，还有一名同名候选人丹尼尔·沙利文，可能导致选民投错票。"
+              },
+              {
+                "en": "The Justice Department asked the judge to rule that if Senator Sullivan loses and the margin is smaller than the number of votes won by the other Sullivan, the state government must not certify the results and must first investigate whether voters were confused.",
+                "zh": "司法部请求法官裁定：若参议员沙利文落败且票差小于另一名沙利文的得票数，州政府不得认证结果，须先调查选民是否混淆。"
+              },
+              {
+                "en": "Speaking to reporters as he departed to attend a campaign rally, Trump said, \"I got them to do it,\" and called the other Sullivan's candidacy a \"scam.\"",
+                "zh": "特朗普在启程参加竞选集会时对记者称“是我让他们这么做的”，并称另一名沙利文参选是“骗局”。"
+              },
+              {
+                "en": "Previously, the Alaska Supreme Court had rejected efforts to remove this retired teacher Sullivan from the ballot.",
+                "zh": "此前阿拉斯加最高法院已驳回将这名退休教师沙利文从选票上除名的努力。"
+              },
+              {
+                "en": "Polls show a tight race between Senator Sullivan and Democrat Peltola.",
+                "zh": "民调显示参议员沙利文与民主党人佩尔托拉选情胶着。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "俄罗斯与乌克兰|在奥列什基达成局部停火|奥列什基停火",
+          "title": "白宫称梅拉尼娅·特朗普斡旋促成奥列什基局部停火",
+          "summary": "白宫称第一夫人梅拉尼娅·特朗普促成俄乌在俄占奥列什基的局部停火，乌俄双方确认撤离与援助安排，但停火生效时间表述不一。",
+          "published_at": "2026-10-23T21:16:54+08:00",
+          "follow_up": false,
+          "new_facts": "白宫称梅拉尼娅·特朗普斡旋促成俄乌在奥列什基的局部停火，用于撤离居民和运送援助；乌方与俄方均确认停火安排，但白宫称10月29日开始，乌俄双方称10月27日02:00 GMT停火。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "白宫10月23日发表声明称，第一夫人梅拉尼娅·特朗普“成功促成”俄罗斯与乌克兰在俄占奥列什基的局部停火。白宫称，这座“处于灾难边缘”的前线城市缺乏药品、食物和清洁用水，停火将允许平民撤离并运入人道援助，但声明未说明停火持续多久。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky"
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "US First Lady Melania Trump has \"successfully secured\" a ceasefire between Russia and Ukraine in the Russian-occupied city of Oleshky, the White House has said."
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "The statement did not say how long the ceasefire would be in place for."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "乌克兰和俄罗斯均确认已就撤离居民和运送援助达成安排，双方称部队将于格林尼治时间10月27日2时停止射击。白宫则称停火自10月29日开始。乌方议员阿拉哈米亚称，“解除奥列什基及周边地区封锁的行动将在不久的将来开始”；俄总统新闻秘书佩斯科夫确认“愿意离开的人可以离开该定居点”。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "Ukraine and Russia confirmed the deal was agreed to evacuate residents and deliver aid. They both said their forces would stop firing at 02:00 GMT on 27 October."
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "It said the truce in the \"front-line war city on the brink of disaster\" without medicine, food and clean water would begin on 29 October."
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "In Russia, President Vladimir Putin's spokesman confirmed that, \"those who wish to do so will be able to leave this settlement\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "梅拉尼娅·特朗普称，两国非军事文职官员将合作探访奥列什基居民并确定所需援助，希望撤离的居民将获得协调支持和交通。奥列什基2022年2月开战初期即被俄军控制，战前约有2.4万居民，乌方估计目前仍有约6000人留在当地及周边，包括200名儿童。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "\"Non-military, civilian leaders from both countries will work together to visit Oleshky residents in their homes and determine the level of assistance they require,\" she is quoted as saying."
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "Oleshky was home to 24,000 people before Russia's full-scale invasion. Now Ukraine estimates that some 6,000 people remain in the city and its surrounding areas, including 200 children."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "俄罗斯",
+            "乌克兰",
+            "奥列什基",
+            "白宫",
+            "梅拉尼娅·特朗普"
+          ],
+          "limitations": "未取得白宫声明全文与俄乌官方文本，停火范围、起止时间及是否持续存在不确定性；白宫声明不能直接等同于停火已落实。",
+          "bilingual": {
+            "title_en": "White House Says Melania Trump Mediated a Local Ceasefire in Oleshky",
+            "sentences": [
+              {
+                "en": "The White House said in a statement on October 23 that First Lady Melania Trump \"successfully mediated\" a local ceasefire between Russia and Ukraine in Russian-occupied Oleshky.",
+                "zh": "白宫10月23日发表声明称，第一夫人梅拉尼娅·特朗普“成功促成”俄罗斯与乌克兰在俄占奥列什基的局部停火。"
+              },
+              {
+                "en": "The White House said the frontline town, which is \"on the brink of disaster,\" lacks medicine, food and clean water, and that the ceasefire will allow civilians to evacuate and humanitarian aid to be delivered, but the statement did not say how long the ceasefire would last.",
+                "zh": "白宫称，这座“处于灾难边缘”的前线城市缺乏药品、食物和清洁用水，停火将允许平民撤离并运入人道援助，但声明未说明停火持续多久。"
+              },
+              {
+                "en": "Both Ukraine and Russia confirmed that arrangements had been reached for evacuating residents and delivering aid, saying their troops would stop firing at 2 a.m. GMT on October 27.",
+                "zh": "乌克兰和俄罗斯均确认已就撤离居民和运送援助达成安排，双方称部队将于格林尼治时间10月27日2时停止射击。"
+              },
+              {
+                "en": "The White House said the ceasefire would begin on October 29.",
+                "zh": "白宫则称停火自10月29日开始。"
+              },
+              {
+                "en": "Ukrainian lawmaker Arakhamia said that \"the operation to lift the blockade of Oleshky and surrounding areas will begin in the near future,\" while Russian presidential press secretary Peskov confirmed that \"those who wish to leave can leave the settlement.\"",
+                "zh": "乌方议员阿拉哈米亚称，“解除奥列什基及周边地区封锁的行动将在不久的将来开始”；俄总统新闻秘书佩斯科夫确认“愿意离开的人可以离开该定居点”。"
+              },
+              {
+                "en": "Melania Trump said civilian, non-military officials from the two countries will work together to visit Oleshky residents and determine the aid they need, and that residents who wish to evacuate will receive coordinated support and transport.",
+                "zh": "梅拉尼娅·特朗普称，两国非军事文职官员将合作探访奥列什基居民并确定所需援助，希望撤离的居民将获得协调支持和交通。"
+              },
+              {
+                "en": "Oleshky was seized by Russian forces in the early days of the war in February 2022; it had about 24,000 residents before the war, and Ukraine estimates that about 6,000 people, including 200 children, remain in and around the town.",
+                "zh": "奥列什基2022年2月开战初期即被俄军控制，战前约有2.4万居民，乌方估计目前仍有约6000人留在当地及周边，包括200名儿童。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "约旦|卡拉克教堂葬礼枪击事件|卡拉克教堂枪击",
+          "title": "约旦卡拉克教堂葬礼遭枪击，7人死亡",
+          "summary": "约旦南部卡拉克省一座教堂葬礼上遭枪手袭击，造成7人死亡、至少34人受伤，官方称系恐袭，国王誓言严惩，枪手在逃。",
+          "published_at": "2026-10-24T05:54:48+08:00",
+          "follow_up": false,
+          "new_facts": "约旦卡拉克省一教堂葬礼遭多名枪手袭击，致7人死亡、至少34人受伤；内政部长称袭击者为“一群极端分子”，国王阿卜杜拉二世誓言以最严厉惩罚应对；枪手在逃。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "约旦官员10月23日称，该国中部卡拉克省胡穆德村一座教堂的葬礼遭枪手袭击，造成7人死亡、至少34人受伤。约旦内政部长法拉亚在新闻发布会上称袭击者是“一群极端分子”，当局正着手抓捕，尚无组织宣称负责。约旦国王阿卜杜拉二世表示，当局将“以最严厉的惩罚”应对这起针对卡拉克的恐怖行为。",
+              "evidence": [
+                {
+                  "source_id": "s77",
+                  "quote": "Seven people have been killed in an attack on a funeral in central Jordan, officials have said. At least 34 others were injured as gunmen opened fire on a church in Hmoud, in the Karak governorate on Friday."
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "In a news conference, Interior Minister Mazen al-Faraya said authorities were working to apprehend the perpetrators which he described as a \"group of extremists\"."
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "Jordan's King Abdullah II said authorities would \"confront the terrorist act that targeted Karak with the harshest penalties\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "BBC核实的监控录像显示，三名枪手从道路走向教堂，其中两人走向教堂场地入口，短暂后退后带第三名男子返回，三人似均持手枪。一名目击者称，事发时教堂内有150至200人，袭击持续约15分钟，枪手边开枪边乘皮卡逃离。死伤人数经官方多次修正，最初为7人，后一度改为6人，再改回7人。",
+              "evidence": [
+                {
+                  "source_id": "s77",
+                  "quote": "CCTV footage, verified by the BBC, appears to shows three gunmen making their way from a road toward the church."
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "Between 150 and 200 people were in the church at the time of the shooting, according to one witness"
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "Initial reports indicated seven people had been killed in the attack. A government spokesperson later said six people had died, before officials again revised the death toll to seven."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "胡穆德村地处以穆斯林为主的约旦，当地有规模可观的基督徒社群，此类暴力在约旦较为罕见。黎巴嫩总统奥恩称这起“卑劣的恐怖袭击”侵犯了死亡和悼念者的神圣性，违背一切宗教与人道价值。",
+              "evidence": [
+                {
+                  "source_id": "s77",
+                  "quote": "Karak has a sizeable Christian community in the majority-Muslim Jordan. Such violence is rare in the country, but deadly attacks have been carried out in the past."
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "Lebanon's President Joseph Aoun, a Christian head of state, said the \"heinous terrorist attack\" on the church \"violated the sanctity of death and funeral mourners, contradicts all religious and humanitarian values,\" according to Lebanese media."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "约旦",
+            "卡拉克省",
+            "约旦国王"
+          ],
+          "limitations": "袭击者身份、动机及是否落网尚未确认；死伤人数经多次修正。",
+          "bilingual": {
+            "title_en": "Gunmen Kill 7 at Jordan Church Funeral in Karak",
+            "sentences": [
+              {
+                "en": "Jordanian officials said on October 23 that gunmen attacked a church funeral in the village of Humud in Karak Governorate in central Jordan, killing 7 people and wounding at least 34.",
+                "zh": "约旦官员10月23日称，该国中部卡拉克省胡穆德村一座教堂的葬礼遭枪手袭击，造成7人死亡、至少34人受伤。"
+              },
+              {
+                "en": "Jordanian Interior Minister Falaya said at a news conference that the attackers were \"a group of extremists,\" that the authorities were moving to arrest them, and that no organization had claimed responsibility.",
+                "zh": "约旦内政部长法拉亚在新闻发布会上称袭击者是“一群极端分子”，当局正着手抓捕，尚无组织宣称负责。"
+              },
+              {
+                "en": "Jordan's King Abdullah II said the authorities would respond to this terrorist act targeting Karak \"with the harshest punishment.\"",
+                "zh": "约旦国王阿卜杜拉二世表示，当局将“以最严厉的惩罚”应对这起针对卡拉克的恐怖行为。"
+              },
+              {
+                "en": "Surveillance footage verified by the BBC shows three gunmen walking from the road toward the church, two of whom approach the entrance to the church grounds, briefly retreat and then return with the third man, and all three appear to be carrying pistols.",
+                "zh": "BBC核实的监控录像显示，三名枪手从道路走向教堂，其中两人走向教堂场地入口，短暂后退后带第三名男子返回，三人似均持手枪。"
+              },
+              {
+                "en": "A witness said there were 150 to 200 people inside the church at the time, the attack lasted about 15 minutes, and the gunmen fled in a pickup truck while firing.",
+                "zh": "一名目击者称，事发时教堂内有150至200人，袭击持续约15分钟，枪手边开枪边乘皮卡逃离。"
+              },
+              {
+                "en": "The casualty figures were revised several times by the authorities, initially standing at 7, then changed to 6, and then changed back to 7.",
+                "zh": "死伤人数经官方多次修正，最初为7人，后一度改为6人，再改回7人。"
+              },
+              {
+                "en": "The village of Humud lies in predominantly Muslim Jordan, where there is a sizable Christian community, and such violence is relatively rare in the country.",
+                "zh": "胡穆德村地处以穆斯林为主的约旦，当地有规模可观的基督徒社群，此类暴力在约旦较为罕见。"
+              },
+              {
+                "en": "Lebanese President Aoun said this \"despicable terrorist attack\" violated the sanctity of the dead and of those in mourning and ran counter to all religious and humanitarian values.",
+                "zh": "黎巴嫩总统奥恩称这起“卑劣的恐怖袭击”侵犯了死亡和悼念者的神圣性，违背一切宗教与人道价值。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "以色列|在希伯伦实施集体惩罚与封锁|希伯伦行动",
+          "title": "两名以军士兵在希伯伦遇袭身亡，以军拆除巴方建筑并封锁西岸",
+          "summary": "两名以军士兵在希伯伦检查站附近遭枪击身亡后，以军开始拆除巴勒斯坦建筑并封锁希伯伦与哈勒胡勒，内塔尼亚胡称将采取“非常广泛”行动。",
+          "published_at": "2026-10-23T23:22:11+08:00",
+          "follow_up": false,
+          "new_facts": "两名以军士兵在希伯伦检查站遭两名巴勒斯坦枪手袭击身亡，枪手被击毙；以军开始拆除袭击者所在社区的巴方建筑并封锁希伯伦与哈勒胡勒，内塔尼亚胡称将采取“非常广泛”行动。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "以色列军方称，两名以军士兵10月23日在希伯伦城外一处检查站遭两名巴勒斯坦枪手袭击身亡，另有三人受伤，两名枪手被击毙。以军称在袭击者车内发现大量弹药，认为枪手原计划在附近35号公路发动更大规模袭击，遇到检查站后改为在此开火。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "The Israeli military has begun demolishing Palestinian buildings in the city of Hebron, after two Israeli soldiers were killed in an attack by two Palestinian gunmen."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "Three other soldiers were wounded in the attack at a checkpoint outside Hebron, before the gunmen were shot dead, officials say."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "The Israeli military said it had found a large quantity of ammunition in the attackers' vehicle, and that they believe the gunmen had intended to carry out a much larger attack on the nearby Route 35, but ran into the checkpoint - so instead decided to open fire there."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "以色列总理内塔尼亚胡称，军方将“摧毁”袭击者来自的社区并“彻底改造”该地，并称已审阅数十年来西岸最大规模军事行动的计划，但未说明实施时间。他还宣布对约有20万居民的希伯伦及邻近的哈勒胡勒实施封锁。极右翼财长斯莫特里赫呼吁在西岸发动“像加沙或黎巴嫩一样”的行动，国安部长本-格维尔要求解散巴勒斯坦权力机构。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "Prime Minister Benjamin Netanyahu said the military would \"destroy\" the neighbourhood where the two attackers came from, and that Israel was ready for \"extensive action\" in the occupied West Bank."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "He also said he had reviewed plans for the largest military operation in the West Bank in decades - though did not say when it could be carried out. He added that he had imposed cordons around the city of Hebron - which has around 200,000 residents - and the nearby city of Halhul."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "Netanyahu's far-right Finance Minister Bezalel Smotrich called for Israel to launch a campaign in the West Bank \"exactly like in Gaza or Lebanon,\" while far-right National Security Minister Itamar Ben Gvir called for Israel to dismantle the Palestinian Authority."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "路透社图片显示，10月23日下午有挖掘机在希伯伦拆除巴勒斯坦民宅。以军拆毁袭击者住宅是以色列长期做法，以色列人权组织批评这是集体惩罚。据联合国统计，今年以来以军或定居者已在西岸杀害至少96名巴勒斯坦人；同期4名以色列人（安全部队和平民）被巴勒斯坦人杀害，不含本次袭击死者。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "Diggers were seen demolishing Palestinian homes on Friday afternoon"
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "It is common for Israeli forces to demolish the homes of Palestinians who are suspected of carrying out attacks on Israelis - a practice Israeli rights groups have criticised as collective punishment."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "At least 96 Palestinians have been killed by Israeli forces or settlers in the West Bank since the start of the year, according to the UN."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "此次袭击发生在以色列大选前四天，内塔尼亚胡以安全为竞选主轴，其利库德集团取消了原定10月23日上午的竞选活动。反对派人士向遇难士兵家属致哀，同时称赞击毙袭击者的人。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "It comes at a time of high tensions, with extremist Jewish settlers targeting Palestinians during the annual olive harvest, and Israel's general election taking place in four days' time."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "The incident has already begun to influence the ongoing election campaign, with Netanyahu - who has built his campaign on the promise of security - saying that his Likud party would cancel campaign events which had been set for Friday morning."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "以色列",
+            "希伯伦",
+            "巴勒斯坦",
+            "内塔尼亚胡",
+            "联合国"
+          ],
+          "limitations": "伤亡与拆除范围依据以军和媒体说法，巴方平民伤亡未获独立核实；西岸大规模行动计划仅有内塔尼亚胡表态，未见正式命令。",
+          "bilingual": {
+            "title_en": "Two Israeli Soldiers Killed in Hebron Attack; Israeli Military Demolishes Palestinian Buildings and Seals Off West Bank",
+            "sentences": [
+              {
+                "en": "The Israeli military said two Israeli soldiers were killed and three others wounded on October 23 when two Palestinian gunmen attacked a checkpoint outside Hebron, and that both gunmen were shot dead.",
+                "zh": "以色列军方称，两名以军士兵10月23日在希伯伦城外一处检查站遭两名巴勒斯坦枪手袭击身亡，另有三人受伤，两名枪手被击毙。"
+              },
+              {
+                "en": "The Israeli military said a large quantity of ammunition was found in the attackers' vehicle and that it believed the gunmen had intended to carry out a larger attack on nearby Route 35 but opened fire at the checkpoint after encountering it.",
+                "zh": "以军称在袭击者车内发现大量弹药，认为枪手原计划在附近35号公路发动更大规模袭击，遇到检查站后改为在此开火。"
+              },
+              {
+                "en": "Israeli Prime Minister Benjamin Netanyahu said the military would \"destroy\" the community the attackers came from and \"thoroughly reshape\" the area, and said he had reviewed plans for the largest military operation in the West Bank in decades, without specifying when it would be carried out.",
+                "zh": "以色列总理内塔尼亚胡称，军方将“摧毁”袭击者来自的社区并“彻底改造”该地，并称已审阅数十年来西岸最大规模军事行动的计划，但未说明实施时间。"
+              },
+              {
+                "en": "He also announced a closure of Hebron, home to about 200,000 residents, and the adjacent town of Halhul.",
+                "zh": "他还宣布对约有20万居民的希伯伦及邻近的哈勒胡勒实施封锁。"
+              },
+              {
+                "en": "Far-right Finance Minister Bezalel Smotrich called for an operation in the West Bank \"like in Gaza or Lebanon,\" while National Security Minister Itamar Ben-Gvir demanded the dissolution of the Palestinian Authority.",
+                "zh": "极右翼财长斯莫特里赫呼吁在西岸发动“像加沙或黎巴嫩一样”的行动，国安部长本-格维尔要求解散巴勒斯坦权力机构。"
+              },
+              {
+                "en": "Reuters photographs showed excavators demolishing Palestinian homes in Hebron on the afternoon of October 23.",
+                "zh": "路透社图片显示，10月23日下午有挖掘机在希伯伦拆除巴勒斯坦民宅。"
+              },
+              {
+                "en": "The Israeli military's demolition of the attacker's home is a long-standing Israeli practice that Israeli human rights groups criticize as collective punishment.",
+                "zh": "以军拆毁袭击者住宅是以色列长期做法，以色列人权组织批评这是集体惩罚。"
+              },
+              {
+                "en": "According to UN figures, Israeli forces or settlers have killed at least 96 Palestinians in the West Bank so far this year, while four Israelis, both security personnel and civilians, were killed by Palestinians in the same period, not including the Israelis killed in this attack.",
+                "zh": "据联合国统计，今年以来以军或定居者已在西岸杀害至少96名巴勒斯坦人；同期4名以色列人（安全部队和平民）被巴勒斯坦人杀害，不含本次袭击死者。"
+              },
+              {
+                "en": "The attack came four days before Israel's election, in which Netanyahu has made security his main campaign theme, and his Likud party canceled campaign events scheduled for the morning of October 23.",
+                "zh": "此次袭击发生在以色列大选前四天，内塔尼亚胡以安全为竞选主轴，其利库德集团取消了原定10月23日上午的竞选活动。"
+              },
+              {
+                "en": "Opposition figures offered condolences to the families of the slain soldiers while praising those who shot the attackers dead.",
+                "zh": "反对派人士向遇难士兵家属致哀，同时称赞击毙袭击者的人。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "阿根廷|撤销对总统米莱的加密欺诈调查|米莱加密欺诈调查",
+          "title": "阿根廷法院撤销对总统米莱的加密币欺诈调查",
+          "summary": "阿根廷联邦法官应检察官请求撤销针对总统米莱及其妹妹的加密货币欺诈调查，认定未证明存在刑事欺骗。",
+          "published_at": "2026-10-24T03:59:39+08:00",
+          "follow_up": false,
+          "new_facts": "阿根廷联邦法官马丁内斯·德·乔治应检察官请求，撤销针对总统米莱及其妹妹卡里娜·米莱的加密币欺诈调查，认定所报事件不构成法律范畴、未证明刑事欺骗。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "阿根廷联邦法官马塞洛·马丁内斯·德·乔治应检察官请求，撤销了针对总统哈维尔·米莱及其妹妹卡里娜·米莱与加密货币丑闻关联的刑事调查。据法庭记录，法官称“所报事件不属于法律范畴”，认定未证明存在“具有刑事相关性的欺骗”。米莱尚未回应案件被撤销的消息。",
+              "evidence": [
+                {
+                  "source_id": "s97",
+                  "quote": "The case against Milei and his sister Karina Milei was dismissed by federal judge Marcelo Martinez de Giorgi at the request of prosecutors, court records show."
+                },
+                {
+                  "source_id": "s97",
+                  "quote": "Dismissing the case, the judge said \"the reported events do not fall under a legal category\", and concluded that no \"criminally relevant deception\" had been proven."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "案件源于2025年2月米莱在社交平台X上推荐新推出的$Libra币，称其将资助小企业和初创公司，该币价格随即飙升，但数小时后米莱删除帖文，币值暴跌，多数投资者损失惨重。米莱否认推广该币，称“我只是分享”，并表示删除帖文是因当时不了解项目细节。",
+              "evidence": [
+                {
+                  "source_id": "s97",
+                  "quote": "Accusations of fraud arose when Milei posted on X, formerly Twitter, about the $Libra coin, which he said at the time would help fund small businesses and start-ups."
+                },
+                {
+                  "source_id": "s97",
+                  "quote": "The Argentinian president, though, insisted: \"I didn't promote it, I merely shared it\" in an interview with local media Todo Noticias'."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "阿根廷",
+            "哈维尔·米莱"
+          ],
+          "limitations": "仅BBC单篇报道，未取得法院裁定原文；案件原始指控细节与米莱办公室回应未获独立核实。",
+          "bilingual": {
+            "title_en": "Argentine Court Drops Cryptocurrency Fraud Investigation Into President Milei",
+            "sentences": [
+              {
+                "en": "Argentine federal judge Marcelo Martínez De Giorgi, at the request of prosecutors, dismissed the criminal investigation into President Javier Milei and his sister Karina Milei over their connection to a cryptocurrency scandal.",
+                "zh": "阿根廷联邦法官马塞洛·马丁内斯·德·乔治应检察官请求，撤销了针对总统哈维尔·米莱及其妹妹卡里娜·米莱与加密货币丑闻关联的刑事调查。"
+              },
+              {
+                "en": "According to court records, the judge said that \"the reported events do not fall within the legal sphere\" and found that no \"deception with criminal relevance\" had been proven.",
+                "zh": "据法庭记录，法官称“所报事件不属于法律范畴”，认定未证明存在“具有刑事相关性的欺骗”。"
+              },
+              {
+                "en": "Milei has not yet responded to news that the case was dismissed.",
+                "zh": "米莱尚未回应案件被撤销的消息。"
+              },
+              {
+                "en": "The case stemmed from Milei's recommendation on the social platform X in February 2025 of the newly launched $Libra coin, which he said would fund small businesses and startups; the coin's price soared immediately, but hours later Milei deleted the post, the coin's value plummeted, and most investors suffered heavy losses.",
+                "zh": "案件源于2025年2月米莱在社交平台X上推荐新推出的$Libra币，称其将资助小企业和初创公司，该币价格随即飙升，但数小时后米莱删除帖文，币值暴跌，多数投资者损失惨重。"
+              },
+              {
+                "en": "Milei denied promoting the coin, saying \"I just shared it,\" and stated that he deleted the post because he did not know the details of the project at the time.",
+                "zh": "米莱否认推广该币，称“我只是分享”，并表示删除帖文是因当时不了解项目细节。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "巴西|最高法院选举法院收到民间团体网络审查关切|巴西网络言论审查争议",
+          "title": "巴西50个团体向最高选举法院表达对网络内容审查的担忧",
+          "summary": "巴西50个社会组织、社会运动和工会联名向最高选举法院递交公开信，对社交平台内容审查风险表达关切，时值大选前夕。",
+          "published_at": "2026-10-24T09:03:00+08:00",
+          "follow_up": false,
+          "new_facts": "巴西50个社会组织、社会运动和工会联名向最高选举法院递交公开信，对社交平台内容审查风险表达关切，并质疑法院院长暂停WhatsApp频道“卢拉军团”等决定。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "巴西50个社会组织、社会运动和工会10月23日向巴西最高选举法院递交公开信，对运营社交平台的公司在内容审核和分发中缺乏透明度表达关切。这些团体属于“传播权与民主”组织，它们指控“强大势力”意在破坏2026年巴西选举的公正性。信中称，用户、传播者和政治账号报告遭封锁账号、降低帖子覆盖面，总统卢拉竞选连任的官方账号广告工具也被停用。",
+              "evidence": [
+                {
+                  "source_id": "s83",
+                  "quote": "Diversas entidades da sociedade civil entregaram nesta sexta-feira (23) uma nota pública ao Tribunal Superior Eleitoral (TSE) para demonstrar preocupação com riscos de censura pelas plataformas que operam as redes sociais."
+                },
+                {
+                  "source_id": "s83",
+                  "quote": "\"Forças poderosas atuam contra as eleições de 2026 no Brasil, com o objetivo de desestabilizar a integridade do processo eleitoral e impedir o livre e soberano exercício do voto pelo povo brasileiro\", diz trecho da nota."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "这些团体还对最高选举法院院长卡西奥·努内斯·马克斯的相关决定表示关切，提及暂停WhatsApp频道“卢拉军团”的尝试，主张法院打击虚假信息应以证据为基础，尊重正当程序与言论自由。同日稍早，法院法官弗洛里亚诺·德·阿泽维多·马克斯裁定，该频道不得再因法院成员的个人决定被暂停或限制。",
+              "evidence": [
+                {
+                  "source_id": "s83",
+                  "quote": "A preocupação com decisões do presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, também foi demonstrada pelas entidades , que citaram a tentativa de suspensão do canal do WhatsApp chamado \"Exército do Lula\"."
+                },
+                {
+                  "source_id": "s83",
+                  "quote": "Mais cedo, o ministro Floriano de Azevedo Marques, do TSE, decidiu que o canal \"Exército do Lula\" não poderá ser suspenso ou restringido novamente por decisões individuais dos membros da Corte ."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "巴西最高选举法院(TSE)",
+            "巴西公民社会组织"
+          ],
+          "limitations": "仅有巴西通讯社单篇报道，未取得联名信全文与TSE回应；平台审查、账号封锁等说法为团体指控，未获独立核实。",
+          "bilingual": {
+            "title_en": "50 Brazilian Groups Voice Concerns to Supreme Electoral Court Over Online Content Moderation",
+            "sentences": [
+              {
+                "en": "On October 23, 50 social organizations, social movements and trade unions in Brazil submitted an open letter to Brazil's Supreme Electoral Court, expressing concern over the lack of transparency in content moderation and distribution by companies operating social platforms.",
+                "zh": "巴西50个社会组织、社会运动和工会10月23日向巴西最高选举法院递交公开信，对运营社交平台的公司在内容审核和分发中缺乏透明度表达关切。"
+              },
+              {
+                "en": "These groups belong to the \"Communication Rights and Democracy\" organization, and they accuse \"powerful forces\" of intending to undermine the integrity of Brazil's 2026 elections.",
+                "zh": "这些团体属于“传播权与民主”组织，它们指控“强大势力”意在破坏2026年巴西选举的公正性。"
+              },
+              {
+                "en": "The letter states that users, communicators and political accounts have reported having accounts blocked and post reach reduced, and that the advertising tools of the official account of President Lula's reelection campaign were also disabled.",
+                "zh": "信中称，用户、传播者和政治账号报告遭封锁账号、降低帖子覆盖面，总统卢拉竞选连任的官方账号广告工具也被停用。"
+              },
+              {
+                "en": "The groups also expressed concern over decisions by Cássio Nunes Marques, president of the Supreme Electoral Court, citing attempts to suspend the WhatsApp channel \"Lula's Legion,\" and argued that the court's fight against disinformation should be evidence-based and respect due process and freedom of expression.",
+                "zh": "这些团体还对最高选举法院院长卡西奥·努内斯·马克斯的相关决定表示关切，提及暂停WhatsApp频道“卢拉军团”的尝试，主张法院打击虚假信息应以证据为基础，尊重正当程序与言论自由。"
+              },
+              {
+                "en": "Earlier the same day, court judge Floriano de Azevedo Marques ruled that the channel may no longer be suspended or restricted due to individual decisions by members of the court.",
+                "zh": "同日稍早，法院法官弗洛里亚诺·德·阿泽维多·马克斯裁定，该频道不得再因法院成员的个人决定被暂停或限制。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s21",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+      "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky",
+      "published_at": "2026-10-23T13:16:54+00:00"
+    },
+    {
+      "id": "s78",
+      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "published_at": null
+    },
+    {
+      "id": "s77",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "published_at": null
+    },
+    {
+      "id": "s28",
+      "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "published_at": null
+    },
+    {
+      "id": "s29",
+      "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump administration sues to block certification of upcoming Alaska election",
+      "published_at": null
+    },
+    {
+      "id": "s97",
+      "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+      "title": "Argentina drops investigation into President Milei over crypto fraud",
+      "published_at": null
+    },
+    {
+      "id": "s83",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/sociedade-civil-manifesta-preocupacao-ao-tse-por-censura-nas-redes",
+      "title": "Sociedade civil manifesta preocupação ao TSE por censura nas redes A manifestação foi assinada por 50 organizações sociais, movimentos populares e sindicatos.",
+      "published_at": "2026-10-23T22:03:00-03:00"
+    },
+    {
+      "id": "s31",
+      "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

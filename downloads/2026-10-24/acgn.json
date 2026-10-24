@@ -1,0 +1,117 @@
+{
+  "schema_version": 2,
+  "edition": "acgn",
+  "date": "2026-10-24",
+  "title": "2026-10-24 ACGN",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "Xbox首席运营官Helen Chiang上任三个月后离职"
+  ],
+  "window_start": "2026-10-23T12:00:00+08:00",
+  "window_end": "2026-10-24T12:00:00+08:00",
+  "generated_at": "2026-10-24T12:10:02.465586+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Xbox|首席运营官离职|Helen Chiang",
+          "title": "Xbox首席运营官Helen Chiang上任三个月后离职",
+          "summary": "据The Verge获得的内部备忘录，Xbox首席运营官Helen Chiang在任职三个月后离开微软，职责暂由其他高管分担。",
+          "published_at": "2026-10-24T06:00:23+08:00",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Xbox",
+            "Helen Chiang",
+            "Microsoft",
+            "Asha Sharma"
+          ],
+          "follow_up": true,
+          "new_facts": "Helen Chiang在出任Xbox首任首席运营官三个月后离开微软，结束21年任职；Xbox CEO Asha Sharma内部备忘录确认，职责暂由其他高管分担，继任安排未定。",
+          "verification": "single_source",
+          "limitations": "依据Gematsu转述The Verge获得内部备忘录，未直接取得微软或Xbox公开声明；离职原因未披露。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "据The Verge获得的内部备忘录，Helen Chiang在出任Xbox首席运营官三个月后离开微软，结束21年任职。Xbox CEO Asha Sharma在备忘录中表示感谢，但未说明离职原因，Xbox传播副总裁回应称不讨论个人人事事项。",
+              "evidence": [
+                {
+                  "source_id": "s1",
+                  "quote": "Helen Chiang has left her role as Xbox chief operating officer after just three months, according to an internal memo obtained by The Verge ."
+                }
+              ],
+              "verification": "single_source"
+            },
+            {
+              "kind": "fact",
+              "text": "Chiang于7月被任命为Xbox首位首席运营官，负责内容、硬件、平台与服务的损益职责，此前曾领导Mojang与《我的世界》系列。其职责将暂由其他Xbox负责人分担，直至确定该职位的长期领导方案。",
+              "evidence": [
+                {
+                  "source_id": "s1",
+                  "quote": "Chiang’s immediate responsibilities will be divided among other Xbox leaders until a permanent leadership plan for the role is finalized."
+                }
+              ],
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Xbox Chief Operating Officer Helen Chiang Departs Three Months After Taking Role",
+            "sentences": [
+              {
+                "en": "Helen Chiang left Microsoft after three months as Xbox chief operating officer, ending a 21-year tenure, according to an internal memo obtained by The Verge.",
+                "zh": "据The Verge获得的内部备忘录，Helen Chiang在出任Xbox首席运营官三个月后离开微软，结束21年任职。"
+              },
+              {
+                "en": "Xbox CEO Asha Sharma expressed thanks in the memo but did not state a reason for the departure, and an Xbox communications vice president responded that the company does not discuss individual personnel matters.",
+                "zh": "Xbox CEO Asha Sharma在备忘录中表示感谢，但未说明离职原因，Xbox传播副总裁回应称不讨论个人人事事项。"
+              },
+              {
+                "en": "Chiang was appointed in July as Xbox's first chief operating officer, responsible for profit-and-loss duties across content, hardware, platform and services, after previously leading Mojang and the Minecraft franchise.",
+                "zh": "Chiang于7月被任命为Xbox首位首席运营官，负责内容、硬件、平台与服务的损益职责，此前曾领导Mojang与《我的世界》系列。"
+              },
+              {
+                "en": "Her responsibilities will temporarily be shared by other Xbox leaders until a long-term leadership plan for the position is determined.",
+                "zh": "其职责将暂由其他Xbox负责人分担，直至确定该职位的长期领导方案。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.gematsu.com/2026/10/xbox-chief-operating-officer-helen-chiang-steps-down-after-three-months",
+      "title": "Xbox chief operating officer Helen Chiang steps down after three months",
+      "published_at": "2026-10-23T22:00:23+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "热门游戏事件与热梗的部分资料检索未完成，本期覆盖受限。",
+    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
