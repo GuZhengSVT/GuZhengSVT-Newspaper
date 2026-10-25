@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-25",
+  "title": "2026-10-25 政治",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "中国商务部反对美方新版对外投资限制拟议规则"
+  ],
+  "window_start": "2026-10-24T12:00:00+08:00",
+  "window_end": "2026-10-25T12:00:00+08:00",
+  "generated_at": "2026-10-25T12:13:57.399820+08:00",
+  "sources": [
+    {
+      "id": "s106",
+      "url": "https://www.mofcom.gov.cn/syxwfb/art/2026/art_fe1a483e92bf48a88409978cc738e62f.html",
+      "title": "商务部新闻发言人就美发布新版对外投资限制拟议规则答记者问",
+      "published_at": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|发布新版对外投资限制拟议规则|中国商务部回应",
+          "title": "中国商务部反对美方新版对外投资限制拟议规则",
+          "summary": "中国商务部新闻发言人10月24日就美财政部发布新版对外投资限制拟议规则答记者问，表示严重关切、坚决反对，称该规则歧视性扩大对华投资限制范围。",
+          "published_at": "2026-10-24T19:17:00+08:00",
+          "follow_up": true,
+          "new_facts": "美财政部10月23日发布新版对外投资限制拟议规则并征求意见；中国商务部10月24日回应，称其歧视性扩大对华限制，表示坚决反对并保留采取相应措施的权利。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "美国财政部",
+            "中国商务部",
+            "对外投资限制拟议规则"
+          ],
+          "facts": [
+            {
+              "text": "中国商务部新闻发言人10月24日就美方发布新版对外投资限制拟议规则答记者问。商务部称，该拟议规则歧视性扩大对华投资限制范围、加大限制力度，是泛化国家安全做法，违背两国元首达成的重要共识，干扰中美企业正常经贸合作。中方表示严重关切、坚决反对，将密切关注事态后续发展，并保留采取相应措施的权利。",
+              "evidence": [
+                {
+                  "source_id": "s106",
+                  "quote": "该拟议规则歧视性扩大对华投资限制范围，加大限制力度，是典型的泛化国家安全做法，违背两国元首达成的重要共识，干扰中美两国企业正常经贸合作，破坏国际经贸秩序。中方对此表示严重关切、坚决反对，将密切关注事态后续发展，保留采取相应措施的权利。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "商务部答问中提及，美财政部于10月23日发布该拟议规则并征求公众评论意见。商务部敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化。",
+              "evidence": [
+                {
+                  "source_id": "s106",
+                  "quote": "问：10月23日，美财政部发布新版对外投资限制拟议规则，征求公众评论意见。"
+                },
+                {
+                  "source_id": "s106",
+                  "quote": "中方敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化，为中美经贸合作创造良好环境。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "limitations": "商务部答问未列出拟议规则的具体投资限制行业和条款；美方拟议规则原文未在本次来源中取得，规则内容以商务部转述为准。",
+          "bilingual": {
+            "title_en": "China's Commerce Ministry Opposes New US Proposed Rules on Outbound Investment Restrictions",
+            "sentences": [
+              {
+                "en": "On October 24, a spokesperson for China's Ministry of Commerce answered reporters' questions regarding the new proposed rules on outbound investment restrictions released by the United States.",
+                "zh": "中国商务部新闻发言人10月24日就美方发布新版对外投资限制拟议规则答记者问。"
+              },
+              {
+                "en": "The Ministry of Commerce said that the proposed rules discriminatorily expand the scope and intensity of investment restrictions on China, constitute a practice of over-generalizing national security, violate the important consensus reached by the two heads of state, and disrupt normal economic and trade cooperation between Chinese and American enterprises.",
+                "zh": "商务部称，该拟议规则歧视性扩大对华投资限制范围、加大限制力度，是泛化国家安全做法，违背两国元首达成的重要共识，干扰中美企业正常经贸合作。"
+              },
+              {
+                "en": "The Chinese side expresses serious concern and firm opposition, will closely follow the subsequent development of the situation, and reserves the right to take corresponding measures.",
+                "zh": "中方表示严重关切、坚决反对，将密切关注事态后续发展，并保留采取相应措施的权利。"
+              },
+              {
+                "en": "In the question-and-answer, the Ministry of Commerce mentioned that the US Department of the Treasury released the proposed rules on October 23 and sought public comments.",
+                "zh": "商务部答问中提及，美财政部于10月23日发布该拟议规则并征求公众评论意见。"
+              },
+              {
+                "en": "The Ministry of Commerce urged the United States to respect the laws of the market economy, stop over-generalizing the concept of national security, and stop politicizing and weaponizing economic and trade issues.",
+                "zh": "商务部敦促美方尊重市场经济规律，停止泛化国家安全概念，停止将经贸问题政治化、武器化。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
