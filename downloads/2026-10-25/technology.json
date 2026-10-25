@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-25",
+  "title": "2026-10-25 科技",
+  "summary": "本期收录1条新闻。",
+  "highlights": [
+    "YouTube计划2027年初在网页端提供AV2流媒体"
+  ],
+  "window_start": "2026-10-24T12:00:00+08:00",
+  "window_end": "2026-10-25T12:00:00+08:00",
+  "generated_at": "2026-10-25T12:02:07.982150+08:00",
+  "edition": "technology",
+  "sources": [
+    {
+      "id": "s24",
+      "url": "https://www.techpowerup.com/354107/youtube-sets-early-2027-target-for-av2-streams-on-the-web",
+      "title": "YouTube Sets Early 2027 Target for AV2 Streams on the Web",
+      "published_at": "2026-10-25T00:35:00+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "YouTube|设定|AV2 网页流媒体早期 2027 年目标",
+          "title": "YouTube计划2027年初在网页端提供AV2流媒体",
+          "summary": "TechPowerUp援引开放媒体联盟更新及YouTube工程总监Des Keane的说法，YouTube计划最早2027年初在网页端开始AV2流媒体。AV2是AV1的免版税后继者，联盟称压缩效率提升约30%，但消费级GPU和电视尚无硬件解码支持。",
+          "published_at": "2026-10-25T08:35:00+08:00",
+          "follow_up": false,
+          "new_facts": "YouTube确认计划2027年初在网页端提供AV2流媒体，Chrome已演示AV2播放，但未公布版本和默认开启计划。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据TechPowerUp 10月25日报道，开放媒体联盟本周更新AV2进展，YouTube工程总监Des Keane确认平台将开始AV2流媒体，目标是“最早2027年初在网页端提供”。AV2是AV1的免版税后继者，联盟称其压缩效率比AV1提升约30%，并增加多流、多视点视频、更高帧率和改进HDR支持。",
+              "evidence": [
+                {
+                  "source_id": "s24",
+                  "quote": "Des Keane, Engineering Director at YouTube, confirmed the platform will begin streaming in AV2"
+                },
+                {
+                  "source_id": "s24",
+                  "quote": "YouTube AV2 streams will be available for Web as soon as early 2027."
+                },
+                {
+                  "source_id": "s24",
+                  "quote": "which is the royalty-free successor to AV1 that AOMedia says offers roughly 30% better compression"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Google Chrome工程副总裁Jim Bankoski表示已在浏览器中演示AV2播放，但未说明哪个Chrome版本支持或是否默认开启。报道指出，目前尚无消费级GPU或电视支持AV2硬件解码，早期播放可能依赖CPU软件解码，VideoLAN称AV2解码复杂度约为AV1的五倍。Netflix和Prime Video正在探索该格式，但未公布时间表。",
+              "evidence": [
+                {
+                  "source_id": "s24",
+                  "quote": "Jim Bankoski, VP of Engineering for Google Chrome, said AV2 playback has been demonstrated in the browser"
+                },
+                {
+                  "source_id": "s24",
+                  "quote": "no consumer GPU or TV supports AV2 hardware decoding yet"
+                },
+                {
+                  "source_id": "s24",
+                  "quote": "VideoLAN says AV2 decoding is roughly five times more complex than AV1"
+                },
+                {
+                  "source_id": "s24",
+                  "quote": "Netflix and Prime Video are also exploring the format, but neither has shared a timeline."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "YouTube",
+            "AOMedia",
+            "AV2"
+          ],
+          "limitations": "信息源自TechPowerUp对开放媒体联盟更新的转述，未直接取得YouTube官方公告原文；AV2压缩效率数字为联盟宣称，未经独立测试。",
+          "bilingual": {
+            "title_en": "YouTube Plans to Offer AV2 Streaming on Web in Early 2027",
+            "sentences": [
+              {
+                "en": "According to a TechPowerUp report on October 25, the Alliance for Open Media updated on AV2 progress this week, and YouTube Engineering Director Des Keane confirmed that the platform will begin AV2 streaming, with the goal of \"offering it on the web as early as early 2027.\"",
+                "zh": "据TechPowerUp 10月25日报道，开放媒体联盟本周更新AV2进展，YouTube工程总监Des Keane确认平台将开始AV2流媒体，目标是“最早2027年初在网页端提供”。"
+              },
+              {
+                "en": "AV2 is the royalty-free successor to AV1, and the alliance says its compression efficiency is about 30% higher than AV1's, with added support for multi-stream and multi-view video, higher frame rates, and improved HDR.",
+                "zh": "AV2是AV1的免版税后继者，联盟称其压缩效率比AV1提升约30%，并增加多流、多视点视频、更高帧率和改进HDR支持。"
+              },
+              {
+                "en": "Google Chrome Engineering Vice President Jim Bankoski said AV2 playback has been demonstrated in the browser, but did not say which Chrome version supports it or whether it is enabled by default.",
+                "zh": "Google Chrome工程副总裁Jim Bankoski表示已在浏览器中演示AV2播放，但未说明哪个Chrome版本支持或是否默认开启。"
+              },
+              {
+                "en": "The report notes that no consumer GPUs or TVs currently support AV2 hardware decoding, so early playback may rely on CPU software decoding, and VideoLAN says AV2 decoding complexity is about five times that of AV1.",
+                "zh": "报道指出，目前尚无消费级GPU或电视支持AV2硬件解码，早期播放可能依赖CPU软件解码，VideoLAN称AV2解码复杂度约为AV1的五倍。"
+              },
+              {
+                "en": "Netflix and Prime Video are exploring the format but have not announced a timeline.",
+                "zh": "Netflix和Prime Video正在探索该格式，但未公布时间表。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "数码的部分资料检索未完成，本期覆盖受限。",
+    "部分候选资料未能充分核实，未予收录。"
+  ]
+}
