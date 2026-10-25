@@ -1,0 +1,221 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-25",
+  "title": "2026-10-25 ACGN",
+  "summary": "Cygames在10月24日的直播中公布《赛马娘》新赛马娘「ウインマリリン」及新育成剧本「朋、史解き―午式駿大祭―」，剧本定于10月26日实装。Level Infinite同期公布《胜利女神：NIKKE》四周年三名新妮姬的登场时间与定位，四周年剧情活动也将于10月29日启动。",
+  "highlights": [
+    "《赛马娘》新赛马娘ウインマリリン为现役演员设定，CV广濑千夏，新育成剧本10月26日12时实装",
+    "《胜利女神：NIKKE》四周年公布三名新妮姬，玛丽安：女王与拉普贤儿：圣所10月29日登场，红莲：神杀11月5日登场"
+  ],
+  "window_start": "2026-10-24T12:00:00+08:00",
+  "window_end": "2026-10-25T12:00:00+08:00",
+  "generated_at": "2026-10-25T19:23:17.643717+08:00",
+  "sources": [
+    {
+      "id": "s2",
+      "url": "https://www.4gamer.net/games/554/G055489/20261025003/",
+      "title": "「ウマ娘 プリティーダービー」，新ウマ娘として「ウインマリリン」登場。「吾妻」が登場する新育成シナリオ追加も明らかに",
+      "published_at": "2026-10-25T12:37:09+09:00"
+    },
+    {
+      "id": "s6",
+      "url": "https://www.4gamer.net/games/456/G045622/20261024008/",
+      "title": "「勝利の女神：NIKKE」4周年記念イベント 新情報まとめ。新ニケ「マリアン：クイーン」「紅蓮：神殺」「ラプンツェル：サンクチュアリ」発表",
+      "published_at": "2026-10-24T20:55:50+09:00"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.4gamer.net/games/414/G041434/20261009017/",
+      "title": "「ウマ娘」新育成シナリオ「駿大祭編」を先行体験！ 「教え」と「演目稽古」が育成のカギに。初心者にも遊びやすい仕上がり［プレイレポ］",
+      "published_at": "2026-10-25T12:00:00+09:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Cygames|公布《赛马娘》新赛马娘及新育成剧本|ウインマリリン、新育成シナリオ「朋、史解き―午式駿大祭―」",
+          "title": "《赛马娘》公布新赛马娘ウインマリリン及新育成剧本，10月26日实装",
+          "summary": "Cygames在10月24日官方节目「ぱかライブTV' #8」中公布新赛马娘ウインマリリン及新育成剧本「朋、史解き―午式駿大祭―」，剧本定于10月26日12时实装，新增巫女角色「吾妻」并作为SSR支援卡登场。",
+          "published_at": "2026-10-24T19:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "新赛马娘ウインマリリン（CV广濑千夏）为现役演员设定；新育成剧本「朋、史解き―午式駿大祭―」10月26日12时实装，以「午式駿大祭」为舞台，新增巫女「吾妻」；新卡池含★3ダイワスカーレット、SSR吾妻、SSRマヤノトップガン。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "Cygames于2026年10月24日播出《赛马娘 Pretty Derby》官方节目「ぱかライブTV' #8」，公布新赛马娘「ウインマリリン」及新育成剧本「朋、史解き―午式駿大祭―」。据4Gamer报道，ウインマリリン设定为父亲是名演员、自幼以童星活跃的现役演员赛马娘，配音为广濑千夏。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "Cygamesは2026年10月24日， 「ウマ娘 プリティーダービー」 （ PC / iOS / Android ）の公式番組 「ぱかライブTV' #8」 を配信し，新ウマ娘として 「ウインマリリン」 を発表した。"
+                },
+                {
+                  "source_id": "s2",
+                  "quote": "ウインマリリンは名優の父を持ち，子役の頃からドラマや映画で活躍してきた現役俳優ウマ娘で，当たり役は，レースで敵を成敗していくスケバンとのこと。CVは 廣瀬千夏さん が務める。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "新育成剧本以十二年一度的神事「午式駿大祭」为舞台，内容为被选中的赛马娘们为祭典上的演目进行练习。掌控神事的巫女「吾妻」将作为特雷森学园相关人员登场，配音为三石琴乃，并同时作为新的友人支援卡推出。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "10月26日12：00の実装が予定されている同シナリオは，12年に一度の特別な神事 「午式駿大祭」 で披露する演目の稽古を，選ばれたウマ娘たちが行うという内容だ。 神事を司る巫女の 「吾妻」 が，トレセン学園関係者として登場する。"
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "新キャラクターは駿大祭の巫女「吾妻」。CVは三石琴乃さんが担当し，新たな友人サポカとしても登場"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "新剧本预定10月26日12时实装，同步推出「1日1回10連ガチャ無料キャンペーン」，以及包含★3ダイワスカーレット、SSR吾妻、SSRマヤノトップガン的「新育成シナリオ開幕 プリティーダービーガチャ」。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "このほか， 「1日1回10連ガチャ無料キャンペーン」 の開催や，「新育成シナリオ開幕 プリティーダービーガチャ」に 「★3ダイワスカーレット」「SSR吾妻」「SSRマヤノトップガン」 が登場することなどが発表されている。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Cygames",
+            "ウマ娘 プリティーダービー",
+            "ウインマリリン",
+            "朋、史解き―午式駿大祭―",
+            "吾妻"
+          ],
+          "limitations": "来源为4Gamer采编报道，非Cygames官方公告原文，报道内容均按单一来源处理。4Gamer的先行体验稿提到剧本仍在调整平衡，正式上线时手感可能不同。新赛马娘的具体实装日期与卡池类型未在来源中明确。",
+          "bilingual": {
+            "title_en": "Uma Musume Unveils New Character Win Marilyn and New Training Scenario, Set for October 26 Release",
+            "sentences": [
+              {
+                "en": "Cygames aired the official Uma Musume Pretty Derby program \"Paka Live TV' #8\" on October 24, 2026, announcing the new Uma Musume character Win Marilyn and the new training scenario \"Tomo, Shitoki — Uma-shiki Shundai-sai.\"",
+                "zh": "Cygames于2026年10月24日播出《赛马娘 Pretty Derby》官方节目「ぱかライブTV' #8」，公布新赛马娘「ウインマリリン」及新育成剧本「朋、史解き―午式駿大祭―」。"
+              },
+              {
+                "en": "According to 4Gamer, Win Marilyn is an active actress whose father is a famous actor and who has been active as a child star since childhood, and she is voiced by Chinatsu Hirose.",
+                "zh": "据4Gamer报道，ウインマリリン设定为父亲是名演员、自幼以童星活跃的现役演员赛马娘，配音为广濑千夏。"
+              },
+              {
+                "en": "The new training scenario is set at the Uma-shiki Shundai-sai, a Shinto ritual held once every twelve years, and depicts the selected Uma Musume practicing for a performance at the festival.",
+                "zh": "新育成剧本以十二年一度的神事「午式駿大祭」为舞台，内容为被选中的赛马娘们为祭典上的演目进行练习。"
+              },
+              {
+                "en": "The shrine maiden \"Azuma,\" who presides over the ritual, will appear as a member of the Tracen Academy staff, voiced by Kotono Mitsuishi, and will also be released as a new friend support card.",
+                "zh": "掌控神事的巫女「吾妻」将作为特雷森学园相关人员登场，配音为三石琴乃，并同时作为新的友人支援卡推出。"
+              },
+              {
+                "en": "The new scenario is scheduled to be implemented at 12:00 on October 26, and will be accompanied by the \"1 Free 10-Pull Gacha Once a Day Campaign\" and the \"New Training Scenario Opening Pretty Derby Gacha,\" which includes ★3 Daiwa Scarlet, SSR Azuma, and SSR Mayano Top Gun.",
+                "zh": "新剧本预定10月26日12时实装，同步推出「1日1回10連ガチャ無料キャンペーン」，以及包含★3ダイワスカーレット、SSR吾妻、SSRマヤノトップガン的「新育成シナリオ開幕 プリティーダービーガチャ」。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Level Infinite|公布《胜利女神：NIKKE》四周年新妮姬|マリアン：クイーン、紅蓮：神殺、ラプンツェル：サンクチュアリ",
+          "title": "《胜利女神：NIKKE》四周年公布三名新妮姬，10月29日起陆续登场",
+          "summary": "Level Infinite在10月24日四周年纪念节目中公布「マリアン：クイーン」「紅蓮：神殺」「ラプンツェル：サンクチュアリ」三名新妮姬，前两者与拉普贤儿：圣所分别定于10月29日更新后和11月5日登场，四周年剧情活动「MARIA-n」同日启动。",
+          "published_at": "2026-10-24T19:55:50+08:00",
+          "follow_up": true,
+          "new_facts": "四周年公布三名新妮姬：マリアン：クイーン（CV花澤香菜，火力型，10月29日更新后特殊募集）、紅蓮：神殺（CV上田麗奈，火力型，11月5日特殊募集）、ラプンツェル：サンクチュアリ（CV三森すずこ，支援型，10月29日更新后登场）；四周年剧情活动「MARIA-n」及主线49-50章10月29日实装。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "Level Infinite于2026年10月24日播出《胜利女神：NIKKE》四周年纪念节目「約束の地へ、女神集結」，公布三名新妮姬。据4Gamer报道，SSR妮姬「マリアン：クイーン」（CV花澤香菜）为周期性攻击多数敌人的火力型，10月29日更新后进入特殊募集；「紅蓮：神殺」（CV上田麗奈）为贯通攻击特化的火力型，11月5日起进入特殊募集。",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "SSRニケ 「マリアン：クイーン」 （CV：花澤香菜）は10月29日のアップデート後，特殊募集に登場する。周期的に多数の敵を攻撃する火力型ニケだ。"
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "SSRニケ 「紅蓮：神殺」 （CV：上田麗奈）の実装が発表された。貫通攻撃に特化した火力型ニケだ。11月5日より特殊募集に登場する。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "第三名新妮姬「ラプンツェル：サンクチュアリ」（CV三森すずこ）为回复队友并强化攻击能力的支援型，同样在10月29日更新后登场。四周年剧情活动「MARIA-n」与主线第49至50章也于同日实装，官方还公布了新服装及复刻服装6种再贩安排。",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "SSRニケ 「ラプンツェル：サンクチュアリ」 （CV：三森すずこ）は10月29日のアップデート後に登場する。味方を回復し，攻撃能力を強化する支援型ニケだ。"
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "10月29日のアップデート後より，4周年イベント 「MARIA-n」 が開催となる。スペシャルアニメーションの公開も予定されている。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Level Infinite",
+            "胜利女神：NIKKE",
+            "マリアン：クイーン",
+            "紅蓮：神殺",
+            "ラプンツェル：サンクチュアリ"
+          ],
+          "limitations": "来源为4Gamer对官方直播的采编报道，未直接取得Level Infinite公告原文；三名妮姬的中文正式译名、卡池类型及活动详细规则未能从来源核实。",
+          "bilingual": {
+            "title_en": "Goddess of Victory: NIKKE Announces Three New Nikkes for Fourth Anniversary, Debuting Successively from October 29",
+            "sentences": [
+              {
+                "en": "Level Infinite aired the Goddess of Victory: NIKKE fourth-anniversary program \"Yakusoku no Chi e, Megami Shūketsu\" on October 24, 2026, announcing three new Nikkes.",
+                "zh": "Level Infinite于2026年10月24日播出《胜利女神：NIKKE》四周年纪念节目「約束の地へ、女神集結」，公布三名新妮姬。"
+              },
+              {
+                "en": "According to 4Gamer, the SSR Nikke \"Marian: Queen\" (CV: Kana Hanazawa) is a firepower-type character who periodically attacks multiple enemies and will enter special recruitment after the October 29 update; \"Hongryeon: Godslayer\" (CV: Reina Ueda) is a firepower-type specialized in piercing attacks and will enter special recruitment from November 5.",
+                "zh": "据4Gamer报道，SSR妮姬「マリアン：クイーン」（CV花澤香菜）为周期性攻击多数敌人的火力型，10月29日更新后进入特殊募集；「紅蓮：神殺」（CV上田麗奈）为贯通攻击特化的火力型，11月5日起进入特殊募集。"
+              },
+              {
+                "en": "The third new Nikke, \"Rapunzel: Sanctuary\" (CV: Suzuko Mimori), is a support-type character who heals allies and enhances their attack capabilities, and she will also debut after the October 29 update.",
+                "zh": "第三名新妮姬「ラプンツェル：サンクチュアリ」（CV三森すずこ）为回复队友并强化攻击能力的支援型，同样在10月29日更新后登场。"
+              },
+              {
+                "en": "The fourth-anniversary story event \"MARIA-n\" and main story chapters 49 to 50 were also implemented the same day, and the official side additionally announced new outfits and re-release plans for six returning outfits.",
+                "zh": "四周年剧情活动「MARIA-n」与主线第49至50章也于同日实装，官方还公布了新服装及复刻服装6种再贩安排。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [],
+  "edition": "acgn"
+}
