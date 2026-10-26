@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-26",
+  "title": "2026-10-26 科技 · 材料",
+  "summary": "本期无合格新闻。",
+  "highlights": [],
+  "window_start": "2026-10-19T12:00:00+08:00",
+  "window_end": "2026-10-26T12:00:00+08:00",
+  "generated_at": "2026-10-26T12:03:09.175357+08:00",
+  "sources": [
+    {
+      "id": "s9",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261023023731.htm",
+      "title": "Scientists discover a hidden flaw that challenges 40 years of superconductor science",
+      "published_at": "2026-10-24T22:19:07-04:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "materials",
+      "name": "材料",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "超导材料|发现隐藏晶体结构缺陷|超导性认知",
+          "title": "三维成像发现铜氧化物超导体内部结构拼块，宽边界或影响超导性",
+          "summary": "华威大学团队利用扫描三维X射线衍射研究一类铜氧化物超导体，发现其内部并非均匀晶体，而是存在两种原子排列的拼块和异常宽的边界。研究者认为这些边界可能干扰超导性，相关结果发表于 Physical Review Letters。",
+          "published_at": "2026-10-25T10:19:07+08:00",
+          "follow_up": false,
+          "new_facts": "扫描三维X射线衍射显示，一种研究40年的铜氧化物超导体内部存在两种原子排列的拼块和数百倍于预期的宽边界；研究者提出这些边界可能对超导性不利，现有块体测量和理论模型或需重新审视。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "华威大学10月24日发布的新闻稿称，该校化学系团队与法国欧洲同步辐射设施合作，用扫描三维X射线衍射检查一种铜氧化物超导体内部。结果显示，晶体并非过去40年理论假设的均匀结构，而是由两种略有差异的原子排列区域拼合而成，区域间边界宽度达到预期值的数百倍。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "Instead of finding a uniform crystal, they discovered a patchwork of regions containing two slightly different atomic arrangements. Even more surprising were the boundaries separating these regions, which were hundreds of times wider than expected."
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "For four decades, scientists have generally built their theories of cuprate superconductivity around the assumption that these materials have the same crystal structure throughout their interiors. The new research shows that this fundamental assumption does not always hold."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "研究负责人 Mark Senn 表示，这些异常宽的边界区域可能干扰超导性，而不只是与超导区域共存；这可能解释不同超导材料性能差异，并意味着部分块体测量需要重新解释。新闻稿称论文发表于 Physical Review Letters，但未给出具体材料名称及定量超导性能数据。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "The crystal is fundamentally patchworked and textured, with unusually wide boundary regions that likely work against superconductivity rather than just sitting alongside it."
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "This might explain why some materials perform better than others and means some existing bulk measurements will need to be reinterpreted and future theoretical models built that incorporate this structural complexity."
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "The new findings, published in Physical Review Letters , come from researchers in Warwick's Department of Chemistry working with the European Synchrotron Radiation Facility (ESRF) in France."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "这项工作的意义在于把超导铜氧化物的微观结构不均匀性推到理论前台，但结构缺陷与超导性能之间的因果关系仍属研究者推断。新闻稿没有报告对超导转变温度或临界电流的同步测量，也没有说明该现象在同类材料中的普遍程度，研究者仅表示怀疑类似结构可能在其他铜氧化物中广泛存在。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "The researchers suspect that similar hidden structural patterns may be widespread among other cuprate superconductors."
+                }
+              ],
+              "kind": "limitation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "超导材料",
+            "铜氧化物超导体"
+          ],
+          "limitations": "仅取得华威大学新闻稿的 ScienceDaily 转载，未直接核对 Physical Review Letters 原文；具体材料、超导性能定量数据及边界与超导性的因果关系未在可用证据中给出，属研究者推断。",
+          "bilingual": {
+            "title_en": "Three-dimensional imaging reveals internal structural patches in a cuprate superconductor, with wide boundaries potentially affecting superconductivity",
+            "sentences": [
+              {
+                "en": "A press release issued by the University of Warwick on October 24 stated that a team from the university's Department of Chemistry, in collaboration with the French European Synchrotron Radiation Facility, used scanning three-dimensional X-ray diffraction to examine the interior of a cuprate superconductor.",
+                "zh": "华威大学10月24日发布的新闻稿称，该校化学系团队与法国欧洲同步辐射设施合作，用扫描三维X射线衍射检查一种铜氧化物超导体内部。"
+              },
+              {
+                "en": "The results showed that the crystal is not the uniform structure assumed by theory over the past 40 years, but is instead composed of patches of two slightly different atomic arrangements, with the boundaries between the regions reaching hundreds of times the expected width.",
+                "zh": "结果显示，晶体并非过去40年理论假设的均匀结构，而是由两种略有差异的原子排列区域拼合而成，区域间边界宽度达到预期值的数百倍。"
+              },
+              {
+                "en": "Research lead Mark Senn said that these unusually wide boundary regions may interfere with superconductivity rather than merely coexisting with superconducting regions; this may explain performance differences among different superconducting materials and implies that some bulk measurements need to be reinterpreted.",
+                "zh": "研究负责人 Mark Senn 表示，这些异常宽的边界区域可能干扰超导性，而不只是与超导区域共存；这可能解释不同超导材料性能差异，并意味着部分块体测量需要重新解释。"
+              },
+              {
+                "en": "The press release stated that the paper was published in Physical Review Letters but did not give the specific material name or quantitative superconducting performance data.",
+                "zh": "新闻稿称论文发表于 Physical Review Letters，但未给出具体材料名称及定量超导性能数据。"
+              },
+              {
+                "en": "The significance of this work lies in bringing the microstructural inhomogeneity of superconducting cuprates to the forefront of theory, but the causal relationship between structural defects and superconducting performance remains the researchers' inference.",
+                "zh": "这项工作的意义在于把超导铜氧化物的微观结构不均匀性推到理论前台，但结构缺陷与超导性能之间的因果关系仍属研究者推断。"
+              },
+              {
+                "en": "The press release did not report simultaneous measurements of the superconducting transition temperature or critical current, nor did it explain how common this phenomenon is among similar materials; the researchers only said they suspect that similar structures may be widespread in other cuprates.",
+                "zh": "新闻稿没有报告对超导转变温度或临界电流的同步测量，也没有说明该现象在同类材料中的普遍程度，研究者仅表示怀疑类似结构可能在其他铜氧化物中广泛存在。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "coverage_notes": [],
+  "edition": "technology-materials"
+}

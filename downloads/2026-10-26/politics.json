@@ -1,0 +1,378 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-26",
+  "title": "2026-10-26 政治",
+  "summary": "本期收录3条通过核验的新闻。",
+  "highlights": [
+    "以色列选举前关闭西岸口岸，特拉维夫爆发反政府集会",
+    "马查多结束流亡返回委内瑞拉",
+    "加蓬解除实施八个月的社交媒体禁令"
+  ],
+  "window_start": "2026-10-25T12:00:00+08:00",
+  "window_end": "2026-10-26T12:00:00+08:00",
+  "generated_at": "2026-10-26T12:06:57.357949+08:00",
+  "sources": [
+    {
+      "id": "s61",
+      "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Deeply divided Israel braces for pivotal election",
+      "published_at": null
+    },
+    {
+      "id": "s90",
+      "url": "https://www.bbc.co.uk/news/articles/c6x2w0ngejneo?at_medium=RSS&at_campaign=rss",
+      "title": "Gabon says access to social media restored after eight-month ban",
+      "published_at": null
+    },
+    {
+      "id": "s62",
+      "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
+      "title": "Israel to close West Bank crossings on election day as crackdown escalates",
+      "published_at": null
+    },
+    {
+      "id": "s78",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+      "title": "Venezuelan opposition leader María Machado returns after months in exile",
+      "published_at": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "以色列|举行议会选举|国家安全与民主议题",
+          "title": "以色列选举前关闭西岸口岸，特拉维夫爆发反政府集会",
+          "summary": "以色列定于周二举行议会选举，选前民调显示执政联盟与反对派阵营势均力敌。以军宣布选举日关闭西岸所有陆路口岸并禁止巴勒斯坦工人进入定居点，特拉维夫爆发要求调查10月7日袭击的大规模集会。",
+          "published_at": "2026-10-26T00:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "以色列选举定于周二举行；以军宣布选举日关闭西岸所有陆路口岸并禁止巴勒斯坦工人进入；特拉维夫爆发数千人反政府集会；选前民调显示执政联盟与反对派阵营接近。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "以色列定于周二举行议会选举。据BBC报道，选前民调显示执政联盟与主要反对派阵营支持率接近，约50万首次选民将投票。反对派阵营主要领导人之一、前军方总参谋长加迪·艾森科特与总理内塔尼亚胡在民调中不相上下。",
+              "evidence": [
+                {
+                  "source_id": "s61",
+                  "quote": "Polls published on Friday put the governing coalition and the main opposition bloc almost neck-and-neck, with half a million first-time voters due to cast their ballot"
+                },
+                {
+                  "source_id": "s61",
+                  "quote": "But he and his centrist Yashar party have regularly pipped Netanyahu and his Likud party to the top spot in recent polls"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "以色列军方宣布，选举日（周二）关闭约旦河西岸所有陆路口岸，并禁止巴勒斯坦工人进入包括工业区在内的所有定居点。以军称，自周日（10月25日）起大多数工人已被禁止进入定居点，仅工业区和少数区域例外。在两名以军士兵于检查站遇袭身亡后，以军在希伯伦展开行动；以防长卡茨称约2000名居民流离失所。",
+              "evidence": [
+                {
+                  "source_id": "s62",
+                  "quote": "The Israel Defense Forces announced a \"ban on the entry and exit of Palestinian workers throughout Judea and Samaria and the Jordan Valley, including industrial zones, as well as the closure of all land crossings\" on Tuesday."
+                },
+                {
+                  "source_id": "s62",
+                  "quote": "Israeli Defence Minister Israel Katz said about 2,000 residents had been displaced by the operation"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "据BBC报道，周六（10月24日）晚，数千人在特拉维夫举行反政府集会，要求就2023年10月7日哈马斯袭击事件成立国家调查委员会。集会由袭击受害者及被扣押人员家属组成的“十月委员会”组织。希伯伦市长贾巴里称，以军行动“由选举驱动”，意在争取极右翼和定居者选票。",
+              "evidence": [
+                {
+                  "source_id": "s62",
+                  "quote": "On Saturday, thousands gathered in Tel Aviv for a large anti-government demonstration. The protest was organised by the October Council, a group founded by the families of victims and hostages taken by militants on 7 October 2023, to demand accountability"
+                },
+                {
+                  "source_id": "s62",
+                  "quote": "Hebron Mayor Youssef al-Jaabari said the operation was being \"driven by the elections\""
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "以色列",
+            "本雅明·内塔尼亚胡",
+            "加迪·艾森科特"
+          ],
+          "limitations": "选举结果尚未产生，出口民调未公布；组阁前景取决于联盟谈判；西岸行动细节来自以军声明和媒体报道，伤亡与流离失所人数未获独立核实；选举具体日期仅由“周二”支持；两条BBC报道同属一家媒体，不构成独立互证。",
+          "bilingual": {
+            "title_en": "Israel Closes West Bank Crossings Ahead of Election as Anti-Government Rally Erupts in Tel Aviv",
+            "sentences": [
+              {
+                "en": "Israel is scheduled to hold parliamentary elections on Tuesday.",
+                "zh": "以色列定于周二举行议会选举。"
+              },
+              {
+                "en": "According to BBC reporting, pre-election polls show the ruling coalition and the main opposition camp are close in support, with about 500,000 first-time voters set to cast ballots.",
+                "zh": "据BBC报道，选前民调显示执政联盟与主要反对派阵营支持率接近，约50万首次选民将投票。"
+              },
+              {
+                "en": "Former military Chief of Staff Gadi Eisenkot, one of the main leaders of the opposition camp, is running neck and neck with Prime Minister Netanyahu in the polls.",
+                "zh": "反对派阵营主要领导人之一、前军方总参谋长加迪·艾森科特与总理内塔尼亚胡在民调中不相上下。"
+              },
+              {
+                "en": "The Israeli military announced that all land crossings in the West Bank will be closed on election day (Tuesday) and that Palestinian workers will be barred from entering all settlements, including industrial zones.",
+                "zh": "以色列军方宣布，选举日（周二）关闭约旦河西岸所有陆路口岸，并禁止巴勒斯坦工人进入包括工业区在内的所有定居点。"
+              },
+              {
+                "en": "The Israeli military said that since Sunday (October 25) most workers had already been barred from entering settlements, with exceptions only for industrial zones and a few areas.",
+                "zh": "以军称，自周日（10月25日）起大多数工人已被禁止进入定居点，仅工业区和少数区域例外。"
+              },
+              {
+                "en": "After two Israeli soldiers were killed in an attack at a checkpoint, the Israeli military launched an operation in Hebron; Israeli Defense Minister Katz said about 2,000 residents had been displaced.",
+                "zh": "在两名以军士兵于检查站遇袭身亡后，以军在希伯伦展开行动；以防长卡茨称约2000名居民流离失所。"
+              },
+              {
+                "en": "According to BBC reporting, on Saturday (October 24) night, thousands of people held an anti-government rally in Tel Aviv demanding a state commission of inquiry into the October 7, 2023, Hamas attack.",
+                "zh": "据BBC报道，周六（10月24日）晚，数千人在特拉维夫举行反政府集会，要求就2023年10月7日哈马斯袭击事件成立国家调查委员会。"
+              },
+              {
+                "en": "The rally was organized by the \"October Council,\" made up of victims of the attack and families of detainees.",
+                "zh": "集会由袭击受害者及被扣押人员家属组成的“十月委员会”组织。"
+              },
+              {
+                "en": "Hebron Mayor Jabari said the Israeli military operation is \"election-driven\" and aimed at winning votes from the far right and settlers.",
+                "zh": "希伯伦市长贾巴里称，以军行动“由选举驱动”，意在争取极右翼和定居者选票。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "委内瑞拉|反对派领袖回国|玛丽亚·科里纳·马查多",
+          "title": "马查多结束流亡返回委内瑞拉",
+          "summary": "委内瑞拉反对派领袖玛丽亚·科里纳·马查多在流亡超过10个月后于周日返回加拉加斯。美国国务卿鲁比奥称其安全返回是美国支持的“和解谈判”的直接结果。马查多未说明下一步计划。",
+          "published_at": "2026-10-26T05:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "马查多结束超过10个月流亡返回委内瑞拉，周日抵达加拉加斯；美国国务卿鲁比奥称其返回是美国支持的和解谈判结果；马查多未说明下一步计划。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "委内瑞拉反对派领袖玛丽亚·科里纳·马查多在流亡超过10个月后返回委内瑞拉。她在社交平台X上写道：“我在这里。和你们在一起。”据BBC报道，她当天在拉拉州与支持者见面，随后在支持者车队陪同下前往首都加拉加斯，晚间抵达。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "Venezuelan opposition leader María Corina Machado has returned home to a fraught political landscape after more than 10 months in exile. \"I am here. With you,\" Machado wrote on X on Sunday."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "Machado was photographed on Sunday attending Mass at a church in the Venezuelan state of Lara, surrounded by supporters hugging her and clasping her hands."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "美国国务卿鲁比奥在社交平台X上表示，马查多安全返回的条件是美国支持的和解谈判的直接结果，谈判已促成数百名政治犯获释、数百名政治反对派人士结束流亡。马查多的发言人斯莫兰斯基感谢特朗普政府、鲁比奥及美国国会。特朗普对记者称，他不知道马查多回国的消息，但希望她安全。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "\"The conditions allowing for the safe return of Ms Machado to Venezuela is the direct result of the US supported reconciliation talks which has already seen hundreds of political prisoners freed and hundreds of political opposition figures return from exile,\" he posted on X."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "Speaking to reporters on Sunday, Trump said, \"I don't know anything about\" her return, and added that he hoped she was \"safe\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "马查多是委内瑞拉反对派主要领导人，2023年在非官方初选中赢得超过90%选票，但被马杜罗政府禁止参选。BBC报道称，她此前曾表示，若举行选举将再次参选。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "A staunch supporter of democracy, Machado won an independent presidential primary election - held outside the Maduro government's official election authority - in 2023, earning more than 90% of the vote."
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "It's unclear what Machado plans to do next now that she's back, but she has previously said she would run for president again if an election were held ."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "委内瑞拉",
+            "María Corina Machado"
+          ],
+          "limitations": "回国具体日期仅由“周日”及报道时间支持；马查多回国后的具体计划及其是否面临逮捕风险尚不明确。",
+          "bilingual": {
+            "title_en": "Machado Returns to Venezuela After Exile",
+            "sentences": [
+              {
+                "en": "Venezuelan opposition leader María Corina Machado has returned to Venezuela after more than 10 months in exile.",
+                "zh": "委内瑞拉反对派领袖玛丽亚·科里纳·马查多在流亡超过10个月后返回委内瑞拉。"
+              },
+              {
+                "en": "She wrote on the social platform X: \"Here I am.",
+                "zh": "她在社交平台X上写道：“我在这里。"
+              },
+              {
+                "en": "With you.\"",
+                "zh": "和你们在一起。”"
+              },
+              {
+                "en": "According to BBC reporting, she met with supporters in Lara state that day and then traveled to the capital, Caracas, accompanied by a convoy of supporters, arriving in the evening.",
+                "zh": "据BBC报道，她当天在拉拉州与支持者见面，随后在支持者车队陪同下前往首都加拉加斯，晚间抵达。"
+              },
+              {
+                "en": "U.S. Secretary of State Rubio said on the social platform X that the conditions for Machado's safe return were a direct result of U.S.-backed reconciliation talks, which have led to the release of hundreds of political prisoners and the end of exile for hundreds of political opposition figures.",
+                "zh": "美国国务卿鲁比奥在社交平台X上表示，马查多安全返回的条件是美国支持的和解谈判的直接结果，谈判已促成数百名政治犯获释、数百名政治反对派人士结束流亡。"
+              },
+              {
+                "en": "Machado's spokesperson Smolansky thanked the Trump administration, Rubio and the U.S. Congress.",
+                "zh": "马查多的发言人斯莫兰斯基感谢特朗普政府、鲁比奥及美国国会。"
+              },
+              {
+                "en": "Trump told reporters that he had not known about news of Machado's return but hoped she was safe.",
+                "zh": "特朗普对记者称，他不知道马查多回国的消息，但希望她安全。"
+              },
+              {
+                "en": "Machado is the main leader of Venezuela's opposition; in 2023 she won more than 90% of the vote in an unofficial primary but was barred from running by the Maduro government.",
+                "zh": "马查多是委内瑞拉反对派主要领导人，2023年在非官方初选中赢得超过90%选票，但被马杜罗政府禁止参选。"
+              },
+              {
+                "en": "BBC reported that she had previously said she would run again if an election were held.",
+                "zh": "BBC报道称，她此前曾表示，若举行选举将再次参选。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "加蓬|解除社交媒体禁令|恢复接入",
+          "title": "加蓬解除实施八个月的社交媒体禁令",
+          "summary": "加蓬高级通信委员会宣布解除实施八个月的社交媒体禁令，该禁令于2月17日实施，涉及Facebook、TikTok、YouTube和Instagram等平台。禁令实施时正值总统恩圭马面临社会动荡。",
+          "published_at": "2026-10-25T22:39:47+08:00",
+          "follow_up": false,
+          "new_facts": "加蓬高级通信委员会宣布解除2月17日实施的社交媒体禁令，恢复Facebook、TikTok、YouTube和Instagram等平台访问。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "加蓬高级通信委员会在电视声明中宣布，解除实施八个月的社交媒体禁令。该禁令于2月17日实施，涉及Facebook、TikTok、YouTube和Instagram等平台。",
+              "evidence": [
+                {
+                  "source_id": "s90",
+                  "quote": "The High Communication Authority (HAC) announced the U-turn on Saturday in a televised statement. The BBC has approached the country's media regulator for comment."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "禁令实施时，高级通信委员会称网络内容正在助长冲突、加深国家分裂。反对派称暂停社交媒体是滥用权力。禁令实施之际，加蓬总统布里斯·奥利吉·恩圭马正面临社会动荡，教师和公务员就低工资和恶劣工作条件举行罢工。许多加蓬人转而使用VPN继续访问社交媒体。",
+              "evidence": [
+                {
+                  "source_id": "s90",
+                  "quote": "The ban had been introduced on 17 February, with the HAC saying that online content was fuelling conflict and deepening divisions in the country."
+                },
+                {
+                  "source_id": "s90",
+                  "quote": "The ban had been imposed at a time when the Gabonese President Brice Oligui Nguema was facing a wave of social unrest less than a year after his election."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "加蓬"
+          ],
+          "limitations": "报道仅引述高级通信委员会电视声明，未提供解除范围和生效时间细节；宣布日期仅由“周六”支持；加蓬媒体监管机构未对BBC置评。",
+          "bilingual": {
+            "title_en": "Gabon Lifts Eight-Month Social Media Ban",
+            "sentences": [
+              {
+                "en": "Gabon's High Council for Communication announced in a televised statement that it was lifting an eight-month social media ban.",
+                "zh": "加蓬高级通信委员会在电视声明中宣布，解除实施八个月的社交媒体禁令。"
+              },
+              {
+                "en": "The ban, implemented on February 17, covered platforms including Facebook, TikTok, YouTube and Instagram.",
+                "zh": "该禁令于2月17日实施，涉及Facebook、TikTok、YouTube和Instagram等平台。"
+              },
+              {
+                "en": "When the ban was imposed, the High Council for Communication said online content was fueling conflict and deepening divisions in the country.",
+                "zh": "禁令实施时，高级通信委员会称网络内容正在助长冲突、加深国家分裂。"
+              },
+              {
+                "en": "The opposition said suspending social media was an abuse of power.",
+                "zh": "反对派称暂停社交媒体是滥用权力。"
+              },
+              {
+                "en": "The ban came as Gabon's President Brice Oligui Nguema faced social unrest, with teachers and civil servants striking over low pay and poor working conditions.",
+                "zh": "禁令实施之际，加蓬总统布里斯·奥利吉·恩圭马正面临社会动荡，教师和公务员就低工资和恶劣工作条件举行罢工。"
+              },
+              {
+                "en": "Many Gabonese turned to VPNs to continue accessing social media.",
+                "zh": "许多加蓬人转而使用VPN继续访问社交媒体。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
