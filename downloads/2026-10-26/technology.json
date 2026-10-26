@@ -1,0 +1,240 @@
+{
+  "schema_version": 2,
+  "edition": "technology",
+  "date": "2026-10-26",
+  "title": "2026-10-26 科技",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "iPhone Duo折叠屏出现屏幕与铰链损坏报告，拆解指向铰链薄弱环节",
+    "WPS for Pad安卓原生版上线小米应用商城，支持小米18 Fold与平板"
+  ],
+  "window_start": "2026-10-25T12:00:00+08:00",
+  "window_end": "2026-10-26T12:00:00+08:00",
+  "generated_at": "2026-10-26T12:12:31.374974+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Apple|发布|iPhone Duo折叠屏",
+          "title": "iPhone Duo折叠屏出现屏幕与铰链损坏报告，拆解指向铰链薄弱环节",
+          "summary": "The Verge报道，社交平台和iPhone Duo子版块出现多起屏幕与铰链损坏报告；iFixit拆解给出5/10可维修评分，YouTuber CuriousHagi复现裂纹并将原因指向铰链中较薄的连接件。",
+          "published_at": "2026-10-26T04:16:19+08:00",
+          "follow_up": true,
+          "new_facts": "iFixit拆解iPhone Duo给出5/10可维修评分，称内屏纳米纹理层可散射反射掩盖折痕，椭圆形子像素按不同角度排列；YouTuber CuriousHagi复现屏幕裂纹，发现铰链中央连接件较上下连接件更薄并在缺口处断裂。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Apple",
+            "iPhone Duo",
+            "iFixit"
+          ],
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "The Verge于10月25日报道，社交媒体和iPhone Duo子版块出现多起用户报告，称这款折叠屏手机在短时间内出现铰链卡滞、发出响声并导致屏幕破裂，裂纹位置相似。iFixit拆解后给出5/10的可维修评分，称这是该网站迄今给折叠屏手机的最高分，但屏幕本身维修仍昂贵困难。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s38",
+                  "quote": "It found some interesting details about how Apple might be hiding the crease on the Duo’s folding screen and gave it a 5/10 repairability score. That might not seem particularly high, but it’s the best score the site has given to a foldable yet."
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "Social media and the iPhone Duo subreddit are filled with reports of Apple’s foldable failing quickly and in spectacular fashion."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "iFixit认为，内屏的哑光纳米纹理覆盖层不仅提升强光下可读性，还通过散射反射帮助掩盖折痕；显微镜下可见椭圆形子像素以不同角度排列，可能用于减少伪影并进一步隐藏折痕。该纳米纹理外层较易更换，无需更换下方OLED。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s38",
+                  "quote": "The internal screen’s matte nano-texture cover doesn’t just make it more readable in bright sunlight; it also helps mask the crease by scattering reflections."
+                },
+                {
+                  "source_id": "s38",
+                  "quote": "When looking at the display under a microscope, iFixit also found oval-shaped subpixels arranged at various angles, which the site believes are designed to reduce artifacts and further mask the crease down the middle of the display."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "YouTuber CuriousHagi在耐久测试中复现了屏幕开裂，拆解后发现铰链由齿轮状中央铰链和两种连接铰链组成，断裂的是中部一个比上下连接件更薄的连接件，并在最薄弱的缺口处断开；他还发现铰链与支撑板接触处有压痕，可能表明卡滞位置。The Verge称苹果未立即回应置评请求。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s40",
+                  "quote": "YouTuber CuriousHagi was able to reproduce the cracked screen during some durability testing of the iPhone Duo. Then he pulled it apart to try and find the culprit."
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "The piece that broke is one of the links in the middle of the phone that happens to be thinner than the links below or above it, and it snapped at a small notch where it would be weakest."
+                }
+              ]
+            }
+          ],
+          "limitations": "损坏报告主要来自社交媒体与子版块，故障规模未经苹果或第三方统计确认；iFixit与CuriousHagi的分析均为独立拆解推断，苹果未回应置评请求，铰链缺陷是否具有普遍性尚不明确。",
+          "bilingual": {
+            "title_en": "Reports of Screen and Hinge Damage on iPhone Duo Foldable; Teardown Points to Weak Hinge Link",
+            "sentences": [
+              {
+                "en": "The Verge reported on October 25 that multiple user reports have appeared on social media and in the iPhone Duo subreddit, saying that this foldable phone developed hinge jamming and clicking sounds within a short period, leading to screen cracking at similar locations.",
+                "zh": "The Verge于10月25日报道，社交媒体和iPhone Duo子版块出现多起用户报告，称这款折叠屏手机在短时间内出现铰链卡滞、发出响声并导致屏幕破裂，裂纹位置相似。"
+              },
+              {
+                "en": "After teardown, iFixit gave it a repairability score of 5/10, saying this is the highest score the site has ever given a foldable phone, but that repairing the screen itself remains expensive and difficult.",
+                "zh": "iFixit拆解后给出5/10的可维修评分，称这是该网站迄今给折叠屏手机的最高分，但屏幕本身维修仍昂贵困难。"
+              },
+              {
+                "en": "iFixit believes that the matte nanotexture coating on the inner display not only improves readability under strong light but also helps conceal the crease by scattering reflections; under a microscope, oval subpixels can be seen arranged at different angles, possibly to reduce artifacts and further hide the crease.",
+                "zh": "iFixit认为，内屏的哑光纳米纹理覆盖层不仅提升强光下可读性，还通过散射反射帮助掩盖折痕；显微镜下可见椭圆形子像素以不同角度排列，可能用于减少伪影并进一步隐藏折痕。"
+              },
+              {
+                "en": "This nanotexture outer layer is relatively easy to replace, without the need to replace the OLED underneath.",
+                "zh": "该纳米纹理外层较易更换，无需更换下方OLED。"
+              },
+              {
+                "en": "YouTuber CuriousHagi reproduced the screen cracking in a durability test; after teardown, he found that the hinge consists of a gear-shaped central hinge and two types of connecting hinges, with the broken part being a connecting piece in the middle that is thinner than the upper and lower connecting parts and that snapped at its weakest notch; he also found indentations where the hinge contacts the support plate, possibly indicating the location of the jamming.",
+                "zh": "YouTuber CuriousHagi在耐久测试中复现了屏幕开裂，拆解后发现铰链由齿轮状中央铰链和两种连接铰链组成，断裂的是中部一个比上下连接件更薄的连接件，并在最薄弱的缺口处断开；他还发现铰链与支撑板接触处有压痕，可能表明卡滞位置。"
+              },
+              {
+                "en": "The Verge said Apple did not immediately respond to a request for comment.",
+                "zh": "The Verge称苹果未立即回应置评请求。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "金山办公|上线|WPS for Pad小米应用商城版本",
+          "title": "WPS for Pad安卓原生版上线小米应用商城，支持小米18 Fold与平板",
+          "summary": "金山办公宣布专为平板打造的原生桌面级应用WPS for Pad正式上线小米应用商城，小米平板及小米18 Fold用户升级澎湃OS4后可直接下载。",
+          "published_at": "2026-10-26T11:37:59+08:00",
+          "follow_up": false,
+          "new_facts": "WPS for Pad安卓原生版上线小米应用商城，要求设备升级至小米澎湃OS4；完整支持文字、表格、演示、PDF编辑，支持多窗口并行与WPS AI生成PPT；此前该应用已于2026年3月面向iPad发布。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "金山办公",
+            "WPS for Pad",
+            "小米应用商城",
+            "小米澎湃OS4",
+            "小米18 Fold"
+          ],
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "据IT之家10月26日报道，金山办公WPS官方微博宣布，专为平板打造的原生桌面级应用WPS for Pad已正式上线小米应用商城。使用小米平板和小米18 Fold的用户将设备升级至小米澎湃OS4后，可在小米应用商城搜索下载。此次登陆的是安卓原生版本，而非此前基于Linux容器的方案。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "金山办公 WPS 官方微博刚刚宣布，专为平板量身打造的原生桌面级应用 WPS for Pad， 已正式上线小米应用商城 。"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "使用小米平板 & 小米 18 Fold 的用户，将设备升级至小米澎湃 OS4 系统后， 可以直接前往小米应用商城搜索「WPS for Pad」下载使用 。"
+                }
+              ]
+            },
+            {
+              "kind": "background",
+              "text": "WPS for Pad最早于2026年3月9日面向iPad发布，金山办公称其为iPadOS生态首款原生桌面级办公应用，界面采用与Mac版一致的ribbon布局，内置WPS AI 3.0与WPS灵犀。安卓版完整支持文字、表格、演示、PDF四大模块编辑，依托澎湃OS原生多窗口能力实现多文档并行与拖拽排布，并支持AI生成PPT、WPS 365团队协作和触控笔手写批注。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "WPS for Pad 最早于 2026 年 3 月 9 日面向 iPad 发布，金山办公称其为 iPadOS 生态首款原生桌面级办公应用。"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "WPS for Pad 完整支持文字、表格、演示、PDF 四大模块编辑，操作逻辑与 PC 版高度一致，并依托小米澎湃 OS 的原生多窗口能力实现多文档并行、自由排布拖拽"
+                }
+              ]
+            }
+          ],
+          "limitations": "报道未说明WPS for Pad安卓版是否收费、订阅价格以及与iPad版在功能上的具体差异；适配其他安卓设备的官方时间表尚未公布。",
+          "bilingual": {
+            "title_en": "WPS for Pad Android Native Version Launches on Xiaomi App Store, Supporting Xiaomi 18 Fold and Tablets",
+            "sentences": [
+              {
+                "en": "According to an IT Home report on October 26, Kingsoft Office's official WPS Weibo account announced that WPS for Pad, a native desktop-class application built specifically for tablets, has officially launched on the Xiaomi App Store.",
+                "zh": "据IT之家10月26日报道，金山办公WPS官方微博宣布，专为平板打造的原生桌面级应用WPS for Pad已正式上线小米应用商城。"
+              },
+              {
+                "en": "Users of Xiaomi tablets and the Xiaomi 18 Fold can search for and download it from the Xiaomi App Store after upgrading their devices to Xiaomi HyperOS 4.",
+                "zh": "使用小米平板和小米18 Fold的用户将设备升级至小米澎湃OS4后，可在小米应用商城搜索下载。"
+              },
+              {
+                "en": "The version launched this time is the Android native version, rather than the earlier Linux container-based solution.",
+                "zh": "此次登陆的是安卓原生版本，而非此前基于Linux容器的方案。"
+              },
+              {
+                "en": "WPS for Pad was first released for iPad on March 9, 2026, and Kingsoft Office calls it the first native desktop-class office application in the iPadOS ecosystem, featuring an interface with the same ribbon layout as the Mac version and built-in WPS AI 3.0 and WPS Lingxi.",
+                "zh": "WPS for Pad最早于2026年3月9日面向iPad发布，金山办公称其为iPadOS生态首款原生桌面级办公应用，界面采用与Mac版一致的ribbon布局，内置WPS AI 3.0与WPS灵犀。"
+              },
+              {
+                "en": "The Android version fully supports editing in the four major modules of Writer, Spreadsheets, Presentation, and PDF, leverages the native multi-window capabilities of HyperOS to enable parallel multi-document work and drag-and-drop arrangement, and supports AI-generated PPT, WPS 365 team collaboration, and stylus handwriting annotations.",
+                "zh": "安卓版完整支持文字、表格、演示、PDF四大模块编辑，依托澎湃OS原生多窗口能力实现多文档并行与拖拽排布，并支持AI生成PPT、WPS 365团队协作和触控笔手写批注。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s38",
+      "url": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "title": "iFixit&#8217;s look inside the iPhone Duo may explain those broken screens and hinges",
+      "published_at": "2026-10-25T21:40:27+00:00"
+    },
+    {
+      "id": "s34",
+      "url": "https://www.ithome.com/1/017/815.htm",
+      "title": "原生桌面级应用 WPS  for Pad 正式上线小米应用商城，支持 18 Fold、平板设备下载使用",
+      "published_at": "2026-10-26T11:37:59+08:00"
+    },
+    {
+      "id": "s40",
+      "url": "https://www.theverge.com/tech/1018290/dissected-iphone-duo-crackgate-hinge-screen",
+      "title": "A YouTuber dissected an iPhone Duo and thinks he found the cause of crackgate",
+      "published_at": "2026-10-25T20:16:19+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
