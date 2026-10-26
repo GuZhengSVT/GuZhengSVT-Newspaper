@@ -1,0 +1,182 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-26",
+  "title": "2026-10-26 ACGN",
+  "summary": "本期收录2条新闻。",
+  "highlights": [
+    "《龙珠 超宇宙2》十周年更新10月27日上线，免费更新与“最终祭典”分两波推出",
+    "《古墓丽影：亚特兰蒂斯遗产》发布30周年预告，2027年2月12日发售"
+  ],
+  "window_start": "2026-10-25T12:00:00+08:00",
+  "window_end": "2026-10-26T12:00:00+08:00",
+  "generated_at": "2026-10-26T18:17:37.212206+08:00",
+  "sources": [
+    {
+      "id": "s4",
+      "url": "https://www.gematsu.com/2026/10/dragon-ball-xenoverse-2-10th-anniversary-update-launches-october-27",
+      "title": "Dragon Ball Xenoverse 2 10th anniversary update launches October 27",
+      "published_at": "2026-10-25T07:15:19+00:00"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.gematsu.com/2026/10/tomb-raider-legacy-of-atlantis-30th-anniversary-teaser-trailer",
+      "title": "Tomb Raider: Legacy of Atlantis ’30th Anniversary’ teaser trailer",
+      "published_at": "2026-10-25T16:35:08+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "万代南梦宫|发布十周年更新|龙珠 超宇宙2",
+          "title": "《龙珠 超宇宙2》十周年更新10月27日上线，免费更新与“最终祭典”分两波推出",
+          "summary": "万代南梦宫与Dimps宣布《龙珠 超宇宙2》十周年更新将于10月27日上线，免费更新带来新登录奖励、特别服装与时空画廊更新；“最终祭典”于10月30日启动，参与可解锁《龙珠 超宇宙3》联动特典。",
+          "published_at": "2026-10-25T15:15:19+08:00",
+          "follow_up": true,
+          "new_facts": "十周年免费更新10月27日上线；最终祭典10月30日启动，可选特兰克斯、时空界王神或弗提升羁绊等级，星币获取量提升至25倍；持有纪念物品可通过万代南梦宫ID在2027年发售的《龙珠 超宇宙3》中解锁特典。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "万代南梦宫",
+            "Dimps",
+            "龙珠 超宇宙2",
+            "Dragon Ball Xenoverse 2"
+          ],
+          "limitations": "仅Gematsu一篇报道，未直接取得万代南梦宫官方公告原文；IGN页面抓取不完整，未用于佐证细节。",
+          "facts": [
+            {
+              "text": "万代南梦宫与开发商Dimps宣布，《龙珠 超宇宙2》十周年更新将于10月27日上线，同日推出免费更新，包含新的登录奖励、特别服装以及购买“未来传奇第四章”DLC后可解锁的时空画廊更新。“最终祭典”则于10月30日启动。",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "Publisher Bandai Namco and developer Dimps will release the Dragon Ball Xenoverse 2 10th anniversary update on October 27, the companies announced . The “Final Festival” will begin on October 30."
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "A free update, available on October 27, will bring new Login Bonus Rewards, Special Costumes, and an update to the Gallery of Time which can be unlocked by purchasing the downloadable content “Future Saga Chapter 4.”"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "最终祭典期间，玩家可在特兰克斯、时空界王神与弗之间选择提升羁绊等级，解锁特别插画；稀有道具回归，星币获取量提升至平时25倍。参与活动可获得纪念服装与奖章，持有上述物品并通过万代南梦宫ID联动，可在2027年发售的《龙珠 超宇宙3》中解锁特典。",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "During the Final Festival of Universes, you will be able to raise your camaraderie level with characters who have accompanied you on your journey, choosing between Trunks, The Supreme Kai of Time, or Fu."
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "you will be able to earn 25 times more Star Coins than usual"
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "Possessing either of the items will allow you to unlock special items, depending on the item you own, in Dragon Ball Xenoverse 3 by linking your Bandai Namco ID, once the game becomes available in 2027."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Dragon Ball Xenoverse 2 10th Anniversary Update Launches October 27 with Free Update and \"Final Festival\" as Separate Events",
+            "sentences": [
+              {
+                "en": "Bandai Namco and developer Dimps announced that the Dragon Ball Xenoverse 2 10th anniversary update will launch on October 27, with a free update released the same day that includes new login bonuses, special outfits, and a Time Patroller Gallery update unlockable after purchasing the \"Future Saga Chapter 4\" DLC.",
+                "zh": "万代南梦宫与开发商Dimps宣布，《龙珠 超宇宙2》十周年更新将于10月27日上线，同日推出免费更新，包含新的登录奖励、特别服装以及购买“未来传奇第四章”DLC后可解锁的时空画廊更新。"
+              },
+              {
+                "en": "The \"Final Festival\" will begin on October 30.",
+                "zh": "“最终祭典”则于10月30日启动。"
+              },
+              {
+                "en": "During the Final Festival, players can choose among Trunks, the Supreme Kai of Time, and Fu to raise bond levels and unlock special illustrations; rare items will return, and Star Coin acquisition will increase to 25 times the usual amount.",
+                "zh": "最终祭典期间，玩家可在特兰克斯、时空界王神与弗之间选择提升羁绊等级，解锁特别插画；稀有道具回归，星币获取量提升至平时25倍。"
+              },
+              {
+                "en": "By participating in the event, players can obtain commemorative outfits and medals, and those who hold these items and link through a Bandai Namco ID can unlock bonuses in Dragon Ball Xenoverse 3, which is scheduled for release in 2027.",
+                "zh": "参与活动可获得纪念服装与奖章，持有上述物品并通过万代南梦宫ID联动，可在2027年发售的《龙珠 超宇宙3》中解锁特典。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Amazon Games|发布30周年预告|古墓丽影：亚特兰蒂斯遗产",
+          "title": "《古墓丽影：亚特兰蒂斯遗产》发布30周年预告，2027年2月12日发售",
+          "summary": "亚马逊游戏与Crystal Dynamics、Flying Wild Hog发布《古墓丽影：亚特兰蒂斯遗产》30周年预告片。作品定于2027年2月12日登陆PS5、Xbox Series、Switch 2与PC。",
+          "published_at": "2026-10-26T00:35:08+08:00",
+          "follow_up": true,
+          "new_facts": "发布30周年预告片；确认2027年2月12日登陆PS5、Xbox Series、Switch 2与PC（Steam）。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Amazon Games",
+            "Crystal Dynamics",
+            "Flying Wild Hog",
+            "古墓丽影：亚特兰蒂斯遗产",
+            "Tomb Raider: Legacy of Atlantis"
+          ],
+          "limitations": "仅Gematsu一篇报道，预告片内容未在来源中详细描述；未确认作品是重制还是全新作。",
+          "facts": [
+            {
+              "text": "发行商亚马逊游戏与开发商Crystal Dynamics、Flying Wild Hog发布了《古墓丽影：亚特兰蒂斯遗产》的30周年预告片，以纪念《古墓丽影》系列诞生30周年。作品定于2027年2月12日登陆PlayStation 5、Xbox Series、Switch 2与PC（Steam）。",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "Publisher Amazon Games and developers Crystal Dynamics and Flying Wild Hog have released a new trailer for Tomb Raider: Legacy of Atlantis in celebration of Tomb Raider ‘s 30th anniversary."
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "Tomb Raider: Legacy of Atlantis is due out for PlayStation 5 , Xbox Series , Switch 2 , and PC via Steam on February 12, 2027."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Tomb Raider: Legacy of Atlantis Unveils 30th Anniversary Trailer, Set for February 12, 2027 Release",
+            "sentences": [
+              {
+                "en": "Publisher Amazon Games, together with developers Crystal Dynamics and Flying Wild Hog, has released a 30th anniversary trailer for Tomb Raider: Legacy of Atlantis to commemorate the 30th anniversary of the Tomb Raider series.",
+                "zh": "发行商亚马逊游戏与开发商Crystal Dynamics、Flying Wild Hog发布了《古墓丽影：亚特兰蒂斯遗产》的30周年预告片，以纪念《古墓丽影》系列诞生30周年。"
+              },
+              {
+                "en": "The title is scheduled to launch on February 12, 2027, for PlayStation 5, Xbox Series, Switch 2, and PC (Steam).",
+                "zh": "作品定于2027年2月12日登陆PlayStation 5、Xbox Series、Switch 2与PC（Steam）。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ],
+  "edition": "acgn"
+}
