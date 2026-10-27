@@ -1,0 +1,418 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-27",
+  "title": "2026-10-27 ACGN",
+  "summary": "本期收录5条新闻。",
+  "highlights": [
+    "Auroch Digital 确认裁员约 25%，Warhammer 系列后续支持继续",
+    "据报 Sucker Punch Productions 裁员 26 人",
+    "《刺客信条：黑旗 重同步》New Game+ 更新 10 月 27 日上线",
+    "《漫威宇宙入侵》第二弹 DLC“末日城堡围攻”公布城堡模式玩法",
+    "Rock Paper Shotgun 报道 GameMaker 将于 2027 年 1 月起在 PC 平台对商业使用免费"
+  ],
+  "window_start": "2026-10-26T12:00:00+08:00",
+  "window_end": "2026-10-27T12:00:00+08:00",
+  "generated_at": "2026-10-27T18:26:37.554997+08:00",
+  "sources": [
+    {
+      "id": "s2",
+      "url": "https://www.gematsu.com/2026/10/auroch-digital-to-lay-off-25-percent-of-staff",
+      "title": "Auroch Digital to lay off 25 percent of staff",
+      "published_at": "2026-10-26T18:29:18+00:00"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.gematsu.com/2026/10/report-sucker-punch-productions-lays-off-26-staff",
+      "title": "Report: Sucker Punch Productions lays off 26 staff",
+      "published_at": "2026-10-26T18:10:18+00:00"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.gematsu.com/2026/10/assassins-creed-black-flag-resynced-new-game-update-launches-october-27",
+      "title": "Assassin’s Creed Black Flag Resynced ‘New Game+’ update launches October 27",
+      "published_at": "2026-10-26T17:16:07+00:00"
+    },
+    {
+      "id": "s5",
+      "url": "https://www.gematsu.com/2026/10/marvel-cosmic-invasion-dlc-the-siege-of-castle-doom-reveals-new-game-mode",
+      "title": "MARVEL Cosmic Invasion DLC ‘The Siege of Castle Doom’ reveals new game mode",
+      "published_at": "2026-10-26T16:04:29+00:00"
+    },
+    {
+      "id": "s27",
+      "url": "https://www.rockpapershotgun.com/the-gamemaker-engine-series-behind-undertale-hotline-miami-and-spelunky-is-going-free-for-commercial-use-on-pc",
+      "title": "The GameMaker engine series behind Undertale, Hotline Miami and Spelunky is going free for commercial use on PC",
+      "published_at": "2026-10-26T18:15:00+00:00"
+    },
+    {
+      "id": "s26",
+      "url": "https://www.rockpapershotgun.com/boltgun-2-and-warhammer-survivors-devs-auroch-digital-say-theyre-laying-of-25-of-their-staff-in-now-deleted-posts",
+      "title": "Boltgun 2 and Warhammer Survivors devs Auroch Digital say they're laying of 25% of their staff in now-deleted posts",
+      "published_at": "2026-10-27T10:06:45.016496+00:00"
+    },
+    {
+      "id": "s17",
+      "url": "https://blog.playstation.com/2026/10/26/new-marvel-cosmic-invasion-the-siege-of-castle-doom-gameplay-details/",
+      "title": "New Marvel Cosmic Invasion: The Siege of Castle Doom gameplay details",
+      "published_at": "2026-10-26T09:00:09-07:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Auroch Digital|裁员|约25%员工",
+          "title": "Auroch Digital 确认裁员约 25%，Warhammer 系列后续支持继续",
+          "summary": "《Warhammer 40,000: Boltgun II》开发商 Auroch Digital 通过社交媒体确认启动裁员咨询程序，影响约四分之一岗位。工作室表示市场环境导致重组，Warhammer Survivors 与 Boltgun II 的后续支持不受影响。Rock Paper Shotgun 称相关帖子已被删除。",
+          "published_at": "2026-10-27T02:29:18+08:00",
+          "follow_up": false,
+          "new_facts": "Auroch Digital 启动裁员咨询，影响约 25% 岗位；公司称 Warhammer Survivors 与 Boltgun II 的后续开发和支持继续；Rock Paper Shotgun 报道相关帖子已被删除。",
+          "verification": "corroborated",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Auroch Digital",
+            "Warhammer 40,000: Boltgun II",
+            "Warhammer Survivors"
+          ],
+          "limitations": "公司声明通过社交媒体发布，Gematsu 与 Rock Paper Shotgun 均未能直接保留原帖；Rock Paper Shotgun 称帖子已被删除，裁员具体人数未公布。",
+          "facts": [
+            {
+              "text": "《Warhammer 40,000: Boltgun II》与《Warhammer Survivors》开发商 Auroch Digital 在社交媒体发布声明，确认已启动裁员咨询程序，影响约四分之一岗位。公司称，尽管过去一年推出了 Boltgun II 和《Starship Troopers: Ultimate Bug War!》等作品，但行业市场环境已波及自身，因此决定重组。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "Today, we are sharing the difficult news that Auroch Digital has begun a redundancy consultation process affecting around a quarter of roles at the studio."
+                },
+                {
+                  "source_id": "s2",
+                  "quote": "Despite that creative success, the same market conditions that have challenged so many of our fellow developers have now also affected us. Consequently, we have made the decision to restructure the studio to work through a turbulent and uncertain time in our industry."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Auroch Digital 表示，Warhammer Survivors 和 Warhammer 40,000: Boltgun II 的开发与发售后支持将继续进行，并呼吁有招聘需求的同行考虑接收受影响员工。Rock Paper Shotgun 报道称，该工作室发布的相关帖子已被删除。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "To our players, we want you to know development and post-launch support for Warhammer Survivors and Warhammer 40,000: Boltgun II will continue."
+                },
+                {
+                  "source_id": "s26",
+                  "quote": "Boltgun 2 and Warhammer Survivors devs Auroch Digital say they're laying of 25% of their staff in now-deleted posts"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Auroch Digital Confirms Roughly 25% Layoffs, Warhammer Support to Continue",
+            "sentences": [
+              {
+                "en": "Auroch Digital, the developer of \"Warhammer 40,000: Boltgun II\" and \"Warhammer Survivors,\" said in a statement on social media that it has begun a redundancy consultation process affecting about a quarter of its positions.",
+                "zh": "《Warhammer 40,000: Boltgun II》与《Warhammer Survivors》开发商 Auroch Digital 在社交媒体发布声明，确认已启动裁员咨询程序，影响约四分之一岗位。"
+              },
+              {
+                "en": "The company said that although it released titles including Boltgun II and \"Starship Troopers: Ultimate Bug War!\" over the past year, industry market conditions have affected it as well, prompting the decision to restructure.",
+                "zh": "公司称，尽管过去一年推出了 Boltgun II 和《Starship Troopers: Ultimate Bug War!》等作品，但行业市场环境已波及自身，因此决定重组。"
+              },
+              {
+                "en": "Auroch Digital said development and post-launch support for Warhammer Survivors and Warhammer 40,000: Boltgun II will continue, and called on peers with hiring needs to consider taking on affected employees.",
+                "zh": "Auroch Digital 表示，Warhammer Survivors 和 Warhammer 40,000: Boltgun II 的开发与发售后支持将继续进行，并呼吁有招聘需求的同行考虑接收受影响员工。"
+              },
+              {
+                "en": "Rock Paper Shotgun reported that the studio's related post has been deleted.",
+                "zh": "Rock Paper Shotgun 报道称，该工作室发布的相关帖子已被删除。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Sucker Punch Productions|裁员|26名员工",
+          "title": "据报 Sucker Punch Productions 裁员 26 人",
+          "summary": "据 Aftermath 援引前员工报道，索尼旗下《对马岛之魂》《羊蹄山之魂》开发商 Sucker Punch Productions 裁员 26 人，工作室员工总数不足 200 人。媒体报道的工作室内部邮件称，裁员与观察市场挑战及下一项目团队需求有关，下周将公布更多未来计划。",
+          "published_at": "2026-10-27T02:10:18+08:00",
+          "follow_up": false,
+          "new_facts": "Aftermath 援引前员工报道 Sucker Punch 裁员 26 人；内部邮件称裁员与市场挑战和下一项目团队需求有关；索尼或工作室未公开确认。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Sucker Punch Productions",
+            "Sony Interactive Entertainment"
+          ],
+          "limitations": "消息源自 Aftermath 援引前员工的报道，Gematsu 转述；索尼与 Sucker Punch 未公开发布确认，裁员具体岗位和项目影响不明。",
+          "facts": [
+            {
+              "text": "据 Aftermath 援引一名前员工的报道，索尼互动娱乐旗下工作室 Sucker Punch Productions 已裁员 26 人，该工作室员工总数不足 200 人。Sucker Punch 曾开发《对马岛之魂》，最新作品《羊蹄山之魂》于 2025 年 10 月 2 日登陆 PlayStation 5。",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "Sony Interactive Entertainment -owned Ghost of Tsushima and Ghost of Yotei developer Sucker Punch Productions has laid off 26 of its less than 200 staff, according to an Aftermath report citing a former employee."
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "Ghost of Yotei , Sucker Punch Productions’ latest release, launched for PlayStation 5 on October 2, 2025."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Aftermath 查阅的工作室内部邮件称，公司在观察市场挑战并审视下一项目团队需求后决定裁员，受影响岗位涉及多个部门，并称下周将公布更多未来细节。该邮件内容由 Gematsu 转述，索尼与 Sucker Punch 尚未公开发布确认。",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "After carefully observing the challenges in the market and reviewing the team needs for our next project, we’ve decided to make some staffing reductions"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "Next week we will go into more details about the future."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Sucker Punch Productions Reportedly Lays Off 26 Employees",
+            "sentences": [
+              {
+                "en": "According to a report by Aftermath citing a former employee, Sucker Punch Productions, a studio under Sony Interactive Entertainment, has laid off 26 people, and the studio's total workforce is fewer than 200.",
+                "zh": "据 Aftermath 援引一名前员工的报道，索尼互动娱乐旗下工作室 Sucker Punch Productions 已裁员 26 人，该工作室员工总数不足 200 人。"
+              },
+              {
+                "en": "Sucker Punch developed Ghost of Tsushima, and its latest title, Ghost of Yotei, launched on PlayStation 5 on October 2, 2025.",
+                "zh": "Sucker Punch 曾开发《对马岛之魂》，最新作品《羊蹄山之魂》于 2025 年 10 月 2 日登陆 PlayStation 5。"
+              },
+              {
+                "en": "An internal studio email reviewed by Aftermath said the company decided to lay off staff after observing market challenges and reviewing the team needs for its next project, that the affected positions span multiple departments, and that more details about the future will be announced next week.",
+                "zh": "Aftermath 查阅的工作室内部邮件称，公司在观察市场挑战并审视下一项目团队需求后决定裁员，受影响岗位涉及多个部门，并称下周将公布更多未来细节。"
+              },
+              {
+                "en": "The contents of the email were relayed by Gematsu, and Sony and Sucker Punch have not yet issued a public confirmation.",
+                "zh": "该邮件内容由 Gematsu 转述，索尼与 Sucker Punch 尚未公开发布确认。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Assassin's Creed Black Flag Resynced|发布|New Game+更新",
+          "title": "《刺客信条：黑旗 重同步》New Game+ 更新 10 月 27 日上线",
+          "summary": "育碧宣布《刺客信条：黑旗 重同步》最终大型内容更新于 10 月 27 日上线，加入 New Game+、新货币、新处决动作和服装。New Game+ 可继承武器、升级、金钱和装备，但要塞需重新占领，难度随周目提升，最多可至 New Game+++++。",
+          "published_at": "2026-10-27T01:16:07+08:00",
+          "follow_up": false,
+          "new_facts": "最终大型内容更新 10 月 27 日上线；New Game+ 支持继承武器、升级、金钱和装备；要塞需重新占领；难度随周目提升，最多五周目。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Ubisoft",
+            "Assassin's Creed Black Flag Resynced"
+          ],
+          "limitations": "更新细节来自 Gematsu 转述育碧公告，未直接取得育碧官方原文；具体上线时区以官方公告为准。",
+          "facts": [
+            {
+              "text": "育碧宣布，《刺客信条：黑旗 重同步》的最终大型内容更新将于 10 月 27 日上线，加入 New Game+ 模式。玩家可继承爱德华的全部工具、升级、已解锁武器和饰品，以及寒鸦号的升级、官员能力和宠物；金钱、材料、贸易货物、服装、藏身处进度和船队船只也将保留。",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "The final major content update for Assassin’s Creed Black Flag Resynced , which adds New Game+ and other features, will launch on October 27 at 7:00 a.m. PT / 10:00 a.m. ET , publisher Ubisoft and developer Ubisoft Quebec announced ."
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "All of Edward’s tools, upgrades, unlocked weapons, and trinkets. All the Jackdaw’s upgrades, unlocked officer abilities and pets."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "New Game+ 中，要塞需重新占领，地图迷雾重置，官员需重新招募；每次通关后海上威胁提升，精英士兵出现更频繁，最高等级船只开始巡逻，难度可累计至 New Game+++++（五周目）。更新还加入 New Game+ 专属货币、新处决动作和服装。",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "However, forts will need to be taken over again as the map’s fog will be reset."
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "With each New Game+ playthrough, the seas become more dangerous. Elite Soldiers will appear more often, and max rank ships will start patrolling the waters. The difficulty ramps up each time you dive back in. You’ll be able to go up to New Game+++++ (that’s five times)."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Assassin's Creed IV Black Flag Resynced New Game+ Update Launches October 27",
+            "sentences": [
+              {
+                "en": "Ubisoft has announced that the final major content update for Assassin's Creed IV Black Flag Resynced will launch on October 27, adding a New Game+ mode.",
+                "zh": "育碧宣布，《刺客信条：黑旗 重同步》的最终大型内容更新将于 10 月 27 日上线，加入 New Game+ 模式。"
+              },
+              {
+                "en": "Players can carry over all of Edward's tools, upgrades, unlocked weapons and accessories, as well as the Jackdaw's upgrades, officer abilities and pets; money, materials, trade goods, outfits, hideout progress and fleet ships will also be retained.",
+                "zh": "玩家可继承爱德华的全部工具、升级、已解锁武器和饰品，以及寒鸦号的升级、官员能力和宠物；金钱、材料、贸易货物、服装、藏身处进度和船队船只也将保留。"
+              },
+              {
+                "en": "In New Game+, forts must be recaptured, the map fog resets and officers must be recruited again; after each playthrough, maritime threats increase, elite soldiers appear more frequently, top-level ships begin patrolling, and difficulty can stack up to New Game+++++ (five playthroughs).",
+                "zh": "New Game+ 中，要塞需重新占领，地图迷雾重置，官员需重新招募；每次通关后海上威胁提升，精英士兵出现更频繁，最高等级船只开始巡逻，难度可累计至 New Game+++++（五周目）。"
+              },
+              {
+                "en": "The update also adds New Game+-exclusive currency, new execution animations and outfits.",
+                "zh": "更新还加入 New Game+ 专属货币、新处决动作和服装。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Marvel Cosmic Invasion|公布|The Siege of Castle Doom DLC玩法",
+          "title": "《漫威宇宙入侵》第二弹 DLC“末日城堡围攻”公布城堡模式玩法",
+          "summary": "Dotemu 与 Tribute Games 公布《漫威宇宙入侵》付费 DLC“末日城堡围攻”的新模式“Castle Doom”，玩家需在围攻槽蓄满前阻止毁灭博士启动宇宙感应器。DLC 将于 11 月 10 日发售，新增隐形女侠与毁灭博士两名可玩角色。",
+          "published_at": "2026-10-27T00:04:29+08:00",
+          "follow_up": false,
+          "new_facts": "DLC“末日城堡围攻”11 月 10 日发售；新增 Castle Doom 模式，含围攻槽、电池、增益与分支路线；新增隐形女侠与毁灭博士可玩角色。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Dotemu",
+            "Tribute Games",
+            "Marvel Cosmic Invasion",
+            "The Siege of Castle Doom"
+          ],
+          "limitations": "发售日期与内容来自 Dotemu 公告及 Gematsu 转述；PlayStation Blog 开发者文章与 Gematsu 同属官方宣传材料链条，不构成独立互证，实际游玩体验尚未公开。",
+          "facts": [
+            {
+              "text": "发行商 Dotemu 与开发商 Tribute Games 公布《漫威宇宙入侵》付费 DLC“末日城堡围攻”的新模式“Castle Doom”。该模式以毁灭博士的末日城堡为舞台，围攻槽会随英雄被击败而积累，玩家需收集电池为稳定器充能、完成挑战获取防御、伤害或战术升级，并在围攻槽蓄满前抵达毁灭博士处。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "Race against time as the Siege Gauge fills, and stop Doctor Doom before he can activate the deadly Cosmic Inductor in the upcoming Castle Doom’s game mode!"
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "Gather Battery Cells and complete challenges to earn defense, damage or tactical upgrades from a collection of 12 different perks"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "据 Dotemu 公告，该模式的设计围绕里德·理查兹与毁灭博士的对立展开，每次通关可解锁新装备、事件和修正项，并解锁角色新配色。DLC 将于 11 月 10 日发售，新增隐形女侠与毁灭博士两名可玩角色；《漫威宇宙入侵》本体已登陆 PS5、Xbox Series、Switch 2、PS4、Xbox One、Switch 和 PC。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "MARVEL Cosmic Invasion is available now for PlayStation 5 , Xbox Series , Switch 2 , PlayStation 4 , Xbox One , Switch , and PC via Steam . The paid downloadable content “The Siege of Castle Doom” is due out on November 10."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "The idea was to offer something that would mix a perfect combination of classic Beat Em Up combat and an evolving mode that brought a new angle and some unique challenge to the genre – something that would perfectly accompany the addition of the two new playable characters: The Invisible Woman and Doctor Doom."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Marvel Cosmic Invasion Second DLC \"Castle Doom Siege\" Reveals Castle Mode Gameplay",
+            "sentences": [
+              {
+                "en": "Publisher Dotemu and developer Tribute Games have announced \"Castle Doom,\" a new mode for Marvel Cosmic Invasion's paid DLC \"Castle Doom Siege.\"",
+                "zh": "发行商 Dotemu 与开发商 Tribute Games 公布《漫威宇宙入侵》付费 DLC“末日城堡围攻”的新模式“Castle Doom”。"
+              },
+              {
+                "en": "Set in Doctor Doom's Castle Doom, the mode fills a siege gauge as heroes are defeated, requiring players to collect batteries to charge stabilizers, complete challenges to earn defensive, damage, or tactical upgrades, and reach Doctor Doom before the siege gauge fills up.",
+                "zh": "该模式以毁灭博士的末日城堡为舞台，围攻槽会随英雄被击败而积累，玩家需收集电池为稳定器充能、完成挑战获取防御、伤害或战术升级，并在围攻槽蓄满前抵达毁灭博士处。"
+              },
+              {
+                "en": "According to Dotemu's announcement, the mode's design centers on the conflict between Reed Richards and Doctor Doom, and each clear unlocks new equipment, events, and modifiers, as well as new color schemes for characters.",
+                "zh": "据 Dotemu 公告，该模式的设计围绕里德·理查兹与毁灭博士的对立展开，每次通关可解锁新装备、事件和修正项，并解锁角色新配色。"
+              },
+              {
+                "en": "The DLC launches on November 10 and adds Invisible Woman and Doctor Doom as playable characters; Marvel Cosmic Invasion is already available on PS5, Xbox Series, Switch 2, PS4, Xbox One, Switch, and PC.",
+                "zh": "DLC 将于 11 月 10 日发售，新增隐形女侠与毁灭博士两名可玩角色；《漫威宇宙入侵》本体已登陆 PS5、Xbox Series、Switch 2、PS4、Xbox One、Switch 和 PC。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "GameMaker|宣布|PC商业使用免费",
+          "title": "GameMaker 将于 2027 年 1 月起在 PC 平台对商业使用免费",
+          "summary": "Rock Paper Shotgun 报道 GameMaker 引擎将于 2027 年 1 月起在 PC 平台对商业使用免费，称该引擎曾用于《传说之下》《迈阿密热线》和《洞穴探险》等作品。可用材料仅含标题与生效时间，免费范围及授权安排未见说明。",
+          "published_at": "2026-10-27T02:15:00+08:00",
+          "follow_up": true,
+          "new_facts": "Rock Paper Shotgun 报道称 GameMaker 将于 2027 年 1 月起在 PC 平台对商业使用免费。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "GameMaker",
+            "Undertale",
+            "Hotline Miami",
+            "Spelunky"
+          ],
+          "limitations": "可取得的 Rock Paper Shotgun 页面仅含标题与“As of January 2027”一行，未提供正文细节；GameMaker 官方公告未在检索材料中取得。免费适用的版本范围、是否覆盖主机平台及既有商业授权与订阅用户如何处理均无资料说明，正文不作推断。",
+          "facts": [
+            {
+              "text": "Rock Paper Shotgun 报道，曾用于《传说之下》《迈阿密热线》和《洞穴探险》等作品的 GameMaker 引擎将于 2027 年 1 月起在 PC 平台对商业使用免费。该信息来自报道标题及页面上标注的生效时间，报道正文内容未能取得。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "The GameMaker engine series behind Undertale, Hotline Miami and Spelunky is going free for commercial use on PC"
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "As of January 2027"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "GameMaker to Be Free for Commercial Use on PC Starting January 2027",
+            "sentences": [
+              {
+                "en": "Rock Paper Shotgun reports that the GameMaker engine, which has been used in works such as Undertale, Hotline Miami, and Spelunky, will be free for commercial use on PC starting in January 2027.",
+                "zh": "Rock Paper Shotgun 报道，曾用于《传说之下》《迈阿密热线》和《洞穴探险》等作品的 GameMaker 引擎将于 2027 年 1 月起在 PC 平台对商业使用免费。"
+              },
+              {
+                "en": "This information comes from the report's headline and the effective date noted on the page; the body text of the report could not be obtained.",
+                "zh": "该信息来自报道标题及页面上标注的生效时间，报道正文内容未能取得。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ],
+  "edition": "acgn"
+}
