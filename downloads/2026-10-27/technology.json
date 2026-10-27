@@ -1,0 +1,301 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-27",
+  "title": "2026-10-27 科技",
+  "summary": "本期收录3条新闻，涵盖苹果新款iPad mini发布、iOS 27.2为iPhone Duo增加Apple Pencil支持，以及Siri AI新增五种语言支持。",
+  "highlights": [
+    "苹果发布搭载A20 Pro的iPad mini，10月28日预售",
+    "iOS 27.2为iPhone Duo增加Apple Pencil支持",
+    "苹果Siri AI新增法语、日语等五种语言支持"
+  ],
+  "window_start": "2026-10-26T12:00:00+08:00",
+  "window_end": "2026-10-27T12:00:00+08:00",
+  "generated_at": "2026-10-27T18:29:07.293051+08:00",
+  "edition": "technology",
+  "sources": [
+    {
+      "id": "s43",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/",
+      "title": "Apple gives iPad mini its biggest update ever\n",
+      "published_at": "2026-10-26T13:00:22.904000+00:00"
+    },
+    {
+      "id": "s55",
+      "url": "https://www.theverge.com/tech/1018827/ios-27-2-iphone-duo-apple-pencil",
+      "title": "iPhone Duo now supports Apple Pencil with iOS 27.2",
+      "published_at": "2026-10-26T18:51:06+00:00"
+    },
+    {
+      "id": "s42",
+      "url": "https://www.apple.com/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
+      "title": "Siri AI is available in more languages starting today\n",
+      "published_at": "2026-10-26T18:37:30.189000+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Apple|发布iPad mini重大更新",
+          "title": "苹果发布搭载A20 Pro的iPad mini，10月28日预售",
+          "summary": "苹果10月26日发布新款iPad mini，采用8.5英寸OLED屏幕、5.4毫米机身和A20 Pro芯片，首次支持IP67防尘防水，10月28日预售、11月6日上市。苹果称为该产品线迄今最大幅度更新。",
+          "published_at": "2026-10-26T21:00:22.904000+08:00",
+          "follow_up": true,
+          "new_facts": "苹果发布新款iPad mini，采用8.5英寸OLED屏、5.4mm机身、A20 Pro芯片和IP67防护，10月28日预售、11月6日上市。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Apple",
+            "iPad mini",
+            "A20 Pro"
+          ],
+          "limitations": "苹果未在新闻稿中公布各版本售价；A20 Pro的性能提升幅度为苹果官方数据，未提供独立测试。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "苹果10月26日发布新款iPad mini，称这是该产品线迄今最大幅度更新。新机采用8.5英寸OLED屏幕，峰值亮度1200尼特，机身厚度5.4毫米，首次具备IP67防尘防水能力，并提供纳米纹理屏幕选项。",
+              "evidence": [
+                {
+                  "source_id": "s43",
+                  "quote": "Apple today unveiled the all-new iPad mini , featuring a stunning OLED display in an even thinner and lighter design, a huge leap in performance with A20 Pro, and water and dust resistance."
+                },
+                {
+                  "source_id": "s43",
+                  "quote": "At 5.4 mm thin, the new iPad mini is more portable than ever"
+                },
+                {
+                  "source_id": "s43",
+                  "quote": "It also features an IP67 rating to protect against water and dust"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "新款iPad mini搭载采用2纳米工艺的A20 Pro芯片，7核GPU每个核心内置神经加速器，苹果称AI性能最高提升4.5倍、图形性能提升2.7倍。新机10月28日开启预售，11月6日上市。",
+              "evidence": [
+                {
+                  "source_id": "s43",
+                  "quote": "A20 Pro delivers a giant leap in performance for iPad mini, significantly boosting graphics and AI-intensive tasks. It is built using Apple’s latest 2-nanometer process technology"
+                },
+                {
+                  "source_id": "s43",
+                  "quote": "iPad mini delivers up to 4.5x faster AI performance than the previous generation"
+                },
+                {
+                  "source_id": "s43",
+                  "quote": "Customers can pre-order it along with the new Smart Folio starting Wednesday, October 28, with availability beginning Friday, November 6."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Apple unveils iPad mini with A20 Pro, pre-orders open October 28",
+            "sentences": [
+              {
+                "en": "Apple released the new iPad mini on October 26, calling it the biggest update to the product line to date.",
+                "zh": "苹果10月26日发布新款iPad mini，称这是该产品线迄今最大幅度更新。"
+              },
+              {
+                "en": "The new model features an 8.5-inch OLED display with a peak brightness of 1,200 nits, a 5.4mm-thick body, IP67 dust and water resistance for the first time, and an optional nano-texture display.",
+                "zh": "新机采用8.5英寸OLED屏幕，峰值亮度1200尼特，机身厚度5.4毫米，首次具备IP67防尘防水能力，并提供纳米纹理屏幕选项。"
+              },
+              {
+                "en": "The new iPad mini is powered by the A20 Pro chip built on a 2nm process, with a 7-core GPU that has a neural accelerator built into each core; Apple says AI performance is up to 4.5 times faster and graphics performance up to 2.7 times faster.",
+                "zh": "新款iPad mini搭载采用2纳米工艺的A20 Pro芯片，7核GPU每个核心内置神经加速器，苹果称AI性能最高提升4.5倍、图形性能提升2.7倍。"
+              },
+              {
+                "en": "Pre-orders for the new model open on October 28, and it goes on sale on November 6.",
+                "zh": "新机10月28日开启预售，11月6日上市。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Apple|iOS 27.2为iPhone Duo增加Apple Pencil支持",
+          "title": "iOS 27.2为iPhone Duo增加Apple Pencil支持",
+          "summary": "苹果10月26日发布iOS 27.2，为iPhone Duo折叠屏手机增加Apple Pencil支持和视频通话“Edge Light”功能，并扩展Siri AI语言支持。苹果此前称手写笔支持将在今年晚些时候推出，本次更新予以落实。",
+          "published_at": "2026-10-27T02:51:06+08:00",
+          "follow_up": false,
+          "new_facts": "iOS 27.2正式发布，为iPhone Duo增加Apple Pencil支持和Edge Light视频补光功能；Siri AI新增五种语言。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Apple",
+            "iPhone Duo",
+            "iOS 27.2",
+            "Apple Pencil"
+          ],
+          "limitations": "The Verge报道未说明Apple Pencil在iPhone Duo上的具体配对方式和兼容型号；苹果官方发布说明未在检索结果中直接获得。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据The Verge 10月26日报道，苹果发布iOS 27.2，为iPhone Duo折叠屏手机增加Apple Pencil支持，并新增“Edge Light”功能，在视频通话时为面部补光。苹果此前称该手写笔支持将在今年晚些时候推出。",
+              "evidence": [
+                {
+                  "source_id": "s55",
+                  "quote": "Apple has just released iOS 27.2, bringing Apple Pencil support to the iPhone Duo."
+                },
+                {
+                  "source_id": "s55",
+                  "quote": "Apple previously said the iPhone Duo would add support for the Apple Pencil “later this year.”"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "iOS 27.2还允许Siri AI在信息应用中执行建议操作，并新增法语、日语、韩语、葡萄牙语和西班牙语支持；照片和Image Playground加入谷歌SynthID水印支持。FaceTime群聊新增双摄像头同时拍摄功能。",
+              "evidence": [
+                {
+                  "source_id": "s55",
+                  "quote": "The iOS 27.2 update also allows Siri AI to take suggested actions in Messages, while adding support for Siri AI in more languages , including French, Japanese, Korean, Portuguese, and Spanish."
+                },
+                {
+                  "source_id": "s55",
+                  "quote": "Apple is rolling out support for Google’s SynthID AI watermark in Photos and Image Playground"
+                },
+                {
+                  "source_id": "s55",
+                  "quote": "group calls on FaceTime now support dual capture so you can show both what’s visible from your selfie cam and your back cameras."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "iOS 27.2 Adds Apple Pencil Support to iPhone Duo",
+            "sentences": [
+              {
+                "en": "According to a report by The Verge on October 26, Apple released iOS 27.2, adding Apple Pencil support to the iPhone Duo foldable phone and introducing a new \"Edge Light\" feature that lights up the face during video calls.",
+                "zh": "据The Verge 10月26日报道，苹果发布iOS 27.2，为iPhone Duo折叠屏手机增加Apple Pencil支持，并新增“Edge Light”功能，在视频通话时为面部补光。"
+              },
+              {
+                "en": "Apple previously said that support for the stylus would arrive later this year.",
+                "zh": "苹果此前称该手写笔支持将在今年晚些时候推出。"
+              },
+              {
+                "en": "iOS 27.2 also allows Siri AI to perform suggested actions in the Messages app and adds support for French, Japanese, Korean, Portuguese and Spanish; Photos and Image Playground gain support for Google's SynthID watermarking.",
+                "zh": "iOS 27.2还允许Siri AI在信息应用中执行建议操作，并新增法语、日语、韩语、葡萄牙语和西班牙语支持；照片和Image Playground加入谷歌SynthID水印支持。"
+              },
+              {
+                "en": "FaceTime group chats add the ability to capture with both cameras simultaneously.",
+                "zh": "FaceTime群聊新增双摄像头同时拍摄功能。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Siri AI|扩展支持更多语言",
+          "title": "苹果Siri AI新增法语、日语等五种语言支持",
+          "summary": "苹果10月26日宣布，随27.2系统更新，Siri AI新增支持法语、日语、韩语、葡萄牙语和西班牙语，并计划年底前扩展至繁体中文、挪威语、土耳其语和越南语。Siri AI目前在欧盟的iOS、iPadOS和watchOS上不可用。",
+          "published_at": "2026-10-27T02:37:30.189000+08:00",
+          "follow_up": false,
+          "new_facts": "Siri AI随27.2更新新增五种语言支持；繁体中文、挪威语、土耳其语和越南语计划年底前上线；Siri AI在欧盟的iOS、iPadOS和watchOS上尚不可用。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Apple",
+            "Siri AI"
+          ],
+          "limitations": "Siri AI仍为测试版，部分功能可能因地区和语言不可用；依赖服务器模型的功能有每日使用限制，未来扩展访问可能收费。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "苹果10月26日宣布，随iOS 27.2、iPadOS 27.2、macOS 27.2、watchOS 27.2和visionOS 27.2发布，Siri AI新增支持法语、日语、韩语、葡萄牙语和西班牙语。苹果称繁体中文、挪威语、土耳其语和越南语支持将在年底前推出。",
+              "evidence": [
+                {
+                  "source_id": "s42",
+                  "quote": "With the 27.2 software updates released today, Siri AI — an entirely new version of Siri that is profoundly more capable, conversational, and personal — is expanding to more people around the world, with availability now in the French, Japanese, Korean, Portuguese, and Spanish languages."
+                },
+                {
+                  "source_id": "s42",
+                  "quote": "Language support for Siri AI will continue to expand, with availability in Chinese (traditional), Norwegian, Turkish, and Vietnamese coming by the end of the year."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "Siri AI目前为测试版，需要支持Apple Intelligence的设备并设置为受支持语言。苹果称，Siri AI目前在欧盟的iOS、iPadOS和watchOS上不可用，公司正与欧盟沟通寻求解决方案。部分依赖服务器模型的功能受每日使用限制，未来扩展访问将收费。",
+              "evidence": [
+                {
+                  "source_id": "s42",
+                  "quote": "Siri AI is available in beta in iOS 27.2, iPadOS 27.2, macOS 27.2, watchOS 27.2, and visionOS 27.2 and requires an Apple Intelligence-enabled device set to a supported language."
+                },
+                {
+                  "source_id": "s42",
+                  "quote": "Siri AI is currently unavailable in the EU in iOS, iPadOS, and watchOS."
+                },
+                {
+                  "source_id": "s42",
+                  "quote": "Expanded access to such features will be available for a fee in the future."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Apple Siri AI Adds Support for Five More Languages Including French and Japanese",
+            "sentences": [
+              {
+                "en": "On October 26, Apple announced that with the release of iOS 27.2, iPadOS 27.2, macOS 27.2, watchOS 27.2 and visionOS 27.2, Siri AI now supports French, Japanese, Korean, Portuguese and Spanish.",
+                "zh": "苹果10月26日宣布，随iOS 27.2、iPadOS 27.2、macOS 27.2、watchOS 27.2和visionOS 27.2发布，Siri AI新增支持法语、日语、韩语、葡萄牙语和西班牙语。"
+              },
+              {
+                "en": "Apple said support for Traditional Chinese, Norwegian, Turkish and Vietnamese will roll out before the end of the year.",
+                "zh": "苹果称繁体中文、挪威语、土耳其语和越南语支持将在年底前推出。"
+              },
+              {
+                "en": "Siri AI is currently in beta and requires a device that supports Apple Intelligence set to a supported language.",
+                "zh": "Siri AI目前为测试版，需要支持Apple Intelligence的设备并设置为受支持语言。"
+              },
+              {
+                "en": "Apple said Siri AI is currently unavailable on iOS, iPadOS and watchOS in the EU, and the company is in talks with the EU to seek a solution.",
+                "zh": "苹果称，Siri AI目前在欧盟的iOS、iPadOS和watchOS上不可用，公司正与欧盟沟通寻求解决方案。"
+              },
+              {
+                "en": "Some features that rely on server models are subject to daily usage limits, and expanded access will be charged in the future.",
+                "zh": "部分依赖服务器模型的功能受每日使用限制，未来扩展访问将收费。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。"
+  ]
+}

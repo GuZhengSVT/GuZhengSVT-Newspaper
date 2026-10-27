@@ -1,0 +1,458 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-27",
+  "title": "2026-10-27 政治",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "前FBI局长科米第三次遭联邦起诉",
+    "塞尔维亚学生运动在议会选举中击败武契奇",
+    "约旦对叙利亚境内目标发动空袭报复教堂袭击",
+    "巴西最高法院禁止弗拉维奥·博索纳罗离境"
+  ],
+  "window_start": "2026-10-26T12:00:00+08:00",
+  "window_end": "2026-10-27T12:00:00+08:00",
+  "generated_at": "2026-10-27T18:34:00.512064+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|前FBI局长第三次遭联邦起诉|詹姆斯·科米",
+          "title": "前FBI局长科米第三次遭联邦起诉",
+          "summary": "美国联邦检察官以泄露国防信息为由对前FBI局长科米提起第三次刑事起诉，科米否认并称起诉是滥用职权。",
+          "published_at": "2026-10-27T02:01:27+08:00",
+          "follow_up": true,
+          "new_facts": "联邦检察官对科米提出两项泄露国防信息指控；科米律师称案件源于2016年向《纽约时报》披露机密信息；科米否认并称起诉是滥用职权。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "美国联邦检察官以泄露国防信息为由对前联邦调查局局长詹姆斯·科米提起刑事起诉，这是司法部第三次试图对其追究刑事责任。据BBC报道，一份三页的法庭文件列出两项指控，但未提供细节。科米的律师在另外的法庭文件中称，案件源于2016年10月科米担任FBI局长期间向《纽约时报》披露机密信息。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Federal prosecutors have taken steps to charge ex-Federal Bureau of Investigation (FBI) Director James Comey with leaking national defence information, according to a court filing."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "科米在Substack发布的视频中否认有任何不当行为，称起诉是“对司法部的骇人滥用”。其律师菲茨杰拉德表示，两届检察官团队此前均认定不应就向《纽约时报》披露信息一事提出指控。科米法律团队已提交动议要求驳回起诉。前联邦检察官柯克纳对BBC称，案件可能已超过10年诉讼时效。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Comey denied any wrongdoing in a video posted on Substack on Monday, calling the charges an \"appalling abuse\"."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "Comey's lawyer, Patrick Fitzgerald, said in a statement that two different teams of prosecutors had investigated the alleged disclosure to the New York Times a decade ago during the first Trump administration."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "科米此前已于2025年9月因向国会作虚假陈述和妨碍国会程序被起诉，该案于同年11月被驳回。2026年4月，他又因在社交媒体发布涉及特朗普的图片被起诉，该案仍在进行中。最新起诉公开的同一天，一名联邦法官裁定司法部非法解雇科米之女莫琳·科米。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Comey was first indicted by a federal grand jury in September 2025 on charges that he had lied to Congress during testimony and obstructed a congressional proceeding."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "The latest charges against Comey were made public the same day a federal judge ruled the justice department illegally fired his daughter, Maurene Comey."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "詹姆斯·科米",
+            "美国司法部"
+          ],
+          "limitations": "报道仅来自BBC单一来源，未获得起诉书原文或司法部官方声明。科米律师关于诉讼时效的论点尚未经法院裁决。",
+          "bilingual": {
+            "title_en": "Former FBI Director Comey Indicted by Federal Prosecutors for Third Time",
+            "sentences": [
+              {
+                "en": "U.S. federal prosecutors have filed criminal charges against former FBI Director James Comey over the leaking of national defense information, marking the Justice Department's third attempt to hold him criminally accountable.",
+                "zh": "美国联邦检察官以泄露国防信息为由对前联邦调查局局长詹姆斯·科米提起刑事起诉，这是司法部第三次试图对其追究刑事责任。"
+              },
+              {
+                "en": "According to BBC reporting, a three-page court filing lists two charges but provides no details.",
+                "zh": "据BBC报道，一份三页的法庭文件列出两项指控，但未提供细节。"
+              },
+              {
+                "en": "In a separate court filing, Comey's lawyers said the case stems from his disclosure of classified information to The New York Times in October 2016 while he was serving as FBI director.",
+                "zh": "科米的律师在另外的法庭文件中称，案件源于2016年10月科米担任FBI局长期间向《纽约时报》披露机密信息。"
+              },
+              {
+                "en": "In a video posted on Substack, Comey denied any wrongdoing and called the indictment \"a horrendous abuse of the Justice Department.\"",
+                "zh": "科米在Substack发布的视频中否认有任何不当行为，称起诉是“对司法部的骇人滥用”。"
+              },
+              {
+                "en": "His lawyer Fitzgerald said that two teams of prosecutors had previously concluded that no charges should be brought over the disclosure to The New York Times.",
+                "zh": "其律师菲茨杰拉德表示，两届检察官团队此前均认定不应就向《纽约时报》披露信息一事提出指控。"
+              },
+              {
+                "en": "Comey's legal team has filed a motion to dismiss the indictment.",
+                "zh": "科米法律团队已提交动议要求驳回起诉。"
+              },
+              {
+                "en": "Former federal prosecutor Kirkner told the BBC that the case may have exceeded the 10-year statute of limitations.",
+                "zh": "前联邦检察官柯克纳对BBC称，案件可能已超过10年诉讼时效。"
+              },
+              {
+                "en": "Comey was previously indicted in September 2025 on charges of making false statements to Congress and obstructing congressional proceedings, and that case was dismissed in November of the same year.",
+                "zh": "科米此前已于2025年9月因向国会作虚假陈述和妨碍国会程序被起诉，该案于同年11月被驳回。"
+              },
+              {
+                "en": "In April 2026, he was indicted again over an image involving Trump that he posted on social media, and that case is still ongoing.",
+                "zh": "2026年4月，他又因在社交媒体发布涉及特朗普的图片被起诉，该案仍在进行中。"
+              },
+              {
+                "en": "On the same day the latest indictment was made public, a federal judge ruled that the Justice Department had illegally fired Comey's daughter, Maureen Comey.",
+                "zh": "最新起诉公开的同一天，一名联邦法官裁定司法部非法解雇科米之女莫琳·科米。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "塞尔维亚|学生运动在议会选举中击败武契奇|2026年塞尔维亚议会选举",
+          "title": "塞尔维亚学生运动在议会选举中击败武契奇",
+          "summary": "塞尔维亚学生运动“学生名单”在议会选举中以52.7%得票率击败武契奇领导的执政党，武契奇承认败选。",
+          "published_at": "2026-10-26T14:34:52+08:00",
+          "follow_up": true,
+          "new_facts": "塞尔维亚选举委员会初步计票显示“学生名单”获52.7%选票、武契奇执政党获39.2%；武契奇承认败选；学生名单预计获141席。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "塞尔维亚长期领导人亚历山大·武契奇承认在提前议会选举中败给由学生领导的抗议运动。据BBC报道，塞尔维亚选举委员会在统计97%投票站后公布，“学生名单”运动获得约225万票、52.7%的选票，武契奇领导的塞尔维亚进步党获得约167万票、39.2%。武契奇在贝尔格莱德党部表示“我们显然输掉了这次选举”。",
+              "evidence": [
+                {
+                  "source_id": "s37",
+                  "quote": "With 97% of polling stations counted, Serbia's election commission said the students had won 2.25 million votes and the former ruling party 1.67 million."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "这场选举源于2024年11月诺维萨德火车站混凝土雨棚坍塌事故，该事故造成16人死亡，被广泛视为腐败和失职的象征。学生运动由此兴起，从校园抗议发展为全国性反腐运动。独立民调机构CeSID和Ipsos的最终预测显示，“学生名单”在250席议会中赢得141席。该运动未推出明确的领导人人选，候选人来自医生、演员、学者、体育界等社会各界。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "It all began on 1 November 2024, when the concrete canopy collapsed outside Novi Sad train station, in Serbia's second biggest city, killing 16 people."
+                },
+                {
+                  "source_id": "s39",
+                  "quote": "According to a final projection by independent polling groups CeSID and Ipsos, 141 people on the list have won seats in parliament."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            },
+            {
+              "text": "学生运动在竞选中提出消除腐败、整顿内政部、改革媒体、停止党派忠诚者领导公共企业等主张。武契奇在承认败选时仍称学生运动得到“欧洲国家和美国深层政府”的支持，这一说法没有提供证据。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "Even after conceding victory on Sunday night he made the unfounded allegation that they had the support of unnamed \"European countries and the American deep state\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "塞尔维亚",
+            "亚历山大·武契奇",
+            "学生名单运动"
+          ],
+          "limitations": "报道仅来自BBC，未直接获取塞尔维亚选举委员会官方数据。席位预测来自独立民调机构，非官方最终结果。武契奇关于“深层政府”支持的指控未经证实。",
+          "bilingual": {
+            "title_en": "Serbian student movement defeats Vučić in parliamentary election",
+            "sentences": [
+              {
+                "en": "Serbia's long-time leader Aleksandar Vučić has conceded defeat in the snap parliamentary election to a protest movement led by students.",
+                "zh": "塞尔维亚长期领导人亚历山大·武契奇承认在提前议会选举中败给由学生领导的抗议运动。"
+              },
+              {
+                "en": "According to BBC reporting, after counting votes from 97% of polling stations, Serbia's election commission announced that the \"Students' List\" movement won about 2.25 million votes, or 52.7%, while Vučić's Serbian Progressive Party won about 1.67 million votes, or 39.2%.",
+                "zh": "据BBC报道，塞尔维亚选举委员会在统计97%投票站后公布，“学生名单”运动获得约225万票、52.7%的选票，武契奇领导的塞尔维亚进步党获得约167万票、39.2%。"
+              },
+              {
+                "en": "Speaking at the party headquarters in Belgrade, Vučić said, \"We have clearly lost this election.\"",
+                "zh": "武契奇在贝尔格莱德党部表示“我们显然输掉了这次选举”。"
+              },
+              {
+                "en": "The election stemmed from the November 2024 collapse of a concrete canopy at the Novi Sad railway station, which killed 16 people and has been widely seen as a symbol of corruption and dereliction of duty.",
+                "zh": "这场选举源于2024年11月诺维萨德火车站混凝土雨棚坍塌事故，该事故造成16人死亡，被广泛视为腐败和失职的象征。"
+              },
+              {
+                "en": "The student movement emerged from this, growing from campus protests into a nationwide anti-corruption movement.",
+                "zh": "学生运动由此兴起，从校园抗议发展为全国性反腐运动。"
+              },
+              {
+                "en": "Final projections by independent polling agencies CeSID and Ipsos showed that the \"Students' List\" won 141 of the 250 parliamentary seats.",
+                "zh": "独立民调机构CeSID和Ipsos的最终预测显示，“学生名单”在250席议会中赢得141席。"
+              },
+              {
+                "en": "The movement did not put forward a clear candidate for leader, and its candidates came from various sectors of society, including doctors, actors, academics and sports figures.",
+                "zh": "该运动未推出明确的领导人人选，候选人来自医生、演员、学者、体育界等社会各界。"
+              },
+              {
+                "en": "In its campaign, the student movement proposed eliminating corruption, overhauling the Interior Ministry, reforming the media, and ending the leadership of public enterprises by party loyalists.",
+                "zh": "学生运动在竞选中提出消除腐败、整顿内政部、改革媒体、停止党派忠诚者领导公共企业等主张。"
+              },
+              {
+                "en": "While conceding defeat, Vučić still claimed that the student movement had the support of \"European countries and the American deep state,\" a claim for which he provided no evidence.",
+                "zh": "武契奇在承认败选时仍称学生运动得到“欧洲国家和美国深层政府”的支持，这一说法没有提供证据。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "约旦|对叙利亚境内武装目标发动空袭报复教堂袭击|约旦空袭叙利亚",
+          "title": "约旦对叙利亚境内目标发动空袭报复教堂袭击",
+          "summary": "约旦对叙利亚南部目标发动空袭，称报复教堂袭击；叙利亚称5人死亡并关闭边境口岸。",
+          "published_at": "2026-10-27T02:40:17+08:00",
+          "follow_up": true,
+          "new_facts": "约旦空袭叙利亚南部德拉省村庄，称打击“恐怖组织”；叙利亚称5人死亡、包括妇女儿童，并关闭一处边境口岸。",
+          "verification": "corroborated",
+          "facts": [
+            {
+              "text": "约旦军方对叙利亚境内目标发动空袭，称打击的是“恐怖组织”，以报复上周约旦卡拉克一座希腊东正教教堂葬礼遭袭事件。该袭击造成9人死亡、34人受伤。据BBC报道，叙利亚卫生官员称，约旦空袭叙南部德拉省一个村庄，造成5人死亡，死者包括妇女、儿童和一名老人。约旦称其战机打死打伤“数名恐怖分子”，未提供细节。",
+              "evidence": [
+                {
+                  "source_id": "s58",
+                  "quote": "Jordan has struck what its military says were \"terrorist organisations\" in Syria in retaliation for an attack on a Christian funeral last week that killed nine people."
+                },
+                {
+                  "source_id": "s65",
+                  "quote": "Jordan attacks militants in Syria in retaliation for church attack"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "约旦称空袭前与叙利亚政府进行了协调，但叙利亚方面表示未收到通知。叙利亚宣布关闭与约旦的一处边境口岸，暂停双向人员和商业交通。",
+              "evidence": [
+                {
+                  "source_id": "s58",
+                  "quote": "Jordan said it had co-ordinated with the Syrian government. Syria said it had not been notified of Monday's attack."
+                },
+                {
+                  "source_id": "s58",
+                  "quote": "In response to the strike, Syria said it had closed a border crossing with Jordan."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "约旦",
+            "叙利亚",
+            "希腊东正教教堂袭击事件"
+          ],
+          "limitations": "约旦和叙利亚对空袭是否事先协调说法矛盾。伤亡数字来自叙利亚官方，未经独立核实。空袭目标是否确为教堂袭击实施者尚未得到第三方确认。",
+          "bilingual": {
+            "title_en": "Jordan Launches Airstrikes on Targets in Syria in Retaliation for Church Attack",
+            "sentences": [
+              {
+                "en": "The Jordanian military launched airstrikes on targets in Syria, saying it struck \"terrorist organizations\" in retaliation for last week's attack on a funeral at a Greek Orthodox church in Karak, Jordan.",
+                "zh": "约旦军方对叙利亚境内目标发动空袭，称打击的是“恐怖组织”，以报复上周约旦卡拉克一座希腊东正教教堂葬礼遭袭事件。"
+              },
+              {
+                "en": "The attack killed 9 people and injured 34.",
+                "zh": "该袭击造成9人死亡、34人受伤。"
+              },
+              {
+                "en": "According to BBC reporting, Syrian health officials said Jordanian airstrikes on a village in Daraa Governorate in southern Syria killed 5 people, including women, children and an elderly man.",
+                "zh": "据BBC报道，叙利亚卫生官员称，约旦空袭叙南部德拉省一个村庄，造成5人死亡，死者包括妇女、儿童和一名老人。"
+              },
+              {
+                "en": "Jordan said its warplanes killed and wounded \"several terrorists\" but provided no details.",
+                "zh": "约旦称其战机打死打伤“数名恐怖分子”，未提供细节。"
+              },
+              {
+                "en": "Jordan said it coordinated with the Syrian government before the airstrikes, but Syria said it received no notification.",
+                "zh": "约旦称空袭前与叙利亚政府进行了协调，但叙利亚方面表示未收到通知。"
+              },
+              {
+                "en": "Syria announced the closure of a border crossing with Jordan, suspending the movement of people and commercial traffic in both directions.",
+                "zh": "叙利亚宣布关闭与约旦的一处边境口岸，暂停双向人员和商业交通。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "巴西|最高法院对败选候选人采取出境限制|弗拉维奥·博索纳罗",
+          "title": "巴西最高法院禁止弗拉维奥·博索纳罗离境",
+          "summary": "巴西最高法院法官莫赖斯下令弗拉维奥·博索纳罗交出护照并禁止其离境，决定涉及对该议员的调查。",
+          "published_at": "2026-10-27T07:55:00+08:00",
+          "follow_up": true,
+          "new_facts": "巴西最高法院法官莫赖斯10月26日禁止弗拉维奥·博索纳罗离境并要求其交出护照；决定处于司法保密状态，由弗拉维奥本人公开。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "巴西最高法院法官亚历山大·德莫赖斯10月26日下令禁止参议员弗拉维奥·博索纳罗离开巴西，并要求其向联邦警察交出护照。据巴西通讯社报道，该决定处于司法保密状态，由弗拉维奥本人在社交媒体上公开。命令涉及弗拉维奥和律师威勒·托马兹在最高法院接受调查的案件。",
+              "evidence": [
+                {
+                  "source_id": "s71",
+                  "quote": "O ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), proibiu nesta segunda-feira (26) o senador Flávio Bolsonaro (PL) de deixar o país."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "弗拉维奥称，他在离开父亲雅伊尔·博索纳罗住所时被联邦警察在街上告知交出护照并禁止离境。他质疑决定时机，称“如果是我赢了选举，还会发生同样的事吗？”",
+              "evidence": [
+                {
+                  "source_id": "s71",
+                  "quote": "\"Hoje de manhã, eu fui visitar meu pai. Quando eu estava saindo, a Polícia Federal do Lula estava na porta da casa dele e, no meio da rua, eu fui intimado a entregar meus passaportes e também estou proibido de deixar o país\", relatou."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "巴西",
+            "弗拉维奥·博索纳罗",
+            "巴西最高法院"
+          ],
+          "limitations": "决定处于司法保密状态，未获得官方文书原文。弗拉维奥关于决定动机的说法为其个人表述，未经独立核实。",
+          "bilingual": {
+            "title_en": "Brazil Supreme Court Bars Flávio Bolsonaro From Leaving the Country",
+            "sentences": [
+              {
+                "en": "Brazilian Supreme Court Justice Alexandre de Moraes ordered on October 26 that Senator Flávio Bolsonaro be barred from leaving Brazil and surrender his passport to the Federal Police.",
+                "zh": "巴西最高法院法官亚历山大·德莫赖斯10月26日下令禁止参议员弗拉维奥·博索纳罗离开巴西，并要求其向联邦警察交出护照。"
+              },
+              {
+                "en": "According to Agência Brasil, the decision is under judicial seal and was made public by Flávio himself on social media.",
+                "zh": "据巴西通讯社报道，该决定处于司法保密状态，由弗拉维奥本人在社交媒体上公开。"
+              },
+              {
+                "en": "The order concerns a case involving Flávio and lawyer Willer Tomaz that is under investigation at the Supreme Court.",
+                "zh": "命令涉及弗拉维奥和律师威勒·托马兹在最高法院接受调查的案件。"
+              },
+              {
+                "en": "Flávio said that while leaving his father Jair Bolsonaro's residence, he was told on the street by Federal Police officers to hand over his passport and that he was barred from leaving the country.",
+                "zh": "弗拉维奥称，他在离开父亲雅伊尔·博索纳罗住所时被联邦警察在街上告知交出护照并禁止离境。"
+              },
+              {
+                "en": "He questioned the timing of the decision, saying, \"If I had won the election, would the same thing still have happened?\"",
+                "zh": "他质疑决定时机，称“如果是我赢了选举，还会发生同样的事吗？”"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s37",
+      "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+      "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+      "published_at": null
+    },
+    {
+      "id": "s58",
+      "url": "https://www.bbc.co.uk/news/articles/cq8ezg6dy6xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
+      "published_at": null
+    },
+    {
+      "id": "s20",
+      "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "published_at": null
+    },
+    {
+      "id": "s39",
+      "url": "https://www.bbc.co.uk/news/articles/c574pvy82k0mo?at_medium=RSS&at_campaign=rss",
+      "title": "How a movement of students brought down Serbia's Vučić",
+      "published_at": null
+    },
+    {
+      "id": "s71",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/moraes-manda-flavio-entregar-passaporte-e-o-proibe-de-deixar-o-pais",
+      "title": "Brasília (DF), 25/10/2026 - O candidato à Presidência da República, senador Flávio Bolsonaro (PL), fala com jornalistas após ser derrotado no segundo turno das eleições pelo candidato Luiz Inácio Lula da Silva (PT). Foto: Joédson Alves/Agência Brasil. Brasília (DF), 25/10/2026 - O candidato à Presid",
+      "published_at": "2026-10-26T20:55:00-03:00"
+    },
+    {
+      "id": "s65",
+      "url": "https://www.theguardian.com/world/2026/oct/26/jordan-attacks-militants-syria-retaliation-for-last-week-church-attack",
+      "title": "Jordan attacks militants in Syria in retaliation for church attack",
+      "published_at": "2026-10-26T22:08:38+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
