@@ -1,0 +1,405 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-28",
+  "title": "2026-10-28 ACGN",
+  "summary": "《Where Winds Meet》公布11月13日上线的“Hutuo”区域及首个全球周年更新，PS5版将获PSSR与光追增强。Funcom宣布《Aloft》与《Conan Exiles Enhanced》于2027年初登陆PS5，前者以1.0完整版首次登上主机，后者为现有玩家提供免费增强版。WDR Studios的恐龙题材第一人称跑酷恐怖游戏《Terrible Lizards》定于10月29日发售。",
+  "highlights": [
+    "《Where Winds Meet》11月13日推出Hutuo区域，携首个全球周年更新。",
+    "《Aloft》2027年初以1.0完整版首登PS5，Funcom发行。",
+    "《Conan Exiles Enhanced》2027年初登陆PS5，PS4版拥有者免费升级。",
+    "《Terrible Lizards》10月29日发售，设定在1990年代恐龙主题路边景点。"
+  ],
+  "window_start": "2026-10-27T12:00:00+08:00",
+  "window_end": "2026-10-28T12:00:00+08:00",
+  "generated_at": "2026-10-28T18:22:06.494841+08:00",
+  "sources": [
+    {
+      "id": "s18",
+      "url": "https://blog.playstation.com/2026/10/27/where-winds-meets-climactic-hutuo-battlefield-narrative-arc-revealed-out-nov-13/",
+      "title": "Where Winds Meet’s climactic Hutuo Battlefield narrative arc revealed, out Nov 13",
+      "published_at": "2026-10-27T08:01:34-07:00"
+    },
+    {
+      "id": "s17",
+      "url": "https://blog.playstation.com/2026/10/27/aloft-and-conan-exiles-enhanced-launch-on-ps5-in-early-2027/",
+      "title": "Aloft and Conan Exiles Enhanced launch on PS5 in early 2027",
+      "published_at": "2026-10-27T09:00:43-07:00"
+    },
+    {
+      "id": "s19",
+      "url": "https://blog.playstation.com/2026/10/27/terrible-lizards-dev-discusses-twisting-familiar-dinosaur-designs-out-oct-29/",
+      "title": "Terrible Lizards dev discusses twisting familiar dinosaur designs, out Oct 29",
+      "published_at": "2026-10-27T07:00:38-07:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Where Winds Meet|发布|“Hutuo”大型版本（2026-11-13）",
+          "title": "《Where Winds Meet》公布Hutuo版本，11月13日上线",
+          "summary": "PlayStation Blog公布《Where Winds Meet》11月13日上线Hutuo区域，作为首个全球周年更新的一部分；PS5版将获PSSR与光追增强，11月2日举行特别直播。",
+          "published_at": "2026-10-27T23:01:34+08:00",
+          "follow_up": true,
+          "new_facts": "公布Hutuo区域11月13日上线、首个全球周年更新、PS5 Pro增强及11月2日直播。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Where Winds Meet",
+            "Hutuo"
+          ],
+          "limitations": "官方博客仅公布版本内容与PS5技术增强，未说明商业模式、语言支持及Hutuo区域的具体体量；性能描述来自官方。",
+          "facts": [
+            {
+              "text": "PlayStation Blog于10月27日刊出《Where Winds Meet》发行负责人Eric Zheng的文章，宣布游戏将于11月13日上线新区域“Hutuo”，作为首个全球周年更新的一部分。官方称这是作品迄今最关键的叙事篇章。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Today, we are proud to unveil the most climactic narrative arc in Where Winds Meet yet: Hutuo, a sprawling new region launching November 13 alongside the game’s first global anniversary update."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "Hutuo以战乱边境为舞台，围绕中都桥之战展开：北方入侵者越境、前线防线崩溃，玩家要在效忠崩坏王朝与保护平民之间作出选择。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Here, you step into a desperate historical crossroads: northern invaders are surging across the border, frontline defenses are fracturing, and old pacts lie in ruins."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "PS5版将获得针对PS5 Pro的增强PSSR和升级的光线追踪反射，官方称湿地与河流场景可在60 FPS下运行；DualSense自适应扳机与触觉反馈用于强化拉弓和挥刃的手感。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Utilizing enhanced PSSR alongside upgraded ray-traced reflections, Hutuo’s rivers and wetlands look more striking than ever at a stable 60 FPS"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "DualSense adaptive triggers and haptics lend physical weight to every drawn war-bow and clashing blade"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "周年更新还包含奖励以及赛马棋、江湖战术等棋盘玩法；官方将于11月2日举行周年特别直播，11月下旬上线由袁和平指导的双矛武学。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Arriving November 13, our first anniversary update delivers the most generous historic rewards since launch, alongside fun and tactical new board game modes like Horse Racing Chess and Jianghu Tactics."
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "Tune in to our First Anniversary Special Broadcast on November 2, where our team will share deeper developer insights and exclusive gameplay reveals for Hutuo."
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "The celebration continues on late November with the debut of the Dual Spears Martial Art. Directed and choreographed by legendary action director Yuen Woo-ping"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Where Winds Meet Reveals Hutuo Update, Launching November 13",
+            "sentences": [
+              {
+                "en": "On October 27, the PlayStation Blog published an article by Eric Zheng, publishing lead for Where Winds Meet, announcing that the game will launch its new region “Hutuo” on November 13 as part of its first global anniversary update.",
+                "zh": "PlayStation Blog于10月27日刊出《Where Winds Meet》发行负责人Eric Zheng的文章，宣布游戏将于11月13日上线新区域“Hutuo”，作为首个全球周年更新的一部分。"
+              },
+              {
+                "en": "The official announcement calls this the game’s most pivotal narrative chapter to date.",
+                "zh": "官方称这是作品迄今最关键的叙事篇章。"
+              },
+              {
+                "en": "Set on a war-torn border, Hutuo revolves around the Battle of Zhongdu Bridge: northern invaders cross the border and the frontline collapses, leaving players to choose between loyalty to a collapsing dynasty and protecting civilians.",
+                "zh": "Hutuo以战乱边境为舞台，围绕中都桥之战展开：北方入侵者越境、前线防线崩溃，玩家要在效忠崩坏王朝与保护平民之间作出选择。"
+              },
+              {
+                "en": "The PS5 version will receive enhanced PSSR for PS5 Pro and upgraded ray-traced reflections, with the official announcement saying wetland and river scenes can run at 60 FPS; DualSense adaptive triggers and haptic feedback will enhance the feel of drawing a bow and swinging a blade.",
+                "zh": "PS5版将获得针对PS5 Pro的增强PSSR和升级的光线追踪反射，官方称湿地与河流场景可在60 FPS下运行；DualSense自适应扳机与触觉反馈用于强化拉弓和挥刃的手感。"
+              },
+              {
+                "en": "The anniversary update will also include rewards and board game modes such as horse-racing chess and Jianghu Tactics; an official special anniversary livestream is scheduled for November 2, and a dual-spear martial art choreographed by Yuen Woo-ping will launch in late November.",
+                "zh": "周年更新还包含奖励以及赛马棋、江湖战术等棋盘玩法；官方将于11月2日举行周年特别直播，11月下旬上线由袁和平指导的双矛武学。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Aloft|公布PS5版并定档|2027年初正式版",
+          "title": "《Aloft》将于2027年初以1.0完整版首登PS5",
+          "summary": "Funcom宣布《Aloft》2027年初首次登陆主机PS5，由Funcom发行；PS5版包含PC抢先体验全部更新和1.0完整内容，具体日期与售价后续公布。",
+          "published_at": "2026-10-28T00:00:43+08:00",
+          "follow_up": true,
+          "new_facts": "宣布2027年初PS5版，含1.0和全部抢先体验更新，Funcom发行。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Aloft",
+            "PlayStation 5"
+          ],
+          "limitations": "发售窗口为2027年初，具体日期、售价及语言支持未在来源中给出；PS5版是否与其他平台同步发售亦未说明。",
+          "facts": [
+            {
+              "text": "Funcom通信经理Jarle Hrafn Grindhaug在PlayStation Blog宣布，云中合作沙盒生存游戏《Aloft》将于2027年初首次登陆主机，由Funcom发行PS5版。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "we are ecstatic to reveal that our cozy co-op sandbox survival game in the clouds, Aloft, makes its console debut with Funcom as a publisher on PS5 early 2027."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "开发团队Astrolabe由一群朋友发展而来，历时六年制作。PS5版包含PC抢先体验期间的全部更新和1.0完整内容，玩家可独自或与朋友把浮岛改造成空中船、在云间建家。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "After six years of heartfelt development with a team that grew from a small group of friends to the Astrolabe of today"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "The PS5 version includes all the updates released during the game’s Early Access period on PC, as well as the 1.0 experience"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "Turn floating islands into skyships, build a home among the clouds, and explore a colorful open world alone or with friends."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "官方表示，两款游戏的具体发售日期和更多细节将在之后公布。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "We’ll share release dates and more details for both games at a later date."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Aloft to Make Console Debut on PS5 in Early 2027 With Full 1.0 Release",
+            "sentences": [
+              {
+                "en": "Funcom communications manager Jarle Hrafn Grindhaug announced on the PlayStation Blog that Aloft, a cooperative cloud-based sandbox survival game, will make its console debut in early 2027, with Funcom publishing the PS5 version.",
+                "zh": "Funcom通信经理Jarle Hrafn Grindhaug在PlayStation Blog宣布，云中合作沙盒生存游戏《Aloft》将于2027年初首次登陆主机，由Funcom发行PS5版。"
+              },
+              {
+                "en": "The development team Astrolabe grew out of a group of friends and has spent six years making the game.",
+                "zh": "开发团队Astrolabe由一群朋友发展而来，历时六年制作。"
+              },
+              {
+                "en": "The PS5 version will include all updates from the PC early access period and the full 1.0 content, and players can transform floating islands into airships and build homes among the clouds, either alone or with friends.",
+                "zh": "PS5版包含PC抢先体验期间的全部更新和1.0完整内容，玩家可独自或与朋友把浮岛改造成空中船、在云间建家。"
+              },
+              {
+                "en": "The team said that specific release dates and more details for the two games will be announced later.",
+                "zh": "官方表示，两款游戏的具体发售日期和更多细节将在之后公布。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Conan Exiles Enhanced|公布|PS5版（2027年初）",
+          "title": "《Conan Exiles Enhanced》2027年初登陆PS5，PS4版可免费升级",
+          "summary": "Funcom宣布《Conan Exiles Enhanced》2027年初登陆PS5；PS4版拥有者可免费获得增强版，Bazaar物品和DLC可继承，主机版含新故事线。",
+          "published_at": "2026-10-28T00:00:43+08:00",
+          "follow_up": true,
+          "new_facts": "宣布2027年初PS5增强版，老玩家免费，买一版得两代版本，含Legacy of the Giant-Kings故事线。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Conan Exiles Enhanced",
+            "PlayStation 5"
+          ],
+          "limitations": "来源确认2027年初为发售窗口，具体日期、售价和语言支持未给出；Isle of Siptah仍为单独购买内容。",
+          "facts": [
+            {
+              "text": "PlayStation Blog宣布，《Conan Exiles Enhanced》将于2027年初登陆PS5，具体发售日期后续公布。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "We are thrilled to announce that Conan Exiles Enhanced is coming to PS5."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "We’ll share release dates and more details for both games at a later date."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "拥有PS4版《Conan Exiles》的玩家可免费获得PS5增强版；PS4与PS5版买一得二，已购Bazaar物品和DLC可从PS4继承。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "All players who own Conan Exiles on PlayStation will get the Enhanced version for PlayStation 5 for free. Both PS4 and PS5 versions will be available to purchase. Buy one version and get the other for free."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "增强版改进环境、角色、光照和特效，重做UI并提升性能。主机版发售时包含“Legacy of the Giant-Kings”新故事线，Isle of Siptah仍为单独购买。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "The Enhanced edition brings improved environments, characters, lighting, and effects, along with a redesigned UI and performance and quality-of-life improvements."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "The new Legacy of the Giant-Kings story arc will be included in the console launch of Conan Exiles Enhanced"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "Isle of Siptah remains a separate purchase."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Conan Exiles Enhanced to Launch on PS5 in Early 2027, With Free Upgrade for PS4 Owners",
+            "sentences": [
+              {
+                "en": "PlayStation Blog announced that Conan Exiles Enhanced will launch on PS5 in early 2027, with the specific release date to be announced later.",
+                "zh": "PlayStation Blog宣布，《Conan Exiles Enhanced》将于2027年初登陆PS5，具体发售日期后续公布。"
+              },
+              {
+                "en": "Players who own the PS4 version of Conan Exiles can receive the PS5 Enhanced version for free; the PS4 and PS5 versions are offered on a buy-one-get-both basis, and purchased Bazaar items and DLC can be carried over from PS4.",
+                "zh": "拥有PS4版《Conan Exiles》的玩家可免费获得PS5增强版；PS4与PS5版买一得二，已购Bazaar物品和DLC可从PS4继承。"
+              },
+              {
+                "en": "The Enhanced version improves environments, characters, lighting, and effects, reworks the UI, and boosts performance.",
+                "zh": "增强版改进环境、角色、光照和特效，重做UI并提升性能。"
+              },
+              {
+                "en": "The console version will include the new \"Legacy of the Giant-Kings\" storyline at launch, while Isle of Siptah remains a separate purchase.",
+                "zh": "主机版发售时包含“Legacy of the Giant-Kings”新故事线，Isle of Siptah仍为单独购买。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Terrible Lizards|发售|2026-10-29",
+          "title": "《Terrible Lizards》定于10月29日发售",
+          "summary": "WDR Studios在PlayStation Blog公布，第一人称3D平台跑酷恐怖游戏《Terrible Lizards》10月29日发售，背景为1990年代恐龙主题路边景点。",
+          "published_at": "2026-10-27T22:00:38+08:00",
+          "follow_up": true,
+          "new_facts": "宣布10月29日发售及1990年代恐龙景点设定。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "WDR Studios",
+            "Terrible Lizards"
+          ],
+          "limitations": "来源为PlayStation Blog上的开发者自述，未给出售价、语言支持及其他平台信息；发售日为公布的计划日期。",
+          "facts": [
+            {
+              "text": "PlayStation Blog于10月27日刊出WDR Studios工作室总监John W. Gelardi的文章，宣布第一人称3D平台跑酷恐怖游戏《Terrible Lizards》将于10月29日发售。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Terrible Lizards is a 3D first-person platformer, but we also use the term “parkour” to describe the game’s emphasis on movement through physical spaces."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "we hope players everywhere enjoy the game when it launches on October 29."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "游戏设定在1990年代初，玩家扮演一名沿66号公路旅行的大学生，汽车抛锚后进入名为Dalton’s Dinos的恐龙主题路边景点，却遭遇可怕事物。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "The game takes place in the early 1990s, where you play as a college kid road tripping out west on Route 66."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "When your car breaks down, you venture into a roadside attraction called Dalton’s Dinos looking for help… but you find something terrible instead."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "WDR Studios表示，团队多数成员是首次制作游戏、此前从事网络内容创作；游戏强调奔跑、跳跃、滑铲、蹬墙和抓边等移动技巧。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Our team is made up of first-time game developers, most of us being creators coming from the online space."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Terrible Lizards Set for October 29 Release",
+            "sentences": [
+              {
+                "en": "On October 27, PlayStation Blog published an article by John W. Gelardi, studio director at WDR Studios, announcing that the first-person 3D platforming parkour horror game Terrible Lizards will be released on October 29.",
+                "zh": "PlayStation Blog于10月27日刊出WDR Studios工作室总监John W. Gelardi的文章，宣布第一人称3D平台跑酷恐怖游戏《Terrible Lizards》将于10月29日发售。"
+              },
+              {
+                "en": "Set in the early 1990s, the game follows a college student traveling along Route 66 who, after their car breaks down, enters a dinosaur-themed roadside attraction called Dalton’s Dinos and encounters something terrifying.",
+                "zh": "游戏设定在1990年代初，玩家扮演一名沿66号公路旅行的大学生，汽车抛锚后进入名为Dalton’s Dinos的恐龙主题路边景点，却遭遇可怕事物。"
+              },
+              {
+                "en": "WDR Studios said that most team members are making a game for the first time and previously worked in online content creation; the game emphasizes movement techniques such as running, jumping, sliding, wall kicking, and ledge grabbing.",
+                "zh": "WDR Studios表示，团队多数成员是首次制作游戏、此前从事网络内容创作；游戏强调奔跑、跳跃、滑铲、蹬墙和抓边等移动技巧。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}

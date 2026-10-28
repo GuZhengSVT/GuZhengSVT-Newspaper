@@ -1,0 +1,203 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-28",
+  "title": "2026-10-28 科技 · 基础学科",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "非对称铝单原子位点改善钠硫电池循环性能",
+    "T细胞可感知组织硬度并影响记忆细胞形成"
+  ],
+  "window_start": "2026-10-21T12:00:00+08:00",
+  "window_end": "2026-10-28T12:00:00+08:00",
+  "generated_at": "2026-10-28T18:10:38.031380+08:00",
+  "sources": [
+    {
+      "id": "s17",
+      "url": "https://www.cas.cn/syky/202610/t20261027_5122926.shtml",
+      "title": "科研人员利用非对称配位 p 区铝单原子位点构筑稳定钠硫电池",
+      "published_at": null
+    },
+    {
+      "id": "s14",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261026225617.htm",
+      "title": "Scientists discover the immune system’s hidden sense of touch",
+      "published_at": "2026-10-27T20:54:54-04:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "science",
+      "name": "基础学科",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中国科学院科研人员|构筑|非对称配位p区铝单原子位点稳定钠硫电池",
+          "entities": [
+            "中国科学院",
+            "合肥物质科学研究院",
+            "非对称配位p区铝单原子位点",
+            "钠硫电池"
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "title": "非对称铝单原子位点改善钠硫电池循环性能",
+          "summary": "中科院合肥物质科学研究院报道，在平面Al-O4配位中引入N配体构建非对称Al-O3N-C单原子位点，增强铝单原子与多硫化钠的p-p轨道杂化；基于该催化剂的钠硫电池在0.1C下循环100次后容量保持1196 mAh g−1，成果发表于《德国应用化学》。",
+          "published_at": "2026-10-28T00:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "中科院合肥物质科学研究院提出非对称Al-O3N-C单原子位点，N配体使Al 2p结合能蓝移0.12eV并增强与多硫化钠的p-p轨道杂化；0.1C循环100次容量1196 mAh g−1，论文发表于《德国应用化学》。",
+          "verification": "official_statement",
+          "limitations": "来源为中科院网站科研进展公告；只给出研究团队报道的性能，未提供论文全文和独立复现；页面只标日期，published_at按当日零点处理。",
+          "facts": [
+            {
+              "text": "中国科学院合肥物质科学研究院的研究团队在平面Al-O4配位结构中引入一个N配体，构建出非对称Al-O3N-C单原子位点，用于提升钠硫电池的反应性能。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "研究团队通过在平面Al-O 4 配位结构中引入一个N配体，构建了非对称Al-O 3 N-C单原子结构。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "研究称，N配体打破配位对称性并诱导电子局域化，使Al 2p结合能蓝移0.12 eV，增强铝单原子与多硫化钠之间的p-p轨道杂化，形成吸附—催化增强机制。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "N配体的引入打破了配位对称性并诱导电子局域化，导致Al 2 p 结合能蓝移0.12eV，增强了Al单原子与多硫化钠之间的 p - p 轨道杂化相互作用"
+                }
+              ],
+              "kind": "explanation",
+              "verification": "official_statement"
+            },
+            {
+              "text": "基于该催化剂的钠硫电池在0.1C电流密度下循环100次后容量保持1196 mAh g−1。相关成果发表在《德国应用化学》，研究得到国家重点研发计划和国家自然科学基金支持。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "在0.1C的电流密度下循环100次后，电池容量仍保持1196 mAh g −1 ，表现出良好的循环稳定性。"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "相关研究成果发表在《德国应用化学》上。研究工作得到国家重点研发计划和国家自然科学基金等的支持。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Asymmetric Aluminum Single-Atom Sites Improve Sodium–Sulfur Battery Cycling Performance",
+            "sentences": [
+              {
+                "en": "A research team at the Hefei Institutes of Physical Science, Chinese Academy of Sciences, introduced an N ligand into a planar Al-O4 coordination structure to construct asymmetric Al-O3N-C single-atom sites aimed at improving the reaction performance of sodium–sulfur batteries.",
+                "zh": "中国科学院合肥物质科学研究院的研究团队在平面Al-O4配位结构中引入一个N配体，构建出非对称Al-O3N-C单原子位点，用于提升钠硫电池的反应性能。"
+              },
+              {
+                "en": "The study states that the N ligand breaks coordination symmetry and induces electron localization, causing the Al 2p binding energy to blue-shift by 0.12 eV, enhancing p-p orbital hybridization between the aluminum single atoms and sodium polysulfides, and forming an adsorption–catalysis enhancement mechanism.",
+                "zh": "研究称，N配体打破配位对称性并诱导电子局域化，使Al 2p结合能蓝移0.12 eV，增强铝单原子与多硫化钠之间的p-p轨道杂化，形成吸附—催化增强机制。"
+              },
+              {
+                "en": "The sodium–sulfur battery based on this catalyst maintained a capacity of 1196 mAh g−1 after 100 cycles at a current density of 0.1C.",
+                "zh": "基于该催化剂的钠硫电池在0.1C电流密度下循环100次后容量保持1196 mAh g−1。"
+              },
+              {
+                "en": "The related results were published in Angewandte Chemie, and the research was supported by the National Key Research and Development Program and the National Natural Science Foundation of China.",
+                "zh": "相关成果发表在《德国应用化学》，研究得到国家重点研发计划和国家自然科学基金支持。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "T细胞|感知|组织硬度以调控免疫反应",
+          "entities": [
+            "T细胞",
+            "组织硬度",
+            "机械力感知"
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "title": "T细胞可感知组织硬度并影响记忆细胞形成",
+          "summary": "据麦吉尔大学新闻稿，该校团队发现T细胞能感知周围组织硬度，并用这一物理信号影响长寿命记忆细胞的形成；人和小鼠细胞在越硬的胶原凝胶中越易获得组织驻留记忆细胞特征。论文发表于Nature Immunology，分子传感器仍待鉴定。",
+          "published_at": "2026-10-28T08:54:54+08:00",
+          "follow_up": true,
+          "new_facts": "麦吉尔大学报道T细胞通过感知组织硬度影响长寿命记忆细胞形成；实验使用人和小鼠细胞及不同硬度胶原凝胶，较硬凝胶中更易获得组织驻留记忆细胞特征；论文发表于Nature Immunology。",
+          "verification": "single_source",
+          "limitations": "来源为麦吉尔大学新闻稿经ScienceDaily转载，未取得Nature Immunology原文；实验为人和小鼠细胞及胶原凝胶，未提供人体临床结果。",
+          "facts": [
+            {
+              "text": "据麦吉尔大学发布的新闻稿，该校团队发现T细胞能感知周围组织的硬度，并利用这一物理信号影响自身是否形成长寿命记忆细胞。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "Researchers found that T cells can actually sense how stiff their surrounding tissues are, using these physical signals to help determine whether they develop into long-lasting memory cells that protect against future infections."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "研究者把人和小鼠的T细胞放入模拟不同硬度的胶原凝胶：凝胶越硬，T细胞越容易获得组织驻留记忆细胞的特征。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "They placed the cells inside specially designed collagen gels that mimicked tissues with different levels of stiffness."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "As the gels became stiffer, T cells were increasingly likely to acquire characteristics associated with tissue-resident memory cells, which help provide long-term immune protection."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "新闻稿称，这些结果表明周围组织的物理性质可影响免疫细胞发育，为理解免疫记忆增加机械力维度；研究人员下一步希望找出让T细胞感知物理环境的特定分子传感器。论文发表在Nature Immunology。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "These results indicate that the physical properties of surrounding tissues can help shape how immune cells develop, adding an important new dimension to scientists' understanding of immune memory."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "The researchers now hope to identify the specific molecular sensor that enables T cells to detect their physical environment."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "Nature Immunology , 2026; 27 (8): 1708 DOI: 10.1038/s41590-026-02581-9"
+                }
+              ],
+              "kind": "significance",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "T Cells Can Sense Tissue Stiffness and Influence Memory Cell Formation",
+            "sentences": [
+              {
+                "en": "According to a press release from McGill University, a team at the university has found that T cells can sense the stiffness of surrounding tissue and use this physical signal to influence whether they themselves form long-lived memory cells.",
+                "zh": "据麦吉尔大学发布的新闻稿，该校团队发现T细胞能感知周围组织的硬度，并利用这一物理信号影响自身是否形成长寿命记忆细胞。"
+              },
+              {
+                "en": "The researchers placed human and mouse T cells into collagen gels that mimicked different levels of stiffness: the stiffer the gel, the more readily the T cells acquired features of tissue-resident memory cells.",
+                "zh": "研究者把人和小鼠的T细胞放入模拟不同硬度的胶原凝胶：凝胶越硬，T细胞越容易获得组织驻留记忆细胞的特征。"
+              },
+              {
+                "en": "The press release states that these results indicate that the physical properties of surrounding tissue can influence immune cell development, adding a mechanical dimension to the understanding of immune memory; the researchers next hope to identify the specific molecular sensors that enable T cells to sense their physical environment.",
+                "zh": "新闻稿称，这些结果表明周围组织的物理性质可影响免疫细胞发育，为理解免疫记忆增加机械力维度；研究人员下一步希望找出让T细胞感知物理环境的特定分子传感器。"
+              },
+              {
+                "en": "The paper was published in Nature Immunology.",
+                "zh": "论文发表在Nature Immunology。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "edition": "technology-science",
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

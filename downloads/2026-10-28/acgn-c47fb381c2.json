@@ -1,0 +1,29 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-28",
+  "title": "2026-10-28 ACGN · Galgame / 新番播出与情报",
+  "summary": "本期未收录新闻：候选消息未达到本板块收录标准。",
+  "highlights": [],
+  "window_start": "2026-10-21T12:00:00+08:00",
+  "window_end": "2026-10-28T12:00:00+08:00",
+  "generated_at": "2026-10-28T18:25:55.460304+08:00",
+  "sources": [],
+  "sections": [
+    {
+      "id": "galgame",
+      "name": "Galgame",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "anime",
+      "name": "新番播出与情报",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "edition": "acgn-c47fb381c2",
+  "coverage_notes": [
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
