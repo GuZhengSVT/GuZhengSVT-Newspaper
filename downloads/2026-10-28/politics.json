@@ -1,0 +1,168 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-28",
+  "title": "2026-10-28 政治",
+  "summary": "美国联邦调查局搜查加州比弗利山庄一处住宅，英国广播公司援引美国媒体报道称该行动与对前联邦众议员埃里克·斯瓦尔韦尔的刑事调查有关；司法部和FBI声明未点名，斯瓦尔韦尔未受刑事指控。",
+  "highlights": [
+    "FBI搜查加州住宅，美媒称与斯瓦尔韦尔调查有关"
+  ],
+  "window_start": "2026-10-27T12:00:00+08:00",
+  "window_end": "2026-10-28T12:00:00+08:00",
+  "generated_at": "2026-10-29T00:38:59.295549+08:00",
+  "edition": "politics",
+  "sources": [
+    {
+      "id": "s25",
+      "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+      "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+      "published_at": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国联邦调查局|搜查|埃里克·斯瓦尔韦尔相关住所",
+          "title": "FBI搜查加州一处与斯瓦尔韦尔调查有关的住宅",
+          "summary": "FBI搜查洛杉矶比弗利山庄一处住宅，BBC援引美国媒体报道称该行动与斯瓦尔韦尔调查有关；司法部和FBI未点名，斯瓦尔韦尔未受刑事指控。",
+          "published_at": "2026-10-28T10:51:00+08:00",
+          "follow_up": true,
+          "new_facts": "FBI搜查洛杉矶比弗利山庄一处住宅，BBC援引美国媒体报道称该行动与斯瓦尔韦尔调查有关；司法部/FBI未点名；斯瓦尔韦尔未受刑事指控。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国联邦调查局",
+            "埃里克·斯瓦尔韦尔",
+            "加利福尼亚"
+          ],
+          "limitations": "FBI与司法部声明未点名斯瓦尔韦尔；住宅关联依据公开记录和媒体报道；斯瓦尔韦尔未被刑事起诉。",
+          "facts": [
+            {
+              "text": "英国广播公司援引美国媒体报道称，美国联邦调查局人员搜查了加利福尼亚州一处住宅，该行动与对前联邦众议员埃里克·斯瓦尔韦尔的刑事调查有关。司法部和联邦调查局在声明中只说，当天早间在洛杉矶地区开展了与一项正在进行的刑事调查有关的行动，不予进一步置评。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "FBI officers raided a California home in connection with the investigation into former US Congressman Eric Swalwell, US media report."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "early this morning the FBI conducted an operation in the Los Angeles region related to an ongoing criminal investigation. We have no further comment."
+                }
+              ]
+            },
+            {
+              "text": "报道称，搜查发生在比弗利山庄，公开记录显示地址与亿万富翁、前加州州长候选人斯蒂芬·克卢贝克有关；克卢贝克的律师说，搜查令执行时他不在家，他相信司法程序。斯瓦尔韦尔此前否认性行为不当指控，尚未受到刑事起诉。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "The enforcement action took place at a house in Beverly Hills, a source familiar with the inquiry confirmed to the BBC."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "Public records indicate the address was associated with Stephen Cloobeck, a billionaire and former California gubernatorial candidate who had once backed Swalwell's campaign for governor."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "Mr Cloobeck was not home when the search warrant was executed and continues to have faith in the judicial process of this country"
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "Swalwell has denied wrongdoing and he has never been criminally charged."
+                }
+              ]
+            },
+            {
+              "text": "今年8月，联邦调查局曾在机场拦下斯瓦尔韦尔、扣押其电子设备并搜查其华盛顿住所。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "In August, the FBI stopped the former Democratic lawmaker at an airport, seized his electronic devices and raided his Washington DC home as part of the investigation into those allegations."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "FBI Searches California Residence Tied to Swalwell Probe",
+            "sentences": [
+              {
+                "en": "The BBC, citing U.S. media reports, said FBI personnel searched a residence in California in an operation related to a criminal investigation into former U.S. Representative Eric Swalwell.",
+                "zh": "英国广播公司援引美国媒体报道称，美国联邦调查局人员搜查了加利福尼亚州一处住宅，该行动与对前联邦众议员埃里克·斯瓦尔韦尔的刑事调查有关。"
+              },
+              {
+                "en": "The Justice Department and the FBI said in a statement only that they conducted an operation in the Los Angeles area that morning related to an ongoing criminal investigation, and declined further comment.",
+                "zh": "司法部和联邦调查局在声明中只说，当天早间在洛杉矶地区开展了与一项正在进行的刑事调查有关的行动，不予进一步置评。"
+              },
+              {
+                "en": "The reports said the search took place in Beverly Hills, and public records showed the address was associated with billionaire and former California gubernatorial candidate Stephen Cloobeck; Cloobeck's lawyer said he was not home when the warrant was executed and that he believes in the judicial process.",
+                "zh": "报道称，搜查发生在比弗利山庄，公开记录显示地址与亿万富翁、前加州州长候选人斯蒂芬·克卢贝克有关；克卢贝克的律师说，搜查令执行时他不在家，他相信司法程序。"
+              },
+              {
+                "en": "Swalwell previously denied allegations of sexual misconduct and has not been criminally charged.",
+                "zh": "斯瓦尔韦尔此前否认性行为不当指控，尚未受到刑事起诉。"
+              },
+              {
+                "en": "In August this year, the FBI stopped Swalwell at an airport, seized his electronic devices and searched his Washington residence.",
+                "zh": "今年8月，联邦调查局曾在机场拦下斯瓦尔韦尔、扣押其电子设备并搜查其华盛顿住所。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
