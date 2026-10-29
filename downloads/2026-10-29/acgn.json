@@ -1,0 +1,396 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-29",
+  "title": "2026-10-29 ACGN",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "《现代战争4》第1赛季11月6日上线，加入新地图与DMZ区域",
+    "《Dokapon Kingdom: Connect 2》公布，2027年夏季全球同步发售",
+    "《无人深空》推出万圣节更新FORSAKEN",
+    "BioWare联合创始人Greg Zeschuk回应工作室关闭与《质量效应》取消"
+  ],
+  "window_start": "2026-10-28T12:00:00+08:00",
+  "window_end": "2026-10-29T12:00:00+08:00",
+  "generated_at": "2026-10-29T18:21:56.554970+08:00",
+  "edition": "acgn",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Call of Duty: Modern Warfare 4|第1赛季上线|2026-11-06",
+          "title": "《现代战争4》第1赛季11月6日上线，加入新地图与DMZ区域",
+          "summary": "官方公布《现代战争4》与《战争地带》第1赛季内容：多人模式新地图和模式、DMZ的X01区域，以及两张Warzone新地图。",
+          "published_at": "2026-10-29T03:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "第1赛季11月6日上线；多人模式新增Backstab、Canyon等地图与Grind、Drop Zone模式；DMZ开放X01 Black Site；Warzone加入Hajin和Zodiac。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Call of Duty: Modern Warfare 4",
+            "Call of Duty: Warzone",
+            "Season 1"
+          ],
+          "limitations": "Warzone完整路线图定于11月2日另行公布，本稿只涵盖已公开的赛季首日与部分赛季内容。",
+          "facts": [
+            {
+              "text": "Call of Duty官方博客10月28日公布，《现代战争4》与《战争地带》第1赛季将于11月6日上线，全平台解锁时间为美国东部时间11月6日0时、太平洋时间11月5日21时。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "October 28, 2026 by Call of Duty Staff"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "Get ready for a massive influx of content when Call of Duty: Modern Warfare 4 Season 1 goes live at 0000 (midnight) ET on November 6 (2100 PT on November 5) across all platforms."
+                }
+              ]
+            },
+            {
+              "text": "赛季首日多人模式新增Backstab、Canyon和River等三张地图，并带回Grind和Drop Zone模式；DMZ开放X01 Black Site，加入新敌人、订单等内容。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Take the fight in Multiplayer across three new maps at Season 1 launch."
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "Brave inclement weather across the all-new war torn Backstab"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "Battle amidst towering rock walls in the all-new Canyon and try your luck along the River"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "play the fan-favorite Grind mode where you eliminate players, recover their dog tags, and take them to the Bank to score for your team. Plus, Drop Zone mode returns"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "the X01 Black Site opens up along with new enemies, orders, and more."
+                }
+              ]
+            },
+            {
+              "text": "《战争地带》随第1赛季加入Hajin和Zodiac两张新地图，并让Verdansk和Rebirth Island回归；完整《战争地带》路线图将在11月2日另行公布。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "as the Season 1 update brings both Hajin and Zodiac, plus the return of Verdansk and Rebirth Island"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "Keep your eyes on the Call of Duty blog this Monday, November 2, for a separate post and Roadmap fully covering everything coming to Call of Duty: Warzone in Season 1."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Modern Warfare 4 Season 1 Launches November 6, Adding New Maps and a DMZ Area",
+            "sentences": [
+              {
+                "en": "Call of Duty's official blog announced on October 28 that Season 1 of Modern Warfare 4 and Warzone will launch on November 6, with unlock times for all platforms set to 12:00 a.m. Eastern Time on November 6 and 9:00 p.m. Pacific Time on November 5.",
+                "zh": "Call of Duty官方博客10月28日公布，《现代战争4》与《战争地带》第1赛季将于11月6日上线，全平台解锁时间为美国东部时间11月6日0时、太平洋时间11月5日21时。"
+              },
+              {
+                "en": "On the first day of the season, multiplayer adds three new maps—Backstab, Canyon and River—and brings back the Grind and Drop Zone modes; DMZ opens X01 Black Site, adding new enemies, contracts and other content.",
+                "zh": "赛季首日多人模式新增Backstab、Canyon和River等三张地图，并带回Grind和Drop Zone模式；DMZ开放X01 Black Site，加入新敌人、订单等内容。"
+              },
+              {
+                "en": "Warzone will add two new maps, Hajin and Zodiac, alongside Season 1, and bring back Verdansk and Rebirth Island; the full Warzone roadmap will be announced separately on November 2.",
+                "zh": "《战争地带》随第1赛季加入Hajin和Zodiac两张新地图，并让Verdansk和Rebirth Island回归；完整《战争地带》路线图将在11月2日另行公布。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Dokapon Kingdom: Connect 2|公布|Switch 2/Switch/PC",
+          "title": "《Dokapon Kingdom: Connect 2》公布，2027年夏季全球同步发售",
+          "summary": "Compile Heart、Idea Factory International和Sting公布RPG式桌游续作，支持最多四人游玩，2027年夏季登陆Switch 2、Switch和PC。",
+          "published_at": "2026-10-29T11:22:45+08:00",
+          "follow_up": true,
+          "new_facts": "游戏2027年夏季全球同步发售，登陆Switch 2、Switch和PC；支持五种语言；新增角色创建和合作挑战强大敌人。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Dokapon Kingdom: Connect 2",
+            "Compile Heart",
+            "Idea Factory International",
+            "Sting"
+          ],
+          "limitations": "Gematsu转述发行商与Steam页面信息，未公布售价。",
+          "facts": [
+            {
+              "text": "Compile Heart、Idea Factory International和开发商Sting公布《Dokapon Kingdom: Connect 2》，计划2027年夏季在全球同步登陆Switch 2、Switch和PC（Steam），支持日文、英文、泰文、繁体中文和简体中文。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "Publishers Compile Heart and Idea Factory International , and developer Sting have announced RPG-style board game sequel Dokapon Kingdom: Connect 2 for Switch 2 , Switch , and PC ( Steam ). It will launch simultaneously worldwide in summer 2027 with English, Japanese, Traditional Chinese, Simplified Chinese, and Thai language support."
+                }
+              ]
+            },
+            {
+              "text": "这是一款最多四人游玩的RPG式桌游，新作加入角色创建，并支持多名玩家合作挑战强大敌人。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "An all-new entry in the Dokapon series, the RPG-style board game you can enjoy with up to four players!"
+                },
+                {
+                  "source_id": "s2",
+                  "quote": "In Cooperative Battles, every player joins forces to take on a powerful enemy together."
+                },
+                {
+                  "source_id": "s2",
+                  "quote": "Create Your Very Own Hero With Character Creation!"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Dokapon Kingdom: Connect 2 Announced for Simultaneous Worldwide Release in Summer 2027",
+            "sentences": [
+              {
+                "en": "Compile Heart, Idea Factory International and developer Sting have announced Dokapon Kingdom: Connect 2, planned for a simultaneous worldwide release in summer 2027 on Switch 2, Switch and PC (Steam), with support for Japanese, English, Thai, Traditional Chinese and Simplified Chinese.",
+                "zh": "Compile Heart、Idea Factory International和开发商Sting公布《Dokapon Kingdom: Connect 2》，计划2027年夏季在全球同步登陆Switch 2、Switch和PC（Steam），支持日文、英文、泰文、繁体中文和简体中文。"
+              },
+              {
+                "en": "It is an RPG-style board game for up to four players, and the new title adds character creation and supports multiple players cooperating to take on powerful enemies.",
+                "zh": "这是一款最多四人游玩的RPG式桌游，新作加入角色创建，并支持多名玩家合作挑战强大敌人。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "No Man's Sky|FORSAKEN更新|2026-10",
+          "title": "《无人深空》推出万圣节更新FORSAKEN",
+          "summary": "Hello Games介绍万圣节主题更新FORSAKEN，加入诡异商人、快递任务、新的corvette建造部件和星系间无缝跃迁。",
+          "published_at": "2026-10-28T22:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "FORSAKEN加入诡异商人、纪念物收集、包裹运送、新corvette部件和可直接飞向可见恒星的无缝跃迁；这是今年第五个大型更新。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "No Man's Sky",
+            "FORSAKEN"
+          ],
+          "limitations": "官方介绍未说明该更新的结束日期或是否为限时活动。",
+          "facts": [
+            {
+              "text": "Hello Games创办人Sean Murray在Xbox Wire介绍万圣节更新FORSAKEN，玩家可召唤被遗弃的商人、收集纪念物、运送神秘包裹，并建造诡异的corvette。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "Meet strange traders, collect haunting mementos, delivery mysterious packages and construct an eerie corvette in the spooky Halloween update, No Man’s Sky FORSAKEN!"
+                }
+              ]
+            },
+            {
+              "text": "更新扩充corvette建造选项，新增舱室、驾驶舱和结构件，并支持直接飞向天空中可见的恒星，在星系间无缝跃迁。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "Expand your corvette builds and design a spooky biomechanical ship with new habs, cockpits and structural pieces."
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "Warp seamlessly from system to system by flying directly to the stars you see in the sky."
+                }
+              ]
+            },
+            {
+              "text": "这是《无人深空》今年继REMNANT、XENO ARENA、THE SWARM和COSMOS之后的第五个大型更新。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "FORSAKEN is their fifth major update (after REMNANT, XENO ARENA, THE SWARM, and COSMOS)."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "No Man's Sky Releases Halloween Update FORSAKEN",
+            "sentences": [
+              {
+                "en": "Hello Games founder Sean Murray introduced the Halloween update FORSAKEN on Xbox Wire, in which players can summon abandoned traders, collect keepsakes, deliver mysterious packages, and build eerie corvettes.",
+                "zh": "Hello Games创办人Sean Murray在Xbox Wire介绍万圣节更新FORSAKEN，玩家可召唤被遗弃的商人、收集纪念物、运送神秘包裹，并建造诡异的corvette。"
+              },
+              {
+                "en": "The update expands corvette construction options with new cabins, cockpits, and structural components, and allows players to fly directly toward stars visible in the sky and seamlessly warp between star systems.",
+                "zh": "更新扩充corvette建造选项，新增舱室、驾驶舱和结构件，并支持直接飞向天空中可见的恒星，在星系间无缝跃迁。"
+              },
+              {
+                "en": "This is No Man's Sky's fifth major update this year, following REMNANT, XENO ARENA, THE SWARM, and COSMOS.",
+                "zh": "这是《无人深空》今年继REMNANT、XENO ARENA、THE SWARM和COSMOS之后的第五个大型更新。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "BioWare|工作室关闭与《Mass Effect 5》取消|2026-10",
+          "title": "BioWare联合创始人Greg Zeschuk回应工作室关闭与《质量效应》取消",
+          "summary": "Greg Zeschuk公开谈及BioWare关闭，称自己早已完成情感告别，并把EA私有化视为工作室关闭的关键原因。",
+          "published_at": "2026-10-29T08:42:20.287000+08:00",
+          "follow_up": true,
+          "new_facts": "Zeschuk称自己2012年离开时已做情感告别；他认为EA被沙特公共投资基金私有化是BioWare关闭的“最后一颗棺材钉”，并批评无游戏开发经验的高管。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "BioWare",
+            "Mass Effect 5",
+            "Greg Zeschuk"
+          ],
+          "limitations": "IGN报道包含Zeschuk的直接引语，但工作室关闭细节仍来自IGN的转述，本稿未直接取得EA公告原文。",
+          "facts": [
+            {
+              "text": "据IGN报道，BioWare联合创始人Greg Zeschuk公开谈及工作室关闭，称自己早在2012年离开时就完成了情感告别。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "BioWare co-founder Greg Zeschuk has spoken out about the closure of BioWare last week"
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "I've kind of gone through all the emotions like long, long ago"
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "departed it on their own terms back in 2012"
+                }
+              ]
+            },
+            {
+              "text": "Zeschuk把EA被沙特公共投资基金私有化视为工作室关闭的“最后一颗棺材钉”，并批评没有游戏开发经验的高管相信可以用随机人员和AI复制伟大游戏。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "Regarding the Saudi Public Investment Fund's $55 private buyout of EA, Zeschuk said he wasn't surprised that BioWare was ultimately shut down."
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "I think it was the final nail in the coffin"
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "executives without any game-development experience owning and running game development studios"
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "There’s this weird belief that you can just kind of recreate great games with random people and AI. It doesn’t work"
+                }
+              ]
+            },
+            {
+              "text": "IGN称，此次关闭影响BioWare的50个岗位，属于公司400人裁员的一部分，《质量效应5》同时取消。",
+              "kind": "background",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "which saw 50 jobs lost as part of 400 cuts across the company, along with the cancellation of Mass Effect 5"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "BioWare Co-Founder Greg Zeschuk Responds to Studio Closure and Mass Effect Cancellation",
+            "sentences": [
+              {
+                "en": "According to IGN, BioWare co-founder Greg Zeschuk publicly discussed the studio's closure, saying he had already completed his emotional farewell when he left in 2012.",
+                "zh": "据IGN报道，BioWare联合创始人Greg Zeschuk公开谈及工作室关闭，称自己早在2012年离开时就完成了情感告别。"
+              },
+              {
+                "en": "Zeschuk described EA's privatization by Saudi Arabia's Public Investment Fund as the \"final nail in the coffin\" for the studio's closure and criticized executives without game development experience for believing they could replicate great games with random personnel and AI.",
+                "zh": "Zeschuk把EA被沙特公共投资基金私有化视为工作室关闭的“最后一颗棺材钉”，并批评没有游戏开发经验的高管相信可以用随机人员和AI复制伟大游戏。"
+              },
+              {
+                "en": "IGN said the closure affected 50 BioWare positions as part of 400 layoffs at the company, while Mass Effect 5 was canceled at the same time.",
+                "zh": "IGN称，此次关闭影响BioWare的50个岗位，属于公司400人裁员的一部分，《质量效应5》同时取消。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s20",
+      "url": "https://www.callofduty.com/blog/2026/10/call-of-duty-modern-warfare-4-warzone-season-1-announcement",
+      "title": "Call of Duty: Modern Warfare 4 and Call of Duty: Warzone Season 1: All You Need to Know",
+      "published_at": "2026-10-28T12:00:00-07:00"
+    },
+    {
+      "id": "s27",
+      "url": "https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
+      "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
+      "published_at": "2026-10-29T00:42:20.287000+00:00"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.gematsu.com/2026/10/dokapon-kingdom-connect-2-announced-for-switch-2-switch-and-pc",
+      "title": "Dokapon Kingdom: Connect 2 announced for Switch 2, Switch, and PC",
+      "published_at": "2026-10-29T03:22:45+00:00"
+    },
+    {
+      "id": "s23",
+      "url": "https://news.xbox.com/en-us/2026/10/28/no-mans-sky-forsaken-update/",
+      "title": "Explore the Spookier Side of Space in No Man’s Sky: FORSAKEN!",
+      "published_at": "2026-10-28T14:00:00+00:00"
+    },
+    {
+      "id": "s18",
+      "url": "https://blog.playstation.com/2026/10/28/modern-warfare-4-season-1-everything-you-need-to-know-for-november-6-launch/",
+      "title": "Modern Warfare 4 Season 1: Everything you need to know for November 6 launch",
+      "published_at": "2026-10-28T10:15:17-07:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

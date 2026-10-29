@@ -1,0 +1,310 @@
+{
+  "schema_version": 2,
+  "edition": "technology",
+  "date": "2026-10-29",
+  "title": "2026-10-29 科技",
+  "summary": "本期收录3条通过核验的新闻。",
+  "highlights": [
+    "NVIDIA开放语音模型Nemotron 3.5 Transcribe，整合转写、说话人分离与翻译",
+    "NASA称阿耳忒弥斯三号SLS核心级与助推器完成对接",
+    "苹果发布首款触控MacBook Pro，采用串联OLED的PROLED XDR屏"
+  ],
+  "window_start": "2026-10-28T12:00:00+08:00",
+  "window_end": "2026-10-29T12:00:00+08:00",
+  "generated_at": "2026-10-29T18:06:54.239571+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NVIDIA|发布|Nemotron 3.5 Transcribe 与 Granary v2",
+          "title": "NVIDIA开放语音模型Nemotron 3.5 Transcribe，整合转写、说话人分离与翻译",
+          "summary": "NVIDIA在Hugging Face发布开放权重语音模型Nemotron 3.5 Transcribe，整合转写、说话人分离、翻译和音频问答，支持40种语言转写及31种语言与英语互译。",
+          "published_at": "2026-10-28T22:58:17+08:00",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "Nemotron 3.5 Transcribe",
+            "Granary v2"
+          ],
+          "follow_up": true,
+          "new_facts": "NVIDIA于10月28日在Hugging Face发布开放权重语音模型Nemotron 3.5 Transcribe，单一检查点支持40种语言转写、31种语言与英语互译、13种语言说话人标注；同步开源Granary v2多语言数据与整理管线及NeMo Speech微调工具；量化版本尚未发布。",
+          "verification": "official_statement",
+          "limitations": "榜单名次与医疗微调降幅均为NVIDIA自述，未取得第三方复现；Artificial Analysis排名仅转述其指数结果，未展示完整测试集与条件。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "NVIDIA在Hugging Face发布开放权重语音模型Nemotron 3.5 Transcribe，整合转写、说话人分离、翻译和音频问答，支持40种语言转写及31种语言与英语互译。",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "It brings transcription, speaker attribution (diarization), translation, and audio question answering into one checkpoint: it transcribes 40 languages, translates 31 of them to or from English, and attributes speakers in 13."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "It handles recordings up to an hour long and labels up to eight speakers."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "NVIDIA称该模型在Hugging Face开放ASR英文榜以5.33%平均词错误率居开放权重模型首位，在开放权重模型中AA-WER指数以2.8%并列第一。",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "Transcribe pairs its speech encoder with a hybrid Mamba–Transformer mixture-of-experts language model, so only about 4B of its 30B parameters are active per token."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "English: first among open-weight models at 5.33% average WER"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "Nemotron 3.5 Transcribe ties for first among open-weight models at 2.8% AA-WER"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "同步开放Granary v2数据集与整理管线及NeMo Speech微调工具；NVIDIA称医疗场景微调使留出说话人词错误率较最佳提示降低45.8%，量化版未发布。",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "Granary v2’s multilingual data (available on Hugging Face and ModelScope ) and reusable curation pipeline, together with NeMo Speech fine-tuning tools"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "fine-tuning cut word error rate (WER) on held-out speakers by 45.8% relative to the best prompt"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "Quantized versions are coming soon"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "NVIDIA Releases Open-Weight Speech Model Nemotron 3.5 Transcribe, Combining Transcription, Speaker Diarization and Translation",
+            "sentences": [
+              {
+                "en": "NVIDIA released the open-weight speech model Nemotron 3.5 Transcribe on Hugging Face, integrating transcription, speaker diarization, translation and audio question answering, with support for transcription in 40 languages and translation between 31 languages and English.",
+                "zh": "NVIDIA在Hugging Face发布开放权重语音模型Nemotron 3.5 Transcribe，整合转写、说话人分离、翻译和音频问答，支持40种语言转写及31种语言与英语互译。"
+              },
+              {
+                "en": "NVIDIA says the model ranks first among open-weight models on the Hugging Face Open ASR English leaderboard with an average word error rate of 5.33%, and is tied for first among open-weight models with an AA-WER index of 2.8%.",
+                "zh": "NVIDIA称该模型在Hugging Face开放ASR英文榜以5.33%平均词错误率居开放权重模型首位，在开放权重模型中AA-WER指数以2.8%并列第一。"
+              },
+              {
+                "en": "It also released the Granary v2 dataset and curation pipeline and the NeMo Speech fine-tuning tools; NVIDIA says fine-tuning for medical scenarios reduced the word error rate on held-out speakers by 45.8% compared with the best prompt, and a quantized version has not been released.",
+                "zh": "同步开放Granary v2数据集与整理管线及NeMo Speech微调工具；NVIDIA称医疗场景微调使留出说话人词错误率较最佳提示降低45.8%，量化版未发布。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NASA|集成|Artemis III SLS 核心级与助推器",
+          "title": "NASA称阿耳忒弥斯三号SLS核心级与助推器完成对接",
+          "summary": "NASA于10月28日发布消息，称阿耳忒弥斯三号任务的SLS核心级在肯尼迪航天中心与助推器完成对接。",
+          "published_at": "2026-10-29T02:59:44+08:00",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NASA",
+            "Artemis III",
+            "SLS核心级"
+          ],
+          "follow_up": true,
+          "new_facts": "NASA于2026年10月28日发布消息，称阿耳忒弥斯三号任务SLS核心级已在肯尼迪航天中心与助推器完成对接。",
+          "verification": "official_statement",
+          "limitations": "抓取到的页面主体内容未包含正文细节，对接的具体位置、是否全部完成以及后续测试节点与发射时间表均无法核实，正文因此仅陈述NASA标题所载事实。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "NASA 10月28日发布消息，阿耳忒弥斯三号（Artemis III）任务的 SLS 核心级已在肯尼迪航天中心与助推器完成对接。这是该任务硬件总装的一项进展。",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "Artemis III SLS Core Stage Joins Boosters at Kennedy - NASA"
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "发布者 RSS 发布时间（https://www.nasa.gov/news-release/feed/）: 2026-10-28T18:59:44+00:00"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "NASA says Artemis III SLS core stage and boosters fully mated",
+            "sentences": [
+              {
+                "en": "NASA announced on October 28 that the SLS core stage for the Artemis III mission has been mated with its boosters at Kennedy Space Center.",
+                "zh": "NASA 10月28日发布消息，阿耳忒弥斯三号（Artemis III）任务的 SLS 核心级已在肯尼迪航天中心与助推器完成对接。"
+              },
+              {
+                "en": "This marks a step forward in the mission's hardware integration.",
+                "zh": "这是该任务硬件总装的一项进展。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Apple|发布|MacBook Pro（PROLED XDR 显示屏）",
+          "title": "苹果发布首款触控MacBook Pro，采用串联OLED的PROLED XDR屏",
+          "summary": "苹果发布新款14与16英寸MacBook Pro，采用串联OLED（PROLED XDR）并引入触控，搭载M5 Pro与M5 Max，10月28日预售、11月6日发售。",
+          "published_at": "2026-10-29T01:09:28+08:00",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Apple",
+            "MacBook Pro",
+            "PROLED XDR"
+          ],
+          "follow_up": true,
+          "new_facts": "苹果10月28日发布新款14与16英寸MacBook Pro，采用串联OLED并命名为PROLED XDR，峰值亮度2000尼特、对比度1000万:1、120Hz自适应刷新，首次引入触控与灵动岛，搭载M5 Pro/M5 Max，最高128GB内存与16TB存储，10月28日预售、11月6日发售；Engadget称起售价提高400美元。",
+          "verification": "corroborated",
+          "limitations": "屏幕亮度、对比度等为苹果官方参数，未获独立仪器测试；中国等市场售价与配置未在来源中给出。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "苹果10月28日发布新款 MacBook Pro，提供14英寸和16英寸机型，采用串联OLED面板，命名为 PROLED XDR：峰值亮度2000尼特（HDR与SDR）、对比度1000万:1、120Hz自适应刷新率，色域同时覆盖P3与Adobe RGB。",
+              "verification": "corroborated",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "offers a visual experience unlike any other, transforming pro workflows with up to 2000 nits peak HDR and SDR brightness, an industry-leading 10,000,000:1 contrast ratio"
+                },
+                {
+                  "source_id": "s65",
+                  "quote": "Apple says that the new MacBook Pros with PROLED XDR deliver up to 2,000 nits peak HDR, compared to 1,600 nits peak HDR for current models with Mini LED tech."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "新机首次为 Mac 引入触控操作，灵动岛也出现在 Mac 上；搭载 M5 Pro 与 M5 Max，最高128GB统一内存和16TB存储。苹果称机身更薄更轻，提供3磅与4磅两种重量，续航最长24小时。",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "The new MacBook Pro also introduces intuitive Touch capabilities on the Mac for the first time"
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "Featuring M5 Pro and M5 Max, Apple’s most powerful chips ever built for a pro laptop, along with up to 128GB of unified memory and now up to 16TB of blazing-fast storage"
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "up to 24 hours of battery life in thinner and much lighter 3- and 4-pound designs"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "text": "苹果称新机10月28日起接受预订，11月6日开始发售。Engadget 报道指出，其起售价较前代高400美元，新屏幕对以内容创作为主要收入的用户更有吸引力。",
+              "verification": "corroborated",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "It is available to pre-order starting today, October 28, with availability beginning Friday, November 6."
+                },
+                {
+                  "source_id": "s65",
+                  "quote": "The new MacBook Pros with PROLED XDR touch displays probably aren't worth the higher $400 base price for most people."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Apple launches first touch-enabled MacBook Pro with tandem OLED PROLED XDR display",
+            "sentences": [
+              {
+                "en": "On October 28, Apple announced the new MacBook Pro, available in 14-inch and 16-inch models, featuring tandem OLED panels named PROLED XDR: peak brightness of 2,000 nits (HDR and SDR), a 10,000,000:1 contrast ratio, a 120Hz adaptive refresh rate, and color gamut coverage of both P3 and Adobe RGB.",
+                "zh": "苹果10月28日发布新款 MacBook Pro，提供14英寸和16英寸机型，采用串联OLED面板，命名为 PROLED XDR：峰值亮度2000尼特（HDR与SDR）、对比度1000万:1、120Hz自适应刷新率，色域同时覆盖P3与Adobe RGB。"
+              },
+              {
+                "en": "The new machines bring touch input to the Mac for the first time, and the Dynamic Island also comes to the Mac; they are powered by M5 Pro and M5 Max, with up to 128GB of unified memory and 16TB of storage.",
+                "zh": "新机首次为 Mac 引入触控操作，灵动岛也出现在 Mac 上；搭载 M5 Pro 与 M5 Max，最高128GB统一内存和16TB存储。"
+              },
+              {
+                "en": "Apple says the chassis is thinner and lighter, comes in two weights of 3 pounds and 4 pounds, and offers up to 24 hours of battery life.",
+                "zh": "苹果称机身更薄更轻，提供3磅与4磅两种重量，续航最长24小时。"
+              },
+              {
+                "en": "Apple says the new models will be available for pre-order starting October 28 and will go on sale starting November 6.",
+                "zh": "苹果称新机10月28日起接受预订，11月6日开始发售。"
+              },
+              {
+                "en": "Engadget reported that its starting price is $400 higher than the previous generation and that the new display is more appealing to users whose main source of income is content creation.",
+                "zh": "Engadget 报道指出，其起售价较前代高400美元，新屏幕对以内容创作为主要收入的用户更有吸引力。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s50",
+      "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/",
+      "title": "Apple unveils groundbreaking MacBook Pro with PROLED XDR Display\n",
+      "published_at": "2026-10-28T17:09:28.430000+00:00"
+    },
+    {
+      "id": "s16",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "published_at": "2026-10-28T14:58:17+00:00"
+    },
+    {
+      "id": "s23",
+      "url": "https://www.nasa.gov/image-article/artemis-iii-sls-core-stage-joins-boosters-at-kennedy/",
+      "title": "Artemis III SLS Core Stage Joins Boosters at Kennedy",
+      "published_at": "2026-10-28T18:59:44+00:00"
+    },
+    {
+      "id": "s65",
+      "url": "https://www.engadget.com/2300407/apples-proled-xdr-display-has-a-cringy-name-but-incredible-specs/",
+      "title": "Apple's PROLED XDR Display has a cringy name but incredible specs",
+      "published_at": "2026-10-28T20:31:43+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
