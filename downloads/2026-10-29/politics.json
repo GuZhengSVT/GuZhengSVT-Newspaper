@@ -1,0 +1,188 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-29",
+  "title": "2026-10-29 政治",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "基辅称奥列什基停火维持，排雷以开通人道走廊",
+    "以色列选举后组阁谈判临近，两大阵营预计均未获多数"
+  ],
+  "window_start": "2026-10-28T12:00:00+08:00",
+  "window_end": "2026-10-29T12:00:00+08:00",
+  "generated_at": "2026-10-30T06:14:20.889856+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "俄乌|奥列什基局部停火维持并排雷|奥列什基人道走廊",
+          "title": "基辅称奥列什基停火维持，排雷以开通人道走廊",
+          "summary": "《卫报》报道，基辅方面称奥列什基局部停火仍在维持，排雷工作正在进行，以便开通人道走廊。白宫此前称第一夫人梅拉尼娅·特朗普促成该局部停火。",
+          "published_at": "2026-10-29T09:48:26+08:00",
+          "follow_up": true,
+          "new_facts": "基辅方面称奥列什基停火维持、排雷进行以开通人道走廊；白宫称梅拉尼娅·特朗普促成局部停火。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "乌克兰",
+            "俄罗斯",
+            "奥列什基",
+            "美国白宫",
+            "梅拉尼娅·特朗普"
+          ],
+          "limitations": "停火维持与排雷进展来自《卫报》对基辅方面说法的转述，未取得乌克兰或俄罗斯官方原文；停火持续时间和执行细节未在可用材料中说明。",
+          "facts": [
+            {
+              "text": "据《卫报》10月29日报道，乌克兰方面表示，俄占奥列什基周边的局部停火仍在维持，排雷工作正在进行，以开通人道走廊。该报道将停火维持和排雷进展归因于基辅方面。",
+              "evidence": [
+                {
+                  "source_id": "s57",
+                  "quote": "Ukraine war briefing: Oleshky truce holding and demining under way to enable humanitarian corridor, Kyiv says"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "白宫10月23日发表声明称，第一夫人梅拉尼娅·特朗普促成俄罗斯与乌克兰在奥列什基的局部停火。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky"
+                }
+              ],
+              "kind": "background",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Kyiv Says Oleshky Ceasefire Holding as Demining Seeks to Open Humanitarian Corridor",
+            "sentences": [
+              {
+                "en": "The Guardian reported on October 29 that the Ukrainian side said a local ceasefire around Russian-occupied Oleshky was still holding and that demining was under way to open a humanitarian corridor.",
+                "zh": "据《卫报》10月29日报道，乌克兰方面表示，俄占奥列什基周边的局部停火仍在维持，排雷工作正在进行，以开通人道走廊。"
+              },
+              {
+                "en": "The report attributed the maintenance of the ceasefire and progress in demining to Kyiv.",
+                "zh": "该报道将停火维持和排雷进展归因于基辅方面。"
+              },
+              {
+                "en": "The White House said in a statement on October 23 that First Lady Melania Trump helped bring about a local ceasefire between Russia and Ukraine in Oleshky.",
+                "zh": "白宫10月23日发表声明称，第一夫人梅拉尼娅·特朗普促成俄罗斯与乌克兰在奥列什基的局部停火。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "以色列|选举后组阁僵局及外国干预指控|2026年议会选举",
+          "title": "以色列选举后组阁谈判临近，两大阵营预计均未获多数",
+          "summary": "《卫报》报道，以色列选举后组阁谈判即将展开，内塔尼亚胡和艾森科特领导的阵营预计均无法获得议会多数。",
+          "published_at": "2026-10-29T03:58:27+08:00",
+          "follow_up": true,
+          "new_facts": "以色列选举后，内塔尼亚胡和艾森科特阵营预计均未达多数，组阁谈判临近。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "以色列",
+            "本雅明·内塔尼亚胡",
+            "加迪·艾森科特"
+          ],
+          "limitations": "报道仅有标题和页面元数据可核，未提供席位数字或计票细节；“预计未达多数”是媒体对选举结果的判断，需以最终计票和官方结果为准。",
+          "facts": [
+            {
+              "text": "据《卫报》报道，以色列议会选举后组阁谈判临近，总理内塔尼亚胡和前军方总参谋长加迪·艾森科特领导的阵营预计均无法获得议会多数。",
+              "evidence": [
+                {
+                  "source_id": "s79",
+                  "quote": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Israel coalition talks near after election, with two main blocs expected to fall short of majority",
+            "sentences": [
+              {
+                "en": "According to The Guardian, as coalition talks approach following Israel's parliamentary election, the camps led by Prime Minister Netanyahu and former military chief of staff Gadi Eisenkot are both expected to fail to secure a parliamentary majority.",
+                "zh": "据《卫报》报道，以色列议会选举后组阁谈判临近，总理内塔尼亚胡和前军方总参谋长加迪·艾森科特领导的阵营预计均无法获得议会多数。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s57",
+      "url": "https://www.theguardian.com/world/2026/oct/29/ukraine-war-briefing-oleshky-truce-holding-and-demining-under-way-to-enable-humanitarian-corridor-kyiv-says",
+      "title": "Ukraine war briefing: Oleshky truce holding and demining under way to enable humanitarian corridor, Kyiv says",
+      "published_at": "2026-10-29T01:48:26+00:00"
+    },
+    {
+      "id": "s79",
+      "url": "https://www.theguardian.com/world/2026/oct/28/israel-election-exit-polls-suggest-netanyahu-eisenkot-blocs-tied-ntwnfb",
+      "title": "Coalition talks loom in Israel as Netanyahu and Eisenkot blocs set to fall short of majority",
+      "published_at": "2026-10-28T19:58:27+00:00"
+    },
+    {
+      "id": "s14",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/10/first-lady-melania-trump-secures-ceasefire-between-russia-and-ukraine-localized-to-oleshky/",
+      "title": "First Lady Melania Trump Secures Ceasefire Between Russia and Ukraine, Localized to Oleshky",
+      "published_at": "2026-10-23T13:16:54+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
