@@ -1,0 +1,67 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-30",
+  "title": "2026-10-30 政治",
+  "summary": "本期未收录新闻：候选消息未达到本板块收录标准。",
+  "highlights": [],
+  "window_start": "2026-10-29T12:00:00+08:00",
+  "window_end": "2026-10-30T12:00:00+08:00",
+  "generated_at": "2026-10-31T00:21:52.844916+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选资料未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
