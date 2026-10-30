@@ -1,0 +1,201 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-30",
+  "title": "2026-10-30 ACGN",
+  "summary": "Pearl Abyss 为《Crimson Desert》推出“Charting the Unknown”更新，加入新剧情、海洋探索与据点管理等内容；游研社报道《魔兽世界》“无限”将于11月5日全球同步上线。",
+  "highlights": [
+    "《Crimson Desert》推出“Charting the Unknown”更新，加入新剧情、海洋探索与据点管理等内容。",
+    "游研社报道《魔兽世界》“无限”将于11月5日全球同步上线。"
+  ],
+  "window_start": "2026-10-29T12:00:00+08:00",
+  "window_end": "2026-10-30T12:00:00+08:00",
+  "generated_at": "2026-10-31T00:15:42.967919+08:00",
+  "edition": "acgn",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Crimson Desert|发布|Charting the Unknown更新",
+          "title": "《Crimson Desert》推出“Charting the Unknown”更新",
+          "summary": "Pearl Abyss 在 Xbox Wire 宣布，《Crimson Desert Enhanced: Charting the Unknown》于10月29日登陆 Xbox Series X/S 与 Xbox on PC，加入新剧情、海洋探索、恋爱、据点管理和 Boss Rush 等内容。",
+          "published_at": "2026-10-30T06:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Pearl Abyss 10月29日上线《Crimson Desert Enhanced: Charting the Unknown》，新增剧情、海洋探索、恋爱、据点管理、Boss Rush，Xbox 5小时试玩至2027年1月7日。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Crimson Desert",
+            "Pearl Abyss"
+          ],
+          "limitations": "信息来自 Xbox Wire 刊出的官方文章，未独立验证实际更新内容与运行表现。",
+          "facts": [
+            {
+              "text": "Pearl Abyss 在 Xbox Wire 宣布，《Crimson Desert Enhanced: Charting the Unknown》于10月29日登陆 Xbox Series X/S 与 Xbox on PC，并支持 Xbox Play Anywhere。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Crimson Desert Enhanced : Charting the Unknown will be available on October 29, 2026 for XBOX Series X/S, XBOX on PC, with XBOX Play Anywhere support."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "该更新加入新剧情线、海洋探索、恋爱、据点管理、Boss Rush 等内容。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Charting the Unknown adds new storylines, ocean exploration, romance, stronghold management, boss rushes, and more."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "Xbox 玩家可在10月29日至2027年1月7日期间免费试玩5小时。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "XBOX players can try Crimson Desert Enhanced with a 5-hour Free Trial from October 29, 2026 through January 7, 2027."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Crimson Desert Rolls Out 'Charting the Unknown' Update",
+            "sentences": [
+              {
+                "en": "Pearl Abyss announced on Xbox Wire that Crimson Desert Enhanced: Charting the Unknown will launch on Xbox Series X/S and Xbox on PC on October 29 and will support Xbox Play Anywhere.",
+                "zh": "Pearl Abyss 在 Xbox Wire 宣布，《Crimson Desert Enhanced: Charting the Unknown》于10月29日登陆 Xbox Series X/S 与 Xbox on PC，并支持 Xbox Play Anywhere。"
+              },
+              {
+                "en": "The update adds a new story line, ocean exploration, romance, settlement management, Boss Rush, and other content.",
+                "zh": "该更新加入新剧情线、海洋探索、恋爱、据点管理、Boss Rush 等内容。"
+              },
+              {
+                "en": "Xbox players can try it for free for five hours from October 29 to January 7, 2027.",
+                "zh": "Xbox 玩家可在10月29日至2027年1月7日期间免费试玩5小时。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "World of Warcraft|公布|‘无限’11月5日全球上线",
+          "title": "游研社报道《魔兽世界》“无限”将于11月5日全球上线",
+          "summary": "游研社报道，《魔兽世界》“无限”将在11月5日全球同步上线，该版本以香草时代为基础加入新世界观内容；时光服第7至第9阶段将引入三件传说物品，2027年加入新职业。",
+          "published_at": "2026-10-30T00:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "游研社报道《魔兽世界》“无限”11月5日全球同步上线；时光服第7至9阶段三件传说物品套装，2027年新职业。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "World of Warcraft",
+            "Blizzard Entertainment",
+            "网易"
+          ],
+          "limitations": "信息来自游研社报道，未直接取得暴雪官方公告原文；平台与地区细节以官方后续公告为准。",
+          "facts": [
+            {
+              "text": "游研社报道，暴雪《魔兽世界》“无限”将于11月5日全球同步上线。该版本以香草时代艾泽拉斯为基础，首次在世界观架构上加入不同于正式服的新内容，宣传片出现亡灵圣骑士、新可玩种族天裔和“地上达拉然”。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "再过差不多一周时间，《魔兽世界》“无限”（以下简称《无限》）就要在11月5日全球同步上线了。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "继怀旧服和时光服之后，《无限》虽仍是以香草时代的艾泽拉斯为基础，但首次在世界观架构层面，拓展出了不同于正式服的全新内容。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "你能在宣传片中见到亡灵圣骑士、全新的可玩种族天裔，以及刚建造完、尚未腾空而起的“地上达拉然”。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《魔兽世界》高级游戏总监 Ion Hazzikostas 表示，《无限》与国服“时光服”将长期并行；时光服第7至第9阶段将引入三件传说物品组成套装，2027年加入新职业。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "Ion明确表示，《无限》和时光服两者将会长久地并行存在。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "时光服将在即将到来的第7、第8和第9阶段，引入三件全新的传说物品，共同组成一套传说套装"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "并将在2027年内加入一个新职业。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Youyanshe Reports World of Warcraft: “Infinite” Will Launch Globally on November 5",
+            "sentences": [
+              {
+                "en": "Youyanshe reports that Blizzard's World of Warcraft: “Infinite” will launch simultaneously worldwide on November 5.",
+                "zh": "游研社报道，暴雪《魔兽世界》“无限”将于11月5日全球同步上线。"
+              },
+              {
+                "en": "This version is based on vanilla-era Azeroth and, for the first time in its worldbuilding framework, adds new content different from that of the live servers; the trailer features an undead paladin, a new playable race called Tianyi, and “Dalaran on the Surface.”",
+                "zh": "该版本以香草时代艾泽拉斯为基础，首次在世界观架构上加入不同于正式服的新内容，宣传片出现亡灵圣骑士、新可玩种族天裔和“地上达拉然”。"
+              },
+              {
+                "en": "Ion Hazzikostas, senior game director of World of Warcraft, said that “Infinite” and the Chinese-server “Shiguang Server” will operate in parallel over the long term; phases 7 to 9 of the Shiguang Server will introduce three legendary items that form a set, and a new class will be added in 2027.",
+                "zh": "《魔兽世界》高级游戏总监 Ion Hazzikostas 表示，《无限》与国服“时光服”将长期并行；时光服第7至第9阶段将引入三件传说物品组成套装，2027年加入新职业。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s19",
+      "url": "https://news.xbox.com/en-us/2026/10/29/crimson-desert-charting-the-unknown/",
+      "title": "The Journey of Crimson Desert Continues with Charting the Unknown",
+      "published_at": "2026-10-29T22:00:00+00:00"
+    },
+    {
+      "id": "s12",
+      "url": "https://www.yystv.cn/p/14566",
+      "title": "魔兽国服一顿操作，让暴雪设计师直呼“学到了”",
+      "published_at": "2026-10-30T00:00:00+08:00"
+    }
+  ],
+  "coverage_notes": [
+    "其他热门新作的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
