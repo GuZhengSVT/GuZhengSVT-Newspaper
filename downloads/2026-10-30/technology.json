@@ -1,0 +1,224 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-30",
+  "title": "2026-10-30 科技",
+  "summary": "Mistral AI于10月29日宣布Mistral Large 4（Le Chonk）以开放权重发布。OPPO同日在台湾发表Find X10与Find X10 Pro Max，Pro Max搭载三颗2亿像素哈苏镜头，Find X10起售价42,990元。",
+  "highlights": [
+    "Mistral AI宣布Mistral Large 4（Le Chonk）以开放权重形式发布。",
+    "OPPO在台湾发布Find X10系列，Pro Max配三颗2亿像素哈苏镜头，售价58,990元。"
+  ],
+  "window_start": "2026-10-29T12:00:00+08:00",
+  "window_end": "2026-10-30T12:00:00+08:00",
+  "generated_at": "2026-10-30T12:03:40.467918+08:00",
+  "sources": [
+    {
+      "id": "s16",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cybersecurity. October 29, 2026 By Mistral",
+      "published_at": "2026-10-29T12:00:07+00:00"
+    },
+    {
+      "id": "s78",
+      "url": "https://cna.com.tw/news/afe/202610290252.aspx",
+      "title": "記憶體飆漲新手機變貴 OPPO：現售機型無漲價計畫",
+      "published_at": "2026-10-29T17:11:00+08:00"
+    },
+    {
+      "id": "s76",
+      "url": "https://news.nextapple.com/aitech/20261029/555693C7A528FEEC9CBF40A3A33BF326",
+      "title": "OPPO Find X10系列登台！Pro Max搭三顆2億畫素",
+      "published_at": "2026-10-29T14:19:00+08:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Mistral AI|开源|Le Chonk模型权重",
+          "title": "Mistral以开放权重发布Mistral Large 4（Le Chonk）",
+          "summary": "Mistral AI于10月29日宣布Mistral Large 4（Le Chonk）以开放权重形式发布。",
+          "published_at": "2026-10-29T20:00:07+08:00",
+          "follow_up": false,
+          "new_facts": "Mistral AI开放Mistral Large 4（Le Chonk）权重。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Mistral AI",
+            "Le Chonk",
+            "Mistral Large 4"
+          ],
+          "limitations": "官方页面可见内容仅确认开放权重，未给出参数规模、许可证、评测方法与独立测试结果。",
+          "facts": [
+            {
+              "text": "Mistral AI于10月29日宣布，Mistral Large 4（Le Chonk）以开放权重形式发布。官方页面以“Mistral Large 4 (Le Chonk) is now open weight”说明这一状态。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "Mistral Large 4 (Le Chonk) is now open weight"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "页面元数据 datePublished: 2026-10-29T12:00:07+00:00"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Mistral Releases Mistral Large 4 (Le Chonk) as Open-Weight Model",
+            "sentences": [
+              {
+                "en": "Mistral AI announced on October 29 that Mistral Large 4 (Le Chonk) was released in open-weight form.",
+                "zh": "Mistral AI于10月29日宣布，Mistral Large 4（Le Chonk）以开放权重形式发布。"
+              },
+              {
+                "en": "The official page describes this status with the statement “Mistral Large 4 (Le Chonk) is now open weight.”",
+                "zh": "官方页面以“Mistral Large 4 (Le Chonk) is now open weight”说明这一状态。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "OPPO|发布|Find X10系列",
+          "title": "OPPO在台发布Find X10系列，Pro Max配三颗2亿像素镜头",
+          "summary": "OPPO 10月29日在台湾发表Find X10与Find X10 Pro Max，Pro Max搭载三颗2亿像素哈苏镜头，Find X10起售价42,990元，Pro Max售价58,990元。",
+          "published_at": "2026-10-29T14:19:00+08:00",
+          "follow_up": false,
+          "new_facts": "OPPO在台湾发布Find X10系列，Pro Max配三颗2亿像素哈苏镜头，天玑9600 Pro，8000mAh电池，售价42,990元起。",
+          "verification": "corroborated",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "OPPO",
+            "Find X10",
+            "Find X10 Pro Max"
+          ],
+          "limitations": "开卖日期两篇报道不一致：中央社称11月2日全台通路开卖，壹蘋新闻网称11月6日正式开卖。售价与配置来自发布会转述，未见OPPO官方新闻稿原文。",
+          "facts": [
+            {
+              "text": "OPPO于10月29日在台湾发表Find X10与Find X10 Pro Max。Pro Max搭载三颗2亿像素哈苏镜头。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "OPPO今天在台發表Find X10系列，搭載聯發科技天璣9600系列晶片，以及全球第一款3顆2億哈蘇鏡頭"
+                },
+                {
+                  "source_id": "s76",
+                  "quote": "OPPO今（29）日在台推出Find X10系列，包括Find X10、Find X10 Pro Max兩款機型，延續與哈蘇合作，其中Pro Max一口氣搭載三顆2億畫素鏡頭"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "Find X10采用2亿像素主摄、2亿像素长焦和5000万像素超广角；两款分别使用天玑9600M和天玑9600 Pro，电池8000mAh，支持80W有线与50W无线充电。",
+              "evidence": [
+                {
+                  "source_id": "s76",
+                  "quote": "Find X10則搭載2億畫素主鏡頭、2億畫素長焦鏡頭，以及5,000萬畫素超廣角鏡頭。"
+                },
+                {
+                  "source_id": "s76",
+                  "quote": "Find X10搭載聯發科天璣9600M，Pro Max則採用天璣9600 Pro"
+                },
+                {
+                  "source_id": "s76",
+                  "quote": "電池容量為8,000mAh，皆支援80W有線與50W無線充電。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "据壹蘋新闻网报道，Find X10在台售价42,990元起，12+512GB版本46,990元，Find X10 Pro Max 16+512GB版本58,990元。",
+              "evidence": [
+                {
+                  "source_id": "s76",
+                  "quote": "OPPO Find X10提供12+256GB、12+512GB兩種容量版本，月光鈦、冰川藍與珊瑚橙配色，售價分別為42,990元與46,990元；Find X10 Pro Max提供16+512GB容量版本，提供紗月白、月影鈦配色，售價58,990元。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "中央社称预计11月2日全台通路开卖，壹蘋新闻网称11月6日正式开卖，两篇报道的开卖日期不一致。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "預計11月2日全台通路開賣"
+                },
+                {
+                  "source_id": "s76",
+                  "quote": "11月6日正式開賣"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            }
+          ],
+          "bilingual": {
+            "title_en": "OPPO Launches Find X10 Series in Taiwan; Pro Max Features Three 200MP Cameras",
+            "sentences": [
+              {
+                "en": "OPPO launched the Find X10 and Find X10 Pro Max in Taiwan on October 29.",
+                "zh": "OPPO于10月29日在台湾发表Find X10与Find X10 Pro Max。"
+              },
+              {
+                "en": "The Pro Max features three 200-megapixel Hasselblad cameras.",
+                "zh": "Pro Max搭载三颗2亿像素哈苏镜头。"
+              },
+              {
+                "en": "The Find X10 has a 200-megapixel main camera, a 200-megapixel telephoto camera and a 50-megapixel ultra-wide camera; the two models use the Dimensity 9600M and Dimensity 9600 Pro respectively, have 8000mAh batteries, and support 80W wired and 50W wireless charging.",
+                "zh": "Find X10采用2亿像素主摄、2亿像素长焦和5000万像素超广角；两款分别使用天玑9600M和天玑9600 Pro，电池8000mAh，支持80W有线与50W无线充电。"
+              },
+              {
+                "en": "According to Yiping News Network, the Find X10 is priced from NT$42,990 in Taiwan, with the 12+512GB version at NT$46,990 and the Find X10 Pro Max 16+512GB version at NT$58,990.",
+                "zh": "据壹蘋新闻网报道，Find X10在台售价42,990元起，12+512GB版本46,990元，Find X10 Pro Max 16+512GB版本58,990元。"
+              },
+              {
+                "en": "CNA said sales across Taiwan were expected to begin on November 2, while Yiping News Network said they would officially begin on November 6; the two reports give inconsistent on-sale dates.",
+                "zh": "中央社称预计11月2日全台通路开卖，壹蘋新闻网称11月6日正式开卖，两篇报道的开卖日期不一致。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "数码的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
