@@ -1,0 +1,545 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-31",
+  "title": "2026-10-31 科技",
+  "summary": "本期收录：OpenAI、Google、Microsoft、Anthropic表示将采用共享的robots.txt退出信号；NVIDIA与MIT团队开源基于MiniMax H3的视频增强方案；SoMark团队开源1.3B文档解析模型OXR；苹果宣布Apple Intelligence随iOS 27.3进入中国，相关功能将首先随计划于11月4日推出的测试版提供；Google称Project Suncatcher卫星TPU在轨启动；友达董事会批准向台积电出售台中二期厂。",
+  "highlights": [
+    "OpenAI、Google、Microsoft、Anthropic表示将采用robots.txt共享退出信号。",
+    "Google称Project Suncatcher卫星TPU在轨启动，Gemma 4生成首条回应。",
+    "友达董事会批准以388亿新台币向台积电出售台中二期厂。",
+    "苹果宣布Apple Intelligence随iOS 27.3进入中国，相关功能计划11月4日随测试版提供。",
+    "NVIDIA与MIT团队开源基于MiniMax H3的视频增强方案。"
+  ],
+  "window_start": "2026-10-30T12:00:00+08:00",
+  "window_end": "2026-10-31T12:00:00+08:00",
+  "generated_at": "2026-10-31T14:24:42.565925+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "OpenAI等|支持|AI训练内容抓取退出标准",
+          "title": "OpenAI、Google等支持共享robots.txt退出信号",
+          "summary": "多家AI公司表示将采用IETF提案中的robots.txt共享policy token，使发布者能一次性表达AI训练偏好；Meta表态支持但未说明是否遵守。",
+          "published_at": "2026-10-31T04:26:10+08:00",
+          "follow_up": true,
+          "new_facts": "OpenAI、Google、Microsoft、Anthropic表示将采用robots.txt中的共享policy token；Meta表示支持但未承诺遵守。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "OpenAI",
+            "Google",
+            "Microsoft",
+            "Anthropic",
+            "robots.txt AI训练偏好信号"
+          ],
+          "limitations": "报道来自The Verge，标准仍在IETF提案阶段，具体生效时间和各公司实施范围未在报道中说明。",
+          "facts": [
+            {
+              "text": "据The Verge报道，OpenAI、Google、Microsoft和Anthropic表示将采用一项新的共享信号，让发布者可以在robots.txt中一次性表明是否允许AI抓取，而不必逐家设置。该信号由Anthropic标准技术负责人Kevin Kelley在IETF提出，被称为“policy token”。",
+              "evidence": [
+                {
+                  "source_id": "s55",
+                  "quote": "OpenAI, Google, Microsoft, and Anthropic say they will adopt a new standard that publishers can use to opt out of being scraped by AI"
+                },
+                {
+                  "source_id": "s55",
+                  "quote": "The shared “policy token” signal is proposed by Kevin Kelley, a technical lead for standards at Anthropic, as part of the Internet Engineering Task Force (IETF)."
+                },
+                {
+                  "source_id": "s55",
+                  "quote": "It will live within a website’s robots.txt file"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Meta传播负责人Andy Stone表示支持这一共同信号，但没有说明Meta是否会遵守。报道称，发布者目前仍需向每家AI公司分别表达训练偏好，新方案试图把这一选择集中到网站已有的robots.txt中。",
+              "evidence": [
+                {
+                  "source_id": "s55",
+                  "quote": "Meta communications head Andy Stone also signaled support for the new setting, but doesn’t say whether the company will honor it."
+                },
+                {
+                  "source_id": "s55",
+                  "quote": "Currently, sites have to signal their AI training preferences separately to each AI company."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "OpenAI, Google and Others Back Shared robots.txt Opt-Out Signal",
+            "sentences": [
+              {
+                "en": "According to The Verge, OpenAI, Google, Microsoft and Anthropic said they would adopt a new shared signal that lets publishers indicate in robots.txt, in one place, whether they allow AI crawling, rather than setting it separately for each company.",
+                "zh": "据The Verge报道，OpenAI、Google、Microsoft和Anthropic表示将采用一项新的共享信号，让发布者可以在robots.txt中一次性表明是否允许AI抓取，而不必逐家设置。"
+              },
+              {
+                "en": "The signal was proposed at the IETF by Kevin Kelley, Anthropic's standards technical lead, and is called a \"policy token.\"",
+                "zh": "该信号由Anthropic标准技术负责人Kevin Kelley在IETF提出，被称为“policy token”。"
+              },
+              {
+                "en": "Andy Stone, Meta's communications lead, said he supports this common signal but did not say whether Meta would comply.",
+                "zh": "Meta传播负责人Andy Stone表示支持这一共同信号，但没有说明Meta是否会遵守。"
+              },
+              {
+                "en": "The report said publishers currently still need to express training preferences to each AI company separately, and the new proposal seeks to consolidate this choice into the robots.txt file already on websites.",
+                "zh": "报道称，发布者目前仍需向每家AI公司分别表达训练偏好，新方案试图把这一选择集中到网站已有的robots.txt中。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "NVIDIA与MIT|开源|基于MiniMax H3的视频增强方案Open-H3-Regenerate-2K",
+          "title": "NVIDIA与MIT团队开源基于MiniMax H3的视频增强方案",
+          "summary": "团队在Hugging Face发布Open-H3-Regenerate-2K权重，基于MiniMax H3实现2K输出和最高4K重生成；团队公布测试称速度与画质提升。",
+          "published_at": "2026-10-30T15:31:11+08:00",
+          "follow_up": false,
+          "new_facts": "Open-H3-Regenerate-2K模型权重发布，基于MiniMax H3，支持2K输出和最高4K重生成；团队测试称处理速度约为原实现3.9倍。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "NVIDIA",
+            "MIT",
+            "MiniMax H3",
+            "Open-H3-Regenerate-2K"
+          ],
+          "limitations": "量子位文章注明由MiniMax提供并获授权转载，性能与画质数据来自项目团队公布，未获独立复现。",
+          "facts": [
+            {
+              "text": "据量子位报道，由NVIDIA与MIT研究人员组成的Efficient-Large-Model团队在Hugging Face发布了视频增强项目Open-H3-Regenerate-2K的模型权重，配套推理代码已在NVlabs/Sana仓库开放。该方案基于MiniMax H3，把低分辨率视频草稿重生成到2560×1440，最高支持3840×2160。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "近日，由英伟达与麻省理工学院研究人员组成的 Efficient-Large-Model 团队，在 Hugging Face 发布视频增强项目 Open-H3-Regenerate-2K 的模型权重，配套推理代码已在 NVlabs/Sana 仓库开放。"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "该方案基于 MiniMax H3，将低分辨率视频草稿重新生成为高分辨率视频，支持 2560×1440 的 2K 输出，最高可实现 3840×2160 的原生 4K 重生成。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "项目团队公布的测试显示，在单张NVIDIA B200 GPU、预热条件下，约5秒视频的潜空间放大、三步细化和2K解码合计耗时从87.26秒降至22.45秒，约3.9倍；在RefinerBench-150上，该方案UniPercept平均分60.0，官方H3-Regenerate-2K API为53.4。上述数据来自团队公布。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "项目团队公布的测试显示，在单张 NVIDIA B200 GPU、预热后的测试条件下，一段约 5 秒视频的潜空间放大、三步细化和 2K 解码合计耗时，由未优化实现的 87.26 秒降至 22.45 秒，处理速度约为原来的 3.9 倍。"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "Open-H3-Regenerate-2K 在感知质量评测 UniPercept 上的平均分为 60.0，官方 H3-Regenerate-2K API 为 53.4。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "NVIDIA and MIT Team Open-Source Video Enhancement Solution Based on MiniMax H3",
+            "sentences": [
+              {
+                "en": "According to QbitAI, the Efficient-Large-Model team, composed of researchers from NVIDIA and MIT, released on Hugging Face the model weights for the video enhancement project Open-H3-Regenerate-2K, with accompanying inference code already available in the NVlabs/Sana repository.",
+                "zh": "据量子位报道，由NVIDIA与MIT研究人员组成的Efficient-Large-Model团队在Hugging Face发布了视频增强项目Open-H3-Regenerate-2K的模型权重，配套推理代码已在NVlabs/Sana仓库开放。"
+              },
+              {
+                "en": "The solution is based on MiniMax H3 and regenerates low-resolution video drafts to 2560×1440, with support for up to 3840×2160.",
+                "zh": "该方案基于MiniMax H3，把低分辨率视频草稿重生成到2560×1440，最高支持3840×2160。"
+              },
+              {
+                "en": "Tests published by the project team show that, on a single NVIDIA B200 GPU under warm-up conditions, the combined time for latent-space upscaling, three-step refinement, and 2K decoding of an approximately 5-second video fell from 87.26 seconds to 22.45 seconds, about 3.9×; on RefinerBench-150, the solution's UniPercept average score was 60.0, compared with 53.4 for the official H3-Regenerate-2K API.",
+                "zh": "项目团队公布的测试显示，在单张NVIDIA B200 GPU、预热条件下，约5秒视频的潜空间放大、三步细化和2K解码合计耗时从87.26秒降至22.45秒，约3.9倍；在RefinerBench-150上，该方案UniPercept平均分60.0，官方H3-Regenerate-2K API为53.4。"
+              },
+              {
+                "en": "The above figures were published by the team.",
+                "zh": "上述数据来自团队公布。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "国产团队|开源|1.3B OXR OCR模型登顶全球第一",
+          "title": "SoMark团队开源1.3B文档解析模型OXR，称三项基准登顶",
+          "summary": "量子位报道，SoMark团队开源1.3B参数的OXR，称在OmniDocBench等三项基准排名第一，采用RSI后训练，单卡解析100页耗时101秒。",
+          "published_at": "2026-10-30T13:52:47+08:00",
+          "follow_up": false,
+          "new_facts": "OXR开源，1.3B参数，称三项文档解析基准第一；采用RSI后训练，单张RTX PRO 6000解析100页耗时101秒。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "OXR",
+            "OCR",
+            "SoMark"
+          ],
+          "limitations": "榜单分数来自团队公布及量子位报道，未获独立复现；免费API的长期可用性由团队表示。",
+          "facts": [
+            {
+              "text": "据量子位报道，SoMark团队开源了1.3B参数的文档解析模型OXR，称其在OmniDocBench、olmOCR-Bench和DocParsingBench三项基准上排名第一，对应分数分别为97.18、87.84和87.76。模型代码、权重和评测复现代码已公开。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "OmniDocBench：97.18，第一"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "olmOCR-Bench：87.84，第一"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "DocParsingBench：87.76，第一"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "目前，OXR的代码、权重以及整套基准评测的复现流程，已经全部公开。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "OXR可一次解析表格、公式、代码块、图片、化学方程式等13类文档元素，报道称单张RTX PRO 6000解析100页文档耗时101秒。团队采用递归自我改进后训练，让模型自行找错、归因并生成下一轮训练数据。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "OXR能一口气吞下 13类文档元素"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "在单张RTX PRO 6000上，OXR端到端解析100页文档只要101.0秒，开源第一。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "引入面向文档解析的递归自我改进（RSI）训练范式。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "SoMark Team Open-Sources OXR, a 1.3B Document Parsing Model, Claiming Top Rankings on Three Benchmarks",
+            "sentences": [
+              {
+                "en": "According to QbitAI, the SoMark team has open-sourced OXR, a 1.3B-parameter document parsing model, which it says ranks first on three benchmarks—OmniDocBench, olmOCR-Bench, and DocParsingBench—with scores of 97.18, 87.84, and 87.76, respectively.",
+                "zh": "据量子位报道，SoMark团队开源了1.3B参数的文档解析模型OXR，称其在OmniDocBench、olmOCR-Bench和DocParsingBench三项基准上排名第一，对应分数分别为97.18、87.84和87.76。"
+              },
+              {
+                "en": "The model's code, weights, and evaluation reproduction code have been made public.",
+                "zh": "模型代码、权重和评测复现代码已公开。"
+              },
+              {
+                "en": "OXR can parse 13 categories of document elements—including tables, formulas, code blocks, images, and chemical equations—in a single pass, and the report says parsing a 100-page document takes 101 seconds on a single RTX PRO 6000.",
+                "zh": "OXR可一次解析表格、公式、代码块、图片、化学方程式等13类文档元素，报道称单张RTX PRO 6000解析100页文档耗时101秒。"
+              },
+              {
+                "en": "The team used recursive self-improvement post-training, allowing the model to find its own errors, identify their causes, and generate training data for the next round.",
+                "zh": "团队采用递归自我改进后训练，让模型自行找错、归因并生成下一轮训练数据。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Apple|在中国推出|Apple Intelligence（iOS 27.3）",
+          "title": "苹果宣布Apple Intelligence随iOS 27.3进入中国",
+          "summary": "苹果中国新闻稿宣布，Apple Intelligence将随iOS 27.3进入中国，相关功能将首先随计划于11月4日推出的测试版提供，正式版计划12月发布；新Siri AI不在此次上线范围。",
+          "published_at": "2026-10-31T06:32:53+08:00",
+          "follow_up": true,
+          "new_facts": "Apple Intelligence将随iOS 27.3进入中国，相关功能将首先随计划于11月4日推出的测试版提供，正式版计划12月发布；首批不含新Siri AI，与阿里巴巴Qwen合作。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Apple",
+            "Apple Intelligence",
+            "iOS 27.3",
+            "阿里巴巴",
+            "Qwen"
+          ],
+          "limitations": "The Verge转述苹果中国新闻稿及MacRumors报道，未直接取得苹果新闻稿原文；功能清单以报道为准。",
+          "facts": [
+            {
+              "text": "据The Verge报道，苹果在中国新闻稿中宣布，Apple Intelligence将随iOS 27.3进入中国市场。相关功能将首先随计划于11月4日推出的iOS 27.3测试版提供，正式版计划在12月发布。",
+              "evidence": [
+                {
+                  "source_id": "s52",
+                  "quote": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website"
+                },
+                {
+                  "source_id": "s52",
+                  "quote": "The Apple Intelligence features will be available first in an iOS 27.3 beta that’s set to launch on November 4th, with a full iOS 27.3 release scheduled for December."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "此次上线不包括新的Siri AI，首批功能包括通知摘要、实时翻译、改写和校对、视觉智能以及照片去物。苹果还表示与阿里巴巴合作，在部分体验中加入对Qwen聊天机器人的支持。",
+              "evidence": [
+                {
+                  "source_id": "s52",
+                  "quote": "This launch doesn’t bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos."
+                },
+                {
+                  "source_id": "s52",
+                  "quote": "Apple also says it has worked with Ailbaba to add support for its Qwen chatbot in some experiences"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Apple Says Apple Intelligence Will Launch in China With iOS 27.3",
+            "sentences": [
+              {
+                "en": "According to The Verge, Apple announced in a Chinese press release that Apple Intelligence will enter the Chinese market with iOS 27.3.",
+                "zh": "据The Verge报道，苹果在中国新闻稿中宣布，Apple Intelligence将随iOS 27.3进入中国市场。"
+              },
+              {
+                "en": "The features will first be available in the iOS 27.3 beta planned for release on November 4, with the official version scheduled for release in December.",
+                "zh": "相关功能将首先随计划于11月4日推出的iOS 27.3测试版提供，正式版计划在12月发布。"
+              },
+              {
+                "en": "This rollout does not include the new Siri AI; the first batch of features includes notification summaries, live translation, rewriting and proofreading, Visual Intelligence, and object removal in Photos.",
+                "zh": "此次上线不包括新的Siri AI，首批功能包括通知摘要、实时翻译、改写和校对、视觉智能以及照片去物。"
+              },
+              {
+                "en": "Apple also said it is working with Alibaba to add support for the Qwen chatbot in some experiences.",
+                "zh": "苹果还表示与阿里巴巴合作，在部分体验中加入对Qwen聊天机器人的支持。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Google|在轨运行|Project Suncatcher AI服务器（TPU/Gemma 4）",
+          "title": "Google称Suncatcher卫星TPU在轨启动，Gemma 4生成首条回应",
+          "summary": "Google称Project Suncatcher卫星成功启动TPU，星载Gemma 4按提示生成俳句并传回；下一步测试热应力和辐射，2027年计划双星互联。",
+          "published_at": "2026-10-31T02:21:38+08:00",
+          "follow_up": true,
+          "new_facts": "Google称Project Suncatcher卫星TPU首次在轨启动，星载Gemma 4生成太空主题俳句；下一步测试热应力与辐射，2027年目标双星互联。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Google",
+            "Project Suncatcher",
+            "Tensor Processing Unit",
+            "Gemma 4"
+          ],
+          "limitations": "The Verge转述Google博客，未提供独立遥测或技术细节，星上推理链路的具体分工未在报道中说明。",
+          "facts": [
+            {
+              "text": "据The Verge报道，Google称其搭载AI芯片的卫星已成功启动Tensor Processing Unit（TPU），使星载Gemma 4模型能够执行提示，生成一首关于身处太空的俳句并传回地球。Google还测试了其他太空主题的短诗和遥测提示。",
+              "evidence": [
+                {
+                  "source_id": "s56",
+                  "quote": "Google says it successfully booted up the satellite’s Tensor Processing Units (TPUs), allowing the on-board Gemma 4 model to follow through on a prompt to create a haiku about being in space"
+                },
+                {
+                  "source_id": "s56",
+                  "quote": "Google says it tried out other space-themed limericks and telemetry prompts as well."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "这是Google实验项目Project Suncatcher的一部分，该项目设想最终把AI数据中心送入太空。Google表示，接下来将评估TPU在轨道热应力和辐射暴露下的表现，并称验证TPU能在太空可靠执行工作负载，是2027年双星互联目标的前提。",
+              "evidence": [
+                {
+                  "source_id": "s56",
+                  "quote": "The test is part of Google’s Project Suncatcher, an experimental initiative that could eventually put AI data centers in space."
+                },
+                {
+                  "source_id": "s56",
+                  "quote": "“Next, we will continue with a series of tests to evaluate how TPUs perform under thermal stress and radiation exposure in orbit,” Google says. “Verifying our TPUs can reliably execute workloads in space paves the way for our next milestone of twin interconnected satellites in 2027.”"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Google Says Suncatcher Satellite TPU Starts Up in Orbit; Gemma 4 Generates First Response",
+            "sentences": [
+              {
+                "en": "According to The Verge, Google said that its satellite carrying AI chips had successfully started up a Tensor Processing Unit (TPU), enabling the onboard Gemma 4 model to execute prompts, generate a haiku about being in space, and send it back to Earth.",
+                "zh": "据The Verge报道，Google称其搭载AI芯片的卫星已成功启动Tensor Processing Unit（TPU），使星载Gemma 4模型能够执行提示，生成一首关于身处太空的俳句并传回地球。"
+              },
+              {
+                "en": "Google also tested other space-themed short poems and telemetry prompts.",
+                "zh": "Google还测试了其他太空主题的短诗和遥测提示。"
+              },
+              {
+                "en": "This is part of Google's experimental Project Suncatcher, which envisions eventually sending AI data centers into space.",
+                "zh": "这是Google实验项目Project Suncatcher的一部分，该项目设想最终把AI数据中心送入太空。"
+              },
+              {
+                "en": "Google said it would next assess how the TPU performs under orbital thermal stress and radiation exposure, and said that verifying the TPU can reliably execute workloads in space is a prerequisite for the 2027 goal of interconnecting two satellites.",
+                "zh": "Google表示，接下来将评估TPU在轨道热应力和辐射暴露下的表现，并称验证TPU能在太空可靠执行工作负载，是2027年双星互联目标的前提。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "AUO|出售|台中工厂给TSMC",
+          "title": "友达董事会批准以388亿新台币向台积电出售台中二期厂",
+          "summary": "友达董事会批准出售台中二期厂及基础设施给台积电，交易额388亿新台币，预计处置收益185亿；原拟售华亚厂给广达取消。台积电台中1.4nm扩产计划同步推进。",
+          "published_at": "2026-10-30T16:30:00+08:00",
+          "follow_up": true,
+          "new_facts": "友达董事会批准向台积电出售台中二期厂，交易额388亿新台币，预计处置收益185亿；向广达出售华亚厂计划取消。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "AUO",
+            "TSMC",
+            "Taichung plants",
+            "Quanta",
+            "1.4nm fabs"
+          ],
+          "limitations": "报道来自TrendForce，交易为董事会批准，尚未说明交割完成时间；台积电扩产与封装协同部分引述产业消息。",
+          "facts": [
+            {
+              "text": "据TrendForce报道，友达（AUO）董事会批准将台中二期厂及相关基础设施出售给台积电，交易金额388亿新台币（约12亿美元），涵盖建筑、洁净室和配套设备，登记楼面面积约42.9万平方米。友达预计认列约185亿新台币处置利益。",
+              "evidence": [
+                {
+                  "source_id": "s77",
+                  "quote": "its board approved the sale of the Taichung Phase 2 facility and related infrastructure to TSMC"
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "The deal is valued at TWD 38.8 billion, excluding taxes, and AUO expects to recognize a disposal gain of approximately TWD 18.5 billion"
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "with a registered floor area of approximately 429,000 square meters"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "友达原计划将华亚厂出售给广达，但因双方未就工厂规格和交付时程达成一致而取消。台积电正在台中扩建，计划投资约1.5万亿新台币建设四座1.4nm厂，预计2027年起分期完成；TrendForce引述产业消息称，取得现有厂房可能有助于其在台中整合先进制造与封装。",
+              "evidence": [
+                {
+                  "source_id": "s77",
+                  "quote": "The planned sale of AUO’s Huaya facility to Quanta was canceled after the two companies failed to agree on factory specifications and the delivery schedule."
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "The company plans to invest approximately TWD 1.5 trillion in four new 1.4nm fabs at the Central Taiwan Science Park, with the facilities expected to be completed in phases starting in 2027"
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "Industry sources suggest that acquiring AUO’s facilities could help TSMC further integrate advanced chip manufacturing and packaging in the area."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "AUO Board Approves NT$38.8 Billion Sale of Taichung Phase 2 Plant to TSMC",
+            "sentences": [
+              {
+                "en": "According to TrendForce, AUO's board approved the sale of its Taichung Phase 2 plant and related infrastructure to TSMC for NT$38.8 billion (approximately US$1.2 billion), covering buildings, cleanrooms and ancillary equipment, with a registered floor area of about 429,000 square meters.",
+                "zh": "据TrendForce报道，友达（AUO）董事会批准将台中二期厂及相关基础设施出售给台积电，交易金额388亿新台币（约12亿美元），涵盖建筑、洁净室和配套设备，登记楼面面积约42.9万平方米。"
+              },
+              {
+                "en": "AUO expects to recognize a disposal gain of about NT$18.5 billion.",
+                "zh": "友达预计认列约185亿新台币处置利益。"
+              },
+              {
+                "en": "AUO originally planned to sell its Hwa Ya plant to Quanta Computer, but the deal was canceled because the two sides failed to agree on plant specifications and the delivery schedule.",
+                "zh": "友达原计划将华亚厂出售给广达，但因双方未就工厂规格和交付时程达成一致而取消。"
+              },
+              {
+                "en": "TSMC is expanding in Taichung and plans to invest about NT$1.5 trillion to build four 1.4nm fabs, which are expected to be completed in phases starting in 2027; TrendForce, citing industry sources, said acquiring the existing plant may help TSMC integrate advanced manufacturing and packaging in Taichung.",
+                "zh": "台积电正在台中扩建，计划投资约1.5万亿新台币建设四座1.4nm厂，预计2027年起分期完成；TrendForce引述产业消息称，取得现有厂房可能有助于其在台中整合先进制造与封装。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s56",
+      "url": "https://www.theverge.com/tech/1023528/google-project-suncatcher-ai-satellite-transmission",
+      "title": "Google&#8217;s satellite AI server transmits its first response to Earth",
+      "published_at": "2026-10-30T18:21:38+00:00"
+    },
+    {
+      "id": "s17",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
+      "published_at": "2026-10-30T15:31:11+08:00"
+    },
+    {
+      "id": "s18",
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
+      "published_at": "2026-10-30T13:52:47+08:00"
+    },
+    {
+      "id": "s52",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "published_at": "2026-10-30T22:32:53+00:00"
+    },
+    {
+      "id": "s77",
+      "url": "https://trendforce.com/news/2026/10/30/news-display-maker-auo-to-sell-taichung-plants-to-tsmc-for-twd-38-8b-separate-quanta-deal-canceled",
+      "title": "[News] Display Maker AUO to Sell Taichung Plants to TSMC for TWD 38.8B; Separate Quanta Deal Canceled",
+      "published_at": "2026-10-30T08:30:00+00:00"
+    },
+    {
+      "id": "s55",
+      "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+      "title": "The biggest names in AI are backing a new way to opt out of scraping",
+      "published_at": "2026-10-30T20:26:10+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。"
+  ]
+}

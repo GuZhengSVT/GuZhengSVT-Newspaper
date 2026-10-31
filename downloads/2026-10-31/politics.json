@@ -1,0 +1,158 @@
+{
+  "schema_version": 2,
+  "date": "2026-10-31",
+  "title": "2026-10-31 政治",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "英国称俄罗斯否决联合国安理会西撒哈拉决议草案"
+  ],
+  "window_start": "2026-10-30T12:00:00+08:00",
+  "window_end": "2026-10-31T12:00:00+08:00",
+  "generated_at": "2026-10-31T14:32:40.627437+08:00",
+  "edition": "politics",
+  "sources": [
+    {
+      "id": "s29",
+      "url": "https://www.gov.uk/government/speeches/we-urge-those-who-did-not-support-the-us-resolution-to-seek-to-find-a-solution-on-the-basis-of-that-draft-uk-statement-at-the-un-security-council",
+      "title": "We urge those who did not support the US’ resolution to seek to find a solution on the basis of that draft: UK statement at the UN Security Council",
+      "published_at": "2026-10-30T20:57:58+00:00"
+    },
+    {
+      "id": "s30",
+      "url": "https://www.gov.uk/government/speeches/russias-decision-to-veto-this-draft-resolution-risks-setting-back-progress-on-the-political-process-for-the-western-sahara-uk-statement-at-the-un-secu",
+      "title": "Russia’s decision to veto this draft resolution risks setting back progress on the political process for the Western Sahara: UK statement at the UN Security Council",
+      "published_at": "2026-10-30T20:56:00+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "俄罗斯|否决|联合国安理会西撒哈拉决议草案",
+          "title": "英国称俄罗斯否决联合国安理会西撒哈拉决议草案",
+          "summary": "英国常驻联合国代表称，俄罗斯否决美国起草的西撒哈拉决议草案，英国表示失望，并称西撒特派团授权面临到期。",
+          "published_at": "2026-10-31T04:57:58+08:00",
+          "follow_up": true,
+          "new_facts": "英国政府称俄罗斯否决美国起草的西撒哈拉决议草案；当天两项草案均未通过，MINURSO授权定于次日到期；英国重申支持摩洛哥2007年自治提议。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "英国政府10月30日在联合国安理会发表声明称，俄罗斯否决了美国起草的西撒哈拉决议草案。英国常驻联合国代表麦克因托什表示，英方对此“极度失望”，称此举削弱安理会行动、危及联合国特派团部署，并可能使西撒哈拉政治进程倒退。",
+              "evidence": [
+                {
+                  "source_id": "s30",
+                  "quote": "The United Kingdom expresses immense disappointment at Russia’s decision to veto this draft resolution."
+                },
+                {
+                  "source_id": "s30",
+                  "quote": "That decision undermines the Council’s action on this file, jeopardises the deployment of the UN Mission, and risks setting back progress on the political process for the Western Sahara."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "同日，英国另一份声明称，安理会当天两项西撒哈拉决议草案均未获通过，联合国西撒哈拉全民投票特派团（MINURSO）授权定于次日到期。英方呼吁未支持美国草案的国家以该草案为基础寻求解决方案，并重申支持摩洛哥2007年自治提议。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "following the unsuccessful adoptions of both of this afternoon’s draft resolutions on Western Sahara, MINURSO’s mandate is on course to expire tomorrow."
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "we urge those who did not support the US’ resolution to seek to find a solution on the basis of that draft, which secured 11 positive votes"
+                },
+                {
+                  "source_id": "s30",
+                  "quote": "We reiterate our position that Morocco’s 2007 autonomy proposal is the most credible, viable, and pragmatic basis for a lasting resolution of the dispute."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "俄罗斯",
+            "联合国安理会",
+            "西撒哈拉",
+            "美国",
+            "英国"
+          ],
+          "limitations": "英国声明为单方材料，未附安理会表决记录；否决事实按英方声明归因。",
+          "bilingual": {
+            "title_en": "UK Says Russia Vetoed UN Security Council Draft Resolution on Western Sahara",
+            "sentences": [
+              {
+                "en": "The British government said in a statement at the UN Security Council on October 30 that Russia had vetoed a US-drafted draft resolution on Western Sahara.",
+                "zh": "英国政府10月30日在联合国安理会发表声明称，俄罗斯否决了美国起草的西撒哈拉决议草案。"
+              },
+              {
+                "en": "UK Permanent Representative to the United Nations McIntosh said the United Kingdom was \"extremely disappointed,\" calling the move a weakening of Security Council action, a threat to the deployment of the UN mission, and a possible setback for the political process in Western Sahara.",
+                "zh": "英国常驻联合国代表麦克因托什表示，英方对此“极度失望”，称此举削弱安理会行动、危及联合国特派团部署，并可能使西撒哈拉政治进程倒退。"
+              },
+              {
+                "en": "On the same day, another UK statement said that neither of the two Western Sahara draft resolutions before the Security Council had been adopted that day, and that the mandate of the United Nations Mission for the Referendum in Western Sahara (MINURSO) was due to expire the next day.",
+                "zh": "同日，英国另一份声明称，安理会当天两项西撒哈拉决议草案均未获通过，联合国西撒哈拉全民投票特派团（MINURSO）授权定于次日到期。"
+              },
+              {
+                "en": "The UK called on countries that did not support the US draft to seek a solution on the basis of that draft, and reiterated its support for Morocco's 2007 autonomy proposal.",
+                "zh": "英方呼吁未支持美国草案的国家以该草案为基础寻求解决方案，并重申支持摩洛哥2007年自治提议。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
