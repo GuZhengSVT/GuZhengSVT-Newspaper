@@ -1,0 +1,124 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-01",
+  "title": "2026-11-01 科技",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "Anthropic调整Claude订阅：200美元Ultra取消5小时限制"
+  ],
+  "window_start": "2026-10-31T12:00:00+08:00",
+  "window_end": "2026-11-01T12:00:00+08:00",
+  "generated_at": "2026-11-01T12:03:29.325332+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Anthropic|取消|Claude Ultra 5小时使用限制",
+          "title": "Anthropic调整Claude订阅：200美元Ultra取消5小时限制",
+          "summary": "Anthropic将Claude订阅档位改名为Max和Ultra，价格维持100/200美元；Ultra取消5小时限制，周额度仍为Pro的10倍，现有用户逐步适用，新账号需验证。",
+          "published_at": "2026-10-31T13:05:29+08:00",
+          "follow_up": false,
+          "new_facts": "Anthropic将Claude Max 5x和Max 20x更名为Max和Ultra，价格不变；Ultra取消5小时限制，周额度维持Pro的10倍，需账号验证。",
+          "verification": "single_source",
+          "limitations": "仅基于量子位报道，未直接取得Anthropic官方公告原文；验证条件、适用范围和生效细节以官方说明为准。",
+          "facts": [
+            {
+              "text": "据量子位报道，Anthropic宣布调整Claude订阅计划，原Max 5x和Max 20x分别改名为Max和Ultra，月费仍为100美元和200美元。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Anthropic突然宣布调整Claude订阅计划。 原来的Max 5x和Max 20x正式改名，分别变成Max和Ultra。 价格倒是没变，依旧是每月100美元和200美元。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "200美元的Ultra档取消5小时使用限制，符合验证条件的用户可在每周额度内连续使用，每周额度仍为Pro用户的10倍。多数现有Ultra用户已开始获得调整，新账号需等待账号验证。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "符合验证条件 的Ultra用户，从今天起—— 就能在每周额度内连续使用Claude，终于不用再被5小时窗口卡脖子了。"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "每周使用额度保持不变，仍为Pro用户的10倍。"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "目前大部分现有Ultra订阅用户已开始获得这项调整，新账号则需要等待验证"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Anthropic",
+            "Claude",
+            "Claude Ultra"
+          ],
+          "bilingual": {
+            "title_en": "Anthropic Adjusts Claude Subscriptions: $200 Ultra Drops 5-Hour Limit",
+            "sentences": [
+              {
+                "en": "According to QbitAI, Anthropic announced adjustments to its Claude subscription plans, renaming the former Max 5x and Max 20x to Max and Ultra, respectively, with monthly fees remaining at $100 and $200.",
+                "zh": "据量子位报道，Anthropic宣布调整Claude订阅计划，原Max 5x和Max 20x分别改名为Max和Ultra，月费仍为100美元和200美元。"
+              },
+              {
+                "en": "The $200 Ultra tier removes the 5-hour usage limit, allowing users who meet verification requirements to use it continuously within a weekly quota, which remains 10 times that of Pro users.",
+                "zh": "200美元的Ultra档取消5小时使用限制，符合验证条件的用户可在每周额度内连续使用，每周额度仍为Pro用户的10倍。"
+              },
+              {
+                "en": "Most existing Ultra users have begun to receive the adjustment, while new accounts must wait for account verification.",
+                "zh": "多数现有Ultra用户已开始获得调整，新账号需等待账号验证。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s20",
+      "url": "https://www.qbitai.com/2026/10/506855.html",
+      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "published_at": "2026-10-31T13:05:29+08:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
