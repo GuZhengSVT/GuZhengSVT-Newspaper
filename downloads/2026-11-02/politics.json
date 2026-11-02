@@ -1,0 +1,118 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-02",
+  "title": "2026-11-02 政治",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "乌克兰称防空警报应用可能遭黑客攻击"
+  ],
+  "window_start": "2026-11-01T12:00:00+08:00",
+  "window_end": "2026-11-02T12:00:00+08:00",
+  "generated_at": "2026-11-02T18:11:32.923997+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "乌克兰|防空警报应用疑遭黑客攻击并发出虚假警报|防空警报应用",
+          "title": "乌克兰称防空警报应用可能遭黑客攻击",
+          "summary": "《卫报》乌克兰战争简报报道，基辅方面称防空警报应用可能遭黑客攻击，用户收到虚假警报。",
+          "published_at": "2026-11-02T08:34:41+08:00",
+          "follow_up": true,
+          "new_facts": "《卫报》报道基辅称防空警报应用可能遭黑客攻击，用户收到虚假警报。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "乌克兰",
+            "防空警报应用"
+          ],
+          "limitations": "仅有《卫报》简报标题，缺少乌方声明原文、受影响地区及攻击是否获独立确认。",
+          "facts": [
+            {
+              "text": "《卫报》在11月2日发布的乌克兰战争简报中报道，基辅方面表示，在用户收到虚假警报后，防空警报应用可能遭到黑客攻击。报道将这一判断归因于乌方。",
+              "evidence": [
+                {
+                  "source_id": "s55",
+                  "quote": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Ukraine Says Air-Raid Alert App May Have Been Hacked",
+            "sentences": [
+              {
+                "en": "In its Ukraine war briefing published on November 2, The Guardian reported that Kyiv said the air-raid alert app may have been hacked after users received false alarms.",
+                "zh": "《卫报》在11月2日发布的乌克兰战争简报中报道，基辅方面表示，在用户收到虚假警报后，防空警报应用可能遭到黑客攻击。"
+              },
+              {
+                "en": "The report attributed this assessment to the Ukrainian side.",
+                "zh": "报道将这一判断归因于乌方。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s55",
+      "url": "https://www.theguardian.com/world/2026/nov/02/ukraine-war-briefing-kyiv-says-air-raid-warning-app-likely-hacked-after-users-receive-false-alerts",
+      "title": "Ukraine war briefing: Kyiv says air raid warning app likely hacked after users receive false alerts",
+      "published_at": "2026-11-02T00:34:41+00:00"
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

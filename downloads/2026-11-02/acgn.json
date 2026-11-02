@@ -1,0 +1,256 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-02",
+  "title": "2026-11-02 ACGN",
+  "summary": "HoYoverse宣布慢生活游戏《プチプラネット》12月4日上线PC、iOS和Android，2027年登陆Switch 2；Rock Paper Shotgun报道《最终幻想14：Evercold》定档冬末，《Dune: Awakening》Blood and Ice扩展12月推出且离线模式本月上线。",
+  "highlights": [
+    "HoYoverse《プチプラネット》12月4日上线，2027年推出Switch 2版",
+    "《最终幻想14：Evercold》定档冬末并公开第二个新职业",
+    "《Dune: Awakening》Blood and Ice扩展12月推出，离线模式本月上线"
+  ],
+  "window_start": "2026-11-01T12:00:00+08:00",
+  "window_end": "2026-11-02T12:00:00+08:00",
+  "generated_at": "2026-11-02T18:15:15.648473+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "HoYoverse|公布|星布谷地上线日期与Switch 2版",
+          "title": "HoYoverse《プチプラネット》12月4日上线，2027年登陆Switch 2",
+          "summary": "HoYoverse在11月1日发售预告节目中宣布，《プチプラネット》PC、iOS和Android版12月4日上线，Switch 2版2027年推出，事前登录突破1000万。",
+          "published_at": "2026-11-02T10:19:08+08:00",
+          "follow_up": true,
+          "new_facts": "宣布《プチプラネット》PC/iOS/Android版12月4日上线，基本免费道具收费；Switch 2版2027年推出；事前登录1000万突破。",
+          "verification": "single_source",
+          "limitations": "4Gamer转述HoYoverse发布节目，未直接取得官方公告原文；来源未说明游戏是否含抽卡机制。",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "HoYoverse",
+            "Petit Planet",
+            "星布谷地",
+            "Nintendo Switch 2"
+          ],
+          "facts": [
+            {
+              "text": "HoYoverse在11月1日播出的发售预告节目中宣布，慢生活游戏《プチプラネット》的PC、iOS和Android版将于12月4日正式上线，采用基本游玩免费、道具收费的运营方式。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "HoYoverseの新作スローライフゲーム「プチプラネット」"
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "HoYoverseは，2026年11月1日に配信した 「リリース予告番組」 で，新作タイトル 「プチプラネット」 の Switch2 版を 2027年にリリースすると発表 した。 PC / iOS / Android 版の正式リリースは12月4日に決定しており，基本プレイ無料のアイテム課金制で配信される。"
+                }
+              ]
+            },
+            {
+              "text": "Switch 2版预定2027年推出，目前仍在开发中；开发团队表示计划近日公开游玩影像和更多游戏内容。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "Switch2 版を 2027年にリリースすると発表 した"
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "Switch2版は現在開発中。開発チームは近日中にプレイ映像やゲーム内容の詳細を公開することを目指している。"
+                }
+              ]
+            },
+            {
+              "text": "节目还公布，PC和手机版事前登录人数突破1000万，全部事前登录奖励已解锁；12月1日起开放事前下载。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "リリース予告番組では， 事前登録者数が1000万人を突破 したことも発表された。これにより事前登録報酬がすべて開放され，"
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "12月1日からは事前ダウンロードも実施される予定だ。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "HoYoverse's 'プチプラネット' Set for December 4 Launch, Switch 2 Release in 2027",
+            "sentences": [
+              {
+                "en": "HoYoverse announced in a release-trailer program aired on November 1 that the PC, iOS, and Android versions of the slow-life game 'プチプラネット' will officially launch on December 4, operated on a free-to-play model with paid items.",
+                "zh": "HoYoverse在11月1日播出的发售预告节目中宣布，慢生活游戏《プチプラネット》的PC、iOS和Android版将于12月4日正式上线，采用基本游玩免费、道具收费的运营方式。"
+              },
+              {
+                "en": "The Switch 2 version is scheduled for release in 2027 and is still in development; the development team said it plans to release gameplay footage and more game content soon.",
+                "zh": "Switch 2版预定2027年推出，目前仍在开发中；开发团队表示计划近日公开游玩影像和更多游戏内容。"
+              },
+              {
+                "en": "The program also announced that pre-registrations for the PC and mobile versions have surpassed 10 million, unlocking all pre-registration rewards; pre-downloads will open on December 1.",
+                "zh": "节目还公布，PC和手机版事前登录人数突破1000万，全部事前登录奖励已解锁；12月1日起开放事前下载。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Square Enix|公布|Final Fantasy XIV Evercold发售日与新职业",
+          "title": "《最终幻想14：Evercold》定档冬末，公开第二个新职业",
+          "summary": "Rock Paper Shotgun报道，《最终幻想14：Evercold》定档冬末，同时公开第二个与鸟类相关的新职业。",
+          "published_at": "2026-11-02T02:07:48.582403+08:00",
+          "follow_up": true,
+          "new_facts": "《最终幻想14：Evercold》公布冬末发售窗口及第二个新职业线索。",
+          "verification": "single_source",
+          "limitations": "仅取得Rock Paper Shotgun标题，未获得正文或Square Enix官方公告，确切日期、平台和新职业名称未能核实。",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Square Enix",
+            "Final Fantasy XIV",
+            "Evercold",
+            "最终幻想14"
+          ],
+          "facts": [
+            {
+              "text": "Rock Paper Shotgun报道，《最终幻想14：Evercold》把发售日定在冬末。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s22",
+                  "quote": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter"
+                }
+              ]
+            },
+            {
+              "text": "报道同时称，该资料片公开了第二个新职业，方向与鸟类有关。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s22",
+                  "quote": "alongside offering a look at its second, avian-inclined new job"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Final Fantasy XIV: Evercold Sets Late-Winter Release, Reveals Second New Job",
+            "sentences": [
+              {
+                "en": "Rock Paper Shotgun reports that Final Fantasy XIV: Evercold has set its release date for late winter.",
+                "zh": "Rock Paper Shotgun报道，《最终幻想14：Evercold》把发售日定在冬末。"
+              },
+              {
+                "en": "The report also says that the expansion has revealed its second new job, which is bird-themed.",
+                "zh": "报道同时称，该资料片公开了第二个新职业，方向与鸟类有关。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Funcom|公布|Dune: Awakening Blood and Ice扩展及离线模式",
+          "title": "《Dune: Awakening》Blood and Ice扩展12月推出，离线模式本月上线",
+          "summary": "Rock Paper Shotgun报道，《Dune: Awakening》的Blood and Ice扩展定于12月推出，离线模式本月上线。",
+          "published_at": "2026-11-02T05:34:06.850852+08:00",
+          "follow_up": true,
+          "new_facts": "《Dune: Awakening》Blood and Ice扩展定档12月，离线模式本月推出。",
+          "verification": "single_source",
+          "limitations": "仅取得Rock Paper Shotgun标题，未获得正文或Funcom官方公告，确切日期、平台和付费方式未能核实。",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Funcom",
+            "Dune: Awakening",
+            "Blood and Ice"
+          ],
+          "facts": [
+            {
+              "text": "Rock Paper Shotgun报道，《Dune: Awakening》的Blood and Ice扩展将于12月推出。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Blood and Ice expansion gets a December release date"
+                }
+              ]
+            },
+            {
+              "text": "报道还称，离线模式将在本月上线。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "an offline mode this month"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Dune: Awakening Blood and Ice Expansion Launches in December, Offline Mode Arrives This Month",
+            "sentences": [
+              {
+                "en": "Rock Paper Shotgun reports that the Blood and Ice expansion for Dune: Awakening will launch in December.",
+                "zh": "Rock Paper Shotgun报道，《Dune: Awakening》的Blood and Ice扩展将于12月推出。"
+              },
+              {
+                "en": "The report also says that an offline mode will launch this month.",
+                "zh": "报道还称，离线模式将在本月上线。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s22",
+      "url": "https://www.rockpapershotgun.com/final-fantasy-14-evercold-sets-itself-a-release-date-at-the-tail-end-of-winter-alongside-offering-a-look-at-its-second-avian-inclined-new-job",
+      "title": "Final Fantasy 14: Evercold sets itself a release date at the tail end of winter, alongside offering a look at its second, avian-inclined new job",
+      "published_at": "2026-11-01T18:07:48.582403+00:00"
+    },
+    {
+      "id": "s20",
+      "url": "https://www.rockpapershotgun.com/dune-awakenings-seasonally-appropriate-blood-and-ice-expansion-gets-a-december-release-date-and-in-a-plus-for-preservation-an-offline-mode-this-month",
+      "title": "Dune: Awakening's seasonally appropriate Blood and Ice expansion gets a December release date, and in a plus for preservation, an offline mode this month",
+      "published_at": "2026-11-01T21:34:06.850852+00:00"
+    },
+    {
+      "id": "s50",
+      "url": "https://4gamer.net/games/054/G105475/20261102002",
+      "title": "HoYoverseの新作スローライフゲーム「プチプラネット」，Switch2版が2027年に登場。PC/スマホ版の事前登録者数は1000万人を突破",
+      "published_at": "2026-11-02T11:19:08+09:00"
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
