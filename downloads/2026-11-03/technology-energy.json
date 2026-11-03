@@ -1,0 +1,198 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "title": "2026-11-03 科技 · 能源",
+  "summary": "本期能源板块收录两项重大进展：远景称在乌兰察布AI数据中心部署800 V直流供电系统，以及通用原子公司在DIII-D报告螺旋波电流驱动实验证据。",
+  "highlights": [
+    "远景称在乌兰察布Galaxy AI数据中心商业部署集成SST与储能的800 V直流系统，称全球首个。",
+    "通用原子公司在DIII-D获得螺旋波电流驱动实验证据，论文称首次明确观测。"
+  ],
+  "window_start": "2026-10-27T12:00:00+08:00",
+  "window_end": "2026-11-03T12:00:00+08:00",
+  "generated_at": "2026-11-03T12:12:15.392872+08:00",
+  "sources": [
+    {
+      "id": "s12",
+      "url": "https://www.pv-magazine.com/2026/11/02/envision-claims-world-first-with-800-v-dc-architecture-for-ai-data-center/",
+      "title": "Envision claims world first with 800 V DC architecture for AI data center",
+      "published_at": "2026-11-02T14:13:08+00:00"
+    },
+    {
+      "id": "s23",
+      "url": "https://thedebrief.org/scientists-demonstrate-first-evidence-of-helicon-current-drive-bringing-continuous-fusion-power-closer-to-reality",
+      "title": "Scientists Demonstrate First Evidence of “Helicon Current Drive,” Bringing Continuous Fusion Power Closer to Reality",
+      "published_at": "2026-10-27T14:29:13+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "energy",
+      "name": "能源",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "远景|部署|800V直流架构AI数据中心",
+          "title": "远景称在乌兰察布AI数据中心部署800V直流供电系统",
+          "summary": "据pv magazine报道，远景能源称其在中国乌兰察布Galaxy AI数据中心商业部署集成固态变压器和电池储能的800V直流系统，并称全球首个；园区规划3 GW，8月投运。",
+          "published_at": "2026-11-02T22:13:08+08:00",
+          "follow_up": false,
+          "new_facts": "pv magazine 2026-11-02报道，远景称在乌兰察布Galaxy AI数据中心商业部署集成SST与BESS的800V直流系统，称全球首个；系统10kV转800V直流，电池提供分钟级备用；园区2026年8月投运，规划3GW。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "远景（Envision）",
+            "800 V DC架构",
+            "固态变压器",
+            "电池储能"
+          ],
+          "limitations": "“全球首个”及运行效果仅来自远景能源宣称，pv magazine报道未提供第三方验证；部分参数为厂商公布。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据pv magazine 11月2日报道，远景能源称其在中国乌兰察布Galaxy AI数据中心部署了集成固态变压器和电池储能的800 V直流供电系统，并称这是全球首个在大型数据中心商业部署的集成800 V直流架构。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "Envision Energy has claimed a major step in the race to power AI by deploying a power system that integrates solid-state transformers (SST) with battery energy storage systems (BESS)."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "The company announced the project as the world’s first commercial deployment of an integrated 800 V DC power system in a large-scale data center."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "Installed at Envision’s Galaxy AI data center campus in Ulanqab, China, the manufacturer’s integrated power system combines SSTs and BESS and equipment that adjusts DC voltage for computing hardware."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "系统将10 kV中压电经固态变压器转换为800 V直流母线，电池储能提供二次支撑和分钟级备用，控制器以毫秒级协调以吸收GPU负载波动。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "The integrated system works by using stable SST conversion to take power from 10 kV medium voltage to an 800 V DC bus, with battery storage providing both secondary power support and minute-scale backup."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "远景称Galaxy园区2026年8月投运，规划容量3 GW，预计80%以上电力直接来自可再生能源；公司还提出到2030年在沙漠地区建设5 GW绿色AI数据中心容量的Mission Gobi计划。上述“全球首个”和运行效果均为企业说法。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "Galaxy campus began operations in August 2026, has a planned capacity of 3 GW and more than 80% of its power is expected to come direct from renewables, according to the manufacturer."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "The technology company is expected to scale the approach deployed at the Galaxy campus through its Mission Gobi initiative – a program targeting 5 GW of green AI data center capacity in desert regions worldwide by 2030."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Envision says it deployed an 800 V DC power system at an AI data center in Ulanqab",
+            "sentences": [
+              {
+                "en": "According to a November 2 report by pv magazine, Envision Energy said it has deployed an 800 V DC power supply system integrating solid-state transformers and battery energy storage at the Galaxy AI data center in Ulanqab, China, and claimed this is the world's first integrated 800 V DC architecture commercially deployed in a large data center.",
+                "zh": "据pv magazine 11月2日报道，远景能源称其在中国乌兰察布Galaxy AI数据中心部署了集成固态变压器和电池储能的800 V直流供电系统，并称这是全球首个在大型数据中心商业部署的集成800 V直流架构。"
+              },
+              {
+                "en": "The system converts 10 kV medium-voltage electricity via solid-state transformers to an 800 V DC bus, while battery storage provides secondary support and minute-level backup, and controllers coordinate at the millisecond level to absorb GPU load fluctuations.",
+                "zh": "系统将10 kV中压电经固态变压器转换为800 V直流母线，电池储能提供二次支撑和分钟级备用，控制器以毫秒级协调以吸收GPU负载波动。"
+              },
+              {
+                "en": "Envision said the Galaxy campus was put into operation in August 2026, with a planned capacity of 3 GW and an expected more than 80% of its power coming directly from renewable energy; the company also proposed its Mission Gobi plan to build 5 GW of green AI data center capacity in desert areas by 2030.",
+                "zh": "远景称Galaxy园区2026年8月投运，规划容量3 GW，预计80%以上电力直接来自可再生能源；公司还提出到2030年在沙漠地区建设5 GW绿色AI数据中心容量的Mission Gobi计划。"
+              },
+              {
+                "en": "The above “world's first” claim and the operating results are both company statements.",
+                "zh": "上述“全球首个”和运行效果均为企业说法。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "General Atomics|首次演示|螺旋波电流驱动",
+          "title": "美国团队报告螺旋波电流驱动首次实验证据",
+          "summary": "The Debrief报道，通用原子公司在DIII-D托卡马克用兆瓦级螺旋波系统驱动等离子体电流，论文称首次明确观测到螺旋波辅助电流驱动；实验尚不证明连续聚变发电。",
+          "published_at": "2026-10-27T22:29:13+08:00",
+          "follow_up": false,
+          "new_facts": "The Debrief 2026-10-27报道，General Atomics团队在DIII-D用兆瓦级螺旋波系统获得辅助电流驱动实验证据，论文发表于PRL；作者称首次明确观测，但未证明连续聚变发电。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "General Atomics",
+            "螺旋波电流驱动（helicon current drive）",
+            "聚变实验装置"
+          ],
+          "limitations": "仅取得The Debrief对PRL论文的报道，未直接核对论文原文；实验为DIII-D上的演示，不代表商业反应堆连续运行。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据The Debrief 10月27日报道，美国通用原子公司团队在DIII-D托卡马克上首次获得螺旋波电流驱动的实验证据，相关论文发表在《物理评论快报》。研究用兆瓦级螺旋波系统向等离子体发射射频波，把能量和动量传给电子，并观测到与额外电流产生一致的磁场结构变化。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "researchers in the United States have demonstrated a novel method of sustaining electrical currents in nuclear fusion experiments with the successful use of a “helicon current drive.”"
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "the researchers then demonstrated that the waves could effectively carry energy deep inside the plasma by using what they call a megawatt-level helicon system. Additionally, they monitored changes in the plasma’s magnetic structure, which were consistent with the generation of additional electrical current"
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "Achieved by a team of scientists at General Atomics in San Diego, the achievement relies on the use of powerful radio waves to drive electrical currents through extremely hot plasma"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "论文作者称，这些结果构成在任意装置上首次明确观测到螺旋波辅助电流驱动的强证据。该实验针对托卡马克依赖中心线圈、需中断运行重置的问题，但报道明确指出，它尚未证明可连续产生聚变电力。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "Taken together, these experimental results represent strong evidence for the first definitive observation of auxiliary current drive due to helicon waves on any device"
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "While the recent experiment does not confirm the production of continuous fusion power, it signals a promising new means of addressing one of the technological challenges that future reactors will likely face."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "US Team Reports First Experimental Evidence of Helicon Wave Current Drive",
+            "sentences": [
+              {
+                "en": "According to an October 27 report by The Debrief, a team from General Atomics in the United States has obtained the first experimental evidence of helicon wave current drive on the DIII-D tokamak, and the related paper was published in Physical Review Letters.",
+                "zh": "据The Debrief 10月27日报道，美国通用原子公司团队在DIII-D托卡马克上首次获得螺旋波电流驱动的实验证据，相关论文发表在《物理评论快报》。"
+              },
+              {
+                "en": "The study used a megawatt-class helicon wave system to launch radio-frequency waves into the plasma, transferring energy and momentum to electrons, and observed changes in the magnetic field structure consistent with the generation of additional current.",
+                "zh": "研究用兆瓦级螺旋波系统向等离子体发射射频波，把能量和动量传给电子，并观测到与额外电流产生一致的磁场结构变化。"
+              },
+              {
+                "en": "The paper's authors say these results constitute strong evidence for the first clear observation of helicon-wave-assisted current drive on any device.",
+                "zh": "论文作者称，这些结果构成在任意装置上首次明确观测到螺旋波辅助电流驱动的强证据。"
+              },
+              {
+                "en": "The experiment addresses the problem that tokamaks rely on central coils and require interrupting operation to reset, but the report explicitly notes that it has not yet demonstrated that fusion electricity can be produced continuously.",
+                "zh": "该实验针对托卡马克依赖中心线圈、需中断运行重置的问题，但报道明确指出，它尚未证明可连续产生聚变电力。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "edition": "technology-energy",
+  "coverage_notes": []
+}

@@ -1,0 +1,531 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "title": "2026-11-03 政治",
+  "summary": "本期收录5条通过核验的新闻。",
+  "highlights": [
+    "美最高法院拒绝特朗普政府阻止加州清点争议选票请求",
+    "乌方称俄军轰炸援助中心致至少26人死亡",
+    "威特科夫称俄乌美下周在阿布扎比恢复会谈",
+    "美媒称美国打击伊朗格什姆岛 伊朗称谈判仍在进行",
+    "特朗普通知国会拟将南非和卢旺达移出AGOA"
+  ],
+  "window_start": "2026-11-02T12:00:00+08:00",
+  "window_end": "2026-11-03T12:00:00+08:00",
+  "generated_at": "2026-11-03T12:21:33.361318+08:00",
+  "sources": [
+    {
+      "id": "s19",
+      "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+      "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+      "published_at": null
+    },
+    {
+      "id": "s20",
+      "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+      "title": "US strikes Iran ahead of midterm elections",
+      "published_at": null
+    },
+    {
+      "id": "s34",
+      "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+      "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+      "published_at": null
+    },
+    {
+      "id": "s85",
+      "url": "https://www.bbc.co.uk/news/articles/c9j346xg0mkvo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump to remove Rwanda and South Africa from US trade deal",
+      "published_at": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国最高法院|拒绝|特朗普请求阻止加州计票争议选票",
+          "title": "美最高法院拒绝特朗普政府阻止加州清点争议选票请求",
+          "summary": "美国最高法院11月3日在中期选举前夜拒绝司法部请求，不阻止加州清点约2万张被指可能由非公民投出的选票，下级法院裁决维持。",
+          "published_at": "2026-11-03T11:32:36+08:00",
+          "follow_up": false,
+          "new_facts": "最高法院拒绝司法部禁令申请，维持下级法院裁决，结束取消加州约2万张选票的努力。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "美国最高法院",
+            "特朗普",
+            "加利福尼亚州",
+            "美国司法部"
+          ],
+          "limitations": "仅BBC报道，未取得最高法院命令原文；发布时间依据页面相对时间与搜索索引，精确时间待核。",
+          "facts": [
+            {
+              "text": "美国最高法院以一行命令拒绝司法部请求，命令称向大法官卡根提出、由其转交全院的禁令申请被驳回，下级法院裁决维持，实质上结束特朗普政府取消加州约2万张选票的努力。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "The Supreme Court announced its decision in a one-line order, saying it was denying the justice department's request for an injunction."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "The application for injunction pending appeal presented to Justice Kagan and by her referred to the Court is denied"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Its means rulings made in lower courts will stand and essentially ends the Trump administration's bid to disqualify the ballots."
+                }
+              ]
+            },
+            {
+              "text": "司法部要求搁置约2万张选票，称可能发给非美国公民；加州选举官员质疑名单准确性。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "The justice department wanted 20,000 ballots to be set aside that it alleged may have been issued to non-US citizens in the state."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "State election officials had questioned the federal government's claims - saying the process used to identify alleged non-citizens was inaccurate."
+                }
+              ]
+            },
+            {
+              "text": "裁决在中期选举前夜作出；此前两级下级法院已拒绝请求。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Two lower courts had already rejected the request."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "The Monday ruling comes on the eve of the midterms, which will determine which political party controls the US Congress for the last two years of President Donald Trump's second term."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "US Supreme Court rejects Trump administration bid to halt California count of disputed ballots",
+            "sentences": [
+              {
+                "en": "The US Supreme Court rejected the Justice Department's request in a one-line order, which stated that an injunction application submitted to Justice Kagan and referred by her to the full Court was denied, leaving the lower court's ruling in place and effectively ending the Trump administration's effort to cancel about 20,000 ballots in California.",
+                "zh": "美国最高法院以一行命令拒绝司法部请求，命令称向大法官卡根提出、由其转交全院的禁令申请被驳回，下级法院裁决维持，实质上结束特朗普政府取消加州约2万张选票的努力。"
+              },
+              {
+                "en": "The Justice Department sought to set aside about 20,000 ballots, saying they may have been sent to non-US citizens; California election officials questioned the accuracy of the list.",
+                "zh": "司法部要求搁置约2万张选票，称可能发给非美国公民；加州选举官员质疑名单准确性。"
+              },
+              {
+                "en": "The ruling was issued on the eve of the midterm elections; two lower courts had previously rejected the request.",
+                "zh": "裁决在中期选举前夜作出；此前两级下级法院已拒绝请求。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "俄罗斯|轰炸|乌克兰援助中心致至少26人死亡",
+          "title": "乌方称俄军轰炸援助中心致至少26人死亡",
+          "summary": "乌克兰方面称，俄军炸弹击中扎波罗热州科梅舒瓦哈村一处人道援助分配中心及邻近避难所，至少26人死亡、5人受伤，俄军未公开评论。",
+          "published_at": "2026-11-03T09:13:52+08:00",
+          "follow_up": true,
+          "new_facts": "乌方称俄军轰炸科梅舒瓦哈村援助中心，至少26死5伤27失踪；泽连斯基称第二次袭击击中避难地点。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "俄罗斯",
+            "乌克兰",
+            "科梅舒瓦哈",
+            "泽连斯基",
+            "扎波罗热州"
+          ],
+          "limitations": "伤亡为乌方主张，俄军未公开评论；未取得乌方官方通报原文；发布时间依据《卫报》同题报道元数据。",
+          "facts": [
+            {
+              "text": "据BBC报道，乌克兰扎波罗热州官员称，俄军炸弹击中科梅舒瓦哈村一处援助分配中心，至少26人死亡、5人受伤，27人最初报告失踪；至少9枚3000公斤航空炸弹击中村庄。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "At least 26 people were killed after Russian bombs hit an aid distribution centre, in an attack that Ukraine's leader has called \"utterly horrific\"."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "Five people were injured and 27 initially reported missing after at least nine 3,000kg aerial bombs hit the village of Komyshuvakha in the southern Zaporizhzhia region, regional head Mykhailo Semikin said."
+                }
+              ]
+            },
+            {
+              "text": "泽连斯基称第一次袭击击中用于人道需求的当地学校，第二次袭击击中人们避难的地点；俄军未公开评论。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "President Volodymyr Zelensky said that after the first strike on the local school \"used for humanitarian needs\", there was a second attack on the place where people were sheltering."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "The Russian military has not publicly commented."
+                }
+              ]
+            },
+            {
+              "text": "扎波罗热州宣布周二为哀悼日；救援因俄无人机袭击多次暂停。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "A day of mourning has been declared for Tuesday across the entire Zaporizhzhia region."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "He said rescue teams were working at the scene, but they had been forced to halt their operation a number of times because of Russian drone attacks in the area."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Ukraine Says Russian Bombing of Aid Center Kills at Least 26",
+            "sentences": [
+              {
+                "en": "According to the BBC, Ukrainian officials in Zaporizhzhia Oblast said Russian bombs hit an aid distribution center in the village of Komyshuvakha, killing at least 26 people and injuring five, with 27 initially reported missing; at least nine 3,000-kilogram aerial bombs struck the village.",
+                "zh": "据BBC报道，乌克兰扎波罗热州官员称，俄军炸弹击中科梅舒瓦哈村一处援助分配中心，至少26人死亡、5人受伤，27人最初报告失踪；至少9枚3000公斤航空炸弹击中村庄。"
+              },
+              {
+                "en": "Zelensky said the first strike hit a local school used for humanitarian needs, and the second struck a place where people were taking shelter; the Russian military made no public comment.",
+                "zh": "泽连斯基称第一次袭击击中用于人道需求的当地学校，第二次袭击击中人们避难的地点；俄军未公开评论。"
+              },
+              {
+                "en": "Zaporizhzhia Oblast declared Tuesday a day of mourning; rescue operations were suspended several times because of Russian drone attacks.",
+                "zh": "扎波罗热州宣布周二为哀悼日；救援因俄无人机袭击多次暂停。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "美国|斡旋|俄乌在阿布扎比会谈",
+          "title": "威特科夫称俄乌美下周在阿布扎比恢复会谈",
+          "summary": "美国特使威特科夫称，乌克兰、俄罗斯和美国团队下周将在阿布扎比恢复和谈，讨论战后安全安排、降级和人道努力；会谈自2月暂停，预计难有重大突破。",
+          "published_at": "2026-11-03T10:00:38+08:00",
+          "follow_up": true,
+          "new_facts": "威特科夫称乌俄美团队下周在阿布扎比恢复和谈；美谈判代表本周在布鲁塞尔会见欧洲和北约官员。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "乌克兰",
+            "俄罗斯",
+            "阿布扎比",
+            "威特科夫"
+          ],
+          "limitations": "会谈由威特科夫单方宣布，未见俄乌双方确认；报道未提供会谈层级；发布时间依据《卫报》同题报道元数据。",
+          "facts": [
+            {
+              "text": "据BBC报道，美国总统特朗普特使威特科夫在X上称，乌俄美团队下周将在阿联酋阿布扎比恢复和平谈判，议程包括战后安全安排、降级、人道努力和下一步。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "Teams from Ukraine, Russia and the US are due to resume peace talks in Abu Dhabi, the United Arab Emirates, next week, US President Donald Trump's special envoy Steve Witkoff said on X."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "Witkoff said the discussions would focus on \"post-war security arrangements, de-escalation, humanitarian efforts, and next steps toward peace\"."
+                }
+              ]
+            },
+            {
+              "text": "报道称，自2月谈判暂停以来，莫斯科加大攻击，基辅几乎耗尽西方提供的拦截弹；预计会谈不会有重大突破。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "Since the talks were suspended in February, Moscow has stepped up attacks as Kyiv virtually ran out of Western-supplied interceptors to defend against missiles."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "No major breakthrough is expected at the talks."
+                }
+              ]
+            },
+            {
+              "text": "威特科夫称美国谈判代表本周将在布鲁塞尔会见欧洲和北约官员。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "Witkoff said US negotiators would also meet European and Nato officials this week in Brussels."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Witkoff says Russia-Ukraine-U.S. talks to resume in Abu Dhabi next week",
+            "sentences": [
+              {
+                "en": "According to BBC reporting, U.S. President Donald Trump's envoy Witkoff said on X that Ukrainian, Russian and U.S. teams will resume peace talks in Abu Dhabi, the United Arab Emirates, next week, with the agenda including post-war security arrangements, de-escalation, humanitarian efforts and next steps.",
+                "zh": "据BBC报道，美国总统特朗普特使威特科夫在X上称，乌俄美团队下周将在阿联酋阿布扎比恢复和平谈判，议程包括战后安全安排、降级、人道努力和下一步。"
+              },
+              {
+                "en": "The report said that since talks were paused in February, Moscow has intensified its attacks and Kyiv has nearly exhausted Western-supplied interceptor missiles; the talks are not expected to produce a major breakthrough.",
+                "zh": "报道称，自2月谈判暂停以来，莫斯科加大攻击，基辅几乎耗尽西方提供的拦截弹；预计会谈不会有重大突破。"
+              },
+              {
+                "en": "Witkoff said U.S. negotiators will meet European and NATO officials in Brussels this week.",
+                "zh": "威特科夫称美国谈判代表本周将在布鲁塞尔会见欧洲和北约官员。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|打击|伊朗格什姆岛",
+          "title": "美媒称美国打击伊朗格什姆岛 伊朗称谈判仍在进行",
+          "summary": "BBC报道美国官员称美军对伊朗格什姆岛发动有限打击，回应革命卫队向美国飞机开火；伊朗国家通讯社报爆炸，美中央司令部未立即确认。伊朗外长称经调解人的谈判密集进行。",
+          "published_at": "2026-11-03T11:18:36+08:00",
+          "follow_up": true,
+          "new_facts": "美国官员称对伊朗格什姆岛发动有限打击，回应革命卫队向美机开火；伊朗国家通讯社报爆炸；伊朗外长称谈判密集进行。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "伊朗",
+            "格什姆岛（Qeshm Island）",
+            "伊朗伊斯兰革命卫队",
+            "美国中央司令部"
+          ],
+          "limitations": "打击由匿名美国官员向CBS转述，美中央司令部未确认；未取得IRNA原文；发布时间依据《卫报》同题报道元数据。",
+          "facts": [
+            {
+              "text": "据BBC报道，美国官员告诉CBS，美军对伊朗格什姆岛发动有限打击，称回应伊朗伊斯兰革命卫队向一架美国飞机开火；伊朗国家通讯社IRNA报道岛上发生数次爆炸。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "The US has launched strikes on Iran's Qeshm Island in the Strait of Hormuz, US officials have told CBS, the BBC's US partner."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "US officials described the strikes as limited and said they were in response to the Iran's Islamic Revolutionary Guard Corps (IRGC) firing upon a US aircraft."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "Iranian state news agency IRNA reported several explosions on the island on Monday."
+                }
+              ]
+            },
+            {
+              "text": "BBC称已联系美国中央司令部置评；特朗普当天称不急于加大对伊朗打击，并称可能在“一小时”内打击与核计划相关的“Pickaxe”地点。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "The BBC has contacted US Central Command (Centcom), the part of the US military responsible for operations in the Middle East, for comment."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "Earlier on Monday, he told reporters that he was in \"no rush\" to ramp up strikes on Iran."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "He also said the US \"might need to go after Pickaxe\", a site linked to Iran's nuclear programme"
+                }
+              ]
+            },
+            {
+              "text": "伊朗外长阿拉格齐对IRNA称，通过调解人结束战争的谈判“非常密集”，德黑兰为外交和军事两种情形做好准备。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Iran's foreign minister Abbas Araghchi told the IRNA earlier that \"very intensive\" talks to try and end the war are under way with the US via mediators."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "He also said Tehran was prepared for both diplomatic and military scenarios \"more than ever before\""
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "US media reports US strike on Iran's Qeshm Island; Iran says negotiations ongoing",
+            "sentences": [
+              {
+                "en": "According to BBC, US officials told CBS that the US military launched a limited strike on Iran's Qeshm Island, saying it was in response to the Islamic Revolutionary Guard Corps firing at an American aircraft; Iran's state news agency IRNA reported several explosions on the island.",
+                "zh": "据BBC报道，美国官员告诉CBS，美军对伊朗格什姆岛发动有限打击，称回应伊朗伊斯兰革命卫队向一架美国飞机开火；伊朗国家通讯社IRNA报道岛上发生数次爆炸。"
+              },
+              {
+                "en": "BBC said it had contacted US Central Command for comment; Trump said that day he was not in a hurry to intensify strikes on Iran and said that a \"Pickaxe\" site related to the nuclear program could possibly be struck within \"one hour.\"",
+                "zh": "BBC称已联系美国中央司令部置评；特朗普当天称不急于加大对伊朗打击，并称可能在“一小时”内打击与核计划相关的“Pickaxe”地点。"
+              },
+              {
+                "en": "Iranian Foreign Minister Araghchi told IRNA that negotiations through mediators to end the war were \"very intensive\" and that Tehran was prepared for both diplomatic and military scenarios.",
+                "zh": "伊朗外长阿拉格齐对IRNA称，通过调解人结束战争的谈判“非常密集”，德黑兰为外交和军事两种情形做好准备。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "特朗普|移除|卢旺达和南非出美国贸易协议",
+          "title": "特朗普通知国会拟将南非和卢旺达移出AGOA",
+          "summary": "特朗普通知国会，计划自2027年1月1日起将南非和卢旺达从美国非洲增长与机会法案贸易优惠中移除；美方称年度审查发现两国不符合资格，南非表示遗憾并将推动出口多元化。",
+          "published_at": "2026-11-03T11:00:36+08:00",
+          "follow_up": true,
+          "new_facts": "特朗普通知国会拟自2027年1月1日将南非和卢旺达移出AGOA；美方列出资格理由，南非称不幸。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "特朗普",
+            "卢旺达",
+            "南非",
+            "非洲增长与机会法案（AGOA）"
+          ],
+          "limitations": "为通知国会计划，尚未生效；未取得美方公告原文。",
+          "facts": [
+            {
+              "text": "据BBC报道，特朗普通知国会，计划自2027年1月1日起将南非和卢旺达从《非洲增长与机会法案》中移除；该法案允许符合条件的非洲国家免税向美国出口数千种产品。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s85",
+                  "quote": "US President Donald Trump has notified Congress of his intention to remove South Africa and Rwanda from a preferential trade programme, from 1 January 2027."
+                },
+                {
+                  "source_id": "s85",
+                  "quote": "The African Growth and Opportunity Act (Agoa) allows eligible African countries to export thousands of products to the US duty-free."
+                }
+              ]
+            },
+            {
+              "text": "美国贸易代表格里尔称年度审查发现两国做法不符合资格要求，理由包括贸易投资壁垒、国家安全和外交政策关切；对卢旺达还提人权、政治多元、法治和劳工权利，对南非还提腐败。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s85",
+                  "quote": "US Trade Representative Jamieson Greer said in a statement that an annual review had found that both countries were engaging in practices inconsistent with the programme's eligibility requirements."
+                },
+                {
+                  "source_id": "s85",
+                  "quote": "The Trump administration cited barriers to US trade and investment, as well as concerns over national security and foreign policy interests in the region."
+                },
+                {
+                  "source_id": "s85",
+                  "quote": "In Rwanda's case, Washington also raised concerns about human rights, political pluralism, the rule of law and workers' rights."
+                },
+                {
+                  "source_id": "s85",
+                  "quote": "For South Africa, the US additionally pointed to corruption."
+                }
+              ]
+            },
+            {
+              "text": "南非贸易部长陶称决定“不幸”，将加快出口市场多元化；美国驻南非大使博泽尔称结果“可预见且可避免”。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s85",
+                  "quote": "South Africa's trade Minister Parks Tau described the decision as \"unfortunate\""
+                },
+                {
+                  "source_id": "s85",
+                  "quote": "US Ambassador to South Africa Leo Brent Bozell III said it was regrettable that South African policies led to its termination from Agoa."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Trump Notifies Congress of Plan to Remove South Africa and Rwanda From AGOA",
+            "sentences": [
+              {
+                "en": "According to BBC, Trump notified Congress that he plans to remove South Africa and Rwanda from the African Growth and Opportunity Act (AGOA) starting January 1, 2027; the law allows eligible African countries to export thousands of products to the United States duty-free.",
+                "zh": "据BBC报道，特朗普通知国会，计划自2027年1月1日起将南非和卢旺达从《非洲增长与机会法案》中移除；该法案允许符合条件的非洲国家免税向美国出口数千种产品。"
+              },
+              {
+                "en": "U.S. Trade Representative Greer said the annual review found that the two countries' practices did not meet eligibility requirements, citing trade and investment barriers and national security and foreign policy concerns; for Rwanda, he also cited human rights, political pluralism, rule of law and labor rights, and for South Africa, corruption.",
+                "zh": "美国贸易代表格里尔称年度审查发现两国做法不符合资格要求，理由包括贸易投资壁垒、国家安全和外交政策关切；对卢旺达还提人权、政治多元、法治和劳工权利，对南非还提腐败。"
+              },
+              {
+                "en": "South African Trade Minister Tau called the decision \"unfortunate\" and said it would accelerate the diversification of export markets; U.S. Ambassador to South Africa Bozell called the outcome \"predictable and avoidable.\"",
+                "zh": "南非贸易部长陶称决定“不幸”，将加快出口市场多元化；美国驻南非大使博泽尔称结果“可预见且可避免”。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}

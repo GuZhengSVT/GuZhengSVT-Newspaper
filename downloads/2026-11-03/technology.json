@@ -1,0 +1,540 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "title": "2026-11-03 科技",
+  "summary": "本期收录6条通过核验的新闻。",
+  "highlights": [
+    "量子位报道MIT实验：GPT-6 Astra直接改写Qwen权重",
+    "商汤发布日日新SenseNova6.8Flash正式版",
+    "力箭二号遥二成功发射千帆极轨21组18颗卫星",
+    "ESA验证ERMIS-3立方星激光通信链路",
+    "Marvell约1150亿美元全股票收购Lumentum"
+  ],
+  "window_start": "2026-11-02T12:00:00+08:00",
+  "window_end": "2026-11-03T12:00:00+08:00",
+  "generated_at": "2026-11-03T12:05:48.680587+08:00",
+  "edition": "technology",
+  "sources": [
+    {
+      "id": "s19",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "published_at": "2026-11-03T09:57:30+08:00"
+    },
+    {
+      "id": "s49",
+      "url": "https://www.techpowerup.com/354410/marvell-acquires-lumentum-for-usd-115-billion-all-stock-deal",
+      "title": "(PR) Marvell Acquires Lumentum for $115 Billion All-Stock Deal",
+      "published_at": "2026-11-02T16:53:01+00:00"
+    },
+    {
+      "id": "s87",
+      "url": "https://www.guancha.cn/ZhengZhi/2026_11_03_906828.shtml",
+      "title": "力箭二号遥二运载火箭发射成功",
+      "published_at": null
+    },
+    {
+      "id": "s78",
+      "url": "https://x.com/ATTNEWS/status/2117315230157988049",
+      "title": "AT&T News (@ATTNEWS) on X",
+      "published_at": "2026-11-02T17:57:43+00:00"
+    },
+    {
+      "id": "s54",
+      "url": "https://www.ithome.com/1/021/487.htm",
+      "title": "商汤发布日日新 SenseNova6.8Flash 正式版模型，支持动态 PPT 及 3D 设计",
+      "published_at": "2026-11-03T11:59:48+08:00"
+    },
+    {
+      "id": "s29",
+      "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/CubeSat_achieves_challenging_laser_link_to_ground",
+      "title": "CubeSat achieves challenging laser link to ground",
+      "published_at": "2026-11-02T09:55:00+01:00"
+    },
+    {
+      "id": "s86",
+      "url": "https://cn.chinadaily.com.cn/a/202611/03/WS6ae94aafe4b0e14252fc8c52.html",
+      "title": "力箭二号遥二运载火箭发射成功",
+      "published_at": "2026-11-03T09:54:01+08:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "MIT|研究|GPT-6 Astra修改Qwen权重提升数学能力",
+          "title": "量子位报道MIT实验：GPT-6 Astra直接改写Qwen权重",
+          "summary": "量子位报道，MIT团队让GPT-6 Astra直接修改Qwen3.5-0.8B约0.016%权重，未用梯度训练，MATH-500从7.9%升至48.1%，并称指令执行提高3倍；结果来自单篇报道。",
+          "published_at": "2026-11-03T09:57:30+08:00",
+          "follow_up": true,
+          "new_facts": "量子位报道MIT团队用GPT-6 Astra直接修改Qwen3.5-0.8B约0.016%权重，未用梯度训练，MATH-500从7.9%升至48.1%；报道称指令执行提升3倍，并称从零生成小游戏网络权重得分超PPO基线20倍。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "MIT",
+            "GPT-6 Astra",
+            "Qwen"
+          ],
+          "limitations": "仅量子位一篇报道，未取得论文或官方代码，未独立复现；实验设置和基准结果需以论文为准。",
+          "facts": [
+            {
+              "text": "据量子位报道，MIT团队进行了一项实验：让GPT-6 Astra直接读取并修改Qwen3.5-0.8B的权重，只改动其中约0.016%，全程没有使用训练或梯度下降。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "仅改动其中 0.016% 的权重，模型性能可以直接飞升。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "全程没用训练，也没梯度下降。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道称，在相同采样设置下，该模型的MATH-500得分从7.9%升到48.1%，数学运算能力约为原来的6倍；指令执行能力也提高3倍。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "MATH-500得分从7.9%飙升到48.1%，数学运算能力是原来的约 6倍 。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "甚至连原本没要求优化的指令执行能力也通通提高了3倍。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道还称，Astra在MinAtar小游戏实验中从零生成网络权重，一次回复的平均得分为517.4，超过训练5亿步的PPO基线20倍。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Astra生成网络的平均得分可达 517.4 。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "训练5亿步得25.3，直接超了 20倍 。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "QbitAI Reports MIT Experiment: GPT-6 Astra Directly Rewrites Qwen Weights",
+            "sentences": [
+              {
+                "en": "According to a QbitAI report, an MIT team conducted an experiment in which GPT-6 Astra directly read and modified the weights of Qwen3.5-0.8B, changing only about 0.016% of them, without using training or gradient descent at any point.",
+                "zh": "据量子位报道，MIT团队进行了一项实验：让GPT-6 Astra直接读取并修改Qwen3.5-0.8B的权重，只改动其中约0.016%，全程没有使用训练或梯度下降。"
+              },
+              {
+                "en": "The report said that under the same sampling settings, the model's MATH-500 score rose from 7.9% to 48.1%, making its mathematical computation ability about six times the original; its instruction-following ability also rose threefold.",
+                "zh": "报道称，在相同采样设置下，该模型的MATH-500得分从7.9%升到48.1%，数学运算能力约为原来的6倍；指令执行能力也提高3倍。"
+              },
+              {
+                "en": "The report also said that in a MinAtar mini-game experiment, Astra generated network weights from scratch and averaged 517.4 points per response, more than 20 times that of a PPO baseline trained for 500 million steps.",
+                "zh": "报道还称，Astra在MinAtar小游戏实验中从零生成网络权重，一次回复的平均得分为517.4，超过训练5亿步的PPO基线20倍。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "商汤科技|发布|日日新 SenseNova6.8Flash 正式版",
+          "title": "商汤发布日日新SenseNova6.8Flash正式版",
+          "summary": "商汤发布日日新SenseNova6.8Flash正式版，支持长期记忆、跨会话协作及动态PPT、3D设计，已开放在线体验和Token Plan；IT之家称其评测在部分场景领先。",
+          "published_at": "2026-11-03T11:59:48+08:00",
+          "follow_up": false,
+          "new_facts": "商汤科技11月2日晚宣布日日新SenseNova6.8Flash正式版发布，支持长期记忆、跨会话任务协作，设计能力覆盖动态PPT、动态海报、网页、SVG和Blender 3D，可接入Figma；模型已开放在线体验并上线SenseNovaTokenPlan。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "商汤科技",
+            "日日新 SenseNova6.8Flash"
+          ],
+          "limitations": "仅IT之家转述商汤发布，性能评测为报道转述，未独立测试。",
+          "facts": [
+            {
+              "text": "据IT之家报道，商汤科技11月2日晚宣布日日新SenseNova6.8Flash正式版发布，重点升级办公协作与设计生成能力，并支持长期记忆、跨会话任务协作。",
+              "evidence": [
+                {
+                  "source_id": "s54",
+                  "quote": "商汤科技 2 日晚间宣布，日日新 SenseNova6.8Flash 正式版现已正式发布，重点升级 办公协作与设计生成能力 。"
+                },
+                {
+                  "source_id": "s54",
+                  "quote": "新版本支持长期记忆、跨会话任务协作"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "新版本的设计能力覆盖动态PPT、动态海报、网页、SVG及Blender 3D创作，并可接入Figma等专业设计工作流；模型已开放在线体验，同步上线SenseNovaTokenPlan。",
+              "evidence": [
+                {
+                  "source_id": "s54",
+                  "quote": "设计能力覆盖 动态 PPT、动态海报、网页、SVG 及 Blender3D 创作 ，并可接入 Figma 等专业设计工作流。"
+                },
+                {
+                  "source_id": "s54",
+                  "quote": "目前模型已开放在线体验，并同步上线 SenseNovaTokenPlan。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "IT之家称，根据评测，该模型在智能体协作、数据分析与演示生成等场景上超过部分国际前沿模型；这是报道转述的评测结果。",
+              "evidence": [
+                {
+                  "source_id": "s54",
+                  "quote": "根据评测，SenseNova 6.8 Flash 在智能体协作、数据分析与演示生成等场景上超过部分国际前沿模型，并在行业模型中处于明显领先。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "SenseTime Releases Official Version of SenseNova 6.8 Flash",
+            "sentences": [
+              {
+                "en": "According to a report by IT Home, SenseTime announced on the evening of November 2 the release of the official version of SenseNova 6.8 Flash, with key upgrades to office collaboration and design generation capabilities and support for long-term memory and cross-session task collaboration.",
+                "zh": "据IT之家报道，商汤科技11月2日晚宣布日日新SenseNova6.8Flash正式版发布，重点升级办公协作与设计生成能力，并支持长期记忆、跨会话任务协作。"
+              },
+              {
+                "en": "The new version's design capabilities cover dynamic PPT, dynamic posters, webpages, SVG and Blender 3D creation, and it can connect to professional design workflows such as Figma; the model is now available for online experience, and SenseNovaTokenPlan has also been launched.",
+                "zh": "新版本的设计能力覆盖动态PPT、动态海报、网页、SVG及Blender 3D创作，并可接入Figma等专业设计工作流；模型已开放在线体验，同步上线SenseNovaTokenPlan。"
+              },
+              {
+                "en": "IT Home said that, according to evaluations, the model surpasses some international frontier models in scenarios such as agent collaboration, data analysis and presentation generation; this is an evaluation result relayed in the report.",
+                "zh": "IT之家称，根据评测，该模型在智能体协作、数据分析与演示生成等场景上超过部分国际前沿模型；这是报道转述的评测结果。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中科宇航|发射|力箭二号遥二（千帆极轨21组卫星）",
+          "title": "力箭二号遥二成功发射千帆极轨21组18颗卫星",
+          "summary": "11月3日8时15分，力箭二号遥二在东风商业航天创新试验区发射，将千帆极轨21组18颗卫星送入预定轨道；这是力箭二号第2次飞行、力箭系列第18次发射。",
+          "published_at": "2026-11-03T09:33:10+08:00",
+          "follow_up": false,
+          "new_facts": "2026年11月3日8时15分，中科宇航力箭二号遥二在东风商业航天创新试验区发射，将千帆极轨21组共18颗卫星送入预定轨道，任务成功；这是力箭二号第2次飞行、力箭系列第18次发射。",
+          "verification": "corroborated",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "中科宇航",
+            "力箭二号遥二",
+            "千帆极轨21组卫星"
+          ],
+          "limitations": "运载能力和构型等技术细节主要来自中科宇航消息经观察者网转述；发射成功由新华社报道和中科宇航公告转述交叉支持，未直接取得中科宇航原始公告。",
+          "facts": [
+            {
+              "text": "11月3日8时15分，中科宇航力箭二号遥二运载火箭在东风商业航天创新试验区点火升空，将千帆极轨21组共18颗卫星送入预定轨道，飞行试验任务取得圆满成功。",
+              "evidence": [
+                {
+                  "source_id": "s86",
+                  "quote": "11月3日8时15分，力箭二号遥二运载火箭在东风商业航天创新试验区发射升空，将搭载的千帆极轨21组卫星顺利送入预定轨道，飞行试验任务取得圆满成功。"
+                },
+                {
+                  "source_id": "s87",
+                  "quote": "2026年11月3日08时15分，中科宇航力箭二号遥二运载火箭在东风商业航天创新试验区点火升空，将搭载的千帆极轨21组共18颗卫星顺利送入预定轨道，飞行试验任务取得圆满成功。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "此次任务是力箭二号运载火箭的第2次飞行，也是力箭系列运载火箭第18次发射；力箭二号是中科宇航自主研制的液体运载火箭，500公里太阳同步轨道运载能力8吨。",
+              "evidence": [
+                {
+                  "source_id": "s87",
+                  "quote": "此次任务是力箭二号运载火箭的第2次飞行，也是力箭系列运载火箭第18次发射。"
+                },
+                {
+                  "source_id": "s87",
+                  "quote": "力箭二号是中科宇航自主研制的液体运载火箭，也是我国首款“通用助推器核心”构型的运载火箭，500公里太阳同步轨道运载能力8吨"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Lijian-2 Y2 Successfully Launches 18 Satellites in Qianfan Polar Orbit Group 21",
+            "sentences": [
+              {
+                "en": "At 8:15 a.m. on November 3, CAS Space's Lijian-2 Y2 carrier rocket lifted off from the Dongfeng Commercial Aerospace Innovation Test Zone and placed the 18 satellites of Qianfan Polar Orbit Group 21 into their planned orbit, marking a complete success of the flight test mission.",
+                "zh": "11月3日8时15分，中科宇航力箭二号遥二运载火箭在东风商业航天创新试验区点火升空，将千帆极轨21组共18颗卫星送入预定轨道，飞行试验任务取得圆满成功。"
+              },
+              {
+                "en": "This mission was the second flight of the Lijian-2 carrier rocket and the 18th launch of the Lijian series; Lijian-2 is a liquid-propellant carrier rocket independently developed by CAS Space, with a payload capacity of 8 tonnes to a 500-kilometer sun-synchronous orbit.",
+                "zh": "此次任务是力箭二号运载火箭的第2次飞行，也是力箭系列运载火箭第18次发射；力箭二号是中科宇航自主研制的液体运载火箭，500公里太阳同步轨道运载能力8吨。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "ESA|验证|ERMIS-3立方星激光通信链路",
+          "title": "ESA验证ERMIS-3立方星激光通信链路",
+          "summary": "ESA称，雅典大学研制的8U立方星ERMIS-3与希腊Holomonds光学地面站建立激光链路，验证指向、捕获和跟踪；这是希腊首次与低轨卫星建立光学链路。",
+          "published_at": "2026-11-02T16:55:00+08:00",
+          "follow_up": false,
+          "new_facts": "ESA宣布，雅典大学研制的8U立方星ERMIS-3与希腊Holomonds光学地面站建立激光链路，验证精确指向、捕获和跟踪；这是希腊首次与低轨卫星建立光学链路，属于在轨演示。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "ESA",
+            "ERMIS-3",
+            "National and Kapodistrian University of Athens"
+          ],
+          "limitations": "ESA官方声明；链路速率、持续时间和更多性能参数未披露。",
+          "facts": [
+            {
+              "text": "欧洲航天局11月2日说，雅典大学研制的8U立方星ERMIS-3与希腊Holomonds光学地面站建立激光链路，验证了精确指向、捕获和跟踪。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "ERMIS-3, an 8U CubeSat developed by the National and Kapodistrian University of Athens, has established a link with an optical ground station marking an important step in validating optical communications on small satellites."
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "precise pointing, acquisition and tracking (PAT)"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "ESA称，这是希腊首次与低地球轨道卫星建立光学链路；ERMIS-3携带立陶宛公司Astrolight的ATLAS-1光学终端，于今年3月30日发射。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "This milestone represents Greece's first optical link with a low Earth orbit (LEO) satellite."
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "ERMIS-3 carries Astrolight’s ATLAS-1 optical terminal"
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "Launched on 30 March 2026 alongside ERMIS-1 and ERMIS-2"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "该演示发生在卫星调试后数周，属于小卫星通信技术的在轨验证，不是业务运行。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "happened only weeks after the satellite’s commissioning"
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "part of an in-orbit demonstration programme testing communications technologies for small satellites."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "ESA Validates ERMIS-3 CubeSat Laser Communications Link",
+            "sentences": [
+              {
+                "en": "On November 2, the European Space Agency said the 8U CubeSat ERMIS-3, developed by the University of Athens, established a laser link with the Greek Holomonds optical ground station, validating precise pointing, acquisition and tracking.",
+                "zh": "欧洲航天局11月2日说，雅典大学研制的8U立方星ERMIS-3与希腊Holomonds光学地面站建立激光链路，验证了精确指向、捕获和跟踪。"
+              },
+              {
+                "en": "ESA said this was Greece's first optical link with a satellite in low Earth orbit; ERMIS-3 carries the ATLAS-1 optical terminal from Lithuanian company Astrolight and was launched on March 30 this year.",
+                "zh": "ESA称，这是希腊首次与低地球轨道卫星建立光学链路；ERMIS-3携带立陶宛公司Astrolight的ATLAS-1光学终端，于今年3月30日发射。"
+              },
+              {
+                "en": "The demonstration took place several weeks after satellite commissioning and was an in-orbit validation of small-satellite communications technology, not operational service.",
+                "zh": "该演示发生在卫星调试后数周，属于小卫星通信技术的在轨验证，不是业务运行。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Marvell|收购|Lumentum",
+          "title": "Marvell约1150亿美元全股票收购Lumentum",
+          "summary": "Marvell与Lumentum 11月2日宣布最终协议，Marvell以约1150亿美元隐含企业价值全股票收购Lumentum，预计2028年上半年完成，仍需股东和监管批准。",
+          "published_at": "2026-11-03T00:53:01+08:00",
+          "follow_up": true,
+          "new_facts": "Marvell与Lumentum 11月2日签署最终协议，Marvell以全股票交易收购Lumentum，隐含企业价值约1150亿美元，每股约1132美元，溢价约23.9%；换股比例4.5股Marvell换1股Lumentum，预计2028年上半年完成。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Marvell Technology",
+            "Lumentum"
+          ],
+          "limitations": "双方公告经TechPowerUp转载，IT之家亦有报道但同源；交易尚需批准，完成时间可能变化。",
+          "facts": [
+            {
+              "text": "据TechPowerUp转载的双方新闻稿，Marvell与Lumentum 11月2日宣布已签署最终协议，Marvell以全股票交易收购Lumentum，隐含企业价值约1150亿美元，相当于每股约1132美元，较10月28日未受影响收盘价溢价约23.9%。",
+              "evidence": [
+                {
+                  "source_id": "s49",
+                  "quote": "Marvell Technology, Inc. (NASDAQ: MRVL) and Lumentum (NASDAQ: LITE) today announced that they have entered into a definitive agreement for Marvell to acquire Lumentum in an all-stock transaction."
+                },
+                {
+                  "source_id": "s49",
+                  "quote": "The transaction has an implied enterprise value of $115 billion for Lumentum, representing approximately $1,132 per share of Lumentum common stock and a premium of approximately 23.9% based on each company's unaffected closing share price as of October 28, 2026"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "按换股比例，Lumentum股东每股将获得4.5股Marvell普通股；交易完成后，Marvell现有股东预计持有合并公司约67%，Lumentum股东约33%。",
+              "evidence": [
+                {
+                  "source_id": "s49",
+                  "quote": "Lumentum stockholders will receive a fixed exchange ratio of 4.500 shares of Marvell common stock for each share of Lumentum common stock they own."
+                },
+                {
+                  "source_id": "s49",
+                  "quote": "Post-closing, current Marvell stockholders will own approximately 67% of the combined company on a fully diluted basis, while Lumentum stockholders will own approximately 33%."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "交易预计2028年上半年完成，需双方股东批准、监管机构核准及其他惯常条件；Lumentum CEO Michael Hurlston等三名董事将加入Marvell董事会。",
+              "evidence": [
+                {
+                  "source_id": "s49",
+                  "quote": "The transaction is expected to close in the first half of calendar year 2028, subject to approval by Marvell and Lumentum stockholders, receipt of regulatory approvals and other customary closing conditions."
+                },
+                {
+                  "source_id": "s49",
+                  "quote": "three members of Lumentum's Board of Directors, including Lumentum CEO Michael Hurlston, will join Marvell's Board"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Marvell to Acquire Lumentum in About $115 Billion All-Stock Deal",
+            "sentences": [
+              {
+                "en": "According to the joint press release republished by TechPowerUp, Marvell and Lumentum announced on November 2 that they had signed a definitive agreement for Marvell to acquire Lumentum in an all-stock transaction with an implied enterprise value of about $115 billion, or about $1,132 per share, representing a premium of about 23.9% over the unaffected closing price on October 28.",
+                "zh": "据TechPowerUp转载的双方新闻稿，Marvell与Lumentum 11月2日宣布已签署最终协议，Marvell以全股票交易收购Lumentum，隐含企业价值约1150亿美元，相当于每股约1132美元，较10月28日未受影响收盘价溢价约23.9%。"
+              },
+              {
+                "en": "Under the exchange ratio, Lumentum shareholders will receive 4.5 shares of Marvell common stock for each Lumentum share; after the transaction closes, existing Marvell shareholders are expected to hold about 67% of the combined company and Lumentum shareholders about 33%.",
+                "zh": "按换股比例，Lumentum股东每股将获得4.5股Marvell普通股；交易完成后，Marvell现有股东预计持有合并公司约67%，Lumentum股东约33%。"
+              },
+              {
+                "en": "The transaction is expected to close in the first half of 2028, subject to approval by both companies' shareholders, regulatory approvals and other customary conditions; three directors, including Lumentum CEO Michael Hurlston, will join Marvell's board.",
+                "zh": "交易预计2028年上半年完成，需双方股东批准、监管机构核准及其他惯常条件；Lumentum CEO Michael Hurlston等三名董事将加入Marvell董事会。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "AT&T|实现|地面蜂窝与D2D卫星网络切换",
+          "title": "AT&T称完成地面蜂窝与卫星直连网络切换",
+          "summary": "AT&T在X上宣布，与AST SpaceMobile完成地面蜂窝网络与直连设备卫星网络之间的切换，称行业首次，使用爱立信和诺基亚技术，使普通智能手机卫星连接更接近商用。",
+          "published_at": "2026-11-03T01:57:43+08:00",
+          "follow_up": false,
+          "new_facts": "AT&T在X上宣布与AST SpaceMobile完成地面蜂窝网络与直连设备卫星网络之间的切换，称行业首次，使用爱立信和诺基亚技术；该里程碑使普通智能手机卫星连接更接近商用。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "AT&T",
+            "AST SpaceMobile",
+            "Ericsson",
+            "Nokia"
+          ],
+          "limitations": "仅AT&T官方X帖子，未获AST SpaceMobile或独立测试确认；行业首次为AT&T表述。",
+          "facts": [
+            {
+              "text": "AT&T 11月2日在X上宣布，其与AST SpaceMobile完成了一次地面蜂窝网络与直连设备卫星网络之间的切换，并称这是行业首次。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "@ATT & @AST_SpaceMobile 🅰️chieved an industry first: a successful handoff between a terrestrial cellular network and a direct-to-device satellite network."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "AT&T称，该演示使用了爱立信和诺基亚的技术，使普通智能手机上的卫星连接更接近商用服务；这是测试里程碑，不代表商用服务已经上线。",
+              "evidence": [
+                {
+                  "source_id": "s78",
+                  "quote": "With @ericsson & @nokia technology, the milestone brings satellite connectivity on everyday smartphones closer to commercial service."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "AT&T Says It Completed Handoff Between Terrestrial Cellular and Direct-to-Device Satellite Networks",
+            "sentences": [
+              {
+                "en": "AT&T announced on X on November 2 that it had completed a handoff between a terrestrial cellular network and a direct-to-device satellite network with AST SpaceMobile, which it called an industry first.",
+                "zh": "AT&T 11月2日在X上宣布，其与AST SpaceMobile完成了一次地面蜂窝网络与直连设备卫星网络之间的切换，并称这是行业首次。"
+              },
+              {
+                "en": "AT&T said the demonstration used technology from Ericsson and Nokia, bringing satellite connectivity on ordinary smartphones closer to commercial service; it is a testing milestone and does not mean commercial service has launched.",
+                "zh": "AT&T称，该演示使用了爱立信和诺基亚的技术，使普通智能手机上的卫星连接更接近商用服务；这是测试里程碑，不代表商用服务已经上线。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
