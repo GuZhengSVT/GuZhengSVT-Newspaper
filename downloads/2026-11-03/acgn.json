@@ -1,0 +1,398 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-03",
+  "title": "2026-11-03 ACGN",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "《World of Warcraft: Forever》将提供官方手柄支持",
+    "《Derelikt》11月13日登陆PS5，采用PSOne时代美术风格",
+    "《農家は Replace() されました》大型DLC《鉱夫はReplaceされました()_》上线",
+    "MusicRay'n公布公路片冒险新作《フユウク》，计划2027年发售"
+  ],
+  "window_start": "2026-11-02T12:00:00+08:00",
+  "window_end": "2026-11-03T12:00:00+08:00",
+  "generated_at": "2026-11-03T12:30:43.797447+08:00",
+  "edition": "acgn",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "World of Warcraft: Forever|控制器支持|Azeroth",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "World of Warcraft: Forever",
+            "控制器支持"
+          ],
+          "title": "《World of Warcraft: Forever》将提供官方手柄支持",
+          "summary": "Xbox Wire介绍《World of Warcraft: Forever》将在上线时提供Gamepad (Alpha)手柄支持，并说明该版本以2004年艾泽拉斯为基底，加入新种族、新区域和职业组合调整。",
+          "published_at": "2026-11-03T02:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "Xbox Wire称《World of Warcraft: Forever》上线时提供Gamepad (Alpha)支持；该版本以2004年世界为基底，新增Skyborne种族、Zephras Isle、Riverglades、Mount Hyjal和亡灵圣骑士等；包含在现有订阅中。",
+          "verification": "single_source",
+          "limitations": "来源为Xbox Wire功能文章，未给出《Forever》具体上线日期，也未提供Blizzard正式公告；手柄支持仍标注Alpha。",
+          "facts": [
+            {
+              "text": "Xbox Wire的文章称，《World of Warcraft: Forever》将在上线时提供官方Gamepad (Alpha)手柄支持，玩家可在主菜单选项中开启，界面按键图标会随控制器变化。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "With official Gamepad (Alpha) support available at launch, players can enjoy World of Warcraft from the palm of their hands."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Enabling the controller support is seamless from the main menu – just go into Options and check the box for “Gamepad (Alpha)” support."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "文章将Forever描述为以2004年《魔兽世界》世界为基底、但加入新故事、地点和改进功能的版本，新增种族Skyborne、浮空岛Zephras Isle，以及Riverglades和Mount Hyjal等区域，并允许亡灵圣骑士等职业组合。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Essentially, we’ll return to a version of the game’s world that is very similar to the WoW that arrived in 2004, but with many new stories, locations, and improved features that work to strike that middle ground between that Classic feel, mixed with added improvements to make the experience welcoming for newcomers."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "The most significant are the Skyborne, a new race of elves that occupy the recently uncovered floating Zephras Isle. Back on the ground, there will be new areas to discover in the Riverglades and Mount Hyjal, improved lighting and graphics to make familiar locations feel new, as well as revamps to class combos, like being able to roll with a Forsaken Paladin."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            },
+            {
+              "text": "文章称该版本包含在现有订阅中，无需额外购买。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "And it’s all included in your current subscription, so there’s no additional purchase required to experience this old-new world."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "World of Warcraft: Forever to Feature Official Controller Support",
+            "sentences": [
+              {
+                "en": "An Xbox Wire article states that World of Warcraft: Forever will offer official Gamepad (Alpha) support at launch; players can enable it in the main menu options, and the on-screen button icons will change with the controller.",
+                "zh": "Xbox Wire的文章称，《World of Warcraft: Forever》将在上线时提供官方Gamepad (Alpha)手柄支持，玩家可在主菜单选项中开启，界面按键图标会随控制器变化。"
+              },
+              {
+                "en": "The article describes Forever as a version based on the world of the 2004 World of Warcraft but with new stories, locations, and improved features, adding the new race Skyborne, the floating island Zephras Isle, and regions such as Riverglades and Mount Hyjal, and allowing class combinations such as Undead paladins.",
+                "zh": "文章将Forever描述为以2004年《魔兽世界》世界为基底、但加入新故事、地点和改进功能的版本，新增种族Skyborne、浮空岛Zephras Isle，以及Riverglades和Mount Hyjal等区域，并允许亡灵圣骑士等职业组合。"
+              },
+              {
+                "en": "The article states that this version is included in the existing subscription and requires no additional purchase.",
+                "zh": "文章称该版本包含在现有订阅中，无需额外购买。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Derelikt|登陆PS5|PS5版",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Derelikt",
+            "PS5"
+          ],
+          "title": "《Derelikt》11月13日登陆PS5，采用PSOne时代美术风格",
+          "summary": "科幻恐怖游戏《Derelikt》将于11月13日登陆PS5，故事发生在土星轨道废弃前哨站，采用PSOne时代美术风格，预购享10%折扣。",
+          "published_at": "2026-11-02T23:00:26+08:00",
+          "follow_up": true,
+          "new_facts": "《Derelikt》11月13日登陆PS5；舞台为土星轨道Von Neumann Outpost；采用PSOne风格手绘贴图、顶点色光照和仿射纹理扭曲；预购10%折扣。",
+          "verification": "official_statement",
+          "limitations": "来源为PlayStation Blog的开发者文章，未说明其他平台、售价与语言支持。",
+          "facts": [
+            {
+              "text": "PlayStation Blog刊出文章称，科幻恐怖游戏《Derelikt》将于11月13日登陆PS5，即日起预购可享10%折扣。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "we’re excited to announce that our sci-fi horror game Derelikt will make you feel like your console shed 5 generations when it launches on PlayStation 5 on November 13."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "you can pre-order the game today for a 10% discount, ahead of release."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "游戏舞台是土星轨道一颗异常小行星上的Von Neumann Outpost，玩家作为外部承包商调查失踪的Excavation Team Delta，并面对系统故障、幸存者说法不一的局面。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "Derelikt takes place aboard Von Neumann Outpost, grafted onto an anomalous asteroid discovered in Saturn’s orbit."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "You arrive as an outside contractor tasked with finding out the fate of Excavation Team Delta, who went missing on the derelict surface."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "The halls are dark, the systems are failing, and the survivors that you come across aren’t telling the same story."
+                }
+              ],
+              "kind": "background",
+              "verification": "official_statement"
+            },
+            {
+              "text": "作品刻意模仿PSOne时代科幻恐怖游戏，使用手绘贴图、顶点色光照和仿射纹理扭曲，并保留复古全动态CG过场；开发者称可在选项中开关部分效果。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "Our game features 100% lovingly hand-painted textures and vertex colour lighting. Affine Texture warping was deliberately implemented and mitigated in the next step by dynamically subdividing the geometry – just like the most high-end games of the era did – and the game also features retro-style full-motion CGI cutscenes."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "including an option for players to toggle on or off effects to match their particular taste."
+                }
+              ],
+              "kind": "background",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Derelikt Arrives on PS5 on November 13 With PSOne-Era Art Style",
+            "sentences": [
+              {
+                "en": "PlayStation Blog published an article stating that the sci-fi horror game Derelikt will launch on PS5 on November 13, and that pre-orders from now on come with a 10% discount.",
+                "zh": "PlayStation Blog刊出文章称，科幻恐怖游戏《Derelikt》将于11月13日登陆PS5，即日起预购可享10%折扣。"
+              },
+              {
+                "en": "The game is set at Von Neumann Outpost on an anomalous asteroid in Saturn's orbit, where players, as an outside contractor, investigate the missing Excavation Team Delta and face system malfunctions and conflicting accounts from survivors.",
+                "zh": "游戏舞台是土星轨道一颗异常小行星上的Von Neumann Outpost，玩家作为外部承包商调查失踪的Excavation Team Delta，并面对系统故障、幸存者说法不一的局面。"
+              },
+              {
+                "en": "The game deliberately emulates PSOne-era sci-fi horror games, using hand-painted textures, vertex-colored lighting and affine texture warping, and retaining retro full-motion CG cutscenes; the developer says some effects can be toggled in the options.",
+                "zh": "作品刻意模仿PSOne时代科幻恐怖游戏，使用手绘贴图、顶点色光照和仿射纹理扭曲，并保留复古全动态CG过场；开发者称可在选项中开关部分效果。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Metaroot|发布大型DLC|鉱夫はReplaceされました()_",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Metaroot",
+            "農家は Replace() されました",
+            "鉱夫はReplaceされました()_"
+          ],
+          "title": "《農家は Replace() されました》大型DLC《鉱夫はReplaceされました()_》上线",
+          "summary": "Metaroot于11月3日在Steam发布大型DLC，售价1100日元，新增地下世界、科技树和8种资源；含本篇与DLC的手机版同步推出，采用免费体验后付费。",
+          "published_at": "2026-11-02T23:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Metaroot于11月3日在Steam发布DLC《鉱夫はReplaceされました()_》，1100日元；新增地下世界、科技树分区和8种资源；iOS/Android手机版同步推出，免费体验后付费，含本篇与DLC。",
+          "verification": "single_source",
+          "limitations": "仅有4Gamer一篇报道，未直接核对Metaroot公告；DLC语言支持未在来源中说明。",
+          "facts": [
+            {
+              "text": "Metaroot于11月3日在Steam发布《農家は Replace() されました》的大型DLC《鉱夫はReplaceされました()_》，售价1100日元（含税）。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "Metarootは2026年11月3日， 「農家は Replace() されました」 （ PC / Mac ）の大型ダウンロードコンテンツ 「鉱夫はReplaceされました()_」 をSteamでリリースした。価格は1100円（税込）。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "DLC以地下世界为舞台，科技树新增分区，并加入煤炭、水晶等8种地下资源；玩家可编程优化采矿路线、分拣彩色蘑菇。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "今回登場したDLCの舞台は地下世界だ。技術ツリーに新たなセクションが追加されたほか，石炭や水晶といった8種類の新たな地下資源も実装された。 プレイヤーは，プログラミングで採掘ルートを最適化したり，色とりどりのキノコを仕分けたりと，さらに深みを増した自動化パズルと探検を満喫できるという。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "手机版（iOS/Android）同步推出，本体免费，免费体验结束后继续游玩需付费；手机版为收录本篇与DLC的完全版，并配有适合触屏编程的自定义键盘。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "また， スマートフォン版 （iOS / Android）も同時リリースされた。アプリ本体は無料で，無料体験の終了後も続きをプレイする場合に課金が発生する。 スマホ版はゲーム本編に今回のDLCを最初から収録した完全版として登場。タッチスクリーンで快適にコーディングを行えるカスタムキーボードが搭載されている。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "原作是一款用类似Python的编程语言控制无人机、实现作物种植到收获全自动化的游戏，2025年10月在Steam上线，累计销量超过100万份。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "「農家は Replace() されました」は，Pythonに似たプログラミング言語でドローンを制御し，作物の栽培から収穫までを全自動化するゲームだ。2025年10月にSteamでの配信がスタートしており，累計販売本数が100万本を超えるヒットを記録している。"
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Major DLC “The Miner Was Replaced()_” for “The Farmer Was Replaced()” launches",
+            "sentences": [
+              {
+                "en": "Metaroot released the major DLC “The Miner Was Replaced()_” for “The Farmer Was Replaced()” on Steam on November 3, priced at 1,100 yen (tax included).",
+                "zh": "Metaroot于11月3日在Steam发布《農家は Replace() されました》的大型DLC《鉱夫はReplaceされました()_》，售价1100日元（含税）。"
+              },
+              {
+                "en": "Set in an underground world, the DLC adds a new section to the tech tree and introduces eight underground resources, including coal and crystal; players can use programming to optimize mining routes and sort colored mushrooms.",
+                "zh": "DLC以地下世界为舞台，科技树新增分区，并加入煤炭、水晶等8种地下资源；玩家可编程优化采矿路线、分拣彩色蘑菇。"
+              },
+              {
+                "en": "A mobile version (iOS/Android) launched simultaneously; the base game is free, and payment is required to continue playing after the free trial ends; the mobile version is a complete edition that includes the main game and the DLC, and it comes with a custom keyboard suited to touchscreen programming.",
+                "zh": "手机版（iOS/Android）同步推出，本体免费，免费体验结束后继续游玩需付费；手机版为收录本篇与DLC的完全版，并配有适合触屏编程的自定义键盘。"
+              },
+              {
+                "en": "The original is a game in which players use a Python-like programming language to control drones and fully automate crop cultivation from planting to harvest; it launched on Steam in October 2025 and has sold more than 1 million copies.",
+                "zh": "原作是一款用类似Python的编程语言控制无人机、实现作物种植到收获全自动化的游戏，2025年10月在Steam上线，累计销量超过100万份。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Ray'nStudio|公布新作|フユウク",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "MusicRay'n / Ray'nStudio",
+            "フユウク"
+          ],
+          "title": "MusicRay'n公布公路片冒险新作《フユウク》，计划2027年发售",
+          "summary": "MusicRay'n旗下品牌Ray'n Studio公布《フユウク》，由かしわぎつきこ担任原案、角色设计和制作，舞台为2097年雪覆北海道，计划2027年发售，平台待公布。",
+          "published_at": "2026-11-02T21:05:56+08:00",
+          "follow_up": true,
+          "new_facts": "MusicRay'n旗下Ray'n Studio公布《フユウク》，2027年发售，1580日元；2097年北海道公路片冒险；かしわぎつきこ原案/角色设计/制作；对应日英简繁中法韩语，平台待公布。",
+          "verification": "single_source",
+          "limitations": "仅有4Gamer一篇报道，平台与部分发行细节尚待官方后续公布。",
+          "facts": [
+            {
+              "text": "MusicRay'n于11月2日宣布，旗下创意品牌Ray'n Studio将推出全新冒险游戏《フユウク》，计划2027年发售，售价1580日元（含税）。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "ミュージックレインは本日（2026年11月2日），同社のクリエイティブブランド「Ray'n Studio」のインディーゲーム作品として，新作アドベンチャーゲーム 「 フユウク 」 を 2027年に発売 すると発表した。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "発売日 2027年予定 価格 1580円（税込）"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "本作是公路片冒险，舞台为2097年雪覆北海道，讲述少女与机器人围绕失落记忆和约定展开的旅程；原案、角色设计和制作由かしわぎつきこ担任，主题曲由札幌偶像团体「タイトル未定」负责。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "本作は，雪に覆われた “2097年のホッカイドー” を舞台とする ロードムービーアドベンチャー だ。ほとんど何も残っていない大地を旅する少女とアンドロイドの，失われた記憶や約束をめぐる物語が描かれる。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "原案・キャラクターデザイン・プロデュースは，漫画 「陰キャギャルでもイキがりたい！」 を手掛けた かしわぎつきこ氏 が担当する。主題歌を担当するのは，札幌を拠点に活動するアイドルグループ 「タイトル未定」 だ。"
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            },
+            {
+              "text": "游戏对应日语、英语、简体中文、繁体中文、法语和韩语，平台将陆续公开；Ray'n Studio于9月成立，本作是该品牌首款作品。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "対応言語 日本語，英語，中国語(簡体字)，中国語(繁体字)，フランス語，韓国語 対応プラットフォーム 順次公開予定"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "なお，本作を発売する「Ray'n Studio」は，ミュージックレインが9月に設立したばかりのブランドだ。本作はその1作目にあたり，今後は ゲームを起点とした漫画化やアニメ化なども視野に入れて展開 していくという。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "MusicRay'n Announces New Road-Movie Adventure Fuyuuku for 2027",
+            "sentences": [
+              {
+                "en": "On November 2, MusicRay'n announced that its creative brand Ray'n Studio will release the new adventure game Fuyuuku in 2027, priced at 1,580 yen (tax included).",
+                "zh": "MusicRay'n于11月2日宣布，旗下创意品牌Ray'n Studio将推出全新冒险游戏《フユウク》，计划2027年发售，售价1580日元（含税）。"
+              },
+              {
+                "en": "The game is a road-movie adventure set in snow-covered Hokkaido in 2097, telling the journey of a girl and a robot centered on lost memories and a promise; the original concept, character design, and production are handled by Tsukiko Kashiwagi, while the theme song is by Sapporo idol group \"Title Undecided.\"",
+                "zh": "本作是公路片冒险，舞台为2097年雪覆北海道，讲述少女与机器人围绕失落记忆和约定展开的旅程；原案、角色设计和制作由かしわぎつきこ担任，主题曲由札幌偶像团体「タイトル未定」负责。"
+              },
+              {
+                "en": "The game will support Japanese, English, Simplified Chinese, Traditional Chinese, French, and Korean, with platforms to be announced in due course; Ray'n Studio was established in September, and this is the brand's first title.",
+                "zh": "游戏对应日语、英语、简体中文、繁体中文、法语和韩语，平台将陆续公开；Ray'n Studio于9月成立，本作是该品牌首款作品。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s19",
+      "url": "https://news.xbox.com/en-us/2026/11/02/world-of-warcraft-forever-controller-support-reimagines-way-we-play-azeroth/",
+      "title": "World of Warcraft: Forever – How Controller Support Reimagines the Way We Can Play in Azeroth",
+      "published_at": "2026-11-02T18:00:00+00:00"
+    },
+    {
+      "id": "s16",
+      "url": "https://blog.playstation.com/2026/11/02/90s-style-sci-fi-horror-derelikt-launches-nov-13-on-ps5/",
+      "title": "‘90s style sci-fi horror Derelikt launches Nov 13 on PS5",
+      "published_at": "2026-11-02T07:00:26-08:00"
+    },
+    {
+      "id": "s11",
+      "url": "https://www.4gamer.net/games/952/G095288/20261102049/",
+      "title": "「農家は Replace() されました」の大型DLC「鉱夫はReplaceされました()_」が配信開始。スマホ版も同時に登場",
+      "published_at": "2026-11-03T00:00:00+09:00"
+    },
+    {
+      "id": "s12",
+      "url": "https://www.4gamer.net/games/055/G105512/20261102058/",
+      "title": "かしわぎつきこ氏原案の完全新作「フユウク」が2027年に発売へ。2097年のホッカイドーを少女とアンドロイドが旅する“ロードムービーADV”",
+      "published_at": "2026-11-02T22:05:56+09:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
