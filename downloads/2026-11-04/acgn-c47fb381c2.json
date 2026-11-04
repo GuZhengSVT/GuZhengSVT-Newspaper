@@ -1,0 +1,232 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-04",
+  "title": "2026-11-04 ACGN · Galgame / 新番播出与情报",
+  "summary": "动画《私をセンターにすると誓いますか？》公开主视觉图与Teaser PV，并确定在东京电视台系列6局网络播出，公布岸诚二监督、TEAM TillDawn制作及主要声优阵容。《卡片战斗!! 先导者》新动画《ベールリフト》定于2027年播出，由キネマシトラス制作；同场活动宣布《ごーすと・みーつ・ぎゃる！》第二期制作决定。",
+  "highlights": [
+    "《私をセンターにすると誓いますか？》公开主视觉与Teaser PV，确定东京电视台系列6局网络播出。",
+    "《卡片战斗!! 先导者》新动画《ベールリフト》2027年播出，《ごーすと・みーつ・ぎゃる！》第二期制作决定。"
+  ],
+  "window_start": "2026-10-28T12:00:00+08:00",
+  "window_end": "2026-11-04T12:00:00+08:00",
+  "generated_at": "2026-11-04T12:18:07.834386+08:00",
+  "sources": [
+    {
+      "id": "s19",
+      "url": "https://animeanime.jp/article/2026/11/04/104465.html",
+      "title": "センターに導いたら推しと結婚!? アニメ「私をセンターにすると誓いますか？」キービジュアル＆ティザーPV公開",
+      "published_at": "2026-11-04T12:00:07+09:00"
+    },
+    {
+      "id": "s39",
+      "url": "https://natalie.mu/comic/news/695735",
+      "title": "「ヴァンガード」新アニメ「ベールリフト」2027年放送、「ごみぎゃ」2期も決定（動画あり）",
+      "published_at": "2026-10-29T11:00:00+09:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "galgame",
+      "name": "Galgame",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "anime",
+      "name": "新番播出与情报",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "私をセンターにすると誓いますか？|公开主视觉图及Teaser PV|动画",
+          "title": "《私をセンターにすると誓いますか？》公开主视觉与Teaser PV，将在东京电视台系列播出",
+          "summary": "动画《私をセンターにすると誓いますか？》于11月4日公开主视觉图和Teaser PV，并宣布在东京电视台系列6局网络播出。监督岸诚二，动画制作TEAM TillDawn，系列构成柿原优子，角色设计森田和明；原作若月ジュン漫画累计发行突破20万部。",
+          "published_at": "2026-11-04T11:00:07+08:00",
+          "follow_up": true,
+          "new_facts": "《私をセンターにすると誓いますか？》确定东京电视台系列6局网络播出；公开主视觉图、Teaser PV、岸诚二监督、TEAM TillDawn制作及主要声优、主题歌情报。",
+          "verification": "single_source",
+          "limitations": "所据为アニメ！アニメ！报道，非官方公告原文；报道未给出具体开播日期，也未提供可核实的社区评价样本。",
+          "facts": [
+            {
+              "text": "动画《私をセンターにすると誓いますか？》11月4日宣布将在东京电视台系列6局网络播出，并公开主视觉图与Teaser PV。监督为岸诚二，动画制作TEAM TillDawn，系列构成柿原优子，角色设计森田和明。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "TVアニメ『私をセンターにすると誓いますか？』が、テレ東系列6局ネットにて放送されることがわかった。これに伴いキービジュアルとティザーPVが公開。岸誠二監督らスタッフ、および三川華月、木村太飛、菅野真衣、安齋由香里らメインキャストの情報も一挙に発表された。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "岸誠二監督のもと、アニメーション制作はTEAM TillDawnが手掛ける。シリーズ構成には柿原優子、キャラクターデザインには森田和明が名を連ねる。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "原作是若月ジュン在讲谈社漫画应用「マガポケ」连载的作品，讲述国民偶像团体最底层成员与唯一粉丝联手冲击中心位的“日本梦”故事，累计发行突破20万部，最新第6卷在售。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "若月ジュンが講談社のマンガアプリ「マガポケ」にて連載中のマンガを原作とするTVアニメだ。アイドルとその唯一のファンがタッグを組み、「センター」を目指す“ジャパニーズドリーム”ストーリーを描く。累計発行部数は20万部を突破し、コミックスは最新第6巻が発売中だ。"
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            },
+            {
+              "text": "三川华月、木村太飞、菅野真衣、安齋由香里分别饰演夏野瑞希、奥田幸一、白井淡雪、福羽初音，主题歌由ユイカ演唱《何者でもなかった私だから》。报道未给出具体开播日期。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "夏野瑞希役を三川華月、そんな瑞希を推す高校生の奥田幸一役を木村太飛が務める。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "さらに、メルスト1列目・苺メンバーにしてグループNo.1の不動のセンターである白井淡雪役は菅野真衣、メルスト3列目のメンバーで面倒見がよくメンバーの世話をよく焼く福羽初音役は安齋由香里が演じる。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "各キャストと主題歌「何者でもなかった私だから」を歌うユイカからコメントも寄せられた。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "公开报道只确认在东京电视台系列6局网络播出，未提及日本以外地区的配信安排；本次可追溯来源中也未见足以分类的正片、预告或原作评价样本。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "TVアニメ『私をセンターにすると誓いますか？』は、テレ東系列6局ネットにて放送される。今後のさらなる続報を楽しみに待ちたい。"
+                }
+              ],
+              "kind": "limitation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "私をセンターにすると誓いますか？",
+            "动画"
+          ],
+          "bilingual": {
+            "title_en": "Anime 'Watashi o Center ni Suru to Chikaimasu ka?' Reveals Main Visual and Teaser PV, Set to Air on TV Tokyo Network",
+            "sentences": [
+              {
+                "en": "The anime 'Watashi o Center ni Suru to Chikaimasu ka?' announced on November 4 that it will air on the six-station TV Tokyo network and unveiled its main visual and teaser PV.",
+                "zh": "动画《私をセンターにすると誓いますか？》11月4日宣布将在东京电视台系列6局网络播出，并公开主视觉图与Teaser PV。"
+              },
+              {
+                "en": "The director is Seiji Kishi, the animation production is by TEAM TillDawn, the series composition is by Yuko Kakihara, and the character design is by Kazuaki Morita.",
+                "zh": "监督为岸诚二，动画制作TEAM TillDawn，系列构成柿原优子，角色设计森田和明。"
+              },
+              {
+                "en": "The original work is by Jun Wakatsuki, serialized on Kodansha's manga app 'Magapoke'; it tells a 'Japanese dream' story in which the lowest-ranking member of a national idol group and their only fan join forces to aim for the center position, with cumulative circulation exceeding 200,000 copies and the latest sixth volume on sale.",
+                "zh": "原作是若月ジュン在讲谈社漫画应用「マガポケ」连载的作品，讲述国民偶像团体最底层成员与唯一粉丝联手冲击中心位的“日本梦”故事，累计发行突破20万部，最新第6卷在售。"
+              },
+              {
+                "en": "Mikawa Haruki, Kimura Taiki, Kanno Mai, and Anzai Yukari play Natsuno Mizuki, Okuda Koichi, Shirai Awayuki, and Fukuba Hatsune respectively, and the theme song is performed by Yuika, 'Nanimono de mo Nakatta Watashi Dakara'.",
+                "zh": "三川华月、木村太飞、菅野真衣、安齋由香里分别饰演夏野瑞希、奥田幸一、白井淡雪、福羽初音，主题歌由ユイカ演唱《何者でもなかった私だから》。"
+              },
+              {
+                "en": "The report did not provide a specific broadcast start date.",
+                "zh": "报道未给出具体开播日期。"
+              },
+              {
+                "en": "The public report only confirms that it will air on the six-station TV Tokyo network and does not mention streaming arrangements outside Japan; no samples of the main anime, trailer, or original-work reviews sufficient for classification were found in the traceable sources available for this report.",
+                "zh": "公开报道只确认在东京电视台系列6局网络播出，未提及日本以外地区的配信安排；本次可追溯来源中也未见足以分类的正片、预告或原作评价样本。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "カードファイト!! ヴァンガード|新动画放送及二期决定|ベールリフト、ごみぎゃ",
+          "title": "《卡片战斗!! 先导者》新动画《ベールリフト》2027年播出，《ごーすと・みーつ・ぎゃる！》第二期决定",
+          "summary": "《卡片战斗!! 先导者》新动画《ベールリフト》将于2027年播出，为系列15周年纪念作品，伊藤彰担任角色原案/原作，キネマシトラス制作。同场宣布《ごーすと・みーつ・ぎゃる！》第二期制作决定。",
+          "published_at": "2026-10-29T10:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "《ベールリフト》2027年播出、15周年纪念、キネマシトラス制作；《ごーすと・みーつ・ぎゃる！》第二期制作决定。",
+          "verification": "single_source",
+          "limitations": "所据为コミックナタリー报道；具体播出平台与地区未在报道中说明，社区互动仅见2条评论，样本不足以概括评价。",
+          "facts": [
+            {
+              "text": "《卡片战斗!! 先导者》新电视动画《ベールリフト》将于2027年播出，作为系列15周年纪念作品。角色原案与原作由伊藤彰担任，动画制作继续由キネマシトラス负责，消息在「ブシロードTCG战略发表会2026 秋」公布，Teaser PV同步公开。报道未提及具体播出平台与地区。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "「カードファイト!! ヴァンガード」の新シリーズ「カードファイト!! ヴァンガード ベールリフト」が、2027年に放送される。"
+                },
+                {
+                  "source_id": "s39",
+                  "quote": "「ヴァンガード」15周年記念作品として制作されるTVアニメシリーズ。"
+                },
+                {
+                  "source_id": "s39",
+                  "quote": "キャラクター原案・原作は、「ヴァンガード」の原作者・ 伊藤彰 、アニメーション制作は、「Divinez」シリーズに引き続きキネマシトラスが担当する。この情報は「ブシロードTCG戦略発表会2026 秋」で発表されたもの。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "同场活动还宣布《ごーすと・みーつ・ぎゃる！》第二期制作决定，原作カエルDX，森井ケンシロウ监督的评论已公开。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "また配信では、カエルDX原作によるアニメ「ごーすと・みーつ・ぎゃる！」2期の制作決定も発表された。配信ではカエルDXと、 森井ケンシロウ 監督のコメントも公開されている。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该报道页面仅显示2条评论，样本不足以分类为正片、预告或原作评价。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "記事へのコメント （2件）"
+                }
+              ],
+              "kind": "community",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "カードファイト!! ヴァンガード",
+            "ベールリフト",
+            "ごみぎゃ"
+          ],
+          "bilingual": {
+            "title_en": "New 'Cardfight!! Vanguard' Anime 'ベールリフト' to Air in 2027; 'ごーすと・みーつ・ぎゃる！' Season 2 Announced",
+            "sentences": [
+              {
+                "en": "The new 'Cardfight!! Vanguard' TV anime 'ベールリフト' will air in 2027 as a 15th-anniversary work for the series.",
+                "zh": "《卡片战斗!! 先导者》新电视动画《ベールリフト》将于2027年播出，作为系列15周年纪念作品。"
+              },
+              {
+                "en": "Akira Ito is credited with the original character concepts and original work, Kinema Citrus continues to handle animation production, and the news was announced at the 'Bushiroad TCG Strategy Presentation 2026 Autumn,' with a teaser PV released at the same time.",
+                "zh": "角色原案与原作由伊藤彰担任，动画制作继续由キネマシトラス负责，消息在「ブシロードTCG战略发表会2026 秋」公布，Teaser PV同步公开。"
+              },
+              {
+                "en": "The report does not mention specific broadcast platforms or regions.",
+                "zh": "报道未提及具体播出平台与地区。"
+              },
+              {
+                "en": "At the same event, a second season of 'ごーすと・みーつ・ぎゃる！' was also announced as greenlit, and comments from original creator Kaeru DX and director Kenshiro Morii have been released.",
+                "zh": "同场活动还宣布《ごーすと・みーつ・ぎゃる！》第二期制作决定，原作カエルDX，森井ケンシロウ监督的评论已公开。"
+              },
+              {
+                "en": "The report page shows only two comments, a sample insufficient to classify them as main-story, trailer, or original-work reviews.",
+                "zh": "该报道页面仅显示2条评论，样本不足以分类为正片、预告或原作评价。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "edition": "acgn-c47fb381c2",
+  "coverage_notes": []
+}
