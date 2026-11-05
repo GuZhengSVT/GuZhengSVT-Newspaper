@@ -1,0 +1,478 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-05",
+  "title": "2026-11-05 ACGN",
+  "summary": "本期ACGN日报收录《World of Warcraft: Forever》开启服务、《塞尔达传说：时之笛》重制版定于11月5日发售及截至发稿前Metacritic均分96、《God of War Laufey》延期至2027年5月20日，以及《MASHLE》真人电影主演与导演公布。",
+  "highlights": [
+    "《World of Warcraft: Forever》开启服务，基于2004年原版重构；新种族Skyborne需购买升级包使用。",
+    "Switch 2《塞尔达传说：时之笛》重制版定于11月5日发售，Metacritic截至发稿前均分96。",
+    "据Gematsu与4Gamer报道，《God of War Laufey》延期至2027年5月20日。",
+    "《MASHLE》真人电影定档2027年3月19日，前田真剑佑主演。"
+  ],
+  "window_start": "2026-11-04T12:00:00+08:00",
+  "window_end": "2026-11-05T12:00:00+08:00",
+  "generated_at": "2026-11-05T12:16:13.613414+08:00",
+  "edition": "acgn",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Blizzard Entertainment|正式上线|World of Warcraft: Forever",
+          "title": "《World of Warcraft: Forever》正式上线，基于2004年原版重构",
+          "summary": "据4Gamer报道，暴雪娱乐于11月5日开启《World of Warcraft: Forever》服务。该版本以2004年原版世界为基础重构，新增区域和1000多个任务，新种族Skyborne需购买升级包使用；4Gamer将其列在PC/MMO栏目。",
+          "published_at": "2026-11-05T11:45:03+08:00",
+          "follow_up": false,
+          "new_facts": "《World of Warcraft: Forever》开启服务；新增Skyborne种族需购买升级包使用、新区域和1000多个任务；基础游戏可用现有订阅或游戏时间游玩；12月9日开放三个团队副本；4Gamer列在PC/MMO栏目。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据4Gamer报道，暴雪娱乐于2026年11月5日正式开启《World of Warcraft: Forever》服务，并发布上线预告。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "Blizzard Entertainmentは本日（2026年11月5日），MMORPG「 World of Warcraft: Forever 」の 正式サービスを開始 し，ローンチトレイラーを公開した。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该版本以2004年原版《魔兽世界》的世界为基础重构，加入新区域和1000多个任务，并与现有《魔兽世界》及《World of Warcraft Classic》分开，作为长期版本运营；新种族Skyborne需购买升级包才能使用。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "2004年に登場したオリジナル版の世界を再構築し，新たな物語やコンテンツを追加したMMORPGだ。"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "新種族 「Skyborne」 がアップグレードパックの購入で使用可能になる。"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "1000以上の新クエストが追加された。"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "既存の 「World of Warcraft」 や 「World of Warcraft Classic」 とは別に恒久的なサービスとして運営される"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "基础游戏可用现有《魔兽世界》订阅或游戏时间游玩，暴雪另售含各种特典的升级包。报道还称，12月9日将开放三个团队副本，之后继续追加地下城、PvP和任务。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "通常の「World of Warcraft」のサブスクリプションまたはゲームタイムでプレイでき，各種特典を収録したアップグレードパックも販売されている。"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "12月9日には3つのレイドが開放され，その後もダンジョンやPvPコンテンツ，新たなクエストなどが継続的に追加される予定だ。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "4Gamer将该作列在PC/MMO栏目，报道范围未涉及支持语言与地区。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "トップ > PC > MMO > World of Warcraft: Forever"
+                }
+              ],
+              "kind": "limitation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Blizzard Entertainment",
+            "World of Warcraft: Forever"
+          ],
+          "limitations": "仅依据4Gamer一篇报道，未直接取得暴雪官方公告；平台栏目来自4Gamer页面，语言与地区未在报道中列出。",
+          "bilingual": {
+            "title_en": "World of Warcraft: Forever Officially Launches, Rebuilt on the 2004 Original",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, Blizzard Entertainment officially launched the World of Warcraft: Forever service on November 5, 2026, and released a launch trailer.",
+                "zh": "据4Gamer报道，暴雪娱乐于2026年11月5日正式开启《World of Warcraft: Forever》服务，并发布上线预告。"
+              },
+              {
+                "en": "The version is rebuilt on the world of the 2004 original World of Warcraft, adds new areas and more than 1,000 quests, and operates as a long-term version separate from the existing World of Warcraft and World of Warcraft Classic; the new race Skyborne requires an upgrade pack to use.",
+                "zh": "该版本以2004年原版《魔兽世界》的世界为基础重构，加入新区域和1000多个任务，并与现有《魔兽世界》及《World of Warcraft Classic》分开，作为长期版本运营；新种族Skyborne需购买升级包才能使用。"
+              },
+              {
+                "en": "The base game can be played with an existing World of Warcraft subscription or game time, and Blizzard separately sells an upgrade pack containing various bonuses.",
+                "zh": "基础游戏可用现有《魔兽世界》订阅或游戏时间游玩，暴雪另售含各种特典的升级包。"
+              },
+              {
+                "en": "The report also says that three raids will open on December 9, with dungeons, PvP, and quests to be added afterward.",
+                "zh": "报道还称，12月9日将开放三个团队副本，之后继续追加地下城、PvP和任务。"
+              },
+              {
+                "en": "4Gamer lists the title in its PC/MMO section, and the report's scope does not cover supported languages or regions.",
+                "zh": "4Gamer将该作列在PC/MMO栏目，报道范围未涉及支持语言与地区。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Nintendo|发售|塞尔达传说：时之笛 重制版",
+          "title": "《塞尔达传说：时之笛》重制版定于11月5日发售，Metacritic截至发稿前均分96",
+          "summary": "机核汇总称，Switch 2《塞尔达传说：时之笛》重制版定于11月5日发售，截至发稿前Metacritic均分96并获“不可不玩”标记；重制包含全面翻新画面、配音过场、扩充对话与交响乐配乐。",
+          "published_at": "2026-11-05T09:20:00+08:00",
+          "follow_up": false,
+          "new_facts": "《塞尔达传说：时之笛》重制版定于11月5日发售；截至发稿前Metacritic均分96并获“不可不玩”；多家媒体评分公布；重制包含画面、配音、对话和配乐更新。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据机核11月5日汇总，Switch 2《塞尔达传说：时之笛》重制版定于11月5日发售，截至发稿前Metacritic均分96，并获“不可不玩”标记。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "随着游戏将于11月5日发售，媒体评分汇总网站 Metacritic 也汇总了各大媒体的评分。截至发稿前，本作的均分为96分。"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "本作还获得了 Metacritic 的“不可不玩”殊荣。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "汇总列出IGN 9分、GameSpot 9分、Game Informer 9.25分、Eurogamer满分、RPG Site 8分。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "IGN 给本作打出了9分。"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "GameSpot 同样给出了9分。"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "Game Informer 给出了9.25分。"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "给出满分的 Eurogamer"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "给出8分的 RPG Site"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "机核介绍，本作由Switch 2从头打造，全面翻新画面、配音过场、扩充对话并采用交响乐配乐。GameSpot评测认为跳跃键的加入影响最大，IGN也提到林克可自由冲刺与跳跃；IGN同时指出敌人设计仍停留在1998年水平、部分解谜提示过于明显。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "本作为 Switch 2 主机从头打造，带来全面翻新的画面、配音过场动画、扩充的对话与交响乐配乐。"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "跳跃键的加入影响最大"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "林克能自由冲刺与跳跃"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "敌人的设计仍停留在1998年的水平"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "部分解谜提示过于明显"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Nintendo",
+            "塞尔达传说：时之笛 重制版"
+          ],
+          "limitations": "评分汇总来自机核单篇稿件，未直接取得任天堂官方发售页；Metacritic采样媒体数量与时间未完整列出。",
+          "bilingual": {
+            "title_en": "Switch 2 Remake of The Legend of Zelda: Ocarina of Time Set for November 5 Release; Metacritic Average at 96 as of Press Time",
+            "sentences": [
+              {
+                "en": "According to a November 5 roundup by Gcores, the Switch 2 remake of The Legend of Zelda: Ocarina of Time is set for release on November 5, and as of press time it has a Metacritic average score of 96 and a “Must-Play” designation.",
+                "zh": "据机核11月5日汇总，Switch 2《塞尔达传说：时之笛》重制版定于11月5日发售，截至发稿前Metacritic均分96，并获“不可不玩”标记。"
+              },
+              {
+                "en": "The roundup lists scores of 9 from IGN, 9 from GameSpot, 9.25 from Game Informer, a perfect score from Eurogamer, and 8 from RPG Site.",
+                "zh": "汇总列出IGN 9分、GameSpot 9分、Game Informer 9.25分、Eurogamer满分、RPG Site 8分。"
+              },
+              {
+                "en": "Gcores said the game was built from the ground up for Switch 2, with fully overhauled visuals, voiced cutscenes, expanded dialogue, and a symphonic soundtrack.",
+                "zh": "机核介绍，本作由Switch 2从头打造，全面翻新画面、配音过场、扩充对话并采用交响乐配乐。"
+              },
+              {
+                "en": "GameSpot’s review found the addition of a jump button to have the greatest impact, while IGN also noted that Link can freely sprint and jump; IGN further pointed out that the enemy design remains at the level of 1998 and that some puzzle hints are too obvious.",
+                "zh": "GameSpot评测认为跳跃键的加入影响最大，IGN也提到林克可自由冲刺与跳跃；IGN同时指出敌人设计仍停留在1998年水平、部分解谜提示过于明显。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Santa Monica Studio|延期|God of War Laufey",
+          "title": "《God of War Laufey》延期至2027年5月20日",
+          "summary": "据Gematsu与4Gamer报道，索尼互动娱乐与Santa Monica Studio宣布，PS5《God of War Laufey》从2027年2月16日延期至2027年5月20日；工作室称将利用这段时间做最后打磨。",
+          "published_at": "2026-11-05T01:05:55+08:00",
+          "follow_up": false,
+          "new_facts": "《God of War Laufey》发售日从2027年2月16日推迟至2027年5月20日；主角为奎托斯之妻、阿特柔斯之母劳菲；4Gamer列出PS5版售价8980日元（含税）。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据Gematsu与4Gamer报道，索尼互动娱乐与Santa Monica Studio于11月4日宣布，将PS5《God of War Laufey》的发售日从2027年2月16日推迟到2027年5月20日。工作室称，延期是为了利用这段时间做最后打磨，把游戏完成度推到最高。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "Publisher Sony Interactive Entertainment and developer Santa Monica Studio have delayed God of War Laufey from its previously planned February 16, 2027 release date to May 20."
+                },
+                {
+                  "source_id": "s2",
+                  "quote": "we’ve made the decision to delay God of War Laufey ‘s release to May 20, 2027. We will make the most of each moment until then by putting in the finishing touches and pushing the game to its fullest potential."
+                },
+                {
+                  "source_id": "s10",
+                  "quote": "当初予定していた2027年2月16日から 2027年5月20日 に延期すると発表した"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "本作以奎托斯之妻、阿特柔斯之母劳菲（菲）为主角。她在死后醒来，得知奎托斯和阿特柔斯陷入危机，为救家人前往神明死后的世界“常世之国”。",
+              "evidence": [
+                {
+                  "source_id": "s10",
+                  "quote": "クレイトスの妻であり，アトレウスの母でもある戦士 ラウフェイ（フェイ） が主人公を務める。"
+                },
+                {
+                  "source_id": "s10",
+                  "quote": "自身の死後，見知らぬ土地で目を覚ましたフェイは，クレイトスとアトレウスが危機にさらされていることを知る。"
+                },
+                {
+                  "source_id": "s10",
+                  "quote": "神々の死後の世界 「常世の國」 を突き進んでいく。"
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            },
+            {
+              "text": "4Gamer列出本作为PS5软件，售价8980日元（含税），报道未说明支持语言与地区。",
+              "evidence": [
+                {
+                  "source_id": "s10",
+                  "quote": "PS5 向けソフト 「ゴッド・オブ・ウォー ラウフェイ」"
+                },
+                {
+                  "source_id": "s10",
+                  "quote": "価格：8980円（税込）"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Santa Monica Studio",
+            "Sony Interactive Entertainment",
+            "God of War Laufey"
+          ],
+          "limitations": "延期信息经Gematsu与4Gamer转述同一Santa Monica Studio公告，未直接取得公告全文；4Gamer列出PS5版售价8980日元（含税），报道未说明支持语言与地区。",
+          "bilingual": {
+            "title_en": "God of War Laufey Delayed to May 20, 2027",
+            "sentences": [
+              {
+                "en": "According to Gematsu and 4Gamer, Sony Interactive Entertainment and Santa Monica Studio announced on November 4 that the PS5 release of God of War Laufey has been delayed from February 16, 2027, to May 20, 2027.",
+                "zh": "据Gematsu与4Gamer报道，索尼互动娱乐与Santa Monica Studio于11月4日宣布，将PS5《God of War Laufey》的发售日从2027年2月16日推迟到2027年5月20日。"
+              },
+              {
+                "en": "The studio said the delay is to use the time for final polish and bring the game's level of completion to the highest possible.",
+                "zh": "工作室称，延期是为了利用这段时间做最后打磨，把游戏完成度推到最高。"
+              },
+              {
+                "en": "The game stars Laufey (Faye), Kratos's wife and Atreus's mother.",
+                "zh": "本作以奎托斯之妻、阿特柔斯之母劳菲（菲）为主角。"
+              },
+              {
+                "en": "She wakes after death, learns that Kratos and Atreus are in crisis, and travels to “Tokoyo no Kuni,” the world after the gods' death, to save her family.",
+                "zh": "她在死后醒来，得知奎托斯和阿特柔斯陷入危机，为救家人前往神明死后的世界“常世之国”。"
+              },
+              {
+                "en": "4Gamer lists the title as PS5 software priced at 8,980 yen (tax included); the report did not state supported languages or regions.",
+                "zh": "4Gamer列出本作为PS5软件，售价8980日元（含税），报道未说明支持语言与地区。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "マッシュル|实拍电影化|実写映画「マッシュル」",
+          "title": "《MASHLE》真人电影公布主演前田真剑佑与导演福田雄一",
+          "summary": "AnimeAnime报道，漫画《マッシュル-MASHLE-》将改编为真人电影，2027年3月19日上映，前田真剑佑饰演主角马修·班迪德，福田雄一执导。",
+          "published_at": "2026-11-05T11:02:28+08:00",
+          "follow_up": false,
+          "new_facts": "《マッシュル-MASHLE-》真人电影定档2027年3月19日；前田真剑佑饰演马修·班迪德；福田雄一执导；华纳兄弟电影与富士电视台制作，东宝发行。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据AnimeAnime报道，漫画《マッシュル-MASHLE-》将改编为真人电影，2027年3月19日在日本上映。11月4日公布真人化消息后，11月5日进一步公布前田真剑佑饰演主角马修·班迪德，福田雄一执导，并首次公开特报和先导视觉图。",
+              "evidence": [
+                {
+                  "source_id": "s40",
+                  "quote": "マンガ『マッシュル-MASHLE-』が実写映画化され、2027年3月19日に公開される。"
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "主人公マッシュ・バーンデッド役を前田真剣佑が演じることが明らかになった。"
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "福田雄一が監督を務めることもわかった。"
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "ティザービジュアルと超特報映像が初お披露目され"
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "昨日4日に実写化が発表された本作だが"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "原作由甲本一创作，2020年至2023年在《周刊少年Jump》连载，全球累计发行1200万册。电影由华纳兄弟电影和富士电视台担任制作干事，CREDEUS负责制作，东宝发行。",
+              "evidence": [
+                {
+                  "source_id": "s40",
+                  "quote": "2020年1月から2023年7月まで集英社「週刊少年ジャンプ」にて連載され、全世界累計発行部数は1,200万部"
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "製作幹事：ワーナー・ブラザース映画 フジテレビジョン"
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "制作プロダクション：CREDEUS"
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "●配給：東宝 Ⓒ甲本 一／集英社"
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "マッシュル（MASHLE）",
+            "実写映画「マッシュル」",
+            "前田真剣佑",
+            "福田雄一"
+          ],
+          "limitations": "仅依据AnimeAnime一篇报道，未直接取得制作委员会官方公告；中文官方译名未确认，正文保留日文原名。",
+          "bilingual": {
+            "title_en": "Live-Action MASHLE Film Announces Mackenyu Maeda as Lead and Yuichi Fukuda as Director",
+            "sentences": [
+              {
+                "en": "According to AnimeAnime, the manga MASHLE will be adapted into a live-action film, which will be released in Japan on March 19, 2027.",
+                "zh": "据AnimeAnime报道，漫画《マッシュル-MASHLE-》将改编为真人电影，2027年3月19日在日本上映。"
+              },
+              {
+                "en": "After the live-action adaptation was announced on November 4, it was announced on November 5 that Mackenyu Maeda will play the protagonist Mash Burnedead and Yuichi Fukuda will direct, with the first teaser trailer and teaser visual also unveiled.",
+                "zh": "11月4日公布真人化消息后，11月5日进一步公布前田真剑佑饰演主角马修·班迪德，福田雄一执导，并首次公开特报和先导视觉图。"
+              },
+              {
+                "en": "The original work was created by Hajime Komoto and serialized in Weekly Shonen Jump from 2020 to 2023, with a cumulative circulation of 12 million copies worldwide.",
+                "zh": "原作由甲本一创作，2020年至2023年在《周刊少年Jump》连载，全球累计发行1200万册。"
+              },
+              {
+                "en": "Warner Bros. Films and Fuji Television serve as production committee members, CREDEUS is responsible for production, and Toho will distribute the film.",
+                "zh": "电影由华纳兄弟电影和富士电视台担任制作干事，CREDEUS负责制作，东宝发行。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s8",
+      "url": "https://www.4gamer.net/games/042/G104263/20261105011/",
+      "title": "「World of Warcraft: Forever」が正式ローンチ。2004年のオリジナル版を再構築し，新種族や1000以上のクエストを追加した恒久的な新バージョン",
+      "published_at": "2026-11-05T12:45:03+09:00"
+    },
+    {
+      "id": "s34",
+      "url": "https://www.gcores.com/articles/221950",
+      "title": "均分96：《塞尔达传说：时之笛》重制版媒体评分汇总",
+      "published_at": "2026-11-05T09:20:00+08:00"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.gematsu.com/2026/11/god-of-war-laufey-delayed-to-may-20-2027",
+      "title": "God of War Laufey delayed to May 20, 2027",
+      "published_at": "2026-11-04T17:05:55+00:00"
+    },
+    {
+      "id": "s40",
+      "url": "https://animeanime.jp/article/2026/11/05/104494.html",
+      "title": "実写映画「マッシュル」主人公マッシュ役は前田真剣佑！福田雄一が監督　超特報が初お披露目",
+      "published_at": "2026-11-05T12:02:28+09:00"
+    },
+    {
+      "id": "s10",
+      "url": "https://www.4gamer.net/games/012/G101200/20261105008/",
+      "title": "「ゴッド・オブ・ウォー ラウフェイ」，発売が2027年5月20日に延期。クレイトスの妻フェイが神々の死後の世界を突き進むシリーズ最新作",
+      "published_at": "2026-11-05T12:25:23+09:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}

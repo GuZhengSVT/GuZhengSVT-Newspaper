@@ -1,0 +1,254 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-05",
+  "title": "2026-11-05 科技",
+  "summary": "本期人工智能板块收录两条：OpenAI上线GPT-Image-2.6图像模型，整体生成提速50%，Flare低画质档下单图最快6秒，新增GIF、SVG和API参数拆分；OpenAI称用未发布网络安全模型在Linux内核发现948个本地提权漏洞并提出补丁建议。",
+  "highlights": [
+    "OpenAI上线GPT-Image-2.6，整体生成提速50%，Flare低画质档下单图最快6秒，支持GIF与SVG导出。",
+    "OpenAI称用未发布网络安全模型在Linux内核发现948个本地提权漏洞，成本约120万美元。"
+  ],
+  "window_start": "2026-11-04T12:00:00+08:00",
+  "window_end": "2026-11-05T12:00:00+08:00",
+  "generated_at": "2026-11-05T12:03:21.139941+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "OpenAI|发布|Images 2.6",
+          "title": "OpenAI上线GPT-Image-2.6，支持GIF与SVG导出",
+          "summary": "量子位报道GPT-Image-2.6全量上线，整体生成提速50%，Flare低画质档下单图最快6秒，新增GIF、SVG和API参数拆分。",
+          "published_at": "2026-11-05T09:59:37+08:00",
+          "follow_up": false,
+          "new_facts": "GPT-Image-2.6在ChatGPT、Codex和API全量上线；整体生成时间缩短50%；Flare在低画质档位下单图最快6秒；原生GIF；SVG导出；API新增complexity参数并区分Flare/Sunburst型号。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据量子位11月5日报道，OpenAI的GPT-Image-2.6已在ChatGPT、Codex和API全量上线，免费与付费用户均可使用。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "目前，GPT-Image-2.6在ChatGPT、Codex以及API中全量上线，全线免费及付费用户均可直接使用。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道称该版本整体生成时间缩短50%；其中Flare型号在低画质档位下单张图生成时间最快6秒。该版本原生支持GIF动图，并可导出SVG矢量格式。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "整体生成时间缩短50%"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "原生支持生成GIF动图；支持直接导出SVG矢量格式。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Flare主打速度和排版 ，专门针对海报和电商产品图等商业视觉做布局优化，在低画质档位下单张图的生成时间硬是被压缩到了6秒。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "API端首次分出Flare和Sunburst两个型号，并把场景规划复杂度与画质拆成独立参数；Flare侧重速度和排版，Sunburst在中等和高画质档位下提供更高细节精度。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "OpenAI在API中首次把模型的“场景规划脑力”和“像素渲染画质”拆成了两个独立参数"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "这次GPT-Image-2.6的API端首次分出了两个具体型号，分别是Flare和Sunburst。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Flare主打速度和排版 ，专门针对海报和电商产品图等商业视觉做布局优化"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Sunburst则负责啃硬骨头 ，在中等和高画质档位下提供更高的细节精度"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "OpenAI",
+            "Images 2.6",
+            "GPT-Image-2.6"
+          ],
+          "limitations": "来源为量子位报道，未直接取得OpenAI原文；性能与可用范围来自该报道转述，缺少独立测试。",
+          "bilingual": {
+            "title_en": "OpenAI rolls out GPT-Image-2.6 with GIF and SVG export",
+            "sentences": [
+              {
+                "en": "According to a November 5 report by QbitAI, OpenAI's GPT-Image-2.6 has been fully rolled out on ChatGPT, Codex and the API and is available to both free and paid users.",
+                "zh": "据量子位11月5日报道，OpenAI的GPT-Image-2.6已在ChatGPT、Codex和API全量上线，免费与付费用户均可使用。"
+              },
+              {
+                "en": "The report said the version cuts overall generation time by 50%; in the low-quality tier, the Flare model can generate a single image in as little as 6 seconds.",
+                "zh": "报道称该版本整体生成时间缩短50%；其中Flare型号在低画质档位下单张图生成时间最快6秒。"
+              },
+              {
+                "en": "This version natively supports animated GIFs and can export SVG vector format.",
+                "zh": "该版本原生支持GIF动图，并可导出SVG矢量格式。"
+              },
+              {
+                "en": "On the API side, it is the first time the offering has been divided into two models, Flare and Sunburst, and scene-planning complexity and image quality have been split into independent parameters; Flare focuses on speed and layout, while Sunburst provides higher detail precision in the medium- and high-quality tiers.",
+                "zh": "API端首次分出Flare和Sunburst两个型号，并把场景规划复杂度与画质拆成独立参数；Flare侧重速度和排版，Sunburst在中等和高画质档位下提供更高细节精度。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "OpenAI|发现并生成补丁|Linux 内核 948 个本地提权漏洞",
+          "title": "OpenAI称在Linux内核发现948个提权漏洞并提出补丁建议",
+          "summary": "量子位报道OpenAI用未发布网络安全模型搭建流水线，在Linux内核锁定948个本地提权漏洞，成本约120万美元，并提出补丁建议。",
+          "published_at": "2026-11-05T09:54:44+08:00",
+          "follow_up": false,
+          "new_facts": "OpenAI称用未发布网络安全模型在Linux内核发现948个独立本地提权漏洞；成本约120万美元；流水线复现1724个内核崩溃，命中率74.7%；已提出948个补丁建议。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据量子位11月5日报道，OpenAI称其使用一个尚未发布的网络安全模型搭建自动化流水线，在Linux内核中发现、验证并生成利用代码，最终锁定948个独立本地提权漏洞，成本约120万美元。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "OpenAI用他们一个还没发布的「网络安全模型」，跑了一条自动化的流水线，从发现漏洞、验证漏洞、写出攻击代码 （Exploit） ……"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "最终，花费 120万美元 ，揪出了 948个 能让普通用户直接拿到最高管理员 （root） 权限的严重漏洞"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "在合并同类变体后，锁定了 948个独立的本地提权漏洞 。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道给出的流程是：先筛出约280万行高价值代码，12小时内提交2308个疑似漏洞；30小时内复现1724个内核崩溃，命中率74.7%；随后写出1169个成功拿到root权限的利用，合并同类变体后得到948个。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "从4000多万行代码里，圈出了 280万行 「高价值目标」"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "12个小时，它交出了2308个「疑似漏洞」报告，耗资31.6万美元。"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "30小时之内，智能体在真实环境里成功复现了 1724个内核崩溃漏洞 ，命中率高达 74.7% 。"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "最终实打实写出了 291个信息泄露PoC ，以及 1169个成功拿到root权限的提权Exploit"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "在合并同类变体后，锁定了 948个独立的本地提权漏洞 。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道还称，OpenAI通过“Patch the Planet”项目将算力用于开源漏洞发现和修补，并已提出948个补丁建议。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "OpenAI提出了948个补丁建议"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "他们正通过「Patch the Planet」项目，把大量前沿算力以纯公益 （pro bono） 的方式投向开源生态。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "OpenAI",
+            "Linux 内核"
+          ],
+          "limitations": "来源为量子位转述OpenAI材料，未直接取得OpenAI原文；漏洞统计、成本及补丁建议未经独立核实，也未说明上游合并情况。",
+          "bilingual": {
+            "title_en": "OpenAI Says It Found 948 Linux Kernel Privilege-Escalation Vulnerabilities and Proposes Patches",
+            "sentences": [
+              {
+                "en": "According to a November 5 report by QbitAI, OpenAI said it used an unreleased cybersecurity model to build an automated pipeline that discovered, verified, and generated exploit code for vulnerabilities in the Linux kernel, ultimately identifying 948 distinct local privilege-escalation vulnerabilities at a cost of about $1.2 million.",
+                "zh": "据量子位11月5日报道，OpenAI称其使用一个尚未发布的网络安全模型搭建自动化流水线，在Linux内核中发现、验证并生成利用代码，最终锁定948个独立本地提权漏洞，成本约120万美元。"
+              },
+              {
+                "en": "The process described in the report was as follows: first, select about 2.8 million lines of high-value code and submit 2,308 suspected vulnerabilities within 12 hours; second, reproduce 1,724 kernel crashes within 30 hours, for a hit rate of 74.7%; then, write 1,169 exploits that successfully gained root privileges, and after merging similar variants, obtain 948.",
+                "zh": "报道给出的流程是：先筛出约280万行高价值代码，12小时内提交2308个疑似漏洞；30小时内复现1724个内核崩溃，命中率74.7%；随后写出1169个成功拿到root权限的利用，合并同类变体后得到948个。"
+              },
+              {
+                "en": "The report also said that OpenAI, through the \"Patch the Planet\" project, is directing compute toward discovering and patching open-source vulnerabilities and has already proposed 948 patches.",
+                "zh": "报道还称，OpenAI通过“Patch the Planet”项目将算力用于开源漏洞发现和修补，并已提出948个补丁建议。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s19",
+      "url": "https://www.qbitai.com/2026/11/507707.html",
+      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "published_at": "2026-11-05T09:59:37+08:00"
+    },
+    {
+      "id": "s20",
+      "url": "https://www.qbitai.com/2026/11/507697.html",
+      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "published_at": "2026-11-05T09:54:44+08:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
