@@ -1,0 +1,663 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-06",
+  "title": "2026-11-06 科技",
+  "summary": "本期收录7条新闻。",
+  "highlights": [
+    "Google 推出 Gemini Omni 1.2 Flash，主打15秒视频与更低定价",
+    "百度开源文心5.5 Flash Base，MoE 总参数2800亿",
+    "NVIDIA 发布 Cosmos 3 四个开放权重模型",
+    "Perplexity 推出面向工作的 AI 代理 Teammates",
+    "淘宝 MNN 开源0.3B端侧模型，iPhone 18 Pro 离线解码约350 token/s"
+  ],
+  "window_start": "2026-11-05T12:00:00+08:00",
+  "window_end": "2026-11-06T12:00:00+08:00",
+  "generated_at": "2026-11-06T12:06:33.382266+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Google|发布|Gemini Omni 1.2 Flash",
+          "title": "Google 推出 Gemini Omni 1.2 Flash，主打15秒视频与更低定价",
+          "summary": "Google 官方博客介绍 Gemini Omni 1.2 Flash，称其快速、低成本，页面标题写明支持15秒视频并降低定价。",
+          "published_at": "2026-11-06T01:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Google发布Gemini Omni 1.2 Flash，官方称快速低成本、支持15秒视频并降低定价。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "Google 官方博客介绍 Gemini Omni 1.2 Flash，称其快速、低成本，并支持更长视频片段。页面标题写明该模型支持15秒视频，并采用更低定价。",
+              "evidence": [
+                {
+                  "source_id": "s10",
+                  "quote": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+                },
+                {
+                  "source_id": "s10",
+                  "quote": "Gemini Omni 1.2 Flash: 15-second video and lower pricing"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Google",
+            "Gemini Omni 1.2 Flash"
+          ],
+          "limitations": "抓取页面仅含标题与导语，未见具体价格、速率限制和开放地区。",
+          "bilingual": {
+            "title_en": "Google Launches Gemini Omni 1.2 Flash, Highlighting 15-Second Video and Lower Pricing",
+            "sentences": [
+              {
+                "en": "Google's official blog introduced Gemini Omni 1.2 Flash, describing it as fast, low-cost, and capable of supporting longer video clips.",
+                "zh": "Google 官方博客介绍 Gemini Omni 1.2 Flash，称其快速、低成本，并支持更长视频片段。"
+              },
+              {
+                "en": "The page title states that the model supports 15-second video and uses lower pricing.",
+                "zh": "页面标题写明该模型支持15秒视频，并采用更低定价。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "百度|开源|文心5.5 Flash Base",
+          "title": "百度开源文心5.5 Flash Base，MoE 总参数2800亿",
+          "summary": "百度在 Hugging Face 开源文心5.5 Flash Base，采用 MoE 架构，官方称其在同尺寸模型多项基准上取得 SOTA。",
+          "published_at": "2026-11-05T15:15:13+08:00",
+          "follow_up": false,
+          "new_facts": "百度开源ERNIE 5.5 Flash Base，总参数2800亿、每token激活140亿，预训练用33.5万亿token，官方称同尺寸基准SOTA，并采用Latent-Gated Sparse Attention、Multi-Router Latent MoE和ECHO训练目标。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据量子位报道，百度11月5日在 Hugging Face 开源基座模型文心5.5 Flash Base（ERNIE 5.5 Flash Base）。模型采用 MoE 架构，总参数2800亿，每个 token 激活140亿，预训练使用33.5万亿 token，预训练上下文最高128K，微调与推理支持最长100万 token。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base（ERNIE 5.5 Flash Base）。模型采用MoE架构，总参数量2800亿，每个 Token 激活140亿参数，使用33.5万亿个 Token 完成预训练，预训练上下文长度最高达128K，微调与推理阶段支持最长100万 Token上下文。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "百度称，该模型在知识、推理、数学、代码、多语言和长上下文等基准上取得同尺寸模型 SOTA，超过 DeepSeek-V4-Flash-Base、Hy3-preview-Base、MiMo-V2.5-Base；这些结果来自百度提供的评测口径。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "在知识、推理、数学、代码、多语言和长上下文等多个基准测试中取得同尺寸模型 SOTA 表现，超过 DeepSeek-V4-Flash-Base、Hy3-preview-Base、MiMo-V2.5-Base 等模型。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "架构上，模型采用 Latent-Gated Sparse Attention、Multi-Router Latent MoE 和 ECHO 训练目标；百度称低秩门控注意力使门控投影权重参数减少75%。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "文心提出 Latent-Gated Sparse Attention"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "模型采用 Multi-Router Latent MoE"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "在训练目标上，模型引入 ECHO"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "低秩门控注意力（Low-Rank Gated Attention）则利用已有的低维表示计算信息门控，使门控投影权重参数减少75%"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "百度",
+            "文心5.5 Flash Base",
+            "ERNIE 5.5 Flash Base"
+          ],
+          "limitations": "性能为百度提供的评测口径，未提供独立复现；许可证细节未在抓取内容中展开。",
+          "bilingual": {
+            "title_en": "Baidu Open-Sources ERNIE 5.5 Flash Base, a 280-Billion-Parameter MoE Model",
+            "sentences": [
+              {
+                "en": "According to QbitAI, Baidu open-sourced the base model ERNIE 5.5 Flash Base on Hugging Face on November 5.",
+                "zh": "据量子位报道，百度11月5日在 Hugging Face 开源基座模型文心5.5 Flash Base（ERNIE 5.5 Flash Base）。"
+              },
+              {
+                "en": "The model uses a MoE architecture, with 280 billion total parameters, 14 billion activated per token, pretraining on 33.5 trillion tokens, a pretraining context of up to 128K, and support for up to 1 million tokens in fine-tuning and inference.",
+                "zh": "模型采用 MoE 架构，总参数2800亿，每个 token 激活140亿，预训练使用33.5万亿 token，预训练上下文最高128K，微调与推理支持最长100万 token。"
+              },
+              {
+                "en": "Baidu says the model achieves SOTA among models of the same size on benchmarks covering knowledge, reasoning, math, code, multilingual capabilities and long context, surpassing DeepSeek-V4-Flash-Base, Hy3-preview-Base and MiMo-V2.5-Base; these results come from the evaluation methodology provided by Baidu.",
+                "zh": "百度称，该模型在知识、推理、数学、代码、多语言和长上下文等基准上取得同尺寸模型 SOTA，超过 DeepSeek-V4-Flash-Base、Hy3-preview-Base、MiMo-V2.5-Base；这些结果来自百度提供的评测口径。"
+              },
+              {
+                "en": "In terms of architecture, the model uses Latent-Gated Sparse Attention, Multi-Router Latent MoE and the ECHO training objective; Baidu says low-rank gated attention reduces gating projection weight parameters by 75%.",
+                "zh": "架构上，模型采用 Latent-Gated Sparse Attention、Multi-Router Latent MoE 和 ECHO 训练目标；百度称低秩门控注意力使门控投影权重参数减少75%。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "NVIDIA|发布|Cosmos 3 开放模型",
+          "title": "NVIDIA 发布 Cosmos 3 四个开放权重模型",
+          "summary": "NVIDIA 在 Hugging Face 发布 Cosmos 3 系列四个开放权重 checkpoint，用于交互式世界模拟和多传感器驾驶场景。",
+          "published_at": "2026-11-06T03:35:16+08:00",
+          "follow_up": false,
+          "new_facts": "NVIDIA发布Cosmos 3四个开放权重checkpoint，均基于Cosmos 3 Nano、16B可训练参数，OpenMDW1.1许可允许商用和非商用；Transfer-Auto支持最多11相机视角和RGB-LiDAR联合生成。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "NVIDIA 在 Hugging Face 博客发布 Cosmos 3 系列四个开放权重 checkpoint，用于生成交互式世界模拟和多传感器、多视角驾驶场景；四个模型均为 Cosmos 3 Nano 的后训练版本，有16B可训练参数。",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "NVIDIA Cosmos world model development platform adds four new open-weight checkpoints to its Cosmos 3 model family"
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "All four models are post-trained examples of Cosmos 3 Nano and have 16B trainable parameters."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "这些模型使用 OpenMDW1.1 许可，允许商业和非商业使用；其中 Transfer-Auto 支持最多11个相机视角和联合 RGB-LiDAR 生成，Sim-Auto 是面向流式生成的变体。",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "The models use OpenMDW1.1, permitting commercial and non-commercial use under its terms."
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "up to 11 camera views"
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "supports joint RGB–LiDAR generation"
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "Sim-Auto: driving controls → streaming observations"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "NVIDIA 同时表示，后续仍需衡量这些模型在策略学习与评估中的可靠支持范围，并理解其局限。",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "These problems remain hard: the work ahead is to measure where the models faithfully support policy learning and evaluation, understand their limits, and improve where they fall short."
+                }
+              ],
+              "kind": "limitation",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "Cosmos 3",
+            "Cosmos 3 Nano"
+          ],
+          "limitations": "性能与适用边界为 NVIDIA 自述，尚未见独立评测；开放权重许可条款需以原文为准。",
+          "bilingual": {
+            "title_en": "NVIDIA Releases Four Open-Weight Cosmos 3 Models",
+            "sentences": [
+              {
+                "en": "In a Hugging Face blog post, NVIDIA released four open-weight checkpoints in the Cosmos 3 series for generating interactive world simulations and multi-sensor, multi-view driving scenes; all four models are post-trained versions of Cosmos 3 Nano and have 16B trainable parameters.",
+                "zh": "NVIDIA 在 Hugging Face 博客发布 Cosmos 3 系列四个开放权重 checkpoint，用于生成交互式世界模拟和多传感器、多视角驾驶场景；四个模型均为 Cosmos 3 Nano 的后训练版本，有16B可训练参数。"
+              },
+              {
+                "en": "These models use the OpenMDW1.1 license, which permits commercial and non-commercial use; Transfer-Auto supports up to 11 camera views and joint RGB-LiDAR generation, while Sim-Auto is a variant designed for streaming generation.",
+                "zh": "这些模型使用 OpenMDW1.1 许可，允许商业和非商业使用；其中 Transfer-Auto 支持最多11个相机视角和联合 RGB-LiDAR 生成，Sim-Auto 是面向流式生成的变体。"
+              },
+              {
+                "en": "NVIDIA also said that going forward it will still be necessary to assess the reliable scope of support these models provide in policy learning and evaluation and to understand their limitations.",
+                "zh": "NVIDIA 同时表示，后续仍需衡量这些模型在策略学习与评估中的可靠支持范围，并理解其局限。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Perplexity|发布|Teammates AI 代理",
+          "title": "Perplexity 推出面向工作的 AI 代理 Teammates",
+          "summary": "Perplexity 推出 always-on AI agents Teammates，可在工作区承担多角色，需每月200美元的 Max 订阅。",
+          "published_at": "2026-11-06T06:26:50+08:00",
+          "follow_up": false,
+          "new_facts": "Perplexity推出always-on AI agents Teammates，可承担多角色并调用已有项目、技能和记忆；每个Teammate有独立线程，需200美元/月Max订阅。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据 The Verge 报道，Perplexity 推出面向工作的 always-on AI agents“Teammates”，可在工作区承担多个角色，并调用已有项目、技能和记忆；它与 Perplexity Computer 集成。",
+              "evidence": [
+                {
+                  "source_id": "s56",
+                  "quote": "The startup’s new always-on “Teammates” can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use."
+                },
+                {
+                  "source_id": "s56",
+                  "quote": "Teammates integrate with Perplexity Computer"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "每个 Teammate 有独立线程，可在 Perplexity 应用查看进度，并在 Slack 中交互；该功能需要每月200美元的 Max 订阅。",
+              "evidence": [
+                {
+                  "source_id": "s56",
+                  "quote": "Each Teammate gets their own thread."
+                },
+                {
+                  "source_id": "s56",
+                  "quote": "keep tabs on Teammates’ progress through individual threads in the Perplexity app, as well as interact with them in Slack"
+                },
+                {
+                  "source_id": "s56",
+                  "quote": "requires a subscription to its $200 / month Max plan"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "CEO Aravind Srinivas 在 X 称，长期愿景是每个组织每人有数百个 teammates。",
+              "evidence": [
+                {
+                  "source_id": "s56",
+                  "quote": "Over time, we envision every org having hundreds of teammates working for each person"
+                },
+                {
+                  "source_id": "s56",
+                  "quote": "Perplexity CEO Aravind Srinivas says on X"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Perplexity",
+            "Teammates",
+            "Perplexity Computer"
+          ],
+          "limitations": "The Verge 报道，未见 Perplexity 官方公告全文；上线范围与数据权限细节未在报道中展开。",
+          "bilingual": {
+            "title_en": "Perplexity Launches Teammates, Always-On AI Agents for Work",
+            "sentences": [
+              {
+                "en": "According to The Verge, Perplexity has launched “Teammates,” always-on AI agents for work that can take on multiple roles in a workspace and draw on existing projects, skills, and memory; the product integrates with Perplexity Computer.",
+                "zh": "据 The Verge 报道，Perplexity 推出面向工作的 always-on AI agents“Teammates”，可在工作区承担多个角色，并调用已有项目、技能和记忆；它与 Perplexity Computer 集成。"
+              },
+              {
+                "en": "Each Teammate has its own thread, with progress viewable in the Perplexity app and interaction available in Slack; the feature requires the $200-per-month Max subscription.",
+                "zh": "每个 Teammate 有独立线程，可在 Perplexity 应用查看进度，并在 Slack 中交互；该功能需要每月200美元的 Max 订阅。"
+              },
+              {
+                "en": "CEO Aravind Srinivas said on X that the long-term vision is for every person in every organization to have hundreds of Teammates.",
+                "zh": "CEO Aravind Srinivas 在 X 称，长期愿景是每个组织每人有数百个 teammates。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "淘宝MNN团队|开源|MNN-Pocket-0.3B",
+          "title": "淘宝 MNN 开源0.3B端侧模型，iPhone 18 Pro 离线解码约350 token/s",
+          "summary": "淘宝 MNN 团队发布并开源 MNN-Pocket-0.3B，约3亿参数，称在 iPhone 18 Pro 上离线解码约350 token/s。",
+          "published_at": "2026-11-06T11:50:20+08:00",
+          "follow_up": false,
+          "new_facts": "淘宝MNN团队发布并开源MNN-Pocket-0.3B，约3亿参数、INT4部署文件173MB；团队称iPhone 18 Pro离线解码约350 token/s，iPad Pro M5峰值内存增量228MB，比Qwen3-0.6B部署体积和峰值内存增量分别少约49%和47%。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据IT之家报道，淘宝 MNN 团队发布并开源 MNN-Pocket-0.3B，约3亿参数，重点支持中英文，INT4 部署文件体积173MB。",
+              "evidence": [
+                {
+                  "source_id": "s46",
+                  "quote": "淘宝旗下 MNN 团队今日发布了 MNN-Pocket-0.3B 模型"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "约 3 亿参数、重点支持中文与英文的轻量语言模型"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "INT4 MNN 部署文件体积仅为 173MB"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "团队称，在 iPhone 18 Pro 上通过 MNN 推理引擎完全离线运行，平均解码约350 token/s；在 iPad Pro M5、Metal 后端、512 token 配置下，峰值 Metal 驻留内存较加载前增加228MB，部署体积和峰值内存增量分别比 Qwen3-0.6B 少约49%和47%。",
+              "evidence": [
+                {
+                  "source_id": "s46",
+                  "quote": "模型通过 MNN 推理引擎完全离线运行， 平均解码（Decode）速度约为 350token/s"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "在 iPad Pro M5、Metal 后端、512token 测试配置下，模型加载与推理期间的峰值 Metal 驻留内存相对加载前基线增加 228MB"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "同一测试中，Qwen3-0.6B 的部署文件体积为 340MB，峰值内存增量为 427MB。"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "部署体积减少约 49% ，峰值内存增量减少约 47%"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "技术报告评测中，英文 IFEval 得分73.20，中文 IFEval-zh 74.59，11项评测平均50.00。上述数据由团队公布。",
+              "evidence": [
+                {
+                  "source_id": "s46",
+                  "quote": "在技术报告采用的评测设置下"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "英文 IFEval 得分为 73.20 ，团队构建的中文指令遵循 IFEval-zh 得分为 74.59"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "在覆盖中英文知识、推理、数学、代码与指令遵循的 11 项评测中"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "平均得分达到 50.00"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "淘宝MNN团队",
+            "MNN-Pocket-0.3B"
+          ],
+          "limitations": "性能数据为团队公布，测试依赖特定设备、量化和上下文配置；未提供第三方复现。",
+          "bilingual": {
+            "title_en": "Taobao's MNN Open-Sources 0.3B On-Device Model, Achieving About 350 Tokens/s Offline Decoding on iPhone 18 Pro",
+            "sentences": [
+              {
+                "en": "According to IT Home, the Taobao MNN team released and open-sourced MNN-Pocket-0.3B, which has about 300 million parameters, focuses on Chinese and English support, and has an INT4 deployment file size of 173 MB.",
+                "zh": "据IT之家报道，淘宝 MNN 团队发布并开源 MNN-Pocket-0.3B，约3亿参数，重点支持中英文，INT4 部署文件体积173MB。"
+              },
+              {
+                "en": "The team said that on the iPhone 18 Pro it runs completely offline through the MNN inference engine, with average decoding at about 350 tokens/s; on the iPad Pro M5, with the Metal backend and a 512-token configuration, peak Metal resident memory increased by 228 MB compared with before loading, and the deployment size and peak memory increase were about 49% and 47% lower than those of Qwen3-0.6B, respectively.",
+                "zh": "团队称，在 iPhone 18 Pro 上通过 MNN 推理引擎完全离线运行，平均解码约350 token/s；在 iPad Pro M5、Metal 后端、512 token 配置下，峰值 Metal 驻留内存较加载前增加228MB，部署体积和峰值内存增量分别比 Qwen3-0.6B 少约49%和47%。"
+              },
+              {
+                "en": "In the evaluations in the technical report, it scored 73.20 on English IFEval, 74.59 on Chinese IFEval-zh, and an average of 50.00 across 11 evaluations.",
+                "zh": "技术报告评测中，英文 IFEval 得分73.20，中文 IFEval-zh 74.59，11项评测平均50.00。"
+              },
+              {
+                "en": "The above figures were published by the team.",
+                "zh": "上述数据由团队公布。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "CesiumAstro|完成|7.3亿美元D轮融资并公布Synchronicity星座",
+          "title": "CesiumAstro 完成7.3亿美元D轮并公布737颗卫星星座",
+          "summary": "CesiumAstro 完成7.3亿美元D轮融资，估值超45亿美元，并公布737颗AI增强卫星星座 Synchronicity。",
+          "published_at": "2026-11-06T05:45:00+08:00",
+          "follow_up": false,
+          "new_facts": "CesiumAstro完成7.3亿美元D轮，估值超45亿美元，2026年融资总额超12亿美元；公布计划中的737颗AI增强卫星星座Synchronicity；首颗卫星Element-1已发射并开始在轨运行。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据SpaceNews刊发的CesiumAstro公告，公司完成7.3亿美元D轮融资，估值超过45亿美元，由Janus Henderson领投；公司称2026年公布融资总额超过12亿美元。",
+              "evidence": [
+                {
+                  "source_id": "s26",
+                  "quote": "today announced the closing of $730 million in Series D financing, valuing the company at more than $4.5 billion."
+                },
+                {
+                  "source_id": "s26",
+                  "quote": "The equity round was led by Janus Henderson"
+                },
+                {
+                  "source_id": "s26",
+                  "quote": "The financing brings CesiumAstro’s total capital announced in 2026 to more than $1.2 billion"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "公司同时公布 Synchronicity 计划：一个由737颗AI增强卫星组成的星座，面向商业、主权和国防任务。",
+              "evidence": [
+                {
+                  "source_id": "s26",
+                  "quote": "a planned 737-satellite, AI-enabled constellation for commercial, sovereign, and defense missions"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "CesiumAstro 称首颗卫星 Element-1 已发射并开始在轨运行；新资金将用于先进技术、扩大美国制造能力、下一代航天器开发与生产、Synchronicity 部署和国际增长。公司还计划五年投资5亿美元扩建奥斯汀总部。",
+              "evidence": [
+                {
+                  "source_id": "s26",
+                  "quote": "The announcement follows the launch of CesiumAstro’s first satellite Element-1, and the start of its on-orbit operations."
+                },
+                {
+                  "source_id": "s26",
+                  "quote": "The new capital will support advanced technologies, expansion of U.S. manufacturing capacity, development and production of next-generation spacecraft, Synchronicity deployment, and international growth."
+                },
+                {
+                  "source_id": "s26",
+                  "quote": "a $500 million investment over five years to expand its Austin-area headquarters"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "CesiumAstro",
+            "Synchronicity",
+            "Element-1"
+          ],
+          "limitations": "信息来自 SpaceNews 刊发的 CesiumAstro 公告，融资条款、星座时间表和客户未披露；星座仍为计划。",
+          "bilingual": {
+            "title_en": "CesiumAstro Closes $730 Million Series D, Unveils 737-Satellite Constellation",
+            "sentences": [
+              {
+                "en": "According to a CesiumAstro announcement published by SpaceNews, the company has completed a $730 million Series D at a valuation of more than $4.5 billion, led by Janus Henderson; the company said it announced more than $1.2 billion in total funding in 2026.",
+                "zh": "据SpaceNews刊发的CesiumAstro公告，公司完成7.3亿美元D轮融资，估值超过45亿美元，由Janus Henderson领投；公司称2026年公布融资总额超过12亿美元。"
+              },
+              {
+                "en": "The company also announced the Synchronicity plan: a constellation of 737 AI-enhanced satellites for commercial, sovereign, and defense missions.",
+                "zh": "公司同时公布 Synchronicity 计划：一个由737颗AI增强卫星组成的星座，面向商业、主权和国防任务。"
+              },
+              {
+                "en": "CesiumAstro said its first satellite, Element-1, has been launched and has begun operating in orbit; the new funding will be used for advanced technologies, expanding U.S. manufacturing capacity, next-generation spacecraft development and production, Synchronicity deployment, and international growth.",
+                "zh": "CesiumAstro 称首颗卫星 Element-1 已发射并开始在轨运行；新资金将用于先进技术、扩大美国制造能力、下一代航天器开发与生产、Synchronicity 部署和国际增长。"
+              },
+              {
+                "en": "The company also plans to invest $500 million over five years to expand its Austin headquarters.",
+                "zh": "公司还计划五年投资5亿美元扩建奥斯汀总部。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NVIDIA|发布/介绍|Vera CPU",
+          "title": "NVIDIA 称 Vera CPU 在 AI agent 负载中兼顾吞吐与能效",
+          "summary": "NVIDIA 博客称 Vera CPU 在100兆瓦数据中心比较中表现优于 x86，并列出早期客户测试数据；数字均来自 NVIDIA。",
+          "published_at": "2026-11-06T04:00:41+08:00",
+          "follow_up": false,
+          "new_facts": "NVIDIA博客称Vera CPU在100MW数据中心比较中单颗性能优于最快x86和最能效x86，每瓦支持agents多1.6倍、agent速度快2倍；Perplexity称agentic coding快1.5倍，DeepInfra称agent编排最高快2.2倍。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "NVIDIA 在博客中称，Vera CPU 在100兆瓦数据中心比较中，单颗性能优于最快 x86 CPU 和最能效 x86 CPU；每瓦支持的 AI agent 数量比最快 x86 多1.6倍，agent 速度比最能效 x86 高2倍。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "In a 100-megawatt data center comparison, NVIDIA found that a single Vera CPU performs better than the fastest x86 CPU and the most energy-efficient x86 CPU."
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "Vera delivers industry-leading agent speed while enabling 1.6x more agents per watt versus the fastest x86 CPU."
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "Vera delivers 2x faster agent speed with leading energy efficiency compared with the most energy-efficient x86 CPU."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "NVIDIA 还列出早期客户数据：Perplexity 的 agentic coding 任务快1.5倍，DeepInfra 的 agent 编排最高快2.2倍。上述数字均来自 NVIDIA 公布的对比。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "Perplexity : Ran agentic coding tasks 1.5x faster with Vera than on traditional CPUs."
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "DeepInfra : Delivered up to 2.2x speed of the best x86 processor on agentic orchestration"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "Vera CPU"
+          ],
+          "limitations": "数据均为 NVIDIA 公布的对比，未提供独立复现；Vera 的出货状态和完整规格未在文中说明。",
+          "bilingual": {
+            "title_en": "NVIDIA Says Vera CPU Balances Throughput and Energy Efficiency in AI Agent Workloads",
+            "sentences": [
+              {
+                "en": "NVIDIA said in a blog post that in a 100-megawatt data center comparison, the Vera CPU's per-chip performance exceeded that of both the fastest x86 CPU and the most energy-efficient x86 CPU; the number of AI agents supported per watt was 1.6 times more than that of the fastest x86, and agent speed was 2 times higher than that of the most energy-efficient x86.",
+                "zh": "NVIDIA 在博客中称，Vera CPU 在100兆瓦数据中心比较中，单颗性能优于最快 x86 CPU 和最能效 x86 CPU；每瓦支持的 AI agent 数量比最快 x86 多1.6倍，agent 速度比最能效 x86 高2倍。"
+              },
+              {
+                "en": "NVIDIA also listed early customer data: Perplexity's agentic coding tasks were 1.5 times faster, and DeepInfra's agent orchestration was up to 2.2 times faster.",
+                "zh": "NVIDIA 还列出早期客户数据：Perplexity 的 agentic coding 任务快1.5倍，DeepInfra 的 agent 编排最高快2.2倍。"
+              },
+              {
+                "en": "All these figures came from comparisons published by NVIDIA.",
+                "zh": "上述数字均来自 NVIDIA 公布的对比。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s10",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "published_at": "2026-11-05T17:00:00+00:00"
+    },
+    {
+      "id": "s17",
+      "url": "https://www.qbitai.com/2026/11/507787.html",
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "published_at": "2026-11-05T15:15:13+08:00"
+    },
+    {
+      "id": "s15",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "published_at": "2026-11-05T19:35:16+00:00"
+    },
+    {
+      "id": "s56",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "title": "Perplexity launches its own take on AI agents for work",
+      "published_at": "2026-11-05T22:26:50+00:00"
+    },
+    {
+      "id": "s46",
+      "url": "https://www.ithome.com/1/023/212.htm",
+      "title": "淘宝 MNN 团队开源 0.3B 手机模型，苹果 iPhone 18 Pro 离线跑出 350 token/s",
+      "published_at": "2026-11-06T11:50:20+08:00"
+    },
+    {
+      "id": "s26",
+      "url": "https://spacenews.com/cesiumastro-secures-730-million-in-janus-henderson-led-series-d-at-a-valuation-above-4-5-billion-unveils-synchronicity-satellite-constellation-following-fully-successful-element-1-mission/",
+      "title": "CesiumAstro Secures $730 Million in Janus Henderson-Led Series D at a Valuation Above $4.5 Billion; Unveils Synchronicity Satellite Constellation Following Fully Successful Element-1 Mission",
+      "published_at": "2026-11-05T21:45:00+00:00"
+    },
+    {
+      "id": "s29",
+      "url": "https://blogs.nvidia.com/blog/vera-cpu-highest-throughput-fastest-agents/",
+      "title": "Vera Delivers the Best of Both Worlds: Highest Throughput and Fastest Agents",
+      "published_at": "2026-11-05T20:00:41+00:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
