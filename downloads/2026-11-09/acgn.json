@@ -1,0 +1,121 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-09",
+  "title": "2026-11-09 ACGN",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "BLG 3:1战胜T1，成为首支S赛BO5击败T1的LPL战队"
+  ],
+  "window_start": "2026-11-08T12:00:00+08:00",
+  "window_end": "2026-11-09T12:00:00+08:00",
+  "generated_at": "2026-11-09T20:14:41.142665+08:00",
+  "edition": "acgn",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "BLG|晋级|英雄联盟S16全球总决赛",
+          "title": "BLG 3:1战胜T1，成为首支S赛BO5击败T1的LPL战队",
+          "summary": "BLG在《英雄联盟》S16全球总决赛半决赛3:1击败T1，成为LPL赛区首支在S赛BO5战胜T1的战队，晋级决赛。决赛将于11月15日3时对阵GEN。选手Bin赛后称这是历史性时刻。",
+          "published_at": "2026-11-09T10:01:03+08:00",
+          "follow_up": true,
+          "new_facts": "BLG在《英雄联盟》S16半决赛3:1战胜T1，成为LPL首支在S赛BO5战胜T1的战队，晋级决赛对阵GEN，决赛11月15日3时举行。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "BLG",
+            "T1",
+            "GEN",
+            "League of Legends"
+          ],
+          "facts": [
+            {
+              "text": "据机核报道，在《英雄联盟》S16全球总决赛淘汰赛半决赛第二日，BLG以3:1战胜T1，晋级2026全球总决赛冠亚军决赛，成为LPL赛区首支在全球总决赛BO5中战胜T1的战队。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "在今日的《英雄联盟》S16 全球总决赛淘汰赛半决赛第二日中，BLG 3:1 战胜T1，成功晋级2026全球总决赛冠亚军决赛，代表LPL赛区首次在全球总决赛BO5中战胜T1。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "决赛定于11月15日3时举行，BLG将对阵LCK赛区的GEN。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "最终决赛将于11月15日3时举行，BLG 对阵 LCK 赛区的 GEN"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "赛后采访中，BLG选手Bin称这是历史性时刻，并表示希望LPL在S赛战胜T1和Faker这样的传奇对手；这是选手个人表态。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "BLG.Bin 在赛后采访中表示：「对于我来说，我觉得这是历史性的时刻。这是我做梦中想到的场景，我就是很希望LPL可以在S赛上战胜T1这样的传奇对手，战胜Faker这样的传奇选手拿下胜利。"
+                }
+              ],
+              "kind": "community",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "赛果与决赛安排来自机核单篇报道，未取得第二家独立媒体交叉确认。",
+          "bilingual": {
+            "title_en": "BLG Beats T1 3:1 to Become First LPL Team to Win a Worlds Best-of-Five Against T1",
+            "sentences": [
+              {
+                "en": "According to Gcores, on the second day of the knockout-stage semifinals at the League of Legends S16 World Championship, BLG defeated T1 3:1 to advance to the 2026 World Championship final, becoming the first team from the LPL region to beat T1 in a best-of-five at the World Championship.",
+                "zh": "据机核报道，在《英雄联盟》S16全球总决赛淘汰赛半决赛第二日，BLG以3:1战胜T1，晋级2026全球总决赛冠亚军决赛，成为LPL赛区首支在全球总决赛BO5中战胜T1的战队。"
+              },
+              {
+                "en": "The final is scheduled for November 15 at 3:00, with BLG set to face GEN from the LCK.",
+                "zh": "决赛定于11月15日3时举行，BLG将对阵LCK赛区的GEN。"
+              },
+              {
+                "en": "In a post-match interview, BLG player Bin called it a historic moment and said he hoped the LPL could defeat legendary opponents like T1 and Faker at the World Championship; this was the player's personal statement.",
+                "zh": "赛后采访中，BLG选手Bin称这是历史性时刻，并表示希望LPL在S赛战胜T1和Faker这样的传奇对手；这是选手个人表态。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s29",
+      "url": "https://www.gcores.com/articles/222081",
+      "title": "BLG晋级S16总决赛，成为首支S赛BO5战胜T1的LPL战队",
+      "published_at": "2026-11-09T10:01:03+08:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

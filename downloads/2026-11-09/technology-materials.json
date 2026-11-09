@@ -1,0 +1,24 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-09",
+  "title": "2026-11-09 科技 · 材料",
+  "summary": "本期未收录新闻：候选消息未达到本板块收录标准。",
+  "highlights": [],
+  "window_start": "2026-11-02T12:00:00+08:00",
+  "window_end": "2026-11-09T12:00:00+08:00",
+  "generated_at": "2026-11-09T19:58:56.798620+08:00",
+  "sources": [],
+  "sections": [
+    {
+      "id": "materials",
+      "name": "材料",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "edition": "technology-materials",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}

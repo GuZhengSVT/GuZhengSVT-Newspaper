@@ -1,0 +1,271 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-09",
+  "title": "2026-11-09 政治",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "胡塞武装称袭击利雅得商业区，沙特称阿美大厦仅轻微损坏",
+    "南非ANC地方选举得票31%，创历史新低"
+  ],
+  "window_start": "2026-11-08T12:00:00+08:00",
+  "window_end": "2026-11-09T12:00:00+08:00",
+  "generated_at": "2026-11-09T20:08:14.485713+08:00",
+  "edition": "politics",
+  "sources": [
+    {
+      "id": "s63",
+      "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
+      "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
+      "published_at": null
+    },
+    {
+      "id": "s89",
+      "url": "https://www.bbc.co.uk/news/articles/cwrkygrxp11mo?at_medium=RSS&at_campaign=rss",
+      "title": "'Devastating message' as ANC records worst-ever result in South Africa election",
+      "published_at": null
+    }
+  ],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "胡塞武装|袭击|沙特首都阿美大厦及沙特联军空袭也门",
+          "title": "胡塞武装称袭击利雅得商业区，沙特称阿美大厦仅轻微损坏",
+          "summary": "胡塞武装称11月7日袭击利雅得商业区，未点名阿美大厦；沙特能源部称阿美大厦仅轻微损坏、无伤亡，BBC Verify认证画面显示更严重损坏。胡塞称还袭击利雅得机场和阿美石油储存设施，沙特称拦截多枚导弹。据BBC报道。",
+          "published_at": "2026-11-09T05:37:36+08:00",
+          "follow_up": true,
+          "new_facts": "胡塞武装称袭击利雅得商业区、未点名阿美大厦；沙特称阿美大厦轻微损坏；BBC Verify显示更严重损坏；胡塞称袭击机场和油储设施。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "胡塞武装",
+            "沙特阿拉伯",
+            "阿美公司",
+            "也门"
+          ],
+          "limitations": "袭击责任由胡塞方面主张；沙特称仅轻微损坏；报道来自BBC，未直接取得沙特官方原文，无法独立核实。",
+          "facts": [
+            {
+              "text": "据BBC报道，胡塞武装通过其控制的萨巴通讯社发表声明，称11月7日袭击了沙特首都利雅得的商业区，声明未点名阿美大厦。沙特能源部表示，位于该区域的阿美大厦仅受“轻微损坏”，无人伤亡。BBC Verify认证的画面显示，大厦至少一层受损严重，多层窗户破碎。",
+              "evidence": [
+                {
+                  "source_id": "s63",
+                  "quote": "A statement issued via the Houthi-controlled Saba news agency confirmed the group had targeted Riyadh's business zone on Saturday, without mentioning the Aramco Tower by name."
+                },
+                {
+                  "source_id": "s63",
+                  "quote": "The Saudi energy ministry said the tower had suffered only \"minor damage\" and no one had been killed or injured."
+                },
+                {
+                  "source_id": "s63",
+                  "quote": "Footage authenticated by BBC Verify shows more extensive damage to the building, with at least one floor appearing to have been badly hit by a missile or drone strike."
+                },
+                {
+                  "source_id": "s63",
+                  "quote": "Windows on more than one level appear to have been shattered by the strike."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "胡塞武装称还袭击了利雅得机场和阿美石油储存设施。沙特表示防空系统拦截并摧毁了多枚导弹。",
+              "evidence": [
+                {
+                  "source_id": "s63",
+                  "quote": "The Houthis also said Riyadh's airport and Aramco oil storage facilities were targeted in separate strikes."
+                },
+                {
+                  "source_id": "s63",
+                  "quote": "Saudi Arabia said its air defences had intercepted and destroyed several missiles."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Houthis claim attack on Riyadh commercial district; Saudi Arabia says Aramco building only lightly damaged",
+            "sentences": [
+              {
+                "en": "According to BBC, the Houthi armed group said in a statement issued through Saba news agency, which it controls, that it attacked a commercial district in the Saudi capital Riyadh on November 7; the statement did not name the Aramco building.",
+                "zh": "据BBC报道，胡塞武装通过其控制的萨巴通讯社发表声明，称11月7日袭击了沙特首都利雅得的商业区，声明未点名阿美大厦。"
+              },
+              {
+                "en": "Saudi Arabia's Ministry of Energy said the Aramco building in the area suffered only \"minor damage\" and that there were no casualties.",
+                "zh": "沙特能源部表示，位于该区域的阿美大厦仅受“轻微损坏”，无人伤亡。"
+              },
+              {
+                "en": "Footage verified by BBC Verify showed that at least one floor of the building was severely damaged and windows on multiple floors were shattered.",
+                "zh": "BBC Verify认证的画面显示，大厦至少一层受损严重，多层窗户破碎。"
+              },
+              {
+                "en": "The Houthi armed group said it also attacked Riyadh airport and Aramco oil storage facilities.",
+                "zh": "胡塞武装称还袭击了利雅得机场和阿美石油储存设施。"
+              },
+              {
+                "en": "Saudi Arabia said its air defense system intercepted and destroyed multiple missiles.",
+                "zh": "沙特表示防空系统拦截并摧毁了多枚导弹。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "南非非洲人国民大会（ANC）|遭遇|最差选举结果",
+          "title": "南非ANC地方选举得票31%，创历史新低",
+          "summary": "据BBC报道，南非执政党非洲人国民大会在地方政府选举中仅获31%全国选票，为1994年以来最差，较2021年的46%大幅下滑。ANC仅在林波波省获多数，民主联盟以25%居第二，MK党10%第三。秘书长姆巴卢拉称结果“灾难性”，总统拉马福萨表示接受人民意志。",
+          "published_at": "2026-11-09T01:51:03+08:00",
+          "follow_up": true,
+          "new_facts": "ANC地方选举得票31%创历史新低；仅林波波省获多数；DA 25%、MK党10%、EFF 6%；姆巴卢拉称“灾难性”；投票率52%。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "非洲人国民大会（ANC）",
+            "西里尔·拉马福萨",
+            "南非"
+          ],
+          "limitations": "得票率与席位信息来自BBC报道，未直接取得南非独立选举委员会官方结果文件；选举层级为地方政府选举。",
+          "facts": [
+            {
+              "text": "据BBC报道，南非执政党非洲人国民大会（ANC）在地方政府选举中仅获31%的全国选票，为该党1994年执政以来最差成绩，较2021年的46%大幅下滑。",
+              "evidence": [
+                {
+                  "source_id": "s89",
+                  "quote": "the African National Congress won 31% of the overall vote, one third down from the 46% it gained in 2021"
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "South Africa's ANC has recorded its worst-ever showing in local elections since Nelson Mandela led the country out of apartheid"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "ANC仅在9个省中的林波波省获得多数，上次地方选举为6个省。民主联盟（DA）以25%居第二，前总统祖马领导的MK党以10%居第三，经济自由斗士（EFF）以6%居第四。",
+              "evidence": [
+                {
+                  "source_id": "s89",
+                  "quote": "The party won a majority in just one of the country's nine provinces, Limpopo. In 2021 it won six."
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "The Democratic Alliance (DA) came second in the overall vote with 25%"
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "Former president Jacob Zuma's MK party came third overall with 10%"
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "came fourth with 6%"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "ANC秘书长姆巴卢拉称这是“灾难性”结果。总统拉马福萨表示接受人民意志。本次投票率为52%。",
+              "evidence": [
+                {
+                  "source_id": "s89",
+                  "quote": "\"This has been a very catastrophic outcome for the ANC,\" said secretary-general Fikile Mbalula"
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "We accept the will of the people however concerning it might be"
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "Voter turnout was 52%"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "South Africa’s ANC falls to 31% in local elections, a historic low",
+            "sentences": [
+              {
+                "en": "According to the BBC, South Africa’s ruling African National Congress (ANC) won only 31% of the national vote in the local government elections, its worst result since it came to power in 1994, a sharp decline from 46% in 2021.",
+                "zh": "据BBC报道，南非执政党非洲人国民大会（ANC）在地方政府选举中仅获31%的全国选票，为该党1994年执政以来最差成绩，较2021年的46%大幅下滑。"
+              },
+              {
+                "en": "The ANC won a majority in only Limpopo among the nine provinces, compared with six provinces in the previous local elections.",
+                "zh": "ANC仅在9个省中的林波波省获得多数，上次地方选举为6个省。"
+              },
+              {
+                "en": "The Democratic Alliance (DA) came second with 25%, the MK party led by former President Zuma third with 10%, and the Economic Freedom Fighters (EFF) fourth with 6%.",
+                "zh": "民主联盟（DA）以25%居第二，前总统祖马领导的MK党以10%居第三，经济自由斗士（EFF）以6%居第四。"
+              },
+              {
+                "en": "ANC Secretary-General Mbalula called the result “catastrophic.”",
+                "zh": "ANC秘书长姆巴卢拉称这是“灾难性”结果。"
+              },
+              {
+                "en": "President Ramaphosa said he accepted the will of the people.",
+                "zh": "总统拉马福萨表示接受人民意志。"
+              },
+              {
+                "en": "The turnout was 52%.",
+                "zh": "本次投票率为52%。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-09",
+  "title": "2026-11-09 科技",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "NVIDIA董事会启动独立调查，CEO黄仁勋致歉并配合"
+  ],
+  "window_start": "2026-11-08T12:00:00+08:00",
+  "window_end": "2026-11-09T12:00:00+08:00",
+  "generated_at": "2026-11-09T19:55:25.013640+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NVIDIA|董事会调查|CEO与疑似中国间谍关系",
+          "title": "NVIDIA董事会启动独立调查，CEO黄仁勋致歉并配合",
+          "summary": "NVIDIA董事会针对新闻报道提出的国家安全关切启动独立调查；黄仁勋致员工邮件道歉，并表示支持调查、全面配合。",
+          "published_at": "2026-11-09T05:02:00+08:00",
+          "follow_up": true,
+          "new_facts": "NVIDIA董事会针对新闻报道提出的国家安全关切启动独立调查；黄仁勋致员工邮件为个人行为道歉、支持调查并承诺全面配合。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "黄仁勋（Jensen Huang）"
+          ],
+          "limitations": "独立调查仍在进行，尚无结论；本报道依据黄仁勋致员工邮件。",
+          "facts": [
+            {
+              "text": "黄仁勋在11月8日致员工的邮件中表示，针对新闻报道提出的国家安全关切，NVIDIA董事会已启动独立调查。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "Regarding the national security concerns raised in news reports, NVIDIA’s Board of Directors has initiated an independent investigation."
+                }
+              ]
+            },
+            {
+              "text": "黄仁勋为对妻子不忠道歉，并表示对自己的行为承担全部责任；他表示支持调查并将全面配合。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "I owe my family and all of you an apology. I was unfaithful to my wife."
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "I take full responsibility for what I did and the hurt I caused"
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "I support the investigation and will cooperate fully."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "NVIDIA Board Launches Independent Investigation as CEO Jensen Huang Apologizes and Pledges Cooperation",
+            "sentences": [
+              {
+                "en": "In an email to employees on November 8, Jensen Huang said that NVIDIA's board of directors had launched an independent investigation into national security concerns raised in news reports.",
+                "zh": "黄仁勋在11月8日致员工的邮件中表示，针对新闻报道提出的国家安全关切，NVIDIA董事会已启动独立调查。"
+              },
+              {
+                "en": "Huang apologized for being unfaithful to his wife and said he takes full responsibility for his actions; he said he supports the investigation and will cooperate fully.",
+                "zh": "黄仁勋为对妻子不忠道歉，并表示对自己的行为承担全部责任；他表示支持调查并将全面配合。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s33",
+      "url": "https://nvidianews.nvidia.com/news/a-message-to-our-company",
+      "title": "A Message to Our Company",
+      "published_at": "2026-11-08T21:02:00+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
