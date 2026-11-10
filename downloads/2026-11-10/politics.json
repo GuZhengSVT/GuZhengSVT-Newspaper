@@ -1,0 +1,421 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-10",
+  "title": "2026-11-10 政治",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "中国率先批准世界人工智能合作组织协定",
+    "美最高法院据报为得州大弯边境墙扫清障碍",
+    "美众议员马西推动弹劾国防部长赫格塞思",
+    "特朗普称伊朗军事上“基本结束”，美伊谈判继续"
+  ],
+  "window_start": "2026-11-09T12:00:00+08:00",
+  "window_end": "2026-11-10T12:00:00+08:00",
+  "generated_at": "2026-11-10T12:22:58.329675+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中国|批准|《关于成立世界人工智能合作组织的协定》",
+          "title": "中国率先批准世界人工智能合作组织协定",
+          "summary": "全国人大常委会决定批准协定，外交部称38国为创始成员，组织筹建继续推进。",
+          "published_at": "2026-11-09T15:24:03+08:00",
+          "follow_up": true,
+          "new_facts": "中国全国人大常委会决定批准《关于成立世界人工智能合作组织的协定》；外交部披露38个创始成员国，并表示将推进组织实体化运行。",
+          "verification": "corroborated",
+          "facts": [
+            {
+              "text": "全国人大常委会第二十五次会议决定批准《关于成立世界人工智能合作组织的协定》。外交部发言人郭嘉昆11月9日说，中国作为发起国和东道国率先批准该协定，体现推进筹建进程的意愿。",
+              "evidence": [
+                {
+                  "source_id": "s109",
+                  "quote": "第十四届全国人民代表大会常务委员会第二十五次会议决定批准《关于成立世界人工智能合作组织的协定》"
+                },
+                {
+                  "source_id": "s111",
+                  "quote": "中国率先批准《关于成立世界人工智能合作组织的协定》，体现了推进合作组织筹建进程的真诚意愿和坚定承诺。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "郭嘉昆介绍，习近平今年7月宣布该组织应运而生，38个国家成为创始成员国；中方将继续推进组织实体化运行，聚焦面向全球南方国家的务实合作和能力建设。",
+              "evidence": [
+                {
+                  "source_id": "s111",
+                  "quote": "今年7月，习近平主席在2026世界人工智能大会暨人工智能全球治理高级别会议上宣布世界人工智能合作组织应运而生。国际社会积极响应，38个国家成为创始成员国。"
+                },
+                {
+                  "source_id": "s109",
+                  "quote": "积极推进合作组织实体化运行，聚焦面向全球南方国家的务实合作和能力建设"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "中方欢迎并期待更多国家加入该组织。",
+              "evidence": [
+                {
+                  "source_id": "s111",
+                  "quote": "我们欢迎并期待更多国家加入世界人工智能合作组织"
+                },
+                {
+                  "source_id": "s109",
+                  "quote": "我们欢迎并期待更多国家加入世界人工智能合作组织"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "中国",
+            "全国人大常委会",
+            "世界人工智能合作组织",
+            "《关于成立世界人工智能合作组织的协定》"
+          ],
+          "limitations": "报道基于外交部记者会转述，未直接取得协定全文；组织实体化运行仍在推进。",
+          "bilingual": {
+            "title_en": "China Becomes First to Ratify Agreement on World AI Cooperation Organization",
+            "sentences": [
+              {
+                "en": "The 25th session of the Standing Committee of the National People's Congress decided to ratify the Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization.",
+                "zh": "全国人大常委会第二十五次会议决定批准《关于成立世界人工智能合作组织的协定》。"
+              },
+              {
+                "en": "Foreign Ministry spokesperson Guo Jiakun said on November 9 that China, as the initiating country and host country, was the first to ratify the agreement, demonstrating its willingness to advance the preparatory process.",
+                "zh": "外交部发言人郭嘉昆11月9日说，中国作为发起国和东道国率先批准该协定，体现推进筹建进程的意愿。"
+              },
+              {
+                "en": "Guo Jiakun said that Xi Jinping announced in July this year that the organization had come into being, with 38 countries becoming founding member states; China will continue to advance the organization's operationalization, focusing on practical cooperation and capacity building for Global South countries.",
+                "zh": "郭嘉昆介绍，习近平今年7月宣布该组织应运而生，38个国家成为创始成员国；中方将继续推进组织实体化运行，聚焦面向全球南方国家的务实合作和能力建设。"
+              },
+              {
+                "en": "China welcomes and looks forward to more countries joining the organization.",
+                "zh": "中方欢迎并期待更多国家加入该组织。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国最高法院|允许继续建设|得州大弯国家公园边境墙",
+          "title": "美最高法院据报为得州大弯边境墙扫清障碍",
+          "summary": "《卫报》报道，美国最高法院为特朗普政府在得克萨斯州大弯国家公园修建边境墙扫清障碍。",
+          "published_at": "2026-11-10T07:48:36+08:00",
+          "follow_up": true,
+          "new_facts": "美国最高法院据报允许继续在得州大弯国家公园建设特朗普政府边境墙。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据《卫报》报道，美国最高法院为特朗普政府在得克萨斯州大弯国家公园修建边境墙扫清障碍。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国最高法院",
+            "得克萨斯州大弯国家公园",
+            "特朗普政府边境墙"
+          ],
+          "limitations": "可获取内容仅有标题和发布时间，无法核实裁决形式、施工范围、法律依据及下级法院禁令状态。",
+          "bilingual": {
+            "title_en": "U.S. Supreme Court Reportedly Clears Way for Big Bend Border Wall in Texas",
+            "sentences": [
+              {
+                "en": "The U.S. Supreme Court has cleared the way for the Trump administration to build a border wall in Big Bend National Park in Texas, The Guardian reported.",
+                "zh": "据《卫报》报道，美国最高法院为特朗普政府在得克萨斯州大弯国家公园修建边境墙扫清障碍。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "美国众议员马西|推动|弹劾国防部长赫格塞思",
+          "title": "美众议员马西推动弹劾国防部长赫格塞思",
+          "summary": "马西正式提出弹劾条款，指赫格塞思未经国会授权对伊朗动武超过90天；特朗普表态支持赫格塞思。",
+          "published_at": "2026-11-10T11:00:40+08:00",
+          "follow_up": true,
+          "new_facts": "马西提出针对赫格塞思的弹劾条款，众议院启动48小时程序；特朗普公开为赫格塞思辩护。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "共和党众议员托马斯·马西9日在众议院正式提出针对国防部长皮特·赫格塞思的弹劾条款，指赫格塞思在未获国会授权的情况下参与对伊朗的敌对行动超过90天。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Massie formally introduced his articles of impeachment in a resolution on the House floor on Monday afternoon."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "By engaging in hostilities in Iran for more than 90 days without congressional authorisation, Secretary Hegseth is breaking the law and must be held accountable"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "马西说，赫格塞思“正在违法，必须被追究责任”。赫格塞思称弹劾努力是“骗局”，特朗普则公开为赫格塞思辩护。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Hegseth has called the impeachment effort a \"sham\" and defended his record."
+                },
+                {
+                  "source_id": "s26",
+                  "quote": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该决议启动48小时程序，众议院可表决、送交委员会或搁置；由于共和党仍控制国会，弹劾努力预计难以成功。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "The move starts a 48-hour clock for the chamber to take up the measure."
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "The effort will likely fail, as Republicans remain in power in Congress until January."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "国防部长皮特·赫格塞思",
+            "众议员托马斯·马西",
+            "共和党"
+          ],
+          "limitations": "马西提出条款及表决安排由BBC报道；《卫报》实时报道标题支持特朗普为赫格塞思辩护。可获取片段未显示最终表决结果。",
+          "bilingual": {
+            "title_en": "US Representative Massie Pushes to Impeach Defense Secretary Hegseth",
+            "sentences": [
+              {
+                "en": "Republican Representative Thomas Massie formally introduced articles of impeachment against Defense Secretary Pete Hegseth in the House of Representatives on the 9th, accusing Hegseth of participating in hostilities against Iran for more than 90 days without congressional authorization.",
+                "zh": "共和党众议员托马斯·马西9日在众议院正式提出针对国防部长皮特·赫格塞思的弹劾条款，指赫格塞思在未获国会授权的情况下参与对伊朗的敌对行动超过90天。"
+              },
+              {
+                "en": "Massie said Hegseth \"is breaking the law and must be held accountable.\"",
+                "zh": "马西说，赫格塞思“正在违法，必须被追究责任”。"
+              },
+              {
+                "en": "Hegseth called the impeachment effort a \"hoax,\" while Trump publicly defended Hegseth.",
+                "zh": "赫格塞思称弹劾努力是“骗局”，特朗普则公开为赫格塞思辩护。"
+              },
+              {
+                "en": "The resolution triggers a 48-hour procedure, after which the House can vote on it, refer it to a committee, or set it aside; with Republicans still controlling Congress, the impeachment effort is expected to struggle to succeed.",
+                "zh": "该决议启动48小时程序，众议院可表决、送交委员会或搁置；由于共和党仍控制国会，弹劾努力预计难以成功。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国总统特朗普|称|对伊朗战争基本结束",
+          "title": "特朗普称伊朗军事上“基本结束”，美伊谈判继续",
+          "summary": "特朗普称进一步打击伊朗“极不可能”，美国保持军事准备；伊朗坚持结束战争的七项要求，谈判仍在进行。",
+          "published_at": "2026-11-10T10:38:00+08:00",
+          "follow_up": true,
+          "new_facts": "特朗普称伊朗军事上基本结束、进一步攻击极不可能，并与卡塔尔首相会谈；伊朗坚持七项结束战争要求并称美国继续打击格什姆岛。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "美国总统特朗普11月9日在白宫称，伊朗“在军事上基本结束”，美国进一步攻击伊朗“极不可能”，但美军仍保持“锁定待发”状态。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "Iran militarily is effectively over"
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "highly unlikely"
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "locked and loaded"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "特朗普当天在椭圆形办公室会见卡塔尔首相穆罕默德，称双方就结束战争的谈判进行了“非常好的对话”；卡塔尔方面称讨论“积极”。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "Trump hosted Qatari Prime Minister Sheikh Mohammed bin Abdul Rahman Al Thani in the Oval Office earlier on Monday, saying they had an \"excellent conversation\" about negotiations to end the war."
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "positive discussions"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "伊朗外交部发言人巴加埃说，伊朗结束战争的方案仍是桌上最合理的方案，并拒绝美国国务卿鲁比奥称部分要求“荒谬且不现实”的说法。伊朗方面还称，美国夜间打击了格什姆岛，但未造成居民区或关键基础设施损坏。",
+              "evidence": [
+                {
+                  "source_id": "s122",
+                  "quote": "Iran’s plan is still the most logical plan on the table."
+                },
+                {
+                  "source_id": "s122",
+                  "quote": "rejected Rubio’s remarks that some of these seven demands were “ridiculous and really not realistic”"
+                },
+                {
+                  "source_id": "s122",
+                  "quote": "confirmed on Monday morning that the southern island of Qeshm was targeted but no residential and commercial areas or vital infrastructure were damaged."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "总统唐纳德·特朗普",
+            "伊朗",
+            "卡塔尔"
+          ],
+          "limitations": "特朗普原话由BBC报道，伊朗立场由半岛电视台报道；双方说法未获对方确认。可获取片段未显示谈判达成协议。",
+          "bilingual": {
+            "title_en": "Trump Says Iran Is 'Essentially Finished Militarily' as US-Iran Talks Continue",
+            "sentences": [
+              {
+                "en": "US President Trump said at the White House on November 9 that Iran was “essentially finished militarily,” that further US attacks on Iran were “highly unlikely,” but that US forces remained “locked and loaded.”",
+                "zh": "美国总统特朗普11月9日在白宫称，伊朗“在军事上基本结束”，美国进一步攻击伊朗“极不可能”，但美军仍保持“锁定待发”状态。"
+              },
+              {
+                "en": "Trump met Qatari Prime Minister Mohammed in the Oval Office that day and said the two sides had a “very good conversation” on negotiations to end the war; Qatar said the discussions were “positive.”",
+                "zh": "特朗普当天在椭圆形办公室会见卡塔尔首相穆罕默德，称双方就结束战争的谈判进行了“非常好的对话”；卡塔尔方面称讨论“积极”。"
+              },
+              {
+                "en": "Iranian Foreign Ministry spokesperson Baqaei said Iran’s plan to end the war remained the most reasonable plan on the table and rejected US Secretary of State Rubio’s claim that some demands were “absurd and unrealistic.”",
+                "zh": "伊朗外交部发言人巴加埃说，伊朗结束战争的方案仍是桌上最合理的方案，并拒绝美国国务卿鲁比奥称部分要求“荒谬且不现实”的说法。"
+              },
+              {
+                "en": "Iran also said the United States struck Qeshm Island overnight but caused no damage to residential areas or key infrastructure.",
+                "zh": "伊朗方面还称，美国夜间打击了格什姆岛，但未造成居民区或关键基础设施损坏。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s29",
+      "url": "https://www.theguardian.com/us-news/2026/nov/09/us-supreme-court-border-wall-texas-big-bend",
+      "title": "US supreme court clears way for Trump’s border wall in Texas’s Big Bend",
+      "published_at": "2026-11-09T23:48:36+00:00"
+    },
+    {
+      "id": "s109",
+      "url": "https://thepaper.cn/newsDetail_forward_34438411",
+      "title": "外交部答澎湃：中国率先批准《关于成立世界人工智能合作组织的协定》体现真诚意愿和坚定承诺",
+      "published_at": "2026-11-09T07:24:03.356000+00:00"
+    },
+    {
+      "id": "s20",
+      "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+      "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+      "published_at": null
+    },
+    {
+      "id": "s122",
+      "url": "https://aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure",
+      "title": "Iran stands by demands to end the war as US ramps up military pressure",
+      "published_at": "2026-11-09T14:39:32+00:00"
+    },
+    {
+      "id": "s111",
+      "url": "https://news.cn/world/20261109/451eab6dc72f4421a2f2b0da92e19a56/c.html",
+      "title": "外交部：欢迎并期待更多国家加入世界人工智能合作组织-新华网",
+      "published_at": null
+    },
+    {
+      "id": "s26",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+      "title": "Donald Trump doubles down on defense of Pete Hegseth and attacks fresh effort to impeach him – as it happened",
+      "published_at": "2026-11-10T03:00:40+00:00"
+    },
+    {
+      "id": "s21",
+      "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says more US attacks on Iran 'highly unlikely'",
+      "published_at": null
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

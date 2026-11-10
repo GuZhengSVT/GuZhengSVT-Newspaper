@@ -1,0 +1,241 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-10",
+  "title": "2026-11-10 科技 · 能源",
+  "summary": "中广核西藏阿里光热电站首台25兆瓦机组并网，项目海拔约4300米，第二台机组计划2026年底并网。Nature Energy 11月9日刊发研究，称数据中心扩张推高美国部分批发电价，并通过监管成本分摊加重居民、农村和低收入家庭的能源负担。",
+  "highlights": [
+    "中广核西藏阿里光热电站首台25兆瓦机组并网，项目海拔约4300米，第二台计划年底并网。",
+    "Nature Energy 11月9日刊发研究称，数据中心推高美国批发电价，居民承担监管电价成本中位47%。"
+  ],
+  "window_start": "2026-11-03T12:00:00+08:00",
+  "window_end": "2026-11-10T12:00:00+08:00",
+  "generated_at": "2026-11-10T12:11:44.637023+08:00",
+  "sections": [
+    {
+      "id": "energy",
+      "name": "能源",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中广核|首台机组并网|西藏世界最高海拔光热电站",
+          "title": "中广核西藏阿里光热电站首台25兆瓦机组并网",
+          "summary": "中广核西藏阿里50兆瓦光热电站首台25兆瓦机组于11月6日并网，项目为150兆瓦光伏光热示范项目的一部分，海拔约4300米。电站配置熔盐储热和电池储能，第二台机组计划2026年底并网，综合系统性能仍待验证。",
+          "published_at": "2026-11-09T20:49:41+08:00",
+          "follow_up": true,
+          "new_facts": "中广核西藏阿里50MW光热示范项目首台25MW机组于11月6日并网；项目含100MW光伏和50MW光热，总投资约24亿元，海拔约4300米；配置设计14小时熔盐储热和205MW电加热器；第二台25MW机组计划2026年底并网。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据能源媒体pv magazine 11月9日报道，中广核11月6日将西藏阿里50兆瓦光热电站首台25兆瓦机组并入区域电网。该电站位于噶尔县，是150兆瓦示范项目的一部分，包含100兆瓦光伏和50兆瓦光热，总投资约24亿元。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "Chinese state-owned energy company China General Nuclear Power Corp. (CGN) connected the first 25 MW generating unit of its 50 MW concentrated solar power (CSP) plant in Tibet’s Ali Prefecture to the regional grid on Nov. 6."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "The facility is part of a 150 MW demonstration project in Gar County that combines 100 MW of solar PV capacity with 50 MW of CSP power generation. Total investment stands at approximately CNY 2.4 billion ($330 million)."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "电站平均海拔4300米，中广核称其为全球海拔最高在运并网光热电站。项目配两台25兆瓦汽轮机组，第二台计划2026年底并网以达到满额定容量。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "The company said the facility, located at an average elevation of 4,300 meters above sea level, is the world’s highest-altitude operational grid-connected CSP plant."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "The CSP installation consists of two 25 MW steam turbine units. The first was synchronized with the grid on Nov. 6, while the second is scheduled to come online by the end of 2026, bringing the facility to its full rated capacity."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该电站用富余光伏电力驱动峰值205兆瓦熔盐电加热器，配置设计14小时储热和锂离子电池。中广核称这是首个整合光伏电加热、熔盐储热和异步电池储能的CSP设施，并称205兆瓦电加热器为全球CSP应用最大；报道指出两项说法均未获独立验证。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "Unlike conventional CSP plants, which use concentrated sunlight to generate heat, the Ali facility uses surplus PV electricity to power a molten salt electric heater with a peak rating of 205 MW."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "The plant incorporates a molten salt thermal storage system designed to provide 14 hours of storage, alongside a lithium-ion battery system for rapid frequency response."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "CGN said the project is the first CSP facility to integrate PV-powered electric heating, molten salt thermal storage and asynchronous battery storage. The company also claims that the 205 MW electric heater is the largest deployed in a CSP application worldwide. Neither claim, however, has been independently verified."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "电站还作为热电联产设施，在冬季为阿里地区行政中心狮泉河提供区域供热。报道同时指出，其光伏电加热、储热和热电联产系统在持续运行、尤其是冬季条件下的性能仍待验证。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "The facility also operates as a combined heat and power plant, supplying district heating to Shiquanhe, the administrative center of Ali Prefecture, during the winter months."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "However, the performance of its integrated PV-powered heating, thermal storage and cogeneration systems has yet to be demonstrated under sustained operating conditions, particularly during winter."
+                }
+              ],
+              "kind": "limitation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "中国广核集团（CGN）",
+            "西藏世界最高海拔光热电站"
+          ],
+          "limitations": "来源为pv magazine转述中广核，未取得中广核原始公告；“世界最高海拔”和205MW电加热器最大为该公司说法，未独立验证；首台机组并网不等于全容量商业运行；第二台机组计划2026年底并网。",
+          "bilingual": {
+            "title_en": "CGN Connects First 25 MW Unit of Tibet Ngari CSP Plant to Grid",
+            "sentences": [
+              {
+                "en": "Energy media pv magazine reported on November 9 that CGN connected the first 25 MW unit of its 50 MW Tibet Ngari concentrated solar power (CSP) plant to the regional grid on November 6.",
+                "zh": "据能源媒体pv magazine 11月9日报道，中广核11月6日将西藏阿里50兆瓦光热电站首台25兆瓦机组并入区域电网。"
+              },
+              {
+                "en": "Located in Gar County, the plant is part of a 150 MW demonstration project comprising 100 MW photovoltaic and 50 MW CSP, with total investment of about 2.4 billion yuan.",
+                "zh": "该电站位于噶尔县，是150兆瓦示范项目的一部分，包含100兆瓦光伏和50兆瓦光热，总投资约24亿元。"
+              },
+              {
+                "en": "At an average altitude of 4,300 meters, CGN says it is the world's highest-altitude grid-connected CSP plant in operation.",
+                "zh": "电站平均海拔4300米，中广核称其为全球海拔最高在运并网光热电站。"
+              },
+              {
+                "en": "The project is equipped with two 25 MW steam turbine units, and the second is planned to be connected to the grid by the end of 2026 to reach full rated capacity.",
+                "zh": "项目配两台25兆瓦汽轮机组，第二台计划2026年底并网以达到满额定容量。"
+              },
+              {
+                "en": "The plant uses surplus photovoltaic power to drive 205 MW peak molten-salt electric heaters, with a designed 14-hour heat storage and lithium-ion batteries.",
+                "zh": "该电站用富余光伏电力驱动峰值205兆瓦熔盐电加热器，配置设计14小时储热和锂离子电池。"
+              },
+              {
+                "en": "CGN says this is the first CSP facility integrating photovoltaic electric heating, molten-salt heat storage and asynchronous battery storage, and calls the 205 MW electric heater the largest for CSP application globally; the report notes that neither claim has been independently verified.",
+                "zh": "中广核称这是首个整合光伏电加热、熔盐储热和异步电池储能的CSP设施，并称205兆瓦电加热器为全球CSP应用最大；报道指出两项说法均未获独立验证。"
+              },
+              {
+                "en": "The plant also serves as a combined heat and power facility, providing district heating in winter to Shiquanhe, the administrative center of the Ngari Prefecture.",
+                "zh": "电站还作为热电联产设施，在冬季为阿里地区行政中心狮泉河提供区域供热。"
+              },
+              {
+                "en": "The report also notes that the performance of its photovoltaic electric heating, heat storage and combined heat and power systems under continuous operation, especially in winter conditions, remains to be verified.",
+                "zh": "报道同时指出，其光伏电加热、储热和热电联产系统在持续运行、尤其是冬季条件下的性能仍待验证。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Nature Energy|研究揭示|数据中心推高批发电价并转嫁电网成本",
+          "title": "Nature Energy研究：数据中心推高美国批发电价并加重居民电费负担",
+          "summary": "Nature Energy 11月9日刊发研究，称数据中心扩张推高美国部分批发市场电价，并通过监管成本分摊加重居民、农村和低收入家庭能源负担。",
+          "published_at": "2026-11-09T00:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Nature Energy 11月9日刊发研究：到2025年美国最受影响枢纽批发电价因数据中心累计上涨超10%；居民承担监管电价成本中位47%；农村负担增幅比城市高76%，最低收入家庭额外负担最高28个百分点；地方经济回报支出弹性0.16。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "Nature Energy 11月9日刊发的一项研究，利用美国批发电价记录、输电计划和监管成本分摊案卷，分析数据中心扩张如何通过不同渠道加重美国能源负担。",
+              "evidence": [
+                {
+                  "source_id": "s1",
+                  "quote": "Published: 09 November 2026"
+                },
+                {
+                  "source_id": "s1",
+                  "quote": "Here we show how data centre expansion asymmetrically deepens energy burdens across the USA through different channels, using causal analysis of price records, together with transmission plans and regulatory cost-allocation dockets."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "研究称，到2025年，在受影响最严重的批发市场枢纽，数据中心导致的累计电价涨幅超过10%；在受监管电价中，居民用户按中位数承担47%的成本，尽管其对需求增长的贡献小得多。",
+              "evidence": [
+                {
+                  "source_id": "s1",
+                  "quote": "In wholesale markets, cumulative price increases attributable to data centres exceed 10% in the most exposed hubs by 2025."
+                },
+                {
+                  "source_id": "s1",
+                  "quote": "In regulated tariffs, residential users are allocated a median of 47% of costs despite contributing far less to demand growth."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "研究还估计，成本分担使农村社区承担的负担增幅比城市社区高76%，最低收入家庭的额外能源负担最高达28个百分点。地方经济回报与支出几乎无关，支出弹性为0.16；承担最大能源负担增幅的州获得的回报最小。",
+              "evidence": [
+                {
+                  "source_id": "s1",
+                  "quote": "Spatially, cost sharing forces rural communities to bear burden increases 76% larger than urban communities. Economically, the lowest-income households face extra energy burdens up to 28 percentage points."
+                },
+                {
+                  "source_id": "s1",
+                  "quote": "Fiscally, local economic returns are almost unrelated to spending, with a spending elasticity of 0.16. The states absorbing the largest energy burden increases capture the smallest returns."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Nature Energy",
+            "数据中心"
+          ],
+          "limitations": "发布日期依据文章页面标注“Published: 09 November 2026”，页面未提供具体时刻；基于摘要，未获取全文；研究区域为美国，数据截至2025年；结论为研究估计，不是已实施政策。",
+          "bilingual": {
+            "title_en": "Nature Energy Study: Data Centers Drive Up U.S. Wholesale Electricity Prices and Increase Residential Electricity Burden",
+            "sentences": [
+              {
+                "en": "A study published in Nature Energy on November 9 uses U.S. wholesale electricity price records, transmission plans, and regulatory cost-allocation dockets to analyze how data center expansion adds to the U.S. energy burden through different channels.",
+                "zh": "Nature Energy 11月9日刊发的一项研究，利用美国批发电价记录、输电计划和监管成本分摊案卷，分析数据中心扩张如何通过不同渠道加重美国能源负担。"
+              },
+              {
+                "en": "The study says that by 2025, at the most severely affected wholesale market hubs, cumulative electricity price increases caused by data centers exceeded 10%; in regulated electricity rates, residential customers bear a median 47% of the costs, even though their contribution to demand growth is much smaller.",
+                "zh": "研究称，到2025年，在受影响最严重的批发市场枢纽，数据中心导致的累计电价涨幅超过10%；在受监管电价中，居民用户按中位数承担47%的成本，尽管其对需求增长的贡献小得多。"
+              },
+              {
+                "en": "The study also estimates that cost-sharing makes the increase in burden borne by rural communities 76% higher than that borne by urban communities, and that the additional energy burden for the lowest-income households reaches as high as 28 percentage points.",
+                "zh": "研究还估计，成本分担使农村社区承担的负担增幅比城市社区高76%，最低收入家庭的额外能源负担最高达28个百分点。"
+              },
+              {
+                "en": "Local economic returns are almost unrelated to spending, with a spending elasticity of 0.16; the states bearing the largest increase in energy burden receive the smallest returns.",
+                "zh": "地方经济回报与支出几乎无关，支出弹性为0.16；承担最大能源负担增幅的州获得的回报最小。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s13",
+      "url": "https://www.pv-magazine.com/2026/11/09/cgn-connects-first-unit-of-worlds-highest-altitude-csp-plant-in-tibet/",
+      "title": "CGN connects first unit of world’s highest-altitude CSP plant in Tibet",
+      "published_at": "2026-11-09T12:49:41+00:00"
+    },
+    {
+      "id": "s1",
+      "url": "https://www.nature.com/articles/s41560-026-02163-x",
+      "title": "Data centres asymmetrically exacerbate energy burdens through wholesale price increases and regressive grid cost shifting",
+      "published_at": null
+    }
+  ],
+  "edition": "technology-energy",
+  "coverage_notes": []
+}
