@@ -1,0 +1,530 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "title": "2026-11-11 政治",
+  "summary": "本期收录5条新闻。",
+  "highlights": [
+    "中国国务院公布修订后的《基金会管理条例》，2027年起施行",
+    "中国发布新版《人类遗传资源管理条例实施细则》",
+    "美众议院将赫格塞思弹劾条款转交委员会，弹劾程序暂被阻止",
+    "美法官允许特朗普对BBC的100亿美元诽谤诉讼继续",
+    "巴西众议院委员会推进降低刑事责任年龄修正案"
+  ],
+  "window_start": "2026-11-10T12:00:00+08:00",
+  "window_end": "2026-11-11T12:00:00+08:00",
+  "generated_at": "2026-11-11T12:10:30.264738+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中国国务院|公布修订|《基金会管理条例》",
+          "title": "中国国务院公布修订后的《基金会管理条例》，2027年起施行",
+          "summary": "国务院令第848号公布修订后的《基金会管理条例》，条例已于2026年9月11日国务院常务会议修订通过，自2027年1月1日起施行。",
+          "published_at": "2026-11-10T17:02:12+08:00",
+          "follow_up": false,
+          "new_facts": "国务院令第848号公布修订后的《基金会管理条例》，明确修订通过日期和2027年1月1日施行时间。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "新华社11月10日受权发布国务院令第848号，公布修订后的《基金会管理条例》。条例已于2026年9月11日国务院第96次常务会议修订通过，由总理李强签署，签署日期为10月13日。",
+              "evidence": [
+                {
+                  "source_id": "s122",
+                  "quote": "《基金会管理条例》已经2026年9月11日国务院第96次常务会议修订通过，现予公布，自2027年1月1日起施行。"
+                },
+                {
+                  "source_id": "s122",
+                  "quote": "总理 李强 2026年10月13日"
+                },
+                {
+                  "source_id": "s122",
+                  "quote": "新华社北京11月10日电 中华人民共和国国务院令 第848号"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "条例自2027年1月1日起施行。",
+              "evidence": [
+                {
+                  "source_id": "s122",
+                  "quote": "自2027年1月1日起施行。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "中国国务院",
+            "《基金会管理条例》"
+          ],
+          "limitations": "仅依据新华社受权发布的国务院令文本，未展开条例修订逐条内容。",
+          "bilingual": {
+            "title_en": "China's State Council Publishes Revised Regulations on the Administration of Foundations, Effective in 2027",
+            "sentences": [
+              {
+                "en": "On November 10, Xinhua News Agency was authorized to release State Council Decree No. 848, promulgating the revised Regulations on the Administration of Foundations.",
+                "zh": "新华社11月10日受权发布国务院令第848号，公布修订后的《基金会管理条例》。"
+              },
+              {
+                "en": "The regulations were revised and adopted at the 96th executive meeting of the State Council on September 11, 2026, and were signed by Premier Li Qiang on October 13.",
+                "zh": "条例已于2026年9月11日国务院第96次常务会议修订通过，由总理李强签署，签署日期为10月13日。"
+              },
+              {
+                "en": "The regulations will take effect on January 1, 2027.",
+                "zh": "条例自2027年1月1日起施行。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "中国国家卫生健康委|发布|新版《人类遗传资源管理条例实施细则》",
+          "title": "中国发布新版《人类遗传资源管理条例实施细则》",
+          "summary": "国家卫生健康委11日发布新修订的《人类遗传资源管理条例实施细则》，共八章六十一条，调整监管主体并优化审批备案制度。",
+          "published_at": "2026-11-11T11:25:10+08:00",
+          "follow_up": false,
+          "new_facts": "国家卫生健康委发布新修订的人类遗传资源管理条例实施细则，明确修订依据、章节结构和监管调整方向。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据中新网转央视新闻客户端报道，国家卫生健康委11日发布新修订的《人类遗传资源管理条例实施细则》。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "国家卫生健康委今天(11日)发布新修订的《人类遗传资源管理条例实施细则》。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "此次修订依据《生物安全法》和《人类遗传资源管理条例》中涉及管理职责调整的最新修订，对原科技部2023年6月出台的细则进行修订。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "根据《中华人民共和国生物安全法》和《中华人民共和国人类遗传资源管理条例》中涉及人类遗传资源管理职责调整的最新修订，国家卫生健康委对原科技部2023年6月出台的《人类遗传资源管理条例实施细则》(以下简称《细则》)组织开展修订工作。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "细则共八章六十一条，主要调整监管主体、优化审批备案管理制度、健全监管链条，目标是安全管理、尊重权益、促进共享、高效利用。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "《细则》共八章六十一条。"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "主要调整监管主体、优化审批备案管理制度、健全监管链条等"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "以“安全管理、尊重权益、促进共享、高效利用”为目标"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "国家卫生健康委员会",
+            "《人类遗传资源管理条例实施细则》"
+          ],
+          "limitations": "依据中新网转央视报道，未直接取得国家卫健委发布的细则全文。",
+          "bilingual": {
+            "title_en": "China releases new version of Implementation Rules for Regulations on Management of Human Genetic Resources",
+            "sentences": [
+              {
+                "en": "According to China News Service, citing CCTV News app, the National Health Commission released the newly revised Implementation Rules for the Regulations on the Management of Human Genetic Resources on the 11th.",
+                "zh": "据中新网转央视新闻客户端报道，国家卫生健康委11日发布新修订的《人类遗传资源管理条例实施细则》。"
+              },
+              {
+                "en": "The revision was made on the basis of the Biosecurity Law and the latest amendments to the Regulations on the Management of Human Genetic Resources concerning adjustments to management responsibilities, and it revises the rules issued by the former Ministry of Science and Technology in June 2023.",
+                "zh": "此次修订依据《生物安全法》和《人类遗传资源管理条例》中涉及管理职责调整的最新修订，对原科技部2023年6月出台的细则进行修订。"
+              },
+              {
+                "en": "The rules consist of eight chapters and 61 articles, mainly adjusting the regulatory entities, optimizing the approval and filing management system, and improving the regulatory chain, with the goals of safe management, respect for rights and interests, promoting sharing, and efficient utilization.",
+                "zh": "细则共八章六十一条，主要调整监管主体、优化审批备案管理制度、健全监管链条，目标是安全管理、尊重权益、促进共享、高效利用。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国众议院|阻止|对国防部长赫格塞思的弹劾程序",
+          "title": "美众议院将赫格塞思弹劾条款转交委员会，弹劾程序暂被阻止",
+          "summary": "美国众议院以211比204票将针对国防部长赫格塞思的弹劾条款转交司法委员会，暂时阻止共和党众议员马西发起的弹劾努力。",
+          "published_at": "2026-11-11T08:38:00+08:00",
+          "follow_up": true,
+          "new_facts": "众议院以211比204票将弹劾条款转交司法委员会，实质阻止推进；马西是唯一投反对票的共和党人；赫格塞思与特朗普回应；民主党明年控制两院后可再推进。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "美国众议院10日以211票对204票通过将针对国防部长皮特·赫格塞思的弹劾条款转交共和党主导的司法委员会，实际上暂时阻止了肯塔基州共和党众议员托马斯·马西发起的弹劾努力。马西是唯一投反对票的共和党人。",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "A majority of the House of Representatives agreed to refer impeachment articles to a committee - essentially killing the effort introduced by dissident Republican congressman Thomas Massie of Kentucky - for now."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "His effort failed in a 211-204 vote, with more than a dozen members, including 11 Democrats, missing the vote."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "Massie was the only Republican to vote against moving the resolution to the Republican-led House Judiciary Committee on Tuesday."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "马西在8项弹劾条款中指控赫格塞思未获国会授权对伊朗作战超过90天，“正在违法，必须被追究责任”，并指其监督了美军在太平洋和加勒比海针对疑似运毒船只行动中的“法外击杀”。",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "In the eight articles of impeachment formally introduced in the House on Monday, Massie said Hegseth was \"breaking the law and must be held accountable\" for fighting a war in Iran for more than 90 days without lawmakers' approval."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "The impeachment articles also accused Hegseth of overseeing \"extrajudicial killings\" in the US campaign against boats alleged to be carrying drugs in the Pacific Ocean and Caribbean Sea."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "赫格塞思称弹劾是“骗局”和“破坏”，特朗普在社交媒体称该努力“惨败”。由于弹劾决议可跨国会会期，明年1月民主党控制两院后仍可重新推进。",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "Hegseth called the impeachment effort a \"farce\" and \"sabotage\"."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "President Trump celebrated the vote in a post on Truth Social, saying the effort \"has miserably FAILED\"."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "Impeachment resolutions can be carried past the end of a congressional term, meaning Democrats would be able to take it up next year."
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "The Democrats will take control of both chambers of Congress in January following a successful midterm election that allowed them control of both chambers."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "美国众议院（U.S. House of Representatives）",
+            "皮特·赫格塞思（Pete Hegseth）",
+            "美国国防部（Pentagon）"
+          ],
+          "limitations": "核心投票与表态均来自BBC单篇报道，未取得众议院表决记录或赫格塞思方面原始声明。",
+          "bilingual": {
+            "title_en": "US House Refers Hegseth Impeachment Articles to Committee, Temporarily Blocking Impeachment Proceedings",
+            "sentences": [
+              {
+                "en": "The U.S. House voted 211 to 204 on the 10th to refer impeachment articles against Defense Secretary Pete Hegseth to the Republican-led Judiciary Committee, effectively temporarily blocking the impeachment effort launched by Kentucky Republican Representative Thomas Massie.",
+                "zh": "美国众议院10日以211票对204票通过将针对国防部长皮特·赫格塞思的弹劾条款转交共和党主导的司法委员会，实际上暂时阻止了肯塔基州共和党众议员托马斯·马西发起的弹劾努力。"
+              },
+              {
+                "en": "Massie was the only Republican to vote against it.",
+                "zh": "马西是唯一投反对票的共和党人。"
+              },
+              {
+                "en": "In eight articles of impeachment, Massie accused Hegseth of waging war against Iran for more than 90 days without congressional authorization, saying he “is breaking the law and must be held accountable,” and accused him of overseeing “extrajudicial killings” in U.S. military operations targeting suspected drug-trafficking vessels in the Pacific and Caribbean.",
+                "zh": "马西在8项弹劾条款中指控赫格塞思未获国会授权对伊朗作战超过90天，“正在违法，必须被追究责任”，并指其监督了美军在太平洋和加勒比海针对疑似运毒船只行动中的“法外击杀”。"
+              },
+              {
+                "en": "Hegseth called impeachment a “hoax” and “sabotage,” while Trump said on social media that the effort was a “crushing defeat.”",
+                "zh": "赫格塞思称弹劾是“骗局”和“破坏”，特朗普在社交媒体称该努力“惨败”。"
+              },
+              {
+                "en": "Because impeachment resolutions can carry over between congressional sessions, Democrats could still push it again after taking control of both chambers in January next year.",
+                "zh": "由于弹劾决议可跨国会会期，明年1月民主党控制两院后仍可重新推进。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "美国联邦法院|允许|特朗普对BBC的100亿美元诽谤诉讼继续审理",
+          "title": "美法官允许特朗普对BBC的100亿美元诽谤诉讼继续",
+          "summary": "佛罗里达州联邦法官允许特朗普对BBC提起的100亿美元诽谤诉讼继续审理，但驳回其依佛州不公平贸易行为法提出的另一项请求。",
+          "published_at": "2026-11-11T09:18:00+08:00",
+          "follow_up": true,
+          "new_facts": "联邦法官允许特朗普对BBC的100亿美元诽谤诉讼继续，驳回佛州不公平贸易法请求，未裁决实体；BBC称将应诉。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "佛罗里达州联邦法官杰弗里·昆茨允许美国总统特朗普对英国广播公司（BBC）提起的100亿美元诽谤诉讼继续审理，同时驳回了特朗普依佛罗里达州不公平贸易行为法提出的另一项请求。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "A federal judge in Florida has allowed US President Donald Trump's defamation case against the BBC to go ahead after the broadcaster sought to dismiss it."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "But Judge Jeffrey Kuntz dismissed a second claim in the $10bn (£7.5bn) lawsuit under the state's unfair trade practices law."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "昆茨认定特朗普的诽谤指控足以让案件进入下一阶段，但没有就案件实体作出裁决。BBC发言人称对裁决感到意外但尊重法院，将通过正当法律程序继续应诉；特朗普称这是“巨大胜利”。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "Judge Kuntz found Trump's defamation allegations against the BBC sufficient for the case to continue, although he did not make a ruling on the merits of the case."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "A BBC spokesperson said: \"We are surprised by this decision but respect the Court's authority and note the case will now proceed to the next stage.\""
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "Trump called the judge's ruling a \"huge victory\" in a Truth Social post on Tuesday."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "诉讼针对BBC《全景》节目将特朗普2021年1月6日国会骚乱前演讲的两个不同片段剪辑在一起。BBC已道歉，称播出造成“特朗普直接呼吁暴力行动的错误印象”。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "The US president is suing the BBC over an episode of Panorama that edited together two different sections of a speech he gave before the riot at the US Capitol in 2021."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "The BBC apologised and said that the broadcast had given \"the mistaken impression that Trump made a direct call for violent action\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "唐纳德·特朗普（Donald Trump）",
+            "英国广播公司（BBC）",
+            "美国联邦法院"
+          ],
+          "limitations": "裁决细节来自BBC单篇报道，未取得法院命令原文。",
+          "bilingual": {
+            "title_en": "US judge allows Trump’s $10 billion defamation lawsuit against BBC to proceed",
+            "sentences": [
+              {
+                "en": "Florida federal judge Jeffrey Kuntz allowed US President Donald Trump’s $10 billion defamation lawsuit against the BBC to proceed while dismissing another claim Trump brought under Florida’s unfair trade practices law.",
+                "zh": "佛罗里达州联邦法官杰弗里·昆茨允许美国总统特朗普对英国广播公司（BBC）提起的100亿美元诽谤诉讼继续审理，同时驳回了特朗普依佛罗里达州不公平贸易行为法提出的另一项请求。"
+              },
+              {
+                "en": "Kuntz found Trump’s defamation allegations sufficient to move the case to the next stage but did not rule on the merits.",
+                "zh": "昆茨认定特朗普的诽谤指控足以让案件进入下一阶段，但没有就案件实体作出裁决。"
+              },
+              {
+                "en": "A BBC spokesperson said the broadcaster was surprised by the ruling but respected the court and would continue defending the case through due legal process; Trump called it a “huge victory.”",
+                "zh": "BBC发言人称对裁决感到意外但尊重法院，将通过正当法律程序继续应诉；特朗普称这是“巨大胜利”。"
+              },
+              {
+                "en": "The lawsuit concerns BBC Panorama editing together two different clips of Trump’s speech before the January 6, 2021, Capitol riot.",
+                "zh": "诉讼针对BBC《全景》节目将特朗普2021年1月6日国会骚乱前演讲的两个不同片段剪辑在一起。"
+              },
+              {
+                "en": "The BBC has apologized, saying the broadcast created a “false impression that Trump directly called for violent action.”",
+                "zh": "BBC已道歉，称播出造成“特朗普直接呼吁暴力行动的错误印象”。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "巴西国会|推进|降低刑事责任年龄宪法修正案",
+          "title": "巴西众议院委员会推进降低刑事责任年龄修正案",
+          "summary": "巴西众议院特别委员会报告人门东萨·菲略主张从16岁起追究刑事责任并分开关押，将提交赞成报告；修正案预计11月底委员会表决。",
+          "published_at": "2026-11-11T10:46:00+08:00",
+          "follow_up": true,
+          "new_facts": "巴西降低刑责年龄宪法修正案报告人主张16岁起刑责但分开关押，将提交赞成报告；预计11月底委员会表决，12月第一周全會审议。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "巴西众议院降低刑事责任年龄宪法修正案报告人门东萨·菲略10日在特别委员会听证会上表示，他主张从16岁起追究刑事责任，但未成年人应在与成年人分开的机构服刑，并将提交赞成降低刑责年龄的报告。",
+              "evidence": [
+                {
+                  "source_id": "s80",
+                  "quote": "O deputado federal Mendonça Filho (PL-PE), relator da Proposta de Emenda Constitucional (PEC) sobre a redução da maioridade penal, afirmou nesta terça-feira (10) que defende a punição criminal a partir dos 16 anos, mas que os adolescentes deverão cumprir pena em instituições separadas dos adultos."
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "Ele também anunciou que apresentará relatório favorável à redução da maioridade."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该修正案预计11月底前在特别委员会表决，众议院议长莫塔承诺在12月第一周提交全会审议。参议院一项相同议题的修正案已暂缓，等待众议院决定。",
+              "evidence": [
+                {
+                  "source_id": "s80",
+                  "quote": "A previsão é que a PEC seja votada no colegiado até o fim de novembro. Segundo o relator, o compromisso do presidente da Câmara, Hugo Motta (Republicanos-PB), é levar o texto para apreciação em plenário na primeira semana de dezembro."
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "que retirou de pauta a PEC que tramita no Senado sobre o mesmo assunto, para aguardar a decisão da Câmara."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "巴西司法与公共安全部代表在听证会上说，政府支持在严重犯罪等例外情形下降刑责年龄，但须分开关押并采用不同的重返社会制度。委员会内对修正案仍有分歧。",
+              "evidence": [
+                {
+                  "source_id": "s80",
+                  "quote": "O MJSP adota a mesma orientação do presidente da República e considera democrático e possível debater o tema, e admite a redução da maioridade penal, de forma excepcional, para crimes hediondos, com cumprimento de pena em estabelecimento distinto e apoiado em regime diferenciado de reintegração"
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "A PEC divide a opinião de integrantes da comissão especial."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "巴西国会",
+            "门东萨·菲略（Mendonça Filho）",
+            "降低刑事责任年龄宪法修正案（PEC）"
+          ],
+          "limitations": "依据巴西通讯社报道，修正案尚未表决，拟议年龄和适用范围仍可能变化。",
+          "bilingual": {
+            "title_en": "Brazil Lower House Committee Advances Amendment to Lower Age of Criminal Responsibility",
+            "sentences": [
+              {
+                "en": "Mendonça Filho, rapporteur for the constitutional amendment lowering the age of criminal responsibility in Brazil's Chamber of Deputies, said at a special committee hearing on the 10th that he advocates criminal responsibility from age 16, but that minors should serve their sentences in facilities separate from adults, and that he will submit a report supporting lowering the age of criminal responsibility.",
+                "zh": "巴西众议院降低刑事责任年龄宪法修正案报告人门东萨·菲略10日在特别委员会听证会上表示，他主张从16岁起追究刑事责任，但未成年人应在与成年人分开的机构服刑，并将提交赞成降低刑责年龄的报告。"
+              },
+              {
+                "en": "The amendment is expected to be voted on in the special committee by the end of November, and Chamber Speaker Motta has committed to submitting it to the full chamber for deliberation in the first week of December.",
+                "zh": "该修正案预计11月底前在特别委员会表决，众议院议长莫塔承诺在12月第一周提交全会审议。"
+              },
+              {
+                "en": "A similar amendment on the same issue in the Senate has been put on hold pending the Chamber of Deputies' decision.",
+                "zh": "参议院一项相同议题的修正案已暂缓，等待众议院决定。"
+              },
+              {
+                "en": "A representative of Brazil's Ministry of Justice and Public Security said at the hearing that the government supports lowering the age of criminal responsibility in exceptional cases such as serious crimes, but that minors must be held separately and subject to a different social reintegration system.",
+                "zh": "巴西司法与公共安全部代表在听证会上说，政府支持在严重犯罪等例外情形下降刑责年龄，但须分开关押并采用不同的重返社会制度。"
+              },
+              {
+                "en": "Divisions remain within the committee over the amendment.",
+                "zh": "委员会内对修正案仍有分歧。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s25",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "published_at": null
+    },
+    {
+      "id": "s122",
+      "url": "https://news.cn/20261110/6c84b9e2d45744d4acbbe508459c59b4/c.html",
+      "title": "受权发布丨中华人民共和国国务院令 第848号-新华网",
+      "published_at": null
+    },
+    {
+      "id": "s16",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-11/10730010.shtml",
+      "title": "新版《人类遗传资源管理条例实施细则》发布",
+      "published_at": "2026-11-11T11:25:10+08:00"
+    },
+    {
+      "id": "s28",
+      "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_medium=RSS&at_campaign=rss",
+      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
+      "published_at": null
+    },
+    {
+      "id": "s80",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/relator-defende-reducao-da-maioridade-penal-com-prisoes-separadas",
+      "title": "Relator defende redução da maioridade penal com prisões separadas Deputado Mendonça Filho diz não ter objeção a referendo popular. A previsão é que a PEC seja votada no colegiado até o fim de novembro.",
+      "published_at": "2026-11-10T23:46:00-03:00"
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选资料未能充分核实，未予收录。"
+  ]
+}

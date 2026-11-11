@@ -1,0 +1,716 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "title": "2026-11-11 ACGN",
+  "summary": "本期收录8条通过核验的新闻。",
+  "highlights": [
+    "《GTA VI》PS5预载开启 11月19日按国家滚动解锁",
+    "《The Outer Worlds 2》首个剧情DLC定档12月2日",
+    "《Marathon》12月8日上线Symbiosis更新 加入PvE与PvP新模式",
+    "《Football Manager 27》正式发售 同步加入Game Pass",
+    "集英社游戏发行《梦魇执行官》 公开先导预告"
+  ],
+  "window_start": "2026-11-10T12:00:00+08:00",
+  "window_end": "2026-11-11T12:00:00+08:00",
+  "generated_at": "2026-11-11T12:18:32.562027+08:00",
+  "edition": "acgn",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Rockstar Games|开启|《Grand Theft Auto VI》PS5预载",
+          "title": "《GTA VI》PS5预载开启 11月19日按国家滚动解锁",
+          "summary": "索尼互动娱乐宣布《GTA VI》PS5版预载已开启，游戏将于11月19日按国家滚动午夜解锁，并称本作已成为PS Store史上预购最多游戏。",
+          "published_at": "2026-11-10T23:41:17+08:00",
+          "follow_up": false,
+          "new_facts": "《GTA VI》PS5预载提前9天开启；游戏定于11月19日发售，采用按国家午夜滚动解锁；索尼称本作成PS Store史上预购最多游戏；PS5 Pro提供PSSR和光追阴影增强。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Grand Theft Auto VI",
+            "Rockstar Games",
+            "PlayStation 5"
+          ],
+          "limitations": "仅依据PlayStation Blog官方文章；预购量统计口径未独立核实；其他平台信息不在本文覆盖范围。",
+          "facts": [
+            {
+              "text": "索尼互动娱乐11月10日宣布，《Grand Theft Auto VI》PS5版预下载已在PlayStation Store开启，玩家可在11月19日发售前提前九天装载。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Given this unprecedented demand, we’ve joined with Rockstar Games to allow players to start pre-loading the game nine days early , so they’re ready to play on launch day."
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "Pre-loading is now available at PlayStation Store."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "索尼称本作已成为PlayStation Store史上预购最多的游戏，发售将采用按国家滚动午夜解锁，从新西兰11月19日0点开始。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Grand Theft Auto VI is now the most pre-ordered game in the history of PlayStation Store."
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "We’ve also adopted a rolling midnight launch by country, beginning at 12:00AM NZDT in New Zealand and running across the globe as respective countries hit midnight on November 19."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "索尼称PS5版支持DualSense扬声器、触觉反馈和自适应扳机，并使用Tempest 3D音频与高速SSD；PS5 Pro版提供PSSR和光追阴影增强。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Grand Theft Auto VI for PS5 uses the DualSense wireless controller’s integrated speakers, haptics, and adaptive triggers that are fully used across the game and are adjustable via accessibility settings."
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "Enhancements are also found on PlayStation 5 Pro, which offers breathtaking visuals, improved clarity through PlayStation Spectral Super Resolution (PSSR) and ray-traced shadows."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "GTA VI PS5 Preloads Open, With Rolling Country-by-Country Unlock on November 19",
+            "sentences": [
+              {
+                "en": "Sony Interactive Entertainment announced on November 10 that pre-downloads for the PS5 version of Grand Theft Auto VI have opened on the PlayStation Store, allowing players to preload it nine days ahead of the November 19 release.",
+                "zh": "索尼互动娱乐11月10日宣布，《Grand Theft Auto VI》PS5版预下载已在PlayStation Store开启，玩家可在11月19日发售前提前九天装载。"
+              },
+              {
+                "en": "Sony said the title has become the most pre-ordered game in PlayStation Store history, and the release will use rolling midnight unlocks by country, starting with New Zealand at 12:00 a.m. on November 19.",
+                "zh": "索尼称本作已成为PlayStation Store史上预购最多的游戏，发售将采用按国家滚动午夜解锁，从新西兰11月19日0点开始。"
+              },
+              {
+                "en": "Sony said the PS5 version supports the DualSense speaker, haptic feedback and adaptive triggers, and uses Tempest 3D Audio and a high-speed SSD; the PS5 Pro version offers PSSR and enhanced ray-traced shadows.",
+                "zh": "索尼称PS5版支持DualSense扬声器、触觉反馈和自适应扳机，并使用Tempest 3D音频与高速SSD；PS5 Pro版提供PSSR和光追阴影增强。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "The Outer Worlds 2|公布|首个剧情DLC Side Effects Guaranteed",
+          "title": "《The Outer Worlds 2》首个剧情DLC定档12月2日",
+          "summary": "PlayStation Blog与Xbox Wire宣布《The Outer Worlds 2》首个剧情DLC《Side Effects Guaranteed》将于12月2日推出，为两部分故事的第一部分。",
+          "published_at": "2026-11-11T02:00:31+08:00",
+          "follow_up": false,
+          "new_facts": "《Side Effects Guaranteed》12月2日推出，是两部分剧情DLC的第一部分，第二部分计划2027年春；新增Elysium Valley地区，等级上限30至36，15个新Perk、4个新缺陷、5件新武器和20首新歌电台；同步更新支持随时重置角色。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "The Outer Worlds 2",
+            "Side Effects Guaranteed"
+          ],
+          "limitations": "仅依据PlayStation Blog与Xbox Wire发布的官方稿件，两者可能来自同一宣传材料；未说明DLC单独售价。",
+          "facts": [
+            {
+              "text": "据PlayStation Blog与Xbox Wire 11月10日发布的消息，黑曜石娱乐《The Outer Worlds 2》首个剧情DLC《Side Effects Guaranteed》将于12月2日推出，是两部分故事的第一部分，第二部分计划2027年春。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "The time has come to expand on the experience for The Outer Worlds 2 with the first of a two-part story expansion, Side Effects Guaranteed, arriving on December 2."
+                },
+                {
+                  "source_id": "s22",
+                  "quote": "The stakes are set for the release of the first of a two-part narrative DLC expansion of The Outer Worlds 2 on December 2."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "DLC新增Elysium Valley地区，等级上限从30提高到36，加入15个新Perk、4个新缺陷、5件新武器和20首新歌的Sub Rosa电台。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "There is also the all-new region of Elysium Valley to explore with unique quests and new facilities to make your way through."
+                },
+                {
+                  "source_id": "s22",
+                  "quote": "The level cap will increase from 30 to 36, bringing more skill points to broaden your build."
+                },
+                {
+                  "source_id": "s22",
+                  "quote": "15 brand new perks being added into the mix. Four new flaws will also be introduced"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "there are five new weapons to add to the arsenal."
+                },
+                {
+                  "source_id": "s22",
+                  "quote": "brand-new Sub Rosa-run radio station featuring 20 new songs"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "DLC还提供27级预设角色，玩家可从主菜单直接开始该DLC；同步更新将允许玩家随时重置角色，并可在自定义选项调整每级获得的技能点；DLC包含在Premium Edition或Premium Edition升级包中。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "From the main menu if you start a new game, you will see an option to start Side Effects Guaranteed directly. This will load a pre-made character at level 27"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "a new update that will allow players to respec their character at any time."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "And for those who want more skills to play around with, a new addition to the custom game options allows you to adjust how many skill points you get per level."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "Side Effects Guaranteed releases on December 2nd or is available in the Premium Edition or Premium Edition Upgrade for The Outer Worlds 2 ."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "First Story DLC for The Outer Worlds 2 Set for December 2",
+            "sentences": [
+              {
+                "en": "According to posts published on November 10 by PlayStation Blog and Xbox Wire, Obsidian Entertainment's first story DLC for The Outer Worlds 2, Side Effects Guaranteed, will launch on December 2 as the first part of a two-part story, with the second part planned for spring 2027.",
+                "zh": "据PlayStation Blog与Xbox Wire 11月10日发布的消息，黑曜石娱乐《The Outer Worlds 2》首个剧情DLC《Side Effects Guaranteed》将于12月2日推出，是两部分故事的第一部分，第二部分计划2027年春。"
+              },
+              {
+                "en": "The DLC adds the Elysium Valley region, raises the level cap from 30 to 36, and adds 15 new Perks, 4 new defects, 5 new weapons, and a Sub Rosa radio station featuring 20 new songs.",
+                "zh": "DLC新增Elysium Valley地区，等级上限从30提高到36，加入15个新Perk、4个新缺陷、5件新武器和20首新歌的Sub Rosa电台。"
+              },
+              {
+                "en": "The DLC also offers a level 27 preset character, allowing players to start the DLC directly from the main menu; a simultaneous update will allow players to reset their characters at any time and adjust the skill points gained per level in the customization options; the DLC is included in the Premium Edition or Premium Edition upgrade pack.",
+                "zh": "DLC还提供27级预设角色，玩家可从主菜单直接开始该DLC；同步更新将允许玩家随时重置角色，并可在自定义选项调整每级获得的技能点；DLC包含在Premium Edition或Premium Edition升级包中。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Marathon|公布|Symbiosis更新",
+          "title": "《Marathon》12月8日上线Symbiosis更新 加入PvE与PvP新模式",
+          "summary": "PlayStation Blog宣布《Marathon》Symbiosis更新将于12月8日上线，加入新PvE模式Expedition、3v3死斗测试、新区域、武器和Runner外壳。",
+          "published_at": "2026-11-10T22:00:13+08:00",
+          "follow_up": false,
+          "new_facts": "《Marathon》Symbiosis更新12月8日对所有玩家上线；新增PvE模式Expedition第一阶段、3v3 Team Deathmatch测试、Perimeter新区域、Bishop Runner外壳和新武器；12月8日至15日举行Open Play Week。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Marathon",
+            "Symbiosis"
+          ],
+          "limitations": "仅依据PlayStation Blog官方文章；更新内容与时间以官方公布为准。",
+          "facts": [
+            {
+              "text": "索尼互动娱乐在PlayStation Blog宣布，《Marathon》的Symbiosis更新将于12月8日上线，加入PvE与PvP模式、新武器、新Runner外壳和扩展区域；更新对所有玩家开放。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Marathon ‘s Symbiosis update arrives December 8, bringing new PvE and PvP modes, weapons, a Runner shell, and expanded areas to explore on Tau Ceti IV."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "The Symbiosis update launches December 8 for all players."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "更新把Perimeter区域改为菌类与外星生物覆盖，新增地下Burrows和水下Reservoir，并加入Tick Queen；PvE模式Expedition为三局连续挑战的第一阶段，PvP加入3v3 Team Deathmatch测试。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Fungal growth and alien life have transformed Perimeter, introducing new playable spaces including the underground Burrows and submerged Reservoir. Runners will also encounter the Tick Queen, who lurks deep beneath the surface."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Expedition: Phase 1 of a new PvE-only mode built around a three-run series."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Deathmatch (Beta): An experimental PvP mode featuring bite-sized 3v3 Team Deathmatch matches."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "12月8日至15日举行Open Play Week；游戏现已在PS5推出，支持跨平台与跨存档。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Players can experience Marathon during Open Play Week, running December 8 – 15, alongside the launch of Symbiosis."
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Marathon is available now on PS5 , with full cross-play and cross-save support."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Marathon Symbiosis Update Launches December 8 With New PvE and PvP Modes",
+            "sentences": [
+              {
+                "en": "Sony Interactive Entertainment announced on the PlayStation Blog that Marathon's Symbiosis update will go live on December 8, adding PvE and PvP modes, new weapons, new Runner shells, and expanded areas; the update will be open to all players.",
+                "zh": "索尼互动娱乐在PlayStation Blog宣布，《Marathon》的Symbiosis更新将于12月8日上线，加入PvE与PvP模式、新武器、新Runner外壳和扩展区域；更新对所有玩家开放。"
+              },
+              {
+                "en": "The update changes the Perimeter area into one covered by fungi and alien organisms, adds the underground Burrows and underwater Reservoir, and introduces the Tick Queen; the PvE mode Expedition is the first phase of a three-match consecutive challenge, and PvP adds a 3v3 Team Deathmatch test.",
+                "zh": "更新把Perimeter区域改为菌类与外星生物覆盖，新增地下Burrows和水下Reservoir，并加入Tick Queen；PvE模式Expedition为三局连续挑战的第一阶段，PvP加入3v3 Team Deathmatch测试。"
+              },
+              {
+                "en": "An Open Play Week will run from December 8 to December 15; the game is now available on PS5 and supports cross-platform play and cross-save.",
+                "zh": "12月8日至15日举行Open Play Week；游戏现已在PS5推出，支持跨平台与跨存档。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Football Manager 27|正式发行|Game Pass版本",
+          "title": "《Football Manager 27》正式发售 同步加入Game Pass",
+          "summary": "Xbox Wire宣布《Football Manager 27》与《Football Manager 27 Console》已正式发售，分别面向Xbox PC和Xbox Series X|S，并加入Game Pass。",
+          "published_at": "2026-11-11T04:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "《Football Manager 27》与FM27 Console已发售并加入Game Pass；分别面向Xbox PC和Xbox Series X|S；新增授权联赛、2D比赛视图升级和超过1500项赛事更新。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Football Manager 27",
+            "Football Manager 27 Console"
+          ],
+          "limitations": "仅依据Xbox Wire官方文章；未说明Game Pass具体层级及非Game Pass售价。",
+          "facts": [
+            {
+              "text": "Xbox Wire 11月10日宣布，《Football Manager 27》与《Football Manager 27 Console》已正式发售，分别面向Xbox PC和Xbox Series X|S，并加入Game Pass。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "FM27 is out now for XBOX on PC and FM27 Console is out now for XBOX Series X|S. Both are available with Game Pass."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "官方称本作提供更多战术控制与更深的足球世界，新增授权联赛、2D比赛视图升级、更深入的数据和超过1500项赛事更新。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "FM27 and FM27 Console deliver greater control over your tactical vision and a deeper football world to explore."
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "upgrades to the 2D Match View, deeper data to power decision-making and more than 1,500 competition updates."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Football Manager 27 Officially Released and Joins Game Pass",
+            "sentences": [
+              {
+                "en": "Xbox Wire announced on November 10 that Football Manager 27 and Football Manager 27 Console have officially been released for Xbox PC and Xbox Series X|S, respectively, and have joined Game Pass.",
+                "zh": "Xbox Wire 11月10日宣布，《Football Manager 27》与《Football Manager 27 Console》已正式发售，分别面向Xbox PC和Xbox Series X|S，并加入Game Pass。"
+              },
+              {
+                "en": "According to the official statement, the title offers more tactical control and a deeper football world, with newly added licensed leagues, upgraded 2D match views, deeper data, and more than 1,500 competition updates.",
+                "zh": "官方称本作提供更多战术控制与更深的足球世界，新增授权联赛、2D比赛视图升级、更深入的数据和超过1500项赛事更新。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "DDDistortion|公布|《梦魇执行官》先导预告及集英社游戏发行",
+          "title": "集英社游戏发行《梦魇执行官》 公开先导预告",
+          "summary": "集英社游戏公开DDDistortion开发的TPS动作恐怖游戏《梦魇执行官》先导预告与主视觉，并宣布担任发行商。",
+          "published_at": "2026-11-11T10:29:22+08:00",
+          "follow_up": false,
+          "new_facts": "《梦魇执行官》公开先导预告和主视觉，集英社游戏担任发行商；游戏以2036年东京废墟为舞台，主角米莎由泽城美雪配音；玩法包括模块化枪械“离合”切换和热量槽。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "梦魇执行官",
+            "DDDistortion",
+            "集英社游戏"
+          ],
+          "limitations": "仅依据机核报道；报道未提及平台和发售日期，未直接取得集英社游戏公告原文。",
+          "facts": [
+            {
+              "text": "据机核报道，集英社游戏公开由DDDistortion开发的TPS动作恐怖游戏《梦魇执行官》先导预告和主视觉，并宣布以发行商身份参与本作。",
+              "evidence": [
+                {
+                  "source_id": "s30",
+                  "quote": "集英社游戏公开由DDDistortion开发的TPS动作恐怖游戏《梦魇执行官》的先导预告片及全新主视觉图。同时，集英社游戏宣布将以发行商身份参与本作。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "游戏以2036年近未来东京废墟为舞台，玩家扮演公安王牌干员米莎，用模块化枪械的“离合”系统切换武器对抗妖怪；开火会积累热量槽，过热会爆炸。",
+              "evidence": [
+                {
+                  "source_id": "s30",
+                  "quote": "《梦魇执行官》是一款以近未来东京废墟为舞台、狩猎妖怪的TPS动作恐怖游戏。玩家将扮演公安局王牌干员米莎，利用指令灵动切换武器，在极速战斗中杀出重围，查明梦魇背后的真相。"
+                },
+                {
+                  "source_id": "s30",
+                  "quote": "无节制开火将积攒”热量槽“，最终导致过热爆炸"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "先导预告首次公开米莎的声音，由泽城美雪配音；新主视觉由染平Katsu绘制。",
+              "evidence": [
+                {
+                  "source_id": "s30",
+                  "quote": "先导预告片中首次公开了主角“米莎”的声音以及本角色由泽城美雪担任配音。"
+                },
+                {
+                  "source_id": "s30",
+                  "quote": "新主视觉图由插画师“染平Katsu”特别绘制"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Shueisha Games to Publish Nightmare Operator, Unveils Teaser Trailer",
+            "sentences": [
+              {
+                "en": "According to a Gcores report, Shueisha Games has unveiled the teaser trailer and key visual for Nightmare Operator, a TPS action horror game developed by DDDistortion, and announced that it will participate in the project as publisher.",
+                "zh": "据机核报道，集英社游戏公开由DDDistortion开发的TPS动作恐怖游戏《梦魇执行官》先导预告和主视觉，并宣布以发行商身份参与本作。"
+              },
+              {
+                "en": "The game is set in the ruins of near-future Tokyo in 2036, where players take on the role of Misha, an elite public security operative, and use the “Clutch” system of modular firearms to switch weapons to fight yokai; firing builds up a heat gauge, and overheating causes an explosion.",
+                "zh": "游戏以2036年近未来东京废墟为舞台，玩家扮演公安王牌干员米莎，用模块化枪械的“离合”系统切换武器对抗妖怪；开火会积累热量槽，过热会爆炸。"
+              },
+              {
+                "en": "The teaser trailer reveals Misha's voice for the first time, with Miyuki Sawashiro providing the voice; the new key visual is illustrated by Katsu Somehira.",
+                "zh": "先导预告首次公开米莎的声音，由泽城美雪配音；新主视觉由染平Katsu绘制。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Sony Interactive Entertainment|取消|Fairgame$",
+          "title": "RPS报道索尼取消《Fairgame$》 称无开发者被裁",
+          "summary": "Rock Paper Shotgun报道索尼已取消《Fairgame$》，并称没有开发者因此被裁。",
+          "published_at": "2026-11-11T05:28:00+08:00",
+          "follow_up": false,
+          "new_facts": "RPS报道索尼取消《Fairgame$》，并称无开发者被裁。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Fairgame$",
+            "Sony Interactive Entertainment"
+          ],
+          "limitations": "仅有Rock Paper Shotgun报道，未取得索尼或项目方官方声明；无法确认取消时间和项目当前状态。",
+          "facts": [
+            {
+              "text": "据Rock Paper Shotgun 11月10日报道，索尼已取消《Fairgame$》，报道称没有开发者因此被裁。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works"
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "Thankfully, no devs are being laid off"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "RPS Reports Sony Cancelled Fairgame$, Says No Developers Were Laid Off",
+            "sentences": [
+              {
+                "en": "According to a November 10 report by Rock Paper Shotgun, Sony has cancelled Fairgame$, and the report said no developers were laid off as a result.",
+                "zh": "据Rock Paper Shotgun 11月10日报道，索尼已取消《Fairgame$》，报道称没有开发者因此被裁。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "IGF评委|抵制|生成式AI游戏参评",
+          "title": "19名IGF评委拒绝为生成式AI游戏投票 《Big Walk》回应",
+          "summary": "19名2027年IGF评委联合声明拒绝为使用生成式AI的游戏投票，并呼吁禁止含AI生成内容作品参选；House House回应《Big Walk》使用LLM辅助技术排查。",
+          "published_at": "2026-11-11T09:25:00+08:00",
+          "follow_up": false,
+          "new_facts": "19名2027 IGF评委声明拒绝为生成式AI游戏投票并呼吁禁令；House House称《Big Walk》后期用LLM解决性能问题，AI生成内容不足总代码0.1%；机核称《Big Walk》很可能无缘IGF。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Independent Games Festival",
+            "Big Walk",
+            "Sam Barlow",
+            "Austin Walker"
+          ],
+          "limitations": "仅依据机核报道；未取得IGF官方回应或评委声明原文；《Big Walk》是否最终失去参评资格尚不确定。",
+          "facts": [
+            {
+              "text": "据机核报道，包括Sam Barlow与Austin Walker在内的19名2027年独立游戏节IGF评委发表联合声明，拒绝为任何使用生成式AI制作的游戏投票，并呼吁IGF制定严格政策，全面禁止含AI生成内容的作品参选。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "包括 Sam Barlow 与 Austin Walker 在内的19名2027年独立游戏节 IGF 评委联合于日前发表声明，宣布拒绝为任何使用生成式 AI 制作的游戏投票。这些评委呼吁 IGF 能够制定严格政策，全面禁止包含 AI 生成内容的作品参选。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "评委称决定是为声援担忧行业前景的创作者，认为生成式AI在生态、经济、认知及劳动权益等方面造成负面影响，并称有其他评委因职业风险未联署。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "做出这一决定是为了声援对行业前景感到担忧的创作者。他们认为，生成式 AI 会在生态、经济、认知及劳动权益等多个层面带来负面影响"
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "有其他评委出于职业风险等方面的顾虑而没有参与联署。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "House House确认《Big Walk》项目后期曾用LLM解决性能问题，但称仅辅助技术排查，AI生成内容占游戏总代码不到0.1%，其他创作环节未使用；团队承认未建立内部规范，V社豁免AI辅助编码披露，商店页面没有相关说明。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "House House 则回应称，项目后期曾使用 LLM 解决性能问题，但仅限于辅助技术排查。AI 生成的内容占游戏总代码不到 0.1%，其他创作环节均未使用。"
+                },
+                {
+                  "source_id": "s31",
+                  "quote": "开发团队同时表示，支持限制生成式 AI 危害的努力，也承认此前没有建立内部规范是自己的失误。由于V社豁免了 AI 辅助编码等用途的披露，《Big Walk》的商店页面确实没有相关说明。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "机核报道称，鉴于评委决定抵制任何有AI参与的游戏，《Big Walk》很可能无缘IGF。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "鉴于这些评委决定抵制任何有 AI 参与的游戏，这款广受好评的作品很可能也将无缘 IGF。"
+                }
+              ],
+              "kind": "explanation",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "19 IGF Judges Refuse to Vote for Generative AI Games; Big Walk Responds",
+            "sentences": [
+              {
+                "en": "According to a report by Gcores, 19 judges for the 2027 Independent Games Festival (IGF), including Sam Barlow and Austin Walker, issued a joint statement refusing to vote for any game made using generative AI and calling on the IGF to formulate a strict policy that fully bans works containing AI-generated content from entry.",
+                "zh": "据机核报道，包括Sam Barlow与Austin Walker在内的19名2027年独立游戏节IGF评委发表联合声明，拒绝为任何使用生成式AI制作的游戏投票，并呼吁IGF制定严格政策，全面禁止含AI生成内容的作品参选。"
+              },
+              {
+                "en": "The judges said the decision was made to support creators worried about the industry's future, argued that generative AI has caused negative impacts in areas including the ecosystem, the economy, cognition and labor rights, and said other judges did not sign the statement due to professional risks.",
+                "zh": "评委称决定是为声援担忧行业前景的创作者，认为生成式AI在生态、经济、认知及劳动权益等方面造成负面影响，并称有其他评委因职业风险未联署。"
+              },
+              {
+                "en": "House House confirmed that the Big Walk project used an LLM in its later stages to address performance issues, but said it was only used to assist technical troubleshooting, that AI-generated content accounted for less than 0.1% of the game's total code and was not used in other creative stages; the team acknowledged it had not established internal guidelines, that Valve exempts AI-assisted coding from disclosure, and that the store page has no relevant explanation.",
+                "zh": "House House确认《Big Walk》项目后期曾用LLM解决性能问题，但称仅辅助技术排查，AI生成内容占游戏总代码不到0.1%，其他创作环节未使用；团队承认未建立内部规范，V社豁免AI辅助编码披露，商店页面没有相关说明。"
+              },
+              {
+                "en": "Gcores reported that, in light of the judges' decision to boycott any game involving AI, Big Walk is likely to miss out on the IGF.",
+                "zh": "机核报道称，鉴于评委决定抵制任何有AI参与的游戏，《Big Walk》很可能无缘IGF。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "劇場アニメ「魔法使いの夜」|公开|第1弹情报与IMAX限定特典",
+          "title": "剧场版《魔法使之夜》11月20日上映 公布入场特典与漫画化",
+          "summary": "AnimeAnime报道剧场版《魔法使之夜》将于11月20日上映，公布第一弹及IMAX限定入场特典，并开始漫画化连载。",
+          "published_at": "2026-11-11T11:10:03+08:00",
+          "follow_up": false,
+          "new_facts": "剧场版《魔法使之夜》11月20日上映；第一弹入场特典为TYPE-MOON绘制迷你色纸全3种随机，IMAX限定为A5插图板；全国11馆首日0时最速上映；11月11日《周刊少年Magazine》50号开始真木萤五作画的漫画化连载。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Witch on the Holy Night",
+            "劇場アニメ「魔法使いの夜」"
+          ],
+          "limitations": "仅依据AnimeAnime报道；未直接取得剧场版官方特典公告原文；报道未说明特典数量上限。",
+          "facts": [
+            {
+              "text": "据AnimeAnime 11月11日报道，TYPE-MOON原作、ufotable制作的剧场版《魔法使之夜》将于2026年11月20日在日本上映；第一弹入场特典为TYPE-MOON绘制的迷你色纸全3种随机，IMAX场限定特典为A5插图板。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "『Fateシリーズ』のTYPE-MOON原作、『鬼滅の刃』のufotable制作による劇場アニメ最新作『魔法使いの夜』が、2026年11月20日より公開される。このたびその入場者特典第1弾として「TYPE-MOON描き下ろしミニ色紙」、IMAX上映限定の入場者特典として「IMAXビジュアル イラストボード」が配布されることがわかった。"
+                },
+                {
+                  "source_id": "s39",
+                  "quote": "原作者の奈須きのこ、原作キャラクターデザインのこやまひろかず、原作キャラクター原案の武内崇による描き下ろしミニ色紙が、全3種からランダムでプレゼントされる。"
+                },
+                {
+                  "source_id": "s39",
+                  "quote": "またIMAX上映限定の入場者特典として、A5サイズの「IMAXビジュアル イラストボード」が配布されることも明らかになった。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "全国11家影院将在上映首日11月20日0时举行最速上映。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "全国11劇場では、公開初日の0時より最速上映も実施される。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "11月11日发行的《周刊少年Magazine》50号开始漫画化《魔法使之夜》，由真木萤五作画。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "11月11日発売の「週刊少年マガジン」50号より、『可愛いだけじゃない式守さん』で知られる真木蛍五の漫画によるコミカライズ版『魔法使いの夜』の新連載が始まった。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Theatrical Film Witch on the Holy Night Opens November 20, Announces Admission Bonuses and Manga Adaptation",
+            "sentences": [
+              {
+                "en": "According to an AnimeAnime report on November 11, the theatrical film Witch on the Holy Night, based on an original work by TYPE-MOON and produced by ufotable, will open in Japan on November 20, 2026; the first-wave admission bonus will be a mini shikishi randomly selected from three types, illustrated by TYPE-MOON, and the bonus limited to IMAX screenings will be an A5 illustration board.",
+                "zh": "据AnimeAnime 11月11日报道，TYPE-MOON原作、ufotable制作的剧场版《魔法使之夜》将于2026年11月20日在日本上映；第一弹入场特典为TYPE-MOON绘制的迷你色纸全3种随机，IMAX场限定特典为A5插图板。"
+              },
+              {
+                "en": "Eleven theaters nationwide will hold the earliest screenings at midnight on November 20, the opening day.",
+                "zh": "全国11家影院将在上映首日11月20日0时举行最速上映。"
+              },
+              {
+                "en": "The manga adaptation of Witch on the Holy Night began in issue 50 of Weekly Shōnen Magazine, released on November 11, with art by Keigo Maki.",
+                "zh": "11月11日发行的《周刊少年Magazine》50号开始漫画化《魔法使之夜》，由真木萤五作画。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s18",
+      "url": "https://blog.playstation.com/2026/11/10/pre-load-grand-theft-auto-vi-on-ps5-starting-today/",
+      "title": "Pre-load Grand Theft Auto VI on PS5 starting today",
+      "published_at": "2026-11-10T07:41:17-08:00"
+    },
+    {
+      "id": "s16",
+      "url": "https://blog.playstation.com/2026/11/10/the-outer-worlds-2s-first-dlc-arrives-december-2/",
+      "title": "The Outer Worlds 2’s first DLC arrives December 2",
+      "published_at": "2026-11-10T10:00:31-08:00"
+    },
+    {
+      "id": "s19",
+      "url": "https://blog.playstation.com/2026/11/10/marathon-symbiosis-update-launches-december-8-adding-new-pve-and-pvp-modes-weapons-and-more/",
+      "title": "Marathon Symbiosis update launches December 8, adding new PvE and PvP modes, weapons, and more",
+      "published_at": "2026-11-10T06:00:13-08:00"
+    },
+    {
+      "id": "s21",
+      "url": "https://news.xbox.com/en-us/2026/11/10/football-manager-27-game-pass-pc-console-xbox/",
+      "title": "Football Manager 27 Out Now with Game Pass: Discover 5 Unmissable Additions",
+      "published_at": "2026-11-10T20:00:00+00:00"
+    },
+    {
+      "id": "s30",
+      "url": "https://www.gcores.com/articles/222191",
+      "title": "TPS动作恐怖游戏《梦魇执行官》 公开先导预告片与全新主视觉图",
+      "published_at": "2026-11-11T10:29:22+08:00"
+    },
+    {
+      "id": "s31",
+      "url": "https://www.gcores.com/articles/222182",
+      "title": "独立游戏节IGF部分评委强烈抵制AI游戏，《Big Walk》或无缘评选",
+      "published_at": "2026-11-11T09:25:00+08:00"
+    },
+    {
+      "id": "s39",
+      "url": "https://animeanime.jp/article/2026/11/11/104685.html",
+      "title": "劇場アニメ「魔法使いの夜」第1弾& IMAX限定入プレが明らかに！「マガジン」でコミカライズもスタート",
+      "published_at": "2026-11-11T12:10:03+09:00"
+    },
+    {
+      "id": "s27",
+      "url": "https://www.rockpapershotgun.com/sony-have-cancelled-fairgame-once-again-reminding-us-that-chasing-live-service-big-bucks-basically-never-works",
+      "title": "Sony have cancelled Fairgame$, once again reminding us that chasing live service big bucks basically never works",
+      "published_at": "2026-11-10T21:28:00+00:00"
+    },
+    {
+      "id": "s22",
+      "url": "https://news.xbox.com/en-us/2026/11/10/side-effects-guaranteed-the-outer-worlds-2-dlc/",
+      "title": "Side Effects Guaranteed in the First DLC For The Outer Worlds 2, Coming December 2",
+      "published_at": "2026-11-10T18:00:00+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}

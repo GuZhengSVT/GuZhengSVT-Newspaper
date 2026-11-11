@@ -1,0 +1,131 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "title": "2026-11-11 ACGN · Galgame / 新番播出与情报",
+  "summary": "Sekai Project于11月10日宣布，《KARAKARA 3》将于11月23日登陆Steam，售价9.99美元，开发商为calme。",
+  "highlights": [
+    "《KARAKARA 3》定档11月23日登陆Steam"
+  ],
+  "window_start": "2026-11-04T12:00:00+08:00",
+  "window_end": "2026-11-11T12:00:00+08:00",
+  "generated_at": "2026-11-11T12:24:49.795828+08:00",
+  "edition": "acgn-c47fb381c2",
+  "sources": [
+    {
+      "id": "s15",
+      "url": "https://sekaiproject.com/karakara-3-coming-to-steam-on-november-23/",
+      "title": "KARAKARA 3 Coming To Steam On November 23!",
+      "published_at": "2026-11-10T21:07:26+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "galgame",
+      "name": "Galgame",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Sekai Project|定档Steam|KARAKARA 3",
+          "title": "《KARAKARA 3》定档11月23日登陆Steam",
+          "summary": "Sekai Project宣布系列最终章《KARAKARA 3》将于11月23日登陆Steam，售价9.99美元，开发商为calme。",
+          "published_at": "2026-11-11T05:07:26+08:00",
+          "follow_up": false,
+          "new_facts": "Sekai Project于2026年11月10日宣布《KARAKARA 3》将于11月23日登陆Steam，售价9.99美元，开发商为calme。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Sekai Project",
+            "KARAKARA 3"
+          ],
+          "limitations": "来源为Sekai Project发行商公告，核心信息为定档、价格和开发商；公告未说明支持语言、发售地区及主机版计划。",
+          "facts": [
+            {
+              "text": "发行商Sekai Project于11月10日宣布，系列最终章《KARAKARA 3》将于11月23日登陆Steam，售价9.99美元。开发商为calme。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "Published on November 10, 2026"
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "The final chapter in the KARAKARA series, KARAKARA 3 is coming to Steam this winter!"
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "Developer: calme Platform: Steam Price: $9.99 Releae Date: November 23, 2026"
+                }
+              ]
+            },
+            {
+              "text": "故事设定在人类衰退的“黄昏时代”，莱昂与露西亚在干旱土地上经营小餐馆。本作中，莱昂接到一通来自旧时代遗物的电话，得知镇治安队成员卡伦被挟持。",
+              "kind": "background",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "The “Age of Dusk.” It is a time of senescence for the human species, during which hybrids known as the “Others”—those who are human, yet not—exist in great numbers."
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "Leon and Lucia, who run a small diner."
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "Leon hears the sound of a telephone, a Relic from the past and is informed that Cullen, a member of the town vigilante corp, is being held hostage."
+                }
+              ]
+            },
+            {
+              "text": "公告称，本作最早在2018年Anime Weekend Atlanta公布，插画由日本角色设计师p19绘制。",
+              "kind": "background",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "First announced during Anime Weekend Atlanta in 2018, KARAKARA 3 is the concluding chapter in the KARAKARA trilogy featuring the beautiful illustrations of Japanese character designer, p19."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "KARAKARA 3, Series Finale, Set for Steam Launch on November 23",
+            "sentences": [
+              {
+                "en": "Publisher Sekai Project announced on November 10 that KARAKARA 3, the final chapter of the series, will launch on Steam on November 23 at $9.99.",
+                "zh": "发行商Sekai Project于11月10日宣布，系列最终章《KARAKARA 3》将于11月23日登陆Steam，售价9.99美元。"
+              },
+              {
+                "en": "The developer is calme.",
+                "zh": "开发商为calme。"
+              },
+              {
+                "en": "The story is set in the \"Twilight Age\" of human decline, where Leon and Lucia run a small restaurant on arid land.",
+                "zh": "故事设定在人类衰退的“黄昏时代”，莱昂与露西亚在干旱土地上经营小餐馆。"
+              },
+              {
+                "en": "In this game, Leon receives a phone call from a relic of the old era and learns that Karen, a member of the town's security team, has been taken hostage.",
+                "zh": "本作中，莱昂接到一通来自旧时代遗物的电话，得知镇治安队成员卡伦被挟持。"
+              },
+              {
+                "en": "The announcement states that the game was first announced at Anime Weekend Atlanta in 2018 and that its illustrations are by Japanese character designer p19.",
+                "zh": "公告称，本作最早在2018年Anime Weekend Atlanta公布，插画由日本角色设计师p19绘制。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "name": "新番播出与情报",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}

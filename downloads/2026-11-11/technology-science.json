@@ -1,0 +1,334 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "title": "2026-11-11 科技 · 基础学科",
+  "summary": "本期收录3条新闻。",
+  "highlights": [
+    "铜氧化物超导体中赝能隙与电子配对信号重合",
+    "泰国发现约3400万年前巨型啮齿动物新种",
+    "电离层负暴可将耀斑所致短波中断延长至约73分钟"
+  ],
+  "window_start": "2026-11-04T12:00:00+08:00",
+  "window_end": "2026-11-11T12:00:00+08:00",
+  "generated_at": "2026-11-11T12:04:44.489485+08:00",
+  "sections": [
+    {
+      "id": "science",
+      "name": "基础学科",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "铜氧化物高温超导体|证实|赝能隙与配对能等价",
+          "title": "铜氧化物超导体中赝能隙与电子配对信号重合",
+          "summary": "研究测量Bi-2212的配对能与赝能隙，认为相位相干而非配对强度限制超导温度；实验在极低温，未实现室温超导。",
+          "published_at": "2026-11-10T01:07:00+08:00",
+          "follow_up": false,
+          "new_facts": "Bi-2212中配对能与赝能隙信号重合；作者将限制归因于相位相干；实验在极低温，未实现室温超导。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据The Brighter Side of News经雅虎新闻转载的报道，乌得勒支大学、莱顿大学和慕尼黑大学的研究人员测量了铜氧化物超导体Bi-2212，相关论文发表于《Science》。他们试图把长期争议的赝能隙与电子配对联系起来。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "Researchers from Utrecht University , Leiden University and Ludwig Maximilian University of Munich investigated a copper-oxide material called Bi-2212. Their findings, published in Science , connect a disputed electronic feature to the formation of electron pairs."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "研究团队用可探测散粒噪声的扫描隧道显微镜测量。结果显示，配对能远大于按超导转变温度推算的尺度；配对信号出现的能量位置与赝能隙相符。作者据此认为，限制超导温度的是电子对之间的相位相干（保持量子协同），而非配对强度不足。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "The researchers found pairing energies far larger than the material's superconducting transition temperature would suggest. Their interpretation puts the spotlight on phase coherence, the collective quantum coordination needed for resistance-free current."
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "The team used scanning tunneling microscopes equipped to detect shot noise."
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "The researchers therefore asked where the signature of paired charge first appeared. If it matched the larger pseudogap energy, pairing would have to be part of the explanation for that feature. Their measurements found that match."
+                }
+              ],
+              "kind": "explanation",
+              "verification": "single_source"
+            },
+            {
+              "text": "实验在极低温度下进行，没有展示普通温度下无电阻导电。报道称，该结果排除了仅用局域有序解释所测赝能隙，但不排除配对与其他电子序共存，也未解决所有铜氧化物中的赝能隙问题。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "However, the experiment itself took place at very low temperatures. It did not show an ordinary-temperature wire carrying current without resistance."
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "The result rules out an explanation based solely on local ordering for the measured pseudogap. It does not exclude a mixture of pairing and other electronic orders. Nor does it settle every question about the broader pseudogap phenomenon across all cuprates."
+                }
+              ],
+              "kind": "limitation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "铜氧化物高温超导体",
+            "赝能隙",
+            "配对能"
+          ],
+          "limitations": "来源为雅虎新闻转载的The Brighter Side of News二手科学报道，未直接核对《Science》论文；测量细节和统计显著性未在片段中给出。",
+          "bilingual": {
+            "title_en": "Pseudogap and electron-pairing signals coincide in cuprate superconductor",
+            "sentences": [
+              {
+                "en": "According to a report by The Brighter Side of News republished via Yahoo News, researchers from Utrecht University, Leiden University, and the University of Munich measured the cuprate superconductor Bi-2212, and the related paper was published in Science.",
+                "zh": "据The Brighter Side of News经雅虎新闻转载的报道，乌得勒支大学、莱顿大学和慕尼黑大学的研究人员测量了铜氧化物超导体Bi-2212，相关论文发表于《Science》。"
+              },
+              {
+                "en": "They sought to link the long-debated pseudogap with electron pairing.",
+                "zh": "他们试图把长期争议的赝能隙与电子配对联系起来。"
+              },
+              {
+                "en": "The research team used a scanning tunneling microscope capable of detecting shot noise.",
+                "zh": "研究团队用可探测散粒噪声的扫描隧道显微镜测量。"
+              },
+              {
+                "en": "The results showed that the pairing energy was far larger than the scale estimated from the superconducting transition temperature; the energy position at which the pairing signal appeared matched the pseudogap.",
+                "zh": "结果显示，配对能远大于按超导转变温度推算的尺度；配对信号出现的能量位置与赝能隙相符。"
+              },
+              {
+                "en": "The authors therefore concluded that what limits the superconducting temperature is phase coherence between electron pairs (maintaining quantum coordination), rather than insufficient pairing strength.",
+                "zh": "作者据此认为，限制超导温度的是电子对之间的相位相干（保持量子协同），而非配对强度不足。"
+              },
+              {
+                "en": "The experiment was conducted at extremely low temperatures and did not demonstrate resistance-free conduction at ordinary temperatures.",
+                "zh": "实验在极低温度下进行，没有展示普通温度下无电阻导电。"
+              },
+              {
+                "en": "The report said that the result ruled out explaining the measured pseudogap solely through local order, but did not rule out the coexistence of pairing and other electronic orders, nor did it resolve the pseudogap problem in all cuprates.",
+                "zh": "报道称，该结果排除了仅用局域有序解释所测赝能隙，但不排除配对与其他电子序共存，也未解决所有铜氧化物中的赝能隙问题。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Yakamys sirindhornae|发现|巨型啮齿动物化石",
+          "title": "泰国发现约3400万年前巨型啮齿动物新种",
+          "summary": "泰国甲米发现两枚牙齿化石，命名Yakamys sirindhornae，估算体重约30公斤，论文发表于Scientific Reports。",
+          "published_at": "2026-11-11T09:36:04+08:00",
+          "follow_up": false,
+          "new_facts": "泰国甲米发现约3400万年前新种Yakamys sirindhornae；两枚牙齿推算体重约30公斤；论文发表于Scientific Reports。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据麦吉尔大学发布的新闻稿（由ScienceDaily刊载），一个国际古生物团队在泰国甲米府邦马克矿坑发现两枚牙齿化石，将其命名为新种Yakamys sirindhornae。化石包括一枚下第二臼齿和一枚下门齿，年代约3400万年前。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "The discovery, made by an international team of paleontologists that includes scientists from McGill University, provides new evidence that giant rodents appeared much earlier and in more parts of the world than previously believed."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "The researchers found \"remarkably large\" fossilized teeth belonging to a previously unknown species called Yakamys sirindhornae ."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "Its remains, consisting of a lower second molar and a lower incisor, were recovered from the Bang Mark Pit at the Krabi lignite mine in Thailand's Krabi Province."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "This prehistoric rodent lived approximately 34 million years ago, during the middle of the Paleogene period."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "研究者用七种基于牙齿测量的体重估算方法，推算其体重约30公斤，约为同时代已知啮齿动物的两倍。由于只有两枚牙齿，这一体重只是粗略估计，误差较大。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "the research team applied seven established methods that use tooth measurements to calculate body mass."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "Their results suggest that Yakamys sirindhornae weighed approximately 30 kilograms, making it about twice as heavy as other known rodents from the same period, including Hulgana ."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "This is only a ballpark figure, as there is substantial uncertainty associated with fossil body-mass estimation"
+                }
+              ],
+              "kind": "explanation",
+              "verification": "single_source"
+            },
+            {
+              "text": "论文发表于《Scientific Reports》。研究者认为，这一发现表明巨型啮齿动物的出现时间更早、分布范围也比原先认识更广，东南亚在大型啮齿动物早期演化中扮演重要角色。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "A giant eocene ischyromyid from Southeast Asia reveals the early evolution of rodent gigantism . Scientific Reports , 2026"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "The discovery suggests that Southeast Asia played a more significant role in the early evolution of giant rodents than scientists had recognized."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "provides new evidence that giant rodents appeared much earlier and in more parts of the world than previously believed."
+                }
+              ],
+              "kind": "significance",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Yakamys sirindhornae",
+            "泰国"
+          ],
+          "limitations": "来源为ScienceDaily转载的麦吉尔大学新闻稿，未直接核对《Scientific Reports》论文；体重估算基于两枚牙齿，作者也强调不确定性较大。",
+          "bilingual": {
+            "title_en": "New species of giant rodent discovered in Thailand, dating back about 34 million years",
+            "sentences": [
+              {
+                "en": "According to a press release from McGill University published by ScienceDaily, an international paleontology team discovered two fossil teeth in the Bang Mark pit in Krabi Province, Thailand, and named them as a new species, Yakamys sirindhornae.",
+                "zh": "据麦吉尔大学发布的新闻稿（由ScienceDaily刊载），一个国际古生物团队在泰国甲米府邦马克矿坑发现两枚牙齿化石，将其命名为新种Yakamys sirindhornae。"
+              },
+              {
+                "en": "The fossils include a lower second molar and a lower incisor and date to about 34 million years ago.",
+                "zh": "化石包括一枚下第二臼齿和一枚下门齿，年代约3400万年前。"
+              },
+              {
+                "en": "Using seven body-mass estimation methods based on tooth measurements, the researchers estimated its body mass at about 30 kilograms, roughly twice that of known rodents from the same period.",
+                "zh": "研究者用七种基于牙齿测量的体重估算方法，推算其体重约30公斤，约为同时代已知啮齿动物的两倍。"
+              },
+              {
+                "en": "Because there are only two teeth, this body-mass estimate is only rough and has a relatively large margin of error.",
+                "zh": "由于只有两枚牙齿，这一体重只是粗略估计，误差较大。"
+              },
+              {
+                "en": "The paper was published in Scientific Reports.",
+                "zh": "论文发表于《Scientific Reports》。"
+              },
+              {
+                "en": "The researchers suggest that this discovery shows giant rodents appeared earlier and had a broader distribution than previously recognized, and that Southeast Asia played an important role in the early evolution of large rodents.",
+                "zh": "研究者认为，这一发现表明巨型啮齿动物的出现时间更早、分布范围也比原先认识更广，东南亚在大型啮齿动物早期演化中扮演重要角色。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "短波中断|研究获进展|机理与预报",
+          "title": "电离层负暴可将耀斑所致短波中断延长至约73分钟",
+          "summary": "基于2024年5月太阳风暴观测，负暴使短波中断延长，并分析Doppler flash与中断时长因素。",
+          "published_at": "2026-11-11T00:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "2024年5月太阳风暴观测显示，负暴使短波中断从约24分钟延长至平均约73分钟；并非所有中断前有Doppler flash。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "中国科学院国家空间科学中心利用子午工程中国双子极光雷达网六部中纬高频雷达，分析2024年5月超级太阳风暴期间的观测，研究电离层负暴对耀斑所致短波中断的影响。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "近日，中国科学院国家空间科学中心利用CN-DARN六部中纬高频雷达在2024年5月超级太阳风暴期间的观测数据，研究了电离层负暴对耀斑所致短波中断的影响。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "结果显示，仅由耀斑引发的中断约持续24分钟，受耀斑和负暴双重影响的中断平均约73分钟。研究认为，负暴期间O/N2比值下降、F层电子密度降低，可能改变高频信号折射和传播路径，降低最高可用频率。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "研究发现，电离层负暴会延长短波中断时长，仅由耀斑引发的中断约持续24分钟，而受耀斑和负暴双重影响的中断平均约73分钟，且长于前者。"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "结合负暴机制分析，其原因可能在于负暴期间O/N 2 比值下降导致F层电子密度降低，进而改变高频信号折射率和传播路径，降低短波通信最高可用频率。"
+                }
+              ],
+              "kind": "explanation",
+              "verification": "official_statement"
+            },
+            {
+              "text": "团队还观测到，并非所有短波中断前都有Doppler flash；纯耀斑事件中出现约1分钟的正向上升，峰值约137米/秒，耀斑与负暴叠加事件中则没有。研究称这对建立复杂空间天气下的短波中断预报系统有理论价值。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "研究团队在复杂太阳风暴中发现，并非所有短波中断前都会出现Doppler flash。纯耀斑事件中观测到约1分钟的正向上升，峰值约137米/秒，刷新已有纪录；耀斑与负暴叠加事件中则未出现。"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "这一研究对建立复杂空间天气条件下的短波中断事件预报系统具有理论价值。"
+                }
+              ],
+              "kind": "significance",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "短波中断",
+            "中国科学院"
+          ],
+          "limitations": "中科院页面仅显示发布日期，未给出具体时分；结果基于2024年5月事件观测，机制分析为可能解释。",
+          "bilingual": {
+            "title_en": "Ionospheric Negative Storms Can Extend Flare-Induced Shortwave Interruptions to About 73 Minutes",
+            "sentences": [
+              {
+                "en": "Using six mid-latitude high-frequency radars of the China Dual Auroral Radar Network under the Meridian Project, the National Space Science Center of the Chinese Academy of Sciences analyzed observations during the May 2024 super solar storm to study the effects of ionospheric negative storms on flare-induced shortwave interruptions.",
+                "zh": "中国科学院国家空间科学中心利用子午工程中国双子极光雷达网六部中纬高频雷达，分析2024年5月超级太阳风暴期间的观测，研究电离层负暴对耀斑所致短波中断的影响。"
+              },
+              {
+                "en": "The results show that interruptions caused by flares alone lasted about 24 minutes, while those affected by both flares and negative storms lasted about 73 minutes on average.",
+                "zh": "结果显示，仅由耀斑引发的中断约持续24分钟，受耀斑和负暴双重影响的中断平均约73分钟。"
+              },
+              {
+                "en": "The study suggests that during negative storms, a decrease in the O/N2 ratio and lower F-layer electron density may alter the refraction and propagation paths of high-frequency signals and reduce the maximum usable frequency.",
+                "zh": "研究认为，负暴期间O/N2比值下降、F层电子密度降低，可能改变高频信号折射和传播路径，降低最高可用频率。"
+              },
+              {
+                "en": "The team also observed that not all shortwave interruptions were preceded by a Doppler flash; pure flare events showed a positive rise of about 1 minute with a peak of about 137 m/s, whereas flare-plus-negative-storm events showed none.",
+                "zh": "团队还观测到，并非所有短波中断前都有Doppler flash；纯耀斑事件中出现约1分钟的正向上升，峰值约137米/秒，耀斑与负暴叠加事件中则没有。"
+              },
+              {
+                "en": "The study says this has theoretical value for building a shortwave interruption forecasting system under complex space weather conditions.",
+                "zh": "研究称这对建立复杂空间天气下的短波中断预报系统有理论价值。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s13",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261110042532.htm",
+      "title": "Scientists discover a giant 66-pound rodent that lived 34 million years ago",
+      "published_at": "2026-11-10T20:36:04-05:00"
+    },
+    {
+      "id": "s17",
+      "url": "https://www.cas.cn/syky/202611/t20261110_5123860.shtml",
+      "title": "短波中断研究获进展",
+      "published_at": null
+    },
+    {
+      "id": "s21",
+      "url": "https://yahoo.com/news/science/articles/strong-electron-pairs-offer-hope-170700322.html",
+      "title": "Strong electron pairs offer new hope for room-temperature superconductivity",
+      "published_at": "2026-11-09T17:07:00+00:00"
+    }
+  ],
+  "edition": "technology-science",
+  "coverage_notes": []
+}
