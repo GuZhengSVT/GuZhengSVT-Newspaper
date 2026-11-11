@@ -1,0 +1,384 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-11",
+  "title": "2026-11-11 科技",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "Google DeepMind 宣布 Gemini 4 Carbon 已可用",
+    "DeepMind 发布 AlphaProof Code，AI 智能体形式验证 Signal 协议代码",
+    "MiniMax 开源 H3-Image，宣称 10 秒生成 4K 图像",
+    "蚂蚁灵波开源触觉基础模型 LingBot-Touch"
+  ],
+  "window_start": "2026-11-10T12:00:00+08:00",
+  "window_end": "2026-11-11T12:00:00+08:00",
+  "generated_at": "2026-11-11T12:29:28.396853+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Google DeepMind|发布|Gemini 4 Carbon",
+          "title": "Google DeepMind 宣布 Gemini 4 Carbon 已可用",
+          "summary": "Google DeepMind 官方博客发布标题公告，宣布 Gemini 4 Carbon 已可用。",
+          "published_at": "2026-11-11T00:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Google DeepMind 宣布 Gemini 4 Carbon 已可用。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Google DeepMind",
+            "Gemini 4 Carbon"
+          ],
+          "limitations": "官方博客可获取内容仅为标题，模型能力、参数、开放渠道和价格等未在输入材料中体现。",
+          "facts": [
+            {
+              "text": "Google DeepMind 11月10日在其官方博客发布消息，宣布 Gemini 4 Carbon 已可用。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "Gemini 4 Carbon is now available"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Google DeepMind Announces Gemini 4 Carbon Is Now Available",
+            "sentences": [
+              {
+                "en": "Google DeepMind announced in a post on its official blog on November 10 that Gemini 4 Carbon is now available.",
+                "zh": "Google DeepMind 11月10日在其官方博客发布消息，宣布 Gemini 4 Carbon 已可用。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Google DeepMind|推出|AlphaProof Code",
+          "title": "DeepMind 发布 AlphaProof Code，AI 智能体形式验证 Signal 协议代码",
+          "summary": "DeepMind 发布 AlphaProof Code 智能体框架，用 Gemini Carbon 驱动的智能体生成超过六百万行 Lean 证明，对 Signal 协议实际代码进行深度形式验证。",
+          "published_at": "2026-11-10T20:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "DeepMind 发布 AlphaProof Code；用 AI 形式验证 Signal 协议实际代码；生成超过六百万行 Lean 证明。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Google DeepMind",
+            "AlphaProof Code"
+          ],
+          "limitations": "验证结果来自 DeepMind 官方研究博客，未提供第三方独立复现；文章未说明该框架是否开源或对外开放。",
+          "facts": [
+            {
+              "text": "Google DeepMind 11月10日发布 AlphaProof Code，一个用于深度形式验证的智能体框架。DeepMind 称，这是首次用 AI 对广泛部署的密码协议 Signal 的实际代码进行深度形式验证，也是该协议实现首次被形式验证，无论是否使用 AI。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "Today, we’re sharing a milestone in software security long considered to be a grand challenge: Google DeepMind researchers guided AI agents to mathematically prove key security properties of the actual code underlying the Signal protocol, the technology that protects billions of private conversations in apps like Signal and Google Messages."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "Our work marks the first time AI has been used to formally verify a widely deployed cryptographic protocol at this depth. It's also the first time the implementation of a widely deployed protocol like this has been formally verified by any method, with or without AI."
+                }
+              ]
+            },
+            {
+              "text": "该框架将形式验证工作拆分给人类专家与 AI 智能体：人类与 AI 共同确定需要证明的安全属性，由 Gemini Carbon 驱动的智能体生成超过六百万行 Lean 证明。DeepMind 称形式验证是最高级别的安全保证，但通常困难且耗时；规范由人类专家逐条审查，智能体生成的证明也会经过审核，标记需要人工复查的部分。",
+              "kind": "explanation",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "AlphaProof Code is a multi-LLM agentic framework that splits the work of formal verification the way a research team would: human experts work with AI to decide what to prove, and a group of AI agents does it."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "From there, agents powered by Gemini Carbon did the proofs, generating over six million lines of Lean, a computer language that mathematically proves the accuracy of code."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "Formal verification—mathematically proving code runs correctly without flaws—is the highest standard of security assurance; however, it is difficult and often labor-intensive."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "First, our researchers collaborated with a mix of models to translate Signal’s security goals into formal mathematical specifications, with human experts reviewing every one."
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "Next, the agents audited the proof and highlighted areas that needed a second look by a human"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "DeepMind Releases AlphaProof Code, an AI Agent Framework for Formal Verification of Signal Protocol Code",
+            "sentences": [
+              {
+                "en": "Google DeepMind released AlphaProof Code on November 10, an agent framework for deep formal verification.",
+                "zh": "Google DeepMind 11月10日发布 AlphaProof Code，一个用于深度形式验证的智能体框架。"
+              },
+              {
+                "en": "DeepMind said this was the first time AI had been used for deep formal verification of the actual code of the widely deployed cryptographic protocol Signal, and the first time the protocol's implementation had been formally verified, whether or not AI was used.",
+                "zh": "DeepMind 称，这是首次用 AI 对广泛部署的密码协议 Signal 的实际代码进行深度形式验证，也是该协议实现首次被形式验证，无论是否使用 AI。"
+              },
+              {
+                "en": "The framework divides formal verification work between human experts and AI agents: humans and AI jointly identify the security properties that need to be proved, and agents powered by Gemini Carbon generate more than six million lines of Lean proofs.",
+                "zh": "该框架将形式验证工作拆分给人类专家与 AI 智能体：人类与 AI 共同确定需要证明的安全属性，由 Gemini Carbon 驱动的智能体生成超过六百万行 Lean 证明。"
+              },
+              {
+                "en": "DeepMind said formal verification is the highest level of security assurance but is usually difficult and time-consuming; the specification was reviewed item by item by human experts, and the proofs generated by the agents were also reviewed, with parts requiring manual re-examination flagged.",
+                "zh": "DeepMind 称形式验证是最高级别的安全保证，但通常困难且耗时；规范由人类专家逐条审查，智能体生成的证明也会经过审核，标记需要人工复查的部分。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "MiniMax|开源|H3-Image",
+          "title": "MiniMax 开源 H3-Image，宣称 10 秒生成 4K 图像",
+          "summary": "MiniMax 发布并开源 H3-Image 图像生成模型，官方称可在10秒内生成4K图像，支持最多16张参考图，权重已在 Hugging Face 开放。",
+          "published_at": "2026-11-10T23:00:58+08:00",
+          "follow_up": false,
+          "new_facts": "MiniMax 开源 H3-Image；官方称10秒生成4096×4096图像；支持最多16张参考图；权重开放。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "MiniMax",
+            "H3-Image"
+          ],
+          "limitations": "速度、价格和画质数据均为 MiniMax 官方宣称，未提供独立测试结果；10秒生成的具体硬件与参数条件未在可获取内容中详述。",
+          "facts": [
+            {
+              "text": "MiniMax 11月10日发布图像生成模型 H3-Image 并开放权重。该模型衍生自 H3，支持文生图、图像参考和图像编辑，官方称可在10秒内生成4096×4096像素（约16MP，4K）图像。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "今天，我们正式发布 MiniMax H3-Image 并开放权重。这是一款衍生自 H3 的图像生成模型，其具备文本生成图像、图像参考和图像编辑能力。"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "它能够在 10 秒内生成一张 4096 x 4096 像素、约 16 MP（4K）的高分辨率图像"
+                }
+              ]
+            },
+            {
+              "text": "MiniMax 称其速度可达市面主流水平的5倍，支持最多16张参考图片，并强调指令遵循能力。除 Hugging Face 开放权重外，该模型也通过 MiniMax 开放平台、MiniMax Code 和海螺提供。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "速度可达市面主流水平的 5 倍"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "我们提供了开源模型中最强的指令遵循能力并最多支持 16 张参考图片"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "我们还通过 MiniMax 开放平台、MiniMax Code 和 MiniMax 海螺 ，提供稳定、高质量的 H3-Image 图像生成服务。"
+                }
+              ]
+            },
+            {
+              "text": "MiniMax 称标准模式生成速度为市面主流工具的1.5至2倍，Highspeed 模式为3至4倍，价格为主流同档位的50%至70%，发布首周4K及以上请求五折。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "H3-Image 标准模式的速度是市面上主流工具的 1.5-2 倍，Highspeed 模式则可达到 3–4 倍"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "H3-Image 的价格仅为同档位主流工具的 50%–70%"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "我们将在发布首周，针对 4K 及以上规格的生成请求，提供官方价格的五折优惠。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "MiniMax Open-Sources H3-Image, Claiming 10-Second 4K Image Generation",
+            "sentences": [
+              {
+                "en": "MiniMax released the image-generation model H3-Image on November 10 and opened its weights.",
+                "zh": "MiniMax 11月10日发布图像生成模型 H3-Image 并开放权重。"
+              },
+              {
+                "en": "Derived from H3, the model supports text-to-image, image reference and image editing, and MiniMax says it can generate 4096×4096-pixel (about 16MP, 4K) images within 10 seconds.",
+                "zh": "该模型衍生自 H3，支持文生图、图像参考和图像编辑，官方称可在10秒内生成4096×4096像素（约16MP，4K）图像。"
+              },
+              {
+                "en": "MiniMax says its speed can reach five times the mainstream level on the market, that it supports up to 16 reference images, and highlights its instruction-following capability.",
+                "zh": "MiniMax 称其速度可达市面主流水平的5倍，支持最多16张参考图片，并强调指令遵循能力。"
+              },
+              {
+                "en": "In addition to open weights on Hugging Face, the model is also available through the MiniMax open platform, MiniMax Code and Hailuo.",
+                "zh": "除 Hugging Face 开放权重外，该模型也通过 MiniMax 开放平台、MiniMax Code 和海螺提供。"
+              },
+              {
+                "en": "MiniMax says Standard mode generates images 1.5 to 2 times as fast as mainstream tools, Highspeed mode 3 to 4 times as fast, with prices at 50% to 70% of mainstream tools in the same tier, and a 50% discount on 4K and above requests in the first week after launch.",
+                "zh": "MiniMax 称标准模式生成速度为市面主流工具的1.5至2倍，Highspeed 模式为3至4倍，价格为主流同档位的50%至70%，发布首周4K及以上请求五折。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "蚂蚁灵波科技|开源|LingBot-Touch触觉基础模型",
+          "title": "蚂蚁灵波开源触觉基础模型 LingBot-Touch",
+          "summary": "蚂蚁灵波科技开源触觉基础模型 LingBot-Touch，基于近5000小时触觉数据，覆盖三类传感原理，公司称在26项真机测试中使四种动作模型成功率提高14至26个百分点。",
+          "published_at": "2026-11-10T15:57:45+08:00",
+          "follow_up": false,
+          "new_facts": "蚂蚁灵波开源 LingBot-Touch；近5000小时数据；三类传感器；26项真机测试成功率提高14-26个百分点；Tiny和Small版本开源。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "蚂蚁灵波科技",
+            "LingBot-Touch"
+          ],
+          "limitations": "数据与测试结果来自蚂蚁灵波提供、量子位获授权转载的文章，未提供独立第三方复测；成功率提升为特定灵巧手和任务条件下的结果。",
+          "facts": [
+            {
+              "text": "据量子位获授权转载的蚂蚁灵波文章，蚂蚁灵波科技11月10日开源触觉基础模型 LingBot-Touch。该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类传感原理，可将不同传感器信号转化为统一触觉表征，并已接入 LingBot-VLA。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch，为机器人大脑补齐关键的触觉感知能力。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类主流传感原理，可将不同信号转化为同一套触觉表征"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "此次 LingBot-Touch已接入LingBot-VLA"
+                }
+              ]
+            },
+            {
+              "text": "文章称，在26项真机测试中，接入 LingBot-Touch 后 LingBot-VLA、π0.5、Diffusion Policy 和 T-Rex 四种动作模型的平均任务成功率较无触觉时提高约14至26个百分点；T-Rex 控制 Sharpa Wave 拧瓶盖的成功率从56.25%升至90%。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "接入LingBot-Touch后，LingBot-VLA、π0.5、Diffusion Policy和T-Rex四种动作模型的平均任务成功率较无触觉时提高约14至26个百分点。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "以T-Rex控制Sharpa Wave拧瓶盖为例，不使用触觉时任务成功率为56.25%，直接输入传感器原始信号为62.5%，接入LingBot-Touch的触觉表征后成功率达到90%。"
+                }
+              ]
+            },
+            {
+              "text": "模型提供约530万参数的 Tiny 版和更大的 Small 版，技术报告、模型和代码已在 Hugging Face、GitHub 和魔搭社区开源。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "蚂蚁灵波提供了两种容量的模型。此次26项真机测试全部使用约530万参数的轻量版LingBot-Touch-Tiny完成。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "目前，LingBot-Touch的技术报告、模型和代码已开源，开发者可在Hugging Face、GitHub和魔搭社区访问和下载。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Ant Lingbo Open-Sources Tactile Foundation Model LingBot-Touch",
+            "sentences": [
+              {
+                "en": "According to an Ant Lingbo article that QbitAI is authorized to republish, Ant Lingbo Technology open-sourced the tactile foundation model LingBot-Touch on November 10.",
+                "zh": "据量子位获授权转载的蚂蚁灵波文章，蚂蚁灵波科技11月10日开源触觉基础模型 LingBot-Touch。"
+              },
+              {
+                "en": "Pre-trained on nearly 5,000 hours of real tactile data, the model covers three sensing principles—magnetic tactile, vision-based tactile, and piezoresistive—and can convert signals from different sensors into a unified tactile representation; it has already been integrated into LingBot-VLA.",
+                "zh": "该模型基于近5000小时真实触觉数据预训练，覆盖磁触觉、视触觉和压阻式三类传感原理，可将不同传感器信号转化为统一触觉表征，并已接入 LingBot-VLA。"
+              },
+              {
+                "en": "According to the article, in 26 real-robot tests, after integrating LingBot-Touch, the average task success rates of the four action models LingBot-VLA, π0.5, Diffusion Policy, and T-Rex increased by about 14 to 26 percentage points compared with no tactile sensing; T-Rex's success rate in controlling Sharpa Wave to twist bottle caps rose from 56.25% to 90%.",
+                "zh": "文章称，在26项真机测试中，接入 LingBot-Touch 后 LingBot-VLA、π0.5、Diffusion Policy 和 T-Rex 四种动作模型的平均任务成功率较无触觉时提高约14至26个百分点；T-Rex 控制 Sharpa Wave 拧瓶盖的成功率从56.25%升至90%。"
+              },
+              {
+                "en": "The model is available in a Tiny version with about 5.3 million parameters and a larger Small version, and its technical report, models, and code have been open-sourced on Hugging Face, GitHub, and the ModelScope community.",
+                "zh": "模型提供约530万参数的 Tiny 版和更大的 Small 版，技术报告、模型和代码已在 Hugging Face、GitHub 和魔搭社区开源。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s11",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "title": "Gemini 4 Carbon is now available",
+      "published_at": "2026-11-10T16:00:00+00:00"
+    },
+    {
+      "id": "s12",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "published_at": "2026-11-10T12:00:00+00:00"
+    },
+    {
+      "id": "s13",
+      "url": "https://www.minimax.cn/blog/minimax-h3-image",
+      "title": "MiniMax H3-Image 开源：让 4K 图像生成进入 10 秒时代 2026-11-10 了解更多 >",
+      "published_at": "2026-11-10T15:00:58+00:00"
+    },
+    {
+      "id": "s18",
+      "url": "https://www.qbitai.com/2026/11/508996.html",
+      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "published_at": "2026-11-10T15:57:45+08:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选资料未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
