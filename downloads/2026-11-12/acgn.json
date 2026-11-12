@@ -1,0 +1,286 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-12",
+  "title": "2026-11-12 ACGN",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "《Reality Drift》在Steam发售，高桥庆太参与关卡设计",
+    "前Doom开发者组建新工作室，首作《Danger Pay》",
+    "Black Forest Games脱离THQ Nordic，组建独立工作室集团",
+    "《王权陨落》登陆PS5与Xbox，DLC《岩冠之境》同步推出"
+  ],
+  "window_start": "2026-11-11T12:00:00+08:00",
+  "window_end": "2026-11-12T12:00:00+08:00",
+  "generated_at": "2026-11-12T12:22:05.968687+08:00",
+  "sources": [
+    {
+      "id": "s9",
+      "url": "https://www.4gamer.net/games/057/G105777/20261112007/",
+      "title": "超現実ローグライクレース「Reality Drift」，Steamで本日発売。「塊魂」の高橋慶太氏が，人間の体内を走るコースをデザイン",
+      "published_at": "2026-11-12T12:15:54+09:00"
+    },
+    {
+      "id": "s23",
+      "url": "https://www.rockpapershotgun.com/after-being-laid-off-by-microsoft-former-doom-devs-found-new-smash-tv-influenced-fps-studio-that-isnt-subject-to-investor-demands",
+      "title": "After being laid off by Microsoft, former Doom devs found new Smash TV-influenced FPS studio that isn't \"subject to investor demands\"",
+      "published_at": "2026-11-11T18:08:40+00:00"
+    },
+    {
+      "id": "s26",
+      "url": "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
+      "title": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
+      "published_at": "2026-11-11T15:19:30+00:00"
+    },
+    {
+      "id": "s27",
+      "url": "https://www.gcores.com/articles/222249",
+      "title": "《王权陨落》现已登陆PS5及Xbox平台，大型DLC《岩冠之境》同步上线PC及主机平台",
+      "published_at": "2026-11-12T11:38:18+08:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Arganoid Industries|正式发售|Reality Drift",
+          "title": "《Reality Drift》在Steam发售，高桥庆太参与关卡设计",
+          "summary": "Arganoid Industries于11月12日在Steam正式发售《Reality Drift》，售价2100日元，11月22日前15%优惠；高桥庆太设计了人体内部赛道。",
+          "published_at": "2026-11-12T11:15:54+08:00",
+          "follow_up": false,
+          "new_facts": "Steam发售日期、售价、优惠、玩法与高桥庆太参与。",
+          "verification": "single_source",
+          "limitations": "仅基于4Gamer报道，未直接核对Steam商店页；语言支持未在来源中说明。",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Arganoid Industries",
+            "Reality Drift",
+            "高桥庆太"
+          ],
+          "facts": [
+            {
+              "text": "Arganoid Industries于11月12日在Steam正式发售《Reality Drift》，售价2100日元，11月22日前15%优惠至1785日元。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "Arganoid Industriesは本日（2026年11月12日），PCゲーム「 Reality Drift 」をSteamで 発売 した。通常価格は2100円（税込）だが，11月22日までの期間は15％オフの1785円（税込）で購入できる。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "本作是融入Roguelike要素的竞速游戏，玩家扮演配送员，在奇特世界与99台对手竞速，每段赛程后从三个选项中选择下一赛道和车辆强化。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "本作は， ローグライク要素 を取り入れたレースゲームだ。プレイヤーは配達員となり，神のような力を持つ依頼主に荷物を届けるため，天国や地獄，猫の国といった奇妙な世界で 99台のライバル とレースを繰り広げる。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《块魂》创作者高桥庆太以客座艺术家身份参与，设计了人体内部赛道以及巨大羊、鸽子等视觉。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "「塊魂」などで知られるゲームクリエイターの 高橋慶太氏 が，ゲストアーティストとして参加している。高橋氏は， 人間の体内を走るコース をデザインしたほか，巨大な羊やハトなどのビジュアルも手がけた。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Reality Drift Launches on Steam With Keita Takahashi Contributing to Level Design",
+            "sentences": [
+              {
+                "en": "Arganoid Industries officially released Reality Drift on Steam on November 12 at a price of 2,100 yen, with a 15% discount to 1,785 yen until November 22.",
+                "zh": "Arganoid Industries于11月12日在Steam正式发售《Reality Drift》，售价2100日元，11月22日前15%优惠至1785日元。"
+              },
+              {
+                "en": "This is a racing game incorporating roguelike elements, in which players take on the role of a courier, racing against 99 opponents in a strange world and choosing the next track and a vehicle upgrade from three options after each race segment.",
+                "zh": "本作是融入Roguelike要素的竞速游戏，玩家扮演配送员，在奇特世界与99台对手竞速，每段赛程后从三个选项中选择下一赛道和车辆强化。"
+              },
+              {
+                "en": "Keita Takahashi, creator of Katamari Damacy, participated as a guest artist, designing tracks set inside the human body and visuals including a giant sheep and a pigeon.",
+                "zh": "《块魂》创作者高桥庆太以客座艺术家身份参与，设计了人体内部赛道以及巨大羊、鸽子等视觉。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "前 id Software 开发者|成立新工作室|Hidden Horses",
+          "title": "前Doom开发者组建新工作室，首作《Danger Pay》",
+          "summary": "据Rock Paper Shotgun报道，多名前id Software开发者被微软裁员后成立新工作室，首款作品为受《Smash TV》影响的射击游戏《Danger Pay》。",
+          "published_at": "2026-11-12T02:08:40+08:00",
+          "follow_up": true,
+          "new_facts": "前id Software开发者成立新工作室，首作《Danger Pay》受《Smash TV》影响。",
+          "verification": "single_source",
+          "limitations": "来源正文抓取不完整，工作室名称、成员、平台与时间等未在可用内容中确认。",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Hidden Horses",
+            "id Software",
+            "Microsoft"
+          ],
+          "facts": [
+            {
+              "text": "据Rock Paper Shotgun报道，多名前id Software开发者在被微软裁员后成立新工作室，首款作品为受《Smash TV》影响的射击游戏《Danger Pay》，工作室称其不受投资者需求约束。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "After being laid off by Microsoft, former Doom devs found new Smash TV-influenced FPS studio"
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "Their first project: televised deathgame shooter Danger Pay"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Former Doom Developers Form New Studio, Debut Game Danger Pay",
+            "sentences": [
+              {
+                "en": "According to Rock Paper Shotgun, several former id Software developers have founded a new studio after being laid off by Microsoft, with its first title being Danger Pay, a shooter influenced by Smash TV, and the studio says it is not constrained by investor demands.",
+                "zh": "据Rock Paper Shotgun报道，多名前id Software开发者在被微软裁员后成立新工作室，首款作品为受《Smash TV》影响的射击游戏《Danger Pay》，工作室称其不受投资者需求约束。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Black Forest Games|管理层收购独立|脱离 THQ Nordic/Embracer",
+          "title": "Black Forest Games脱离THQ Nordic，组建独立工作室集团",
+          "summary": "据Rock Paper Shotgun报道，曾负责《Destroy All Humans!》重制的Black Forest Games从THQ Nordic剥离，组建新的独立工作室集团。",
+          "published_at": "2026-11-11T23:19:30+08:00",
+          "follow_up": true,
+          "new_facts": "Black Forest Games脱离THQ Nordic，组建独立工作室集团。",
+          "verification": "single_source",
+          "limitations": "来源正文抓取不完整，交易性质、金额与新集团架构未确认。",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Black Forest Games",
+            "THQ Nordic",
+            "Embracer Group"
+          ],
+          "facts": [
+            {
+              "text": "据Rock Paper Shotgun报道，曾负责《Destroy All Humans!》重制的Black Forest Games已从THQ Nordic剥离，组建新的独立工作室集团。",
+              "evidence": [
+                {
+                  "source_id": "s26",
+                  "quote": "Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Black Forest Games Leaves THQ Nordic to Form Independent Studio Group",
+            "sentences": [
+              {
+                "en": "According to Rock Paper Shotgun, Black Forest Games, the studio behind the Destroy All Humans! remake, has been spun off from THQ Nordic to form a new independent studio group.",
+                "zh": "据Rock Paper Shotgun报道，曾负责《Destroy All Humans!》重制的Black Forest Games已从THQ Nordic剥离，组建新的独立工作室集团。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Thronefall|登陆主机并推出大型DLC|岩冠之境",
+          "title": "《王权陨落》登陆PS5与Xbox，DLC《岩冠之境》同步推出",
+          "summary": "《王权陨落》于11月11日登陆PS5和Xbox Series X|S并加入Xbox Game Pass，首个大型DLC《岩冠之境》同步登陆PC和主机。",
+          "published_at": "2026-11-12T11:38:18+08:00",
+          "follow_up": false,
+          "new_facts": "PS5/Xbox上线、Game Pass入库、DLC同步发售及内容与售价。",
+          "verification": "single_source",
+          "limitations": "基于机核转述发行商信息，未直接核对商店页。",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Thronefall（王权陨落）",
+            "岩冠之境"
+          ],
+          "facts": [
+            {
+              "text": "《王权陨落》于11月11日登陆PS5和Xbox Series X|S，并加入Xbox Game Pass；首个大型DLC《岩冠之境》同步登陆PC、PS5和Xbox Series X|S。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "《王权陨落》（Thronefall）已于11月11日正式登陆 PlayStation 5 以及 Xbox Series X|S 平台，同步加入 Xbox Game Pass 订阅库。"
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "大型DLC《王权陨落：岩冠之境》中，一场属于矮人王的全新征战正等待着玩家集结部族、深入山腹！"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "DLC让玩家扮演末代矮人王，深入8张新地图，新增掷斧兵、飞艇、步行坦克等单位和机械构造体敌人；售价35人民币、8.99英镑、9.99美元、9.99欧元，Switch版即将推出。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "玩家将在《岩冠之境》里化身末代矮人王：深入8张全新主题地图"
+                },
+                {
+                  "source_id": "s27",
+                  "quote": "售价35人民币 / 8.99 英镑 / 9.99 美元 / 9.99 欧元，并即将登陆 Nintendo Switch 平台。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Crownfall Arrives on PS5 and Xbox as Realm of the Stone Crown DLC Launches Simultaneously",
+            "sentences": [
+              {
+                "en": "Crownfall launched on PS5 and Xbox Series X|S on November 11 and joined Xbox Game Pass; its first major DLC, Realm of the Stone Crown, launched simultaneously on PC, PS5, and Xbox Series X|S.",
+                "zh": "《王权陨落》于11月11日登陆PS5和Xbox Series X|S，并加入Xbox Game Pass；首个大型DLC《岩冠之境》同步登陆PC、PS5和Xbox Series X|S。"
+              },
+              {
+                "en": "The DLC lets players take on the role of the last dwarven king and venture into eight new maps, adding units such as axe throwers, airships, and walking tanks as well as mechanical construct enemies; it is priced at CNY 35, GBP 8.99, USD 9.99, and EUR 9.99, with a Switch version coming soon.",
+                "zh": "DLC让玩家扮演末代矮人王，深入8张新地图，新增掷斧兵、飞艇、步行坦克等单位和机械构造体敌人；售价35人民币、8.99英镑、9.99美元、9.99欧元，Switch版即将推出。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}

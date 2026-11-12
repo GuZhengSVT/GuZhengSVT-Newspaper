@@ -1,0 +1,309 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-12",
+  "title": "2026-11-12 科技",
+  "summary": "本期收录3条通过核验的新闻。",
+  "highlights": [
+    "DeepMind发布AlphaGenome 2，预测DNA变异对细胞类型的影响",
+    "中国成功发射探源计划探路者卫星",
+    "AMD披露2nm服务器处理器Venice架构与2027年量产目标"
+  ],
+  "window_start": "2026-11-11T12:00:00+08:00",
+  "window_end": "2026-11-12T12:00:00+08:00",
+  "generated_at": "2026-11-12T12:04:43.737940+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Google DeepMind|发布|AlphaGenome 2",
+          "title": "DeepMind发布AlphaGenome 2，预测DNA变异对细胞类型的影响",
+          "summary": "Google DeepMind发布下一代DNA序列模型AlphaGenome 2，称其可预测DNA序列及变异如何影响特定人类细胞类型，用于研究疾病机制。",
+          "published_at": "2026-11-11T23:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Google DeepMind发布AlphaGenome 2，称该下一代DNA序列模型连接单细胞生物学与人类遗传学，预测遗传变异如何影响数百种人类细胞类型，以帮助研究疾病的细胞驱动因素。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "人体每种细胞携带相同的DNA蓝图，但不同细胞类型和状态会开启或关闭不同基因来完成各自功能。理解DNA变异如何影响这种基因表达，是连接基因组变异与疾病机制的关键问题。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "Every cell in our body carries the same DNA blueprint, yet each cell type and state—like a heart muscle cell or an immune cell fighting an infection—switches different genes on or off to do its job."
+                }
+              ],
+              "kind": "background",
+              "verification": "official_statement"
+            },
+            {
+              "text": "Google DeepMind于11月11日发布AlphaGenome 2，称这是其下一代DNA序列模型，可预测DNA序列及其变异如何影响特定人类细胞类型。DeepMind表示，该模型试图连接单细胞生物学与人类遗传学，预测遗传变异对数百种人类细胞类型的影响，以帮助研究疾病的细胞驱动因素。上述能力来自DeepMind的官方发布说明。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "Today, we are announcing AlphaGenome 2, our next-generation model that predicts how DNA sequences and their variations impact specific human cell types, giving scientists a powerful new tool to uncover the cellular drivers of disease."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "Our next-generation DNA sequence model bridges single-cell biology and human genetics, predicting how genetic variants affect hundreds of human cell types."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Google DeepMind",
+            "AlphaGenome 2"
+          ],
+          "limitations": "证据为DeepMind官方发布，未包含独立评测；原文抓取不完整，部分模型细节未取得。",
+          "bilingual": {
+            "title_en": "DeepMind Releases AlphaGenome 2 to Predict How DNA Variants Affect Cell Types",
+            "sentences": [
+              {
+                "en": "Every cell in the human body carries the same DNA blueprint, but different cell types and states turn different genes on or off to perform their respective functions.",
+                "zh": "人体每种细胞携带相同的DNA蓝图，但不同细胞类型和状态会开启或关闭不同基因来完成各自功能。"
+              },
+              {
+                "en": "Understanding how DNA variants affect this gene expression is a key question in linking genomic variation to disease mechanisms.",
+                "zh": "理解DNA变异如何影响这种基因表达，是连接基因组变异与疾病机制的关键问题。"
+              },
+              {
+                "en": "Google DeepMind released AlphaGenome 2 on November 11, describing it as its next-generation DNA sequence model that can predict how DNA sequences and their variants affect specific human cell types.",
+                "zh": "Google DeepMind于11月11日发布AlphaGenome 2，称这是其下一代DNA序列模型，可预测DNA序列及其变异如何影响特定人类细胞类型。"
+              },
+              {
+                "en": "DeepMind said the model seeks to connect single-cell biology with human genetics, predicting the effects of genetic variants across hundreds of human cell types to help study the cellular drivers of disease.",
+                "zh": "DeepMind表示，该模型试图连接单细胞生物学与人类遗传学，预测遗传变异对数百种人类细胞类型的影响，以帮助研究疾病的细胞驱动因素。"
+              },
+              {
+                "en": "The capabilities described above come from DeepMind's official release notes.",
+                "zh": "上述能力来自DeepMind的官方发布说明。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中国|发射|探源计划探路者卫星",
+          "title": "中国成功发射探源计划探路者卫星",
+          "summary": "11月11日19时41分，中国在酒泉卫星发射中心用长征二号丁发射探源计划探路者卫星，卫星进入预定轨道，任务成功。该星为太空探源系列计划的技术试验星，以一箭四星方式发射。",
+          "published_at": "2026-11-11T20:06:03+08:00",
+          "follow_up": false,
+          "new_facts": "中国11月11日19时41分在酒泉用长征二号丁成功发射探源计划探路者卫星，卫星进入预定轨道；报道称此次以一箭四星组合体发射，A星搭载五类载荷，B、C、D三星构成低频干涉成像谱仪技术试验系统，卫星设计寿命2年、运行于600公里太阳同步晨昏轨道。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据新华社报道，11月11日19时41分，中国在酒泉卫星发射中心使用长征二号丁运载火箭，将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。这是长征系列运载火箭的第677次飞行。",
+              "evidence": [
+                {
+                  "source_id": "s77",
+                  "quote": "11月11日19时41分，我国在酒泉卫星发射中心使用长征二号丁运载火箭，成功将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
+                },
+                {
+                  "source_id": "s77",
+                  "quote": "这次任务是长征系列运载火箭的第677次飞行。"
+                },
+                {
+                  "source_id": "s78",
+                  "quote": "11月11日19时41分，我国在酒泉卫星发射中心使用长征二号丁运载火箭，成功将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "据新浪科技转载的快科技报道，此次发射以一箭四星组合体方式进行，共研制A、B、C、D四颗卫星。A星搭载磁场与速度场成像仪、甚大面积伽马射线空间望远镜探路者、高分辨率大气边界层激光探测仪、朗缪尔探针、空间天气效应监测仪五类载荷；B、C、D三星以编队形式构成空间分布式低频干涉成像谱仪技术试验系统。探路者卫星是太空探源系列科学卫星计划的技术试验星，核心任务是对“鸿蒙计划”“夸父二号”等任务的有效载荷关键技术开展在轨验证，设计寿命2年，运行于轨道高度600公里的太阳同步晨昏轨道。",
+              "evidence": [
+                {
+                  "source_id": "s79",
+                  "quote": "今晚19时41分，我国在酒泉卫星发射中心使用长征二号丁Y108运载火箭，以一箭四星组合体方式成功将探源计划探路者卫星发射升空。"
+                },
+                {
+                  "source_id": "s79",
+                  "quote": "该工程共研制A、B、C、D四颗卫星，其中A星搭载磁场与速度场成像仪、甚大面积伽马射线空间望远镜探路者、高分辨率大气边界层激光探测仪、朗缪尔探针、空间天气效应监测仪五类载荷。"
+                },
+                {
+                  "source_id": "s79",
+                  "quote": "B、C、D三星以编队形式构成空间分布式低频干涉成像谱仪技术试验系统。"
+                },
+                {
+                  "source_id": "s79",
+                  "quote": "探路者卫星是太空探源系列科学卫星计划的技术试验星，核心任务是对“鸿蒙计划”“夸父二号”以及国家空间科学中长期发展规划中具备引领性与重大应用前景的有效载荷关键技术开展在轨验证；验证任务完成后，还将开展空间环境监测示范探测与研究。"
+                },
+                {
+                  "source_id": "s79",
+                  "quote": "卫星设计寿命2年，运行于轨道高度600公里的太阳同步晨昏轨道。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "中国",
+            "长征二号丁",
+            "探源计划探路者卫星"
+          ],
+          "limitations": "详细卫星配置与任务目标仅见新浪科技转载的快科技报道，未获官方原文逐项确认；发射事实来自新华社通稿，央广网转载央视新闻客户端同稿，不构成独立多源。",
+          "bilingual": {
+            "title_en": "China Successfully Launches Pathfinder Satellite for Tanyuan Program",
+            "sentences": [
+              {
+                "en": "Xinhua reported that at 19:41 on November 11, China launched the Pathfinder satellite of the Tanyuan program from the Jiuquan Satellite Launch Center using a Long March 2D carrier rocket; the satellite successfully entered the planned orbit, and the launch mission was a complete success.",
+                "zh": "据新华社报道，11月11日19时41分，中国在酒泉卫星发射中心使用长征二号丁运载火箭，将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
+              },
+              {
+                "en": "This was the 677th flight of the Long March series carrier rockets.",
+                "zh": "这是长征系列运载火箭的第677次飞行。"
+              },
+              {
+                "en": "According to a Kuai Technology report republished by Sina Tech, this launch was carried out in a one-rocket, four-satellite combination mode, with four satellites, A, B, C, and D, developed in total.",
+                "zh": "据新浪科技转载的快科技报道，此次发射以一箭四星组合体方式进行，共研制A、B、C、D四颗卫星。"
+              },
+              {
+                "en": "Satellite A carries five types of payloads—a magnetic field and velocity field imager, the Very Large Area Gamma-ray Space Telescope Pathfinder, a high-resolution atmospheric boundary layer lidar, a Langmuir probe, and a space weather effects monitor; satellites B, C, and D form, in formation, a space-distributed low-frequency interferometric imaging spectrometer technology test system.",
+                "zh": "A星搭载磁场与速度场成像仪、甚大面积伽马射线空间望远镜探路者、高分辨率大气边界层激光探测仪、朗缪尔探针、空间天气效应监测仪五类载荷；B、C、D三星以编队形式构成空间分布式低频干涉成像谱仪技术试验系统。"
+              },
+              {
+                "en": "The Pathfinder satellite is a technology test satellite of the Tanyuan space exploration series scientific satellite program; its core mission is to conduct in-orbit verification of key payload technologies for missions such as the Hongmeng Program and Kuafu-2; it has a design life of two years and operates in a Sun-synchronous dawn-dusk orbit at an altitude of 600 kilometers.",
+                "zh": "探路者卫星是太空探源系列科学卫星计划的技术试验星，核心任务是对“鸿蒙计划”“夸父二号”等任务的有效载荷关键技术开展在轨验证，设计寿命2年，运行于轨道高度600公里的太阳同步晨昏轨道。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "AMD|披露|2nm服务器处理器Venice架构",
+          "title": "AMD披露2nm服务器处理器Venice架构与2027年量产目标",
+          "summary": "据ChainCatcher报道，AMD披露Venice服务器处理器采用台积电N2制程和CoWoS-L封装，引入EFB互连，后续Verano采用N2P；相关产品目标2027年量产。",
+          "published_at": "2026-11-12T09:39:49+08:00",
+          "follow_up": false,
+          "new_facts": "AMD在In Depth技术论坛披露Venice采用台积电N2、CoWoS-L封装和EFB互连，Verano将采用N2P；Venice SP7平台已出货，SP8预计2027年上半年供应，Verano与Venice-X计划同年下半年发布，相关服务器处理器目标2027年量产。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据ChainCatcher 11月12日报道，AMD在In Depth技术论坛披露了服务器处理器与芯片互连布局：Venice采用台积电N2制程和CoWoS-L先进封装，并引入elevated fan-out bridge（EFB）封装互连技术；后续Verano将采用N2P制程。",
+              "evidence": [
+                {
+                  "source_id": "s89",
+                  "quote": "AMD disclosed server processor and die interconnect layout at the In Depth technology forum. Venice uses TSMC's N2 process and CoWoS-L advanced packaging, and introduces elevated fan-out bridge (EFB). The subsequent Verano will adopt the N2P process."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "AMD服务器架构负责人Mahesh Subramony称，随着计算核心增多，芯片间需要传输更多数据，EFB通过短距离互连降低功耗和延迟。产品进度方面，Venice的SP7平台已出货，面向企业市场的SP8预计2027年上半年供应，Verano与Venice-X计划同年下半年发布，相关服务器处理器目标2027年量产。",
+              "evidence": [
+                {
+                  "source_id": "s89",
+                  "quote": "AMD's server architecture head Mahesh Subramony stated that as the number of computing cores increases, more data needs to be transmitted between dies, and EFB reduces power consumption and latency through short-distance interconnects."
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "Regarding product progress, the Venice SP7 platform has been shipped, with the SP8 aimed at the enterprise market expected to be supplied in the first half of 2027, and Verano and Venice-X scheduled for release in the second half of the same year, with related server processor products targeted for mass production in 2027."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "AMD",
+            "Venice",
+            "Verano",
+            "TSMC N2",
+            "CoWoS-L"
+          ],
+          "limitations": "仅见ChainCatcher单一报道，未取得AMD官方材料；论坛披露时间未明确，量产为2027年目标。",
+          "bilingual": {
+            "title_en": "AMD Details Venice Architecture for 2nm Server Processors, Targets 2027 Mass Production",
+            "sentences": [
+              {
+                "en": "According to a November 12 ChainCatcher report, AMD disclosed its server processor and chip interconnect plans at its In Depth technology forum: Venice uses TSMC's N2 process and CoWoS-L advanced packaging and introduces elevated fan-out bridge (EFB) packaging interconnect technology; the subsequent Verano will use the N2P process.",
+                "zh": "据ChainCatcher 11月12日报道，AMD在In Depth技术论坛披露了服务器处理器与芯片互连布局：Venice采用台积电N2制程和CoWoS-L先进封装，并引入elevated fan-out bridge（EFB）封装互连技术；后续Verano将采用N2P制程。"
+              },
+              {
+                "en": "Mahesh Subramony, who leads AMD's server architecture, said that as compute cores increase, chips need to transmit more data between them, and EFB reduces power consumption and latency through short-distance interconnects.",
+                "zh": "AMD服务器架构负责人Mahesh Subramony称，随着计算核心增多，芯片间需要传输更多数据，EFB通过短距离互连降低功耗和延迟。"
+              },
+              {
+                "en": "On product progress, the SP7 platform for Venice has shipped; SP8 for the enterprise market is expected to be available in the first half of 2027; Verano and Venice-X are planned for release in the second half of the same year; and the related server processors target mass production in 2027.",
+                "zh": "产品进度方面，Venice的SP7平台已出货，面向企业市场的SP8预计2027年上半年供应，Verano与Venice-X计划同年下半年发布，相关服务器处理器目标2027年量产。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s77",
+      "url": "https://news.cn/20261111/f62e737993404c6aa3ba9246a6118598/c.html",
+      "title": "我国成功发射探源计划探路者卫星-新华网",
+      "published_at": null
+    },
+    {
+      "id": "s14",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "published_at": "2026-11-11T15:00:00+00:00"
+    },
+    {
+      "id": "s89",
+      "url": "https://chaincatcher.com/en/article/2304002",
+      "title": "AMD reveals its 2-nanometer server processor layout, aiming for mass production in 2027",
+      "published_at": null
+    },
+    {
+      "id": "s78",
+      "url": "https://news.cnr.cn/native/gd/20261111/t20261111_527869359.shtml",
+      "title": "我国成功发射探源计划探路者卫星_央广网",
+      "published_at": null
+    },
+    {
+      "id": "s79",
+      "url": "https://finance.sina.com.cn/tech/discovery/2026-11-11/doc-iniykqvt1721964.shtml",
+      "title": "为鸿蒙计划等探路！我国探路者卫星发射成功",
+      "published_at": "2026-11-11T22:18:47+08:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
