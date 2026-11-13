@@ -1,0 +1,469 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-13",
+  "title": "2026-11-13 政治",
+  "summary": "本期收录5条通过核验的新闻。",
+  "highlights": [
+    "范霍伦将挑战舒默的参议院领导职位",
+    "乌克兰无人机袭击芬兰湾俄军舰，芬爱官员证实",
+    "特朗普称伊朗战争无需协议，命万斯转向国内事务",
+    "以军空袭加沙纳赛尔医院致六人死亡，各方对目标说法不一",
+    "FBI：朝鲜黑客以虚假视频通话窃取逾4亿美元加密货币"
+  ],
+  "window_start": "2026-11-12T12:00:00+08:00",
+  "window_end": "2026-11-13T12:00:00+08:00",
+  "generated_at": "2026-11-13T12:06:27.903237+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国参议院民主党|领导权挑战|多数党领袖",
+          "title": "范霍伦将挑战舒默的参议院领导职位",
+          "summary": "《卫报》报道，克里斯·范霍伦将挑战查克·舒默的参议院多数党领袖职位。",
+          "published_at": "2026-11-13T10:30:07+08:00",
+          "follow_up": true,
+          "new_facts": "范霍伦宣布挑战舒默。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "克里斯·范霍伦（Chris Van Hollen）",
+            "查克·舒默（Chuck Schumer）",
+            "美国参议院民主党"
+          ],
+          "facts": [
+            {
+              "text": "据《卫报》报道，克里斯·范霍伦将挑战查克·舒默的参议院多数党领袖职位。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s35",
+                  "quote": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader"
+                }
+              ]
+            }
+          ],
+          "limitations": "仅取得《卫报》文章标题和元数据，未取得正文细节；挑战的正式形式、时间表及舒默回应无法核实。",
+          "bilingual": {
+            "title_en": "Van Hollen to challenge Schumer for Senate leadership",
+            "sentences": [
+              {
+                "en": "According to The Guardian, Chris Van Hollen will challenge Chuck Schumer for the Senate majority leader position.",
+                "zh": "据《卫报》报道，克里斯·范霍伦将挑战查克·舒默的参议院多数党领袖职位。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "乌克兰|无人机袭击俄罗斯军舰|芬兰湾",
+          "title": "乌克兰无人机袭击芬兰湾俄军舰，芬爱官员证实",
+          "summary": "芬兰官员证实一艘俄罗斯军舰周三在芬兰湾遭袭。乌克兰国家安全局称目标是“纳罗-福明斯克”号，并称行动针对乌斯季卢加石油出口设施。爱沙尼亚防长称军舰约5时30分被击中后冒烟返航，伤亡和损坏程度不明。",
+          "published_at": "2026-11-13T04:09:16+08:00",
+          "follow_up": true,
+          "new_facts": "芬兰官员证实俄舰在芬兰湾遭袭；乌国家安全局称目标是“纳罗-福明斯克”号并针对乌斯季卢加石油设施；爱沙尼亚防长称军舰约5时30分被击中后冒烟返航；伤亡损坏不明。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "乌克兰",
+            "俄罗斯",
+            "芬兰湾"
+          ],
+          "facts": [
+            {
+              "text": "芬兰官员证实，一艘俄罗斯军舰周三在芬兰湾遭袭。乌克兰国家安全局称，目标是“纳罗-福明斯克”号，并称这是针对波罗的海沿岸乌斯季卢加石油出口设施的无人机行动的一部分。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s47",
+                  "quote": "Finnish officials have confirmed that a Russian warship was attacked in the Gulf of Finland on Wednesday, although little is known about the strike."
+                },
+                {
+                  "source_id": "s47",
+                  "quote": "Ukraine's SBU security service said it targeted the ship Naro-Fominsk as part of a broader drone operation against Russia's Ust-Luga oil export depot on the Baltic coast."
+                }
+              ]
+            },
+            {
+              "text": "爱沙尼亚国防部长赫尔姆说，军舰约在周三5时30分被击中，随后冒烟并返回圣彼得堡，但他未说明袭击方式。俄舰伤亡和损坏程度仍不清楚，俄方很少公布此类细节。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s47",
+                  "quote": "Martin Herem, the defence minister of Estonia, which borders the Gulf, told public broadcaster ERR that the ship was hit at about 05:30 (03:30 GMT) on Wednesday but did not say how it was attacked: \"We know that smoke came from the ship afterwards. The ship itself went back towards St Petersburg.\""
+                },
+                {
+                  "source_id": "s47",
+                  "quote": "The extent of casualties or damage sustained by the Russian navy ship remains unclear, and Moscow rarely gives such details."
+                }
+              ]
+            },
+            {
+              "text": "报道称，这可能是乌克兰无人机首次在向民用航运开放的波罗的海海域袭击俄舰。有分析人士认为，这不构成严重升级。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s47",
+                  "quote": "The attack, thought to be the first time Ukrainian drones have attacked a Russian ship in an area of the Baltic Sea open to civilian maritime traffic, has raised questions about whether Ukraine could expand its strikes."
+                },
+                {
+                  "source_id": "s47",
+                  "quote": "Kastehelmi told the BBC he did not consider it a serious escalation."
+                }
+              ]
+            }
+          ],
+          "limitations": "事件由芬兰和爱沙尼亚官员向BBC确认，俄国防部未确认；乌方战果说法未独立核实。发布时间依据文章页面日期及抓取索引时间。",
+          "bilingual": {
+            "title_en": "Finnish and Estonian Officials Confirm Ukrainian Drone Attack on Russian Warship in Gulf of Finland",
+            "sentences": [
+              {
+                "en": "A Finnish official confirmed that a Russian warship was attacked in the Gulf of Finland on Wednesday.",
+                "zh": "芬兰官员证实，一艘俄罗斯军舰周三在芬兰湾遭袭。"
+              },
+              {
+                "en": "The Security Service of Ukraine said the target was the “Naro-Fominsk” and that the attack was part of a drone operation against the Ust-Luga oil export facility on the Baltic coast.",
+                "zh": "乌克兰国家安全局称，目标是“纳罗-福明斯克”号，并称这是针对波罗的海沿岸乌斯季卢加石油出口设施的无人机行动的一部分。"
+              },
+              {
+                "en": "Estonian Defense Minister Helm said the warship was hit at about 5:30 on Wednesday, then began smoking and returned to St. Petersburg, but he did not say how the attack was carried out.",
+                "zh": "爱沙尼亚国防部长赫尔姆说，军舰约在周三5时30分被击中，随后冒烟并返回圣彼得堡，但他未说明袭击方式。"
+              },
+              {
+                "en": "The casualties and extent of damage to the Russian ship remain unclear, and Russia rarely publishes such details.",
+                "zh": "俄舰伤亡和损坏程度仍不清楚，俄方很少公布此类细节。"
+              },
+              {
+                "en": "Reports said this could be the first time Ukrainian drones had attacked a Russian warship in Baltic Sea waters open to civilian shipping.",
+                "zh": "报道称，这可能是乌克兰无人机首次在向民用航运开放的波罗的海海域袭击俄舰。"
+              },
+              {
+                "en": "Some analysts believe this does not constitute a serious escalation.",
+                "zh": "有分析人士认为，这不构成严重升级。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|调整伊朗战争政策|不再寻求结束战争协议",
+          "title": "特朗普称伊朗战争无需协议，命万斯转向国内事务",
+          "summary": "《卫报》报道，特朗普称伊朗战争不需要达成协议，并指示副总统万斯专注于国内事务。",
+          "published_at": "2026-11-13T03:01:16+08:00",
+          "follow_up": true,
+          "new_facts": "特朗普称伊朗战争无需协议，命万斯聚焦国内。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "唐纳德·特朗普（Donald Trump）",
+            "JD·万斯（JD Vance）",
+            "伊朗"
+          ],
+          "facts": [
+            {
+              "text": "据《卫报》报道，美国总统特朗普称伊朗战争不需要达成协议，并指示副总统万斯将注意力转向国内事务。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s38",
+                  "quote": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues"
+                }
+              ]
+            }
+          ],
+          "limitations": "仅取得《卫报》文章标题和页面元数据，正文未抓取；特朗普表态的场合、原文及白宫后续说明无法核实。",
+          "bilingual": {
+            "title_en": "Trump Says Iran War Needs No Deal, Directs Vance to Turn to Domestic Affairs",
+            "sentences": [
+              {
+                "en": "According to The Guardian, U.S. President Trump said no agreement is needed in the Iran war and directed Vice President Vance to turn his attention to domestic affairs.",
+                "zh": "据《卫报》报道，美国总统特朗普称伊朗战争不需要达成协议，并指示副总统万斯将注意力转向国内事务。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "以色列|空袭纳赛尔医院|加沙南部人员伤亡",
+          "title": "以军空袭加沙纳赛尔医院致六人死亡，各方对目标说法不一",
+          "summary": "哈马斯控制的加沙卫生部称，以军空袭纳赛尔医院造成6人死亡、约30人受伤，死者包括一名外科医生。以军称打击藏身医院的哈马斯指挥官并称事前预警，医院院长否认收到预警；哈马斯拒绝以方说法。",
+          "published_at": "2026-11-13T00:54:12+08:00",
+          "follow_up": true,
+          "new_facts": "以军空袭纳赛尔医院；加沙卫生部称6死约30伤，含外科医生；院长称两枚导弹击中手术楼、一枚未爆；以军称打击哈马斯指挥官并称预警，院长否认；哈马斯拒绝以方说法；BBC无法进入加沙核实。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "以色列",
+            "纳赛尔医院",
+            "加沙地带",
+            "巴勒斯坦卫生部"
+          ],
+          "facts": [
+            {
+              "text": "加沙地带南部汗尤尼斯的纳赛尔医院夜间遭以色列空袭。哈马斯控制的加沙卫生部称，袭击造成6人死亡、约30人受伤，死者包括外科医生里兹克·阿布·沙伊拉。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s69",
+                  "quote": "Six people have been killed and about 30 injured in an Israeli air strike on Nasser hospital in the southern Gaza Strip, the Hamas-run health ministry says."
+                },
+                {
+                  "source_id": "s69",
+                  "quote": "The health ministry said medical staff, patients and companions were killed, among them surgeon Dr Rizq Abu Shaira."
+                }
+              ]
+            },
+            {
+              "text": "医院院长说，两枚导弹击中含手术病房和重症监护室的大楼，其中一枚未爆炸。以军称，打击目标是哈马斯武装翼的一名指挥官及其他武装人员，指其把医院用作策划袭击的指挥部。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s69",
+                  "quote": "The hospital's director said two missiles hit a building containing surgical wards and intensive care units overnight, but that one of the missiles did not explode."
+                },
+                {
+                  "source_id": "s69",
+                  "quote": "The Israeli military said it targeted a commander of Hamas's armed wing and other fighters who had used the hospital as a \"headquarters\" to plan attacks on its forces."
+                }
+              ]
+            },
+            {
+              "text": "以军表示空袭前发出预警，并公布一段据称发给加沙高级卫生官员的录音；院长则坚持医院未收到预警。哈马斯否认以方说法，称其散布“虚假叙事”以掩盖新的战争罪行。BBC指出，以色列不允许包括BBC在内的国际新闻机构进入加沙，外界难以核实当地情况。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s69",
+                  "quote": "The military added that it had issued advance warnings before the strike and released an audio recording of what it said was one given to a senior Gaza health official. But Fara insisted the hospital had received no warning of an attack."
+                },
+                {
+                  "source_id": "s69",
+                  "quote": "Hamas said that Israel was spreading \"false narratives\" in a \"blatant attempt to cover up a new war crime\"."
+                },
+                {
+                  "source_id": "s69",
+                  "quote": "Israel does not allow international news organisations, including the BBC, into Gaza, making it difficult to verify what is happening in the territory."
+                }
+              ]
+            }
+          ],
+          "limitations": "伤亡数字和袭击目标说法分别来自哈马斯控制的卫生部门、医院院方和以色列军方，BBC无法进入加沙独立核实；以方未允许国际记者进入。发布时间依据文章页面日期及抓取索引时间。",
+          "bilingual": {
+            "title_en": "Israeli airstrike on Nasser Hospital in Gaza kills six as accounts of the target differ",
+            "sentences": [
+              {
+                "en": "Nasser Hospital in Khan Younis in the southern Gaza Strip was hit by an Israeli airstrike overnight.",
+                "zh": "加沙地带南部汗尤尼斯的纳赛尔医院夜间遭以色列空袭。"
+              },
+              {
+                "en": "The Hamas-run Gaza Ministry of Health said the attack killed six people and injured about 30, with the dead including surgeon Rizq Abu Shaila.",
+                "zh": "哈马斯控制的加沙卫生部称，袭击造成6人死亡、约30人受伤，死者包括外科医生里兹克·阿布·沙伊拉。"
+              },
+              {
+                "en": "The hospital director said two missiles hit a building containing surgical wards and intensive care units, one of which did not explode.",
+                "zh": "医院院长说，两枚导弹击中含手术病房和重症监护室的大楼，其中一枚未爆炸。"
+              },
+              {
+                "en": "The Israeli military said the target was a commander in Hamas's armed wing and other armed personnel, accusing them of using the hospital as a command center for planning attacks.",
+                "zh": "以军称，打击目标是哈马斯武装翼的一名指挥官及其他武装人员，指其把医院用作策划袭击的指挥部。"
+              },
+              {
+                "en": "The Israeli military said it issued a warning before the airstrike and released an audio recording it said was sent to senior Gaza health officials; the hospital director maintained that the hospital did not receive a warning.",
+                "zh": "以军表示空袭前发出预警，并公布一段据称发给加沙高级卫生官员的录音；院长则坚持医院未收到预警。"
+              },
+              {
+                "en": "Hamas denied the Israeli account, saying it was spreading a \"false narrative\" to cover up a new war crime.",
+                "zh": "哈马斯否认以方说法，称其散布“虚假叙事”以掩盖新的战争罪行。"
+              },
+              {
+                "en": "The BBC noted that Israel does not allow international news organizations, including the BBC, to enter Gaza, making it difficult for the outside world to verify the situation there.",
+                "zh": "BBC指出，以色列不允许包括BBC在内的国际新闻机构进入加沙，外界难以核实当地情况。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "朝鲜|黑客利用虚假视频通话实施加密盗窃|4亿美元",
+          "title": "FBI：朝鲜黑客以虚假视频通话窃取逾4亿美元加密货币",
+          "summary": "美国联邦调查局称，朝鲜国家支持的黑客通过虚假视频通话窃取身份，18个月内盗取超过4亿美元加密货币，受害者超过900人，该手法被称为“FaceStealer”。FBI称朝鲜政权用盗窃所得资助武器项目，平壤否认相关指控。",
+          "published_at": "2026-11-13T10:48:29+08:00",
+          "follow_up": true,
+          "new_facts": "FBI称朝鲜黑客以FaceStealer手法18个月盗取逾4亿美元加密货币，900多名受害者；手法为仿冒视频会议平台、播放预录视频、以修复音频诱骗安装恶意软件；FBI称朝鲜用赃款资助武器项目；平壤否认相关指控。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "朝鲜",
+            "美国联邦调查局（FBI）",
+            "FaceStealer"
+          ],
+          "facts": [
+            {
+              "text": "美国联邦调查局称，朝鲜国家支持的黑客通过虚假视频通话窃取身份，在18个月内盗取超过4亿美元加密货币，受害者超过900人；该手法被FBI称为“FaceStealer”。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s104",
+                  "quote": "State-sponsored hackers from North Korea have taken more than $400 million in cryptocurrency by using fake video calls to steal people's identities, US authorities say."
+                },
+                {
+                  "source_id": "s104",
+                  "quote": "More than 900 victims have fallen prey to the scheme, which the FBI refers to as FaceStealer, in the last 18 months, according to the bureau."
+                }
+              ]
+            },
+            {
+              "text": "FBI和司法部说，黑客用虚假或劫持的社媒账号邀请目标进入仿冒Zoom、Teams和Google Meet的视频通话，播放目标认识的前受害者的预录视频，并让音频“故障”，再以修复音频为名诱骗点击链接安装恶意软件。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s104",
+                  "quote": "FaceStealer hackers use fake or hijacked social media accounts to invite potential victims into video calls hosted over \"imposter versions\" of Zoom, Microsoft Teams, and Google Meet."
+                },
+                {
+                  "source_id": "s104",
+                  "quote": "Next, the hackers play pre-recorded videos of previous victims the target is acquainted with to simulate a legitimate call – except that the audio would appear to malfunction."
+                },
+                {
+                  "source_id": "s104",
+                  "quote": "A message then pops up on the target's screen, asking them to \"fix\" the audio by clicking on a link."
+                }
+              ]
+            },
+            {
+              "text": "FBI网络主管莱瑟曼称，朝鲜政权依赖大规模加密货币盗窃所得资助其非法武器项目。美国执法机构还把币安此前创纪录的63亿美元黑客案归咎于朝鲜关联行为者，平壤否认相关指控。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s104",
+                  "quote": "\"The North Korean regime relies on proceeds from large-scale cryptocurrency theft to fund its illicit weapons program, stealing billions of dollars in recent years,\" says FBI cyber director Brett Leatherman."
+                },
+                {
+                  "source_id": "s104",
+                  "quote": "US law enforcement agencies attributed the Binance hack, thought to be the largest crypto hack to date, to North Korea-linked actors. Pyongyang has denied this claim."
+                }
+              ]
+            }
+          ],
+          "limitations": "报道依据FBI和司法部说法，未取得FBI原始公告；朝鲜方面否认相关指控。发布时间依据文章页面标注及抓取索引时间。",
+          "bilingual": {
+            "title_en": "FBI: North Korean hackers stole over $400 million in crypto via fake video calls",
+            "sentences": [
+              {
+                "en": "The FBI said state-sponsored North Korean hackers stole identities through fake video calls and took more than $400 million in cryptocurrency over 18 months from more than 900 victims; the FBI calls the technique “FaceStealer.”",
+                "zh": "美国联邦调查局称，朝鲜国家支持的黑客通过虚假视频通话窃取身份，在18个月内盗取超过4亿美元加密货币，受害者超过900人；该手法被FBI称为“FaceStealer”。"
+              },
+              {
+                "en": "The FBI and the Justice Department said the hackers used fake or hijacked social media accounts to invite targets to imitation Zoom, Teams and Google Meet video calls, played pre-recorded videos of previous victims whom the targets knew, made the audio “malfunction,” and then tricked them into clicking a link to install malware by claiming to fix the audio.",
+                "zh": "FBI和司法部说，黑客用虚假或劫持的社媒账号邀请目标进入仿冒Zoom、Teams和Google Meet的视频通话，播放目标认识的前受害者的预录视频，并让音频“故障”，再以修复音频为名诱骗点击链接安装恶意软件。"
+              },
+              {
+                "en": "FBI cyber chief Leatherman said the North Korean regime relies on proceeds from large-scale cryptocurrency theft to fund its illegal weapons programs.",
+                "zh": "FBI网络主管莱瑟曼称，朝鲜政权依赖大规模加密货币盗窃所得资助其非法武器项目。"
+              },
+              {
+                "en": "U.S. law enforcement agencies also blamed North Korea-linked actors for Binance’s earlier record $6.3 billion hack, and Pyongyang denies the allegations.",
+                "zh": "美国执法机构还把币安此前创纪录的63亿美元黑客案归咎于朝鲜关联行为者，平壤否认相关指控。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s38",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+      "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+      "published_at": "2026-11-12T19:01:16+00:00"
+    },
+    {
+      "id": "s69",
+      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "published_at": null
+    },
+    {
+      "id": "s104",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&at_campaign=rss",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "published_at": null
+    },
+    {
+      "id": "s35",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+      "published_at": "2026-11-13T02:30:07+00:00"
+    },
+    {
+      "id": "s47",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

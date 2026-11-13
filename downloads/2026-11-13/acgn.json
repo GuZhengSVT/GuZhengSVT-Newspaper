@@ -1,0 +1,575 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-13",
+  "edition": "acgn",
+  "title": "2026-11-13 ACGN",
+  "summary": "Xbox 25周年活动确认《Wolfenstein 3》制作中，并公开《Fable》新实机；《少女与战车 全明星坦克嘉年华》定档2027年3月25日；《Slay the Spire 2》上线大型测试补丁；《Once Human》第五赛季11月18日推出；《Cinder City》12月开启全球α测试；《Vindictus: Defying Fate》明年登陆PS5。",
+  "highlights": [
+    "MachineGames确认《Wolfenstein 3》正在制作，Brian Bloom与Debra Wilson回归配音",
+    "《Fable》在Xbox 25周年活动公开新实机，IGN称约四分钟",
+    "《少女与战车 全明星坦克嘉年华》2027年3月25日发售，新增PC/PS5跨平台",
+    "《Slay the Spire 2》测试补丁加入新角色Fool与Blitz、Dread模式",
+    "《Once Human》第五赛季11月18日上线；《Cinder City》12月4日至6日全球α测试"
+  ],
+  "window_start": "2026-11-12T12:00:00+08:00",
+  "window_end": "2026-11-13T12:00:00+08:00",
+  "generated_at": "2026-11-13T12:12:40.686440+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "MachineGames|公布|Wolfenstein 3",
+          "title": "《Wolfenstein 3》确认由MachineGames制作",
+          "summary": "Xbox 25周年活动确认《Wolfenstein 3》正在制作，Brian Bloom与Debra Wilson将回归配音。",
+          "published_at": "2026-11-13T09:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "MachineGames确认《Wolfenstein 3》制作中；Brian Bloom与Debra Wilson回归配音。",
+          "verification": "corroborated",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "MachineGames",
+            "Bethesda Softworks",
+            "Wolfenstein 3"
+          ],
+          "limitations": "平台、发售窗口和实机内容未在本次公布中给出。",
+          "facts": [
+            {
+              "text": "在Xbox 25周年FanFest活动上，Xbox宣布《Wolfenstein 3》已在MachineGames进入制作；Xbox CEO Asha Sharma在X上确认，IGN亦报道了这一消息。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "Wolfenstein 3 is officially in production at MachineGames"
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "Wolfenstein 3 is officially in production at Machine Games,\" Xbox CEO Asha Sharma confirmed on X."
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "MachineGames同时确认，Brian Bloom与Debra Wilson将回归，分别为BJ Blazkowicz和Grace Walker配音。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "MachineGames confirmed they are hard at work on the next entry in the franchise with actors Brian Bloom and Debra Wilson reprising their roles as BJ Blazkowicz and Grace Walker."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+            "sentences": [
+              {
+                "en": "At the Xbox 25th Anniversary FanFest event, Xbox announced that Wolfenstein 3 is in development at MachineGames; Xbox CEO Asha Sharma confirmed the news on X, and IGN also reported it.",
+                "zh": "在Xbox 25周年FanFest活动上，Xbox宣布《Wolfenstein 3》已在MachineGames进入制作；Xbox CEO Asha Sharma在X上确认，IGN亦报道了这一消息。"
+              },
+              {
+                "en": "MachineGames also confirmed that Brian Bloom and Debra Wilson will return to voice BJ Blazkowicz and Grace Walker, respectively.",
+                "zh": "MachineGames同时确认，Brian Bloom与Debra Wilson将回归，分别为BJ Blazkowicz和Grace Walker配音。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Xbox|发布|Fable 新实机演示",
+          "title": "《Fable》公开新实机演示，IGN称约四分钟",
+          "summary": "Xbox在25周年活动公开《Fable》新实机，IGN称演示约四分钟并展示战斗。",
+          "published_at": "2026-11-13T04:16:03+08:00",
+          "follow_up": true,
+          "new_facts": "Xbox公开《Fable》新实机；IGN称约四分钟、展示战斗。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Xbox",
+            "Fable"
+          ],
+          "limitations": "IGN的时长与内容描述未获第二家独立来源确认。",
+          "facts": [
+            {
+              "text": "Xbox在25周年活动中公开了《Fable》的新实机演示，并称将在官方播客中由Playground Games解析这段演示。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "New Fable gameplay"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "tune in to the Official XBOX Podcast tomorrow for a breakdown of that new Fable gameplay drop with Playground Games"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "据IGN报道，这段演示约四分钟，展示了战斗等内容。",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "Fable Gets Four Minutes of New Gameplay, Showing Combat and More"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "New Fable Gameplay Revealed, Roughly Four Minutes Long per IGN",
+            "sentences": [
+              {
+                "en": "Xbox revealed new Fable gameplay at its 25th anniversary event and said Playground Games will break down the footage in an official podcast.",
+                "zh": "Xbox在25周年活动中公开了《Fable》的新实机演示，并称将在官方播客中由Playground Games解析这段演示。"
+              },
+              {
+                "en": "According to IGN, the footage is about four minutes long and showcases combat and other content.",
+                "zh": "据IGN报道，这段演示约四分钟，展示了战斗等内容。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "D3 Publisher|公布发售日|Girls und Panzer: All-Star Tank Carnival",
+          "title": "《少女与战车 全明星坦克嘉年华》定档2027年3月25日",
+          "summary": "D3 Publisher宣布本作2027年3月25日在日本发售，新增PC/PS5版并与Switch 2跨平台。",
+          "published_at": "2026-11-13T11:13:33+08:00",
+          "follow_up": true,
+          "new_facts": "发售日2027年3月25日；新增PC/PS5同日发售；三平台最多10人跨平台对战。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "D3 Publisher",
+            "Girls und Panzer: All-Star Tank Carnival",
+            "ガールズ＆パンツァー オールスター・タンク・カーニバル"
+          ],
+          "limitations": "4Gamer转述厂商公告，未直接取得D3 Publisher新闻稿。",
+          "facts": [
+            {
+              "text": "据4Gamer报道，D3 Publisher于11月13日宣布，《少女与战车 全明星坦克嘉年华》将于2027年3月25日在日本发售，售价6980日元（含税）。",
+              "evidence": [
+                {
+                  "source_id": "s10",
+                  "quote": "2027年3月25日に発売する"
+                },
+                {
+                  "source_id": "s10",
+                  "quote": "価格は6980円（税込）"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "在已公布的Switch 2版之外，新增PC（Steam）与PS5版同日推出，三个平台之间支持最多10人线上跨平台对战。",
+              "evidence": [
+                {
+                  "source_id": "s10",
+                  "quote": "PC （Steam） / PS5 版も同日に発売される"
+                },
+                {
+                  "source_id": "s10",
+                  "quote": "最大10人でのオンライン対戦が可能"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "本作是战车道动作游戏，收录TV系列至《最终章》第4话的角色和战车，登场角色超过90人。",
+              "evidence": [
+                {
+                  "source_id": "s10",
+                  "quote": "総勢90人以上のキャラクター"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Girls und Panzer: All-Star Tank Carnival Set for March 25, 2027",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, D3 Publisher announced on November 13 that Girls und Panzer: All-Star Tank Carnival will be released in Japan on March 25, 2027, priced at 6,980 yen (tax included).",
+                "zh": "据4Gamer报道，D3 Publisher于11月13日宣布，《少女与战车 全明星坦克嘉年华》将于2027年3月25日在日本发售，售价6980日元（含税）。"
+              },
+              {
+                "en": "In addition to the previously announced Switch 2 version, PC (Steam) and PS5 versions will also launch on the same day, with cross-platform online battles for up to 10 players across the three platforms.",
+                "zh": "在已公布的Switch 2版之外，新增PC（Steam）与PS5版同日推出，三个平台之间支持最多10人线上跨平台对战。"
+              },
+              {
+                "en": "This is a Sensha-do action game featuring characters and tanks from the TV series through Episode 4 of the Final Chapter, with more than 90 characters appearing.",
+                "zh": "本作是战车道动作游戏，收录TV系列至《最终章》第4话的角色和战车，登场角色超过90人。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Mega Crit|发布|Slay the Spire 2 最大测试补丁",
+          "title": "《Slay the Spire 2》测试补丁加入Fool与两种新模式",
+          "summary": "Mega Crit为早期访问中的《Slay the Spire 2》发布大型测试补丁，新增Fool角色及Blitz、Dread模式，仅在public-beta分支提供。",
+          "published_at": "2026-11-13T11:20:28+08:00",
+          "follow_up": true,
+          "new_facts": "新增角色Fool、模式Blitz与Dread；补丁仅在public-beta分支。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Mega Crit",
+            "Slay the Spire 2",
+            "The Fool"
+          ],
+          "limitations": "补丁细节来自4Gamer对官方补丁说明的转述，RPS仅提供标题级佐证。",
+          "facts": [
+            {
+              "text": "据4Gamer报道，Mega Crit于11月13日为早期访问中的《Slay the Spire 2》发布新测试补丁，加入新角色“Fool（フール）”以及“Blitz”“Dread”两种模式。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "新たなベータパッチ を配信した"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "新キャラクター「フール」"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "「ブリッツ」「ドレッド」"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Fool被设定为持弓的吟游诗人；Blitz取消地图、金币失去意义，Dread则需全角色达到Ascension 10后解锁，并强化Boss及同层敌人。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "弓を操るおどけた吟遊詩人"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "マップが存在しない"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "全キャラクターで アセンション10 に到達すると挑戦できる高難度モード"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该补丁目前只在public-beta分支提供，尚未进入主分支，官方称正式实装前还会调整内容与平衡。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "通常のメインブランチでは利用できない"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "コンテンツやバランスの調整が多数行われる予定"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Slay the Spire 2 Test Patch Adds Fool and Two New Modes",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, Mega Crit released a new test patch for the early-access Slay the Spire 2 on November 13, adding the new character Fool (フール) and two modes, Blitz and Dread.",
+                "zh": "据4Gamer报道，Mega Crit于11月13日为早期访问中的《Slay the Spire 2》发布新测试补丁，加入新角色“Fool（フール）”以及“Blitz”“Dread”两种模式。"
+              },
+              {
+                "en": "Fool is designed as a bow-wielding bard; Blitz removes the map and renders gold meaningless, while Dread requires every character to reach Ascension 10 before it unlocks and strengthens bosses and enemies on the same floor.",
+                "zh": "Fool被设定为持弓的吟游诗人；Blitz取消地图、金币失去意义，Dread则需全角色达到Ascension 10后解锁，并强化Boss及同层敌人。"
+              },
+              {
+                "en": "The patch is currently available only on the public-beta branch and has not yet entered the main branch, and officials say content and balance will still be adjusted before official implementation.",
+                "zh": "该补丁目前只在public-beta分支提供，尚未进入主分支，官方称正式实装前还会调整内容与平衡。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Once Human|推出|第五赛季 Dissonant Resonance",
+          "title": "《Once Human》第五赛季11月18日上线",
+          "summary": "Starry Studio宣布《Once Human》第五赛季“Dissonant Resonance”11月18日全球上线，PS5免费游玩。",
+          "published_at": "2026-11-13T07:00:19+08:00",
+          "follow_up": true,
+          "new_facts": "第五赛季11月18日全球上线；新增天空机械巨像Boss与Silent Statue。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Once Human",
+            "Dissonant Resonance"
+          ],
+          "limitations": "内容来自开发者博客，实际版本表现待上线后观察。",
+          "facts": [
+            {
+              "text": "PlayStation博客刊出的开发者公告显示，Starry Studio的《Once Human》第五赛季“Dissonant Resonance”将于11月18日全球上线，登陆PS5并延续免费游玩。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "launching globally on November 18"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "drops November 18 on PS5"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "free to play"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "新赛季围绕会回应玩家枪声的天空机械巨像Boss展开，并加入可吸收战斗元素伤害、恢复后展开金色翅膀的Deviant“Silent Statue”。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "Sky Living-Machine Colossus"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "Silent Statue"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "spread brilliant golden wings"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Once Human Season 5 'Dissonant Resonance' Launches Globally on November 18",
+            "sentences": [
+              {
+                "en": "A developer announcement published on the PlayStation Blog shows that Starry Studio's Once Human Season 5 \"Dissonant Resonance\" will launch globally on November 18, arriving on PS5 and continuing to be free to play.",
+                "zh": "PlayStation博客刊出的开发者公告显示，Starry Studio的《Once Human》第五赛季“Dissonant Resonance”将于11月18日全球上线，登陆PS5并延续免费游玩。"
+              },
+              {
+                "en": "The new season centers on a sky-borne mechanical colossus boss that responds to players' gunfire, and adds the Deviant \"Silent Statue,\" which can absorb elemental combat damage and unfurl golden wings after recovering.",
+                "zh": "新赛季围绕会回应玩家枪声的天空机械巨像Boss展开，并加入可吸收战斗元素伤害、恢复后展开金色翅膀的Deviant“Silent Statue”。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "NC|开启|Cinder City 全球α测试",
+          "title": "《Cinder City》12月4日至6日举行全球α测试",
+          "summary": "NC宣布BigFire Games开发的《Cinder City》12月4日至6日全球α测试，Steam接受抽选申请。",
+          "published_at": "2026-11-13T11:24:28+08:00",
+          "follow_up": true,
+          "new_facts": "全球α测试12月4日至6日；Steam抽选；开放Squad Dungeon、Epic Mission与更大的开放世界。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "NC",
+            "BigFireGames",
+            "Cinder City"
+          ],
+          "limitations": "4Gamer转述NC公告，测试资格与内容以官方最终安排为准。",
+          "facts": [
+            {
+              "text": "据4Gamer报道，NC于11月12日宣布，BigFire Games开发的《Cinder City》将于12月4日至6日举行全球α测试，覆盖日本等亚洲地区及欧美玩家。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "12月4日から6日まで開催すると発表した"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "日本を含むアジア地域"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "测试资格通过Steam商店页申请并抽选；本次开放3种最多4人组队的“Squad Dungeon”、扩展剧情的“Epic Mission”，以及更大的开放世界。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "参加申請はSteamのストアページで受け付けられており"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "「スクワッドダンジョン」3種"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "「エピックミッション」"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Cinder City to Hold Global Alpha Test from December 4 to December 6",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, NC announced on November 12 that Cinder City, developed by BigFire Games, will hold a global alpha test from December 4 to December 6, covering players in Japan and other Asian regions as well as Europe and North America.",
+                "zh": "据4Gamer报道，NC于11月12日宣布，BigFire Games开发的《Cinder City》将于12月4日至6日举行全球α测试，覆盖日本等亚洲地区及欧美玩家。"
+              },
+              {
+                "en": "Test access will be applied for through the Steam store page and allocated by lottery; this test will offer three types of “Squad Dungeon” where up to four players can form a team, “Epic Mission” that expands the story, and a larger open world.",
+                "zh": "测试资格通过Steam商店页申请并抽选；本次开放3种最多4人组队的“Squad Dungeon”、扩展剧情的“Epic Mission”，以及更大的开放世界。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Vindictus: Defying Fate|公布|PS5版",
+          "title": "《Vindictus: Defying Fate》宣布明年登陆PS5",
+          "summary": "Nexon宣布《Vindictus: Defying Fate》明年登陆PS5，PS Store页面已上线。",
+          "published_at": "2026-11-12T21:07:48+08:00",
+          "follow_up": true,
+          "new_facts": "宣布明年登陆PS5；PS Store愿望单页面已上线。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Vindictus: Defying Fate"
+          ],
+          "limitations": "具体发售日期、其他平台和商业模式未在公告中明确。",
+          "facts": [
+            {
+              "text": "PlayStation博客刊出的Nexon公告称，《Vindictus: Defying Fate》将于明年登陆PS5，PS Store页面已上线并开放愿望单。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "Vindictus: Defying Fate is coming to PS5"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "The PlayStation Store page for Vindictus: Defying Fate is now live"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "这款动作RPG受凯尔特神话启发，玩家以Kalbram佣兵团新兵身份行动；官方还表示正在准备多人内容。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "inspired by Celtic mythology"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "new recruit of the Kalbram Mercenaries"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "We are also preparing multiplayer content"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Vindictus: Defying Fate Announced for PS5 Next Year",
+            "sentences": [
+              {
+                "en": "According to a Nexon announcement published on the PlayStation Blog, Vindictus: Defying Fate will come to PS5 next year, with the PS Store page now live and wishlisting available.",
+                "zh": "PlayStation博客刊出的Nexon公告称，《Vindictus: Defying Fate》将于明年登陆PS5，PS Store页面已上线并开放愿望单。"
+              },
+              {
+                "en": "Inspired by Celtic mythology, this action RPG has players acting as a new recruit in the Kalbram mercenary group; Nexon also said it is preparing multiplayer content.",
+                "zh": "这款动作RPG受凯尔特神话启发，玩家以Kalbram佣兵团新兵身份行动；官方还表示正在准备多人内容。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s18",
+      "url": "https://news.xbox.com/en-us/2026/11/12/xbox-25th-anniversary-news-recap/",
+      "title": "Thanks for 25 Years, XBOX Players — From Wolfenstein 3 and Halo Firefight to Classic XBOX Games on PC: Everything Announced Today",
+      "published_at": "2026-11-13T01:00:00+00:00"
+    },
+    {
+      "id": "s25",
+      "url": "https://www.ign.com/articles/fable-drops-four-minutes-of-new-gameplay",
+      "title": "Fable Drops Four Minutes of New Gameplay",
+      "published_at": "2026-11-12T20:16:03.017000+00:00"
+    },
+    {
+      "id": "s9",
+      "url": "https://www.4gamer.net/games/790/G079033/20261113007/",
+      "title": "「Slay the Spire 2」新キャラクター「フール」がベータ版に実装。短くて混沌としたモード「ブリッツ」と，新たな高難度モード「ドレッド」も",
+      "published_at": "2026-11-13T12:20:28+09:00"
+    },
+    {
+      "id": "s16",
+      "url": "https://blog.playstation.com/2026/11/12/once-human-season-5-gameplay-showcases-co-op-colossus-boss-battle-live-november-18/",
+      "title": "Once Human: Season 5 gameplay showcases co-op Colossus boss battle, live November 18",
+      "published_at": "2026-11-12T15:00:19-08:00"
+    },
+    {
+      "id": "s8",
+      "url": "https://www.4gamer.net/games/668/G066861/20261113008/",
+      "title": "「シンダーシティ」，日本を含むグローバルαテストを12月4日から6日まで開催。参加申請をSteamのストアページで受付中",
+      "published_at": "2026-11-13T12:24:28+09:00"
+    },
+    {
+      "id": "s17",
+      "url": "https://blog.playstation.com/2026/11/12/vindictus-defying-fate-comes-to-ps5-next-year/",
+      "title": "Vindictus: Defying Fate comes to PS5 next year",
+      "published_at": "2026-11-12T05:07:48-08:00"
+    },
+    {
+      "id": "s10",
+      "url": "https://www.4gamer.net/games/058/G105815/20261113006/",
+      "title": "「ガールズ＆パンツァー オールスター・タンク・カーニバル」，2027年3月25日発売決定。PC / PS5版も登場し，最大10人でのクロスプレイに対応",
+      "published_at": "2026-11-13T12:13:33+09:00"
+    },
+    {
+      "id": "s23",
+      "url": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+      "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+      "published_at": "2026-11-13T00:01:13.636000+00:00"
+    }
+  ],
+  "coverage_notes": []
+}
