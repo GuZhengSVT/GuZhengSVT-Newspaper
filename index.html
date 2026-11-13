@@ -49,21 +49,28 @@
           <li>
             <a class="toc-section" href="#home-ai-s1">人工智能</a>
             <ul>
-            <li><a class="toc-article" href="#home-ai-s1-a1">DeepMind发布AlphaGenome 2，预测DNA变异对细胞类型的影响</a></li>
+            <li><a class="toc-article" href="#home-ai-s1-a1">IBM发布Granite 4.1 LLMON预览模型，用原生标记语言隔离指令与数据</a></li>
             </ul>
           </li>
         
           <li>
             <a class="toc-section" href="#home-space-s1">航天宇航</a>
             <ul>
-            <li><a class="toc-article" href="#home-space-s1-a1">中国成功发射探源计划探路者卫星</a></li>
+            <li><a class="toc-article" href="#home-space-s1-a1">UARX Space称OSSIE-D轨道转移飞行器完成首飞部署</a></li>
             </ul>
           </li>
         
           <li>
             <a class="toc-section" href="#home-hardware-s1">硬件</a>
             <ul>
-            <li><a class="toc-article" href="#home-hardware-s1-a1">AMD披露2nm服务器处理器Venice架构与2027年量产目标</a></li>
+            <li><a class="toc-article" href="#home-hardware-s1-a1">Kioxia与Dell构建157PB单机架全闪存配置</a></li>
+            </ul>
+          </li>
+        
+          <li>
+            <a class="toc-section" href="#home-digital-s1">数码</a>
+            <ul>
+            <li><a class="toc-article" href="#home-digital-s1-a1">三星智能眼镜将于12月10日在美韩开售，内置Gemini</a></li>
             </ul>
           </li>
         
@@ -154,48 +161,64 @@
 
 <section class="news-section" id="home-ai-s1" data-outline data-section="ai">
   <h3 class="section-title">人工智能</h3>
-  <p class="story-meta">更新于 2026-11-12 · <a href="/daily/2026-11-12/technology/">本期</a></p>
+  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/technology/">本期</a></p>
   
   <article class="story" id="home-ai-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>DeepMind Releases AlphaGenome 2 to Predict How DNA Variants Affect Cell Types</p>
-    <h4 class="story-title">DeepMind发布AlphaGenome 2，预测DNA变异对细胞类型的影响</h4>
-    <p class="story-meta"><time>11月11日 23:00</time><span>重要</span><span>可靠性 A</span></p>
-    <div class="news-body chinese-body"><p>人体每种细胞携带相同的DNA蓝图，但不同细胞类型和状态会开启或关闭不同基因来完成各自功能。理解DNA变异如何影响这种基因表达，是连接基因组变异与疾病机制的关键问题。</p><p>Google DeepMind于11月11日发布AlphaGenome 2，称这是其下一代DNA序列模型，可预测DNA序列及其变异如何影响特定人类细胞类型。DeepMind表示，该模型试图连接单细胞生物学与人类遗传学，预测遗传变异对数百种人类细胞类型的影响，以帮助研究疾病的细胞驱动因素。上述能力来自DeepMind的官方发布说明。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">Every cell in the human body carries the same DNA blueprint, but different cell types and states turn different genes on or off to perform their respective functions. Understanding how DNA variants affect this gene expression is a key question in linking genomic variation to disease mechanisms.</p><p lang="zh-CN">人体每种细胞携带相同的DNA蓝图，但不同细胞类型和状态会开启或关闭不同基因来完成各自功能。理解DNA变异如何影响这种基因表达，是连接基因组变异与疾病机制的关键问题。</p></div><div class="translation-pair"><p lang="en">Google DeepMind released AlphaGenome 2 on November 11, describing it as its next-generation DNA sequence model that can predict how DNA sequences and their variants affect specific human cell types. DeepMind said the model seeks to connect single-cell biology with human genetics, predicting the effects of genetic variants across hundreds of human cell types to help study the cellular drivers of disease. The capabilities described above come from DeepMind&#39;s official release notes.</p><p lang="zh-CN">Google DeepMind于11月11日发布AlphaGenome 2，称这是其下一代DNA序列模型，可预测DNA序列及其变异如何影响特定人类细胞类型。DeepMind表示，该模型试图连接单细胞生物学与人类遗传学，预测遗传变异对数百种人类细胞类型的影响，以帮助研究疾病的细胞驱动因素。上述能力来自DeepMind的官方发布说明。</p></div></div>
+    <p class="story-title bilingual-title" lang="en" hidden>IBM releases Granite 4.1 LLMON preview models, using a native markup language to separate instructions from data</p>
+    <h4 class="story-title">IBM发布Granite 4.1 LLMON预览模型，用原生标记语言隔离指令与数据</h4>
+    <p class="story-meta"><time>11月13日 03:07</time><span>重要</span><span>可靠性 A</span></p>
+    <div class="news-body chinese-body"><p>IBM Granite团队在Hugging Face发文，发布两个实验性预览模型granite-4.1-3b-LLMON-preview和granite-4.1-8b-LLMON-preview，基于Granite 4.1基座，训练目标是读取和生成LLMON标记文本；团队同时发布GitHub工具包。</p><p>LLMON全称LLM Object Notation，是一种面向大模型的原生标记语言。它用保留的特殊token作为结构分隔符，给指令、数据和约束打标签，并用唯一ID把指令与作用数据绑定。团队称，这样模型不必像处理JSON那样从普通字符推断嵌套和转义；JSON面向解析器设计，不是为因果语言模型设计。</p><p>IBM称，在部分基准上，隐藏在用户数据中的间接提示注入成功率降至接近零，而常规指令微调模型有较高概率被劫持；同时相对Granite 4.1 Instruct保持通用能力。</p></div>
+    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">The IBM Granite team published a post on Hugging Face releasing two experimental preview models, granite-4.1-3b-LLMON-preview and granite-4.1-8b-LLMON-preview, built on the Granite 4.1 base, with the training goal of reading and generating LLMON-marked text; the team also released a GitHub toolkit.</p><p lang="zh-CN">IBM Granite团队在Hugging Face发文，发布两个实验性预览模型granite-4.1-3b-LLMON-preview和granite-4.1-8b-LLMON-preview，基于Granite 4.1基座，训练目标是读取和生成LLMON标记文本；团队同时发布GitHub工具包。</p></div><div class="translation-pair"><p lang="en">LLMON stands for LLM Object Notation, a native markup language for large models. It uses reserved special tokens as structural delimiters, labels instructions, data, and constraints, and binds instructions to the data they act on using unique IDs. The team says this way the model does not have to infer nesting and escaping from ordinary characters as it does when processing JSON; JSON is designed for parsers, not for causal language models.</p><p lang="zh-CN">LLMON全称LLM Object Notation，是一种面向大模型的原生标记语言。它用保留的特殊token作为结构分隔符，给指令、数据和约束打标签，并用唯一ID把指令与作用数据绑定。团队称，这样模型不必像处理JSON那样从普通字符推断嵌套和转义；JSON面向解析器设计，不是为因果语言模型设计。</p></div><div class="translation-pair"><p lang="en">IBM says that on some benchmarks, the success rate of indirect prompt injection hidden in user data dropped to near zero, whereas conventionally instruction-tuned models have a high probability of being hijacked, and that the models maintain general capabilities relative to Granite 4.1 Instruct.</p><p lang="zh-CN">IBM称，在部分基准上，隐藏在用户数据中的间接提示注入成功率降至接近零，而常规指令微调模型有较高概率被劫持；同时相对Granite 4.1 Instruct保持通用能力。</p></div></div>
     
-    <p class="story-sources">来源：<a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/" title="AlphaGenome 2: Deciphering how cells read DNA to better understand disease" target="_blank" rel="noopener noreferrer">deepmind.google</a></p>
+    <p class="story-sources">来源：<a href="https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite" title="LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B" target="_blank" rel="noopener noreferrer">huggingface.co</a></p>
   </article>
   
 </section>
 
 <section class="news-section" id="home-space-s1" data-outline data-section="space">
   <h3 class="section-title">航天宇航</h3>
-  <p class="story-meta">更新于 2026-11-12 · <a href="/daily/2026-11-12/technology/">本期</a></p>
+  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/technology/">本期</a></p>
   
   <article class="story" id="home-space-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>China Successfully Launches Pathfinder Satellite for Tanyuan Program</p>
-    <h4 class="story-title">中国成功发射探源计划探路者卫星</h4>
-    <p class="story-meta"><time>11月11日 20:06</time><span>重大</span><span>可靠性 B</span></p>
-    <div class="news-body chinese-body"><p>据新华社报道，11月11日19时41分，中国在酒泉卫星发射中心使用长征二号丁运载火箭，将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。这是长征系列运载火箭的第677次飞行。</p><p>据新浪科技转载的快科技报道，此次发射以一箭四星组合体方式进行，共研制A、B、C、D四颗卫星。A星搭载磁场与速度场成像仪、甚大面积伽马射线空间望远镜探路者、高分辨率大气边界层激光探测仪、朗缪尔探针、空间天气效应监测仪五类载荷；B、C、D三星以编队形式构成空间分布式低频干涉成像谱仪技术试验系统。探路者卫星是太空探源系列科学卫星计划的技术试验星，核心任务是对“鸿蒙计划”“夸父二号”等任务的有效载荷关键技术开展在轨验证，设计寿命2年，运行于轨道高度600公里的太阳同步晨昏轨道。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">Xinhua reported that at 19:41 on November 11, China launched the Pathfinder satellite of the Tanyuan program from the Jiuquan Satellite Launch Center using a Long March 2D carrier rocket; the satellite successfully entered the planned orbit, and the launch mission was a complete success. This was the 677th flight of the Long March series carrier rockets.</p><p lang="zh-CN">据新华社报道，11月11日19时41分，中国在酒泉卫星发射中心使用长征二号丁运载火箭，将探源计划探路者卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。这是长征系列运载火箭的第677次飞行。</p></div><div class="translation-pair"><p lang="en">According to a Kuai Technology report republished by Sina Tech, this launch was carried out in a one-rocket, four-satellite combination mode, with four satellites, A, B, C, and D, developed in total. Satellite A carries five types of payloads—a magnetic field and velocity field imager, the Very Large Area Gamma-ray Space Telescope Pathfinder, a high-resolution atmospheric boundary layer lidar, a Langmuir probe, and a space weather effects monitor; satellites B, C, and D form, in formation, a space-distributed low-frequency interferometric imaging spectrometer technology test system. The Pathfinder satellite is a technology test satellite of the Tanyuan space exploration series scientific satellite program; its core mission is to conduct in-orbit verification of key payload technologies for missions such as the Hongmeng Program and Kuafu-2; it has a design life of two years and operates in a Sun-synchronous dawn-dusk orbit at an altitude of 600 kilometers.</p><p lang="zh-CN">据新浪科技转载的快科技报道，此次发射以一箭四星组合体方式进行，共研制A、B、C、D四颗卫星。A星搭载磁场与速度场成像仪、甚大面积伽马射线空间望远镜探路者、高分辨率大气边界层激光探测仪、朗缪尔探针、空间天气效应监测仪五类载荷；B、C、D三星以编队形式构成空间分布式低频干涉成像谱仪技术试验系统。探路者卫星是太空探源系列科学卫星计划的技术试验星，核心任务是对“鸿蒙计划”“夸父二号”等任务的有效载荷关键技术开展在轨验证，设计寿命2年，运行于轨道高度600公里的太阳同步晨昏轨道。</p></div></div>
+    <p class="story-title bilingual-title" lang="en" hidden>UARX Space Says OSSIE-D Orbital Transfer Vehicle Completed First Flight Deployment</p>
+    <h4 class="story-title">UARX Space称OSSIE-D轨道转移飞行器完成首飞部署</h4>
+    <p class="story-meta"><time>11月13日 04:00</time><span>重要</span><span>可靠性 B</span></p>
+    <div class="news-body chinese-body"><p>据UARX Space发布的新闻稿，西班牙公司UARX Space的轨道转移飞行器OSSIE-D已由SpaceX Falcon 9发射，并使用该公司SAU&amp;RON 24分离系统完成部署。公司称OSSIE-D完全在西班牙设计制造，75%组件由公司内部开发。</p><p>DHV Technology提供的完整电源子系统在入轨后工作正常，包括太阳能阵列、PCDU和电池的初始遥测符合预期。UARX称，这是首次由同一家公司同时提供轨道转移飞行器和分离系统的任务。新闻稿没有给出具体发射日期。</p></div>
+    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">According to a press release issued by UARX Space, the Spanish company&#39;s OSSIE-D orbital transfer vehicle has been launched by a SpaceX Falcon 9 and deployed using the company&#39;s SAU&amp;RON 24 separation system. The company says OSSIE-D was fully designed and manufactured in Spain, with 75% of its components developed in-house.</p><p lang="zh-CN">据UARX Space发布的新闻稿，西班牙公司UARX Space的轨道转移飞行器OSSIE-D已由SpaceX Falcon 9发射，并使用该公司SAU&amp;RON 24分离系统完成部署。公司称OSSIE-D完全在西班牙设计制造，75%组件由公司内部开发。</p></div><div class="translation-pair"><p lang="en">The complete power subsystem provided by DHV Technology is functioning properly after orbital insertion, with initial telemetry for the solar arrays, PCDU and batteries meeting expectations. UARX says this is the first mission in which a single company provided both the orbital transfer vehicle and the separation system. The press release did not provide a specific launch date.</p><p lang="zh-CN">DHV Technology提供的完整电源子系统在入轨后工作正常，包括太阳能阵列、PCDU和电池的初始遥测符合预期。UARX称，这是首次由同一家公司同时提供轨道转移飞行器和分离系统的任务。新闻稿没有给出具体发射日期。</p></div></div>
     
-    <p class="story-sources">来源：<a href="https://news.cn/20261111/f62e737993404c6aa3ba9246a6118598/c.html" title="我国成功发射探源计划探路者卫星-新华网" target="_blank" rel="noopener noreferrer">新华社</a><span aria-hidden="true"> · </span><a href="https://news.cnr.cn/native/gd/20261111/t20261111_527869359.shtml" title="我国成功发射探源计划探路者卫星_央广网" target="_blank" rel="noopener noreferrer">news.cnr.cn</a><span aria-hidden="true"> · </span><a href="https://finance.sina.com.cn/tech/discovery/2026-11-11/doc-iniykqvt1721964.shtml" title="为鸿蒙计划等探路！我国探路者卫星发射成功" target="_blank" rel="noopener noreferrer">finance.sina.com.cn</a></p>
+    <p class="story-sources">来源：<a href="https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/" title="UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology" target="_blank" rel="noopener noreferrer">spacenews.com</a></p>
   </article>
   
 </section>
 
 <section class="news-section" id="home-hardware-s1" data-outline data-section="hardware">
   <h3 class="section-title">硬件</h3>
-  <p class="story-meta">更新于 2026-11-12 · <a href="/daily/2026-11-12/technology/">本期</a></p>
+  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/technology/">本期</a></p>
   
   <article class="story" id="home-hardware-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>AMD Details Venice Architecture for 2nm Server Processors, Targets 2027 Mass Production</p>
-    <h4 class="story-title">AMD披露2nm服务器处理器Venice架构与2027年量产目标</h4>
-    <p class="story-meta"><time>11月12日 09:39</time><span>重要</span><span>可靠性 B</span></p>
-    <div class="news-body chinese-body"><p>据ChainCatcher 11月12日报道，AMD在In Depth技术论坛披露了服务器处理器与芯片互连布局：Venice采用台积电N2制程和CoWoS-L先进封装，并引入elevated fan-out bridge（EFB）封装互连技术；后续Verano将采用N2P制程。</p><p>AMD服务器架构负责人Mahesh Subramony称，随着计算核心增多，芯片间需要传输更多数据，EFB通过短距离互连降低功耗和延迟。产品进度方面，Venice的SP7平台已出货，面向企业市场的SP8预计2027年上半年供应，Verano与Venice-X计划同年下半年发布，相关服务器处理器目标2027年量产。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">According to a November 12 ChainCatcher report, AMD disclosed its server processor and chip interconnect plans at its In Depth technology forum: Venice uses TSMC&#39;s N2 process and CoWoS-L advanced packaging and introduces elevated fan-out bridge (EFB) packaging interconnect technology; the subsequent Verano will use the N2P process.</p><p lang="zh-CN">据ChainCatcher 11月12日报道，AMD在In Depth技术论坛披露了服务器处理器与芯片互连布局：Venice采用台积电N2制程和CoWoS-L先进封装，并引入elevated fan-out bridge（EFB）封装互连技术；后续Verano将采用N2P制程。</p></div><div class="translation-pair"><p lang="en">Mahesh Subramony, who leads AMD&#39;s server architecture, said that as compute cores increase, chips need to transmit more data between them, and EFB reduces power consumption and latency through short-distance interconnects. On product progress, the SP7 platform for Venice has shipped; SP8 for the enterprise market is expected to be available in the first half of 2027; Verano and Venice-X are planned for release in the second half of the same year; and the related server processors target mass production in 2027.</p><p lang="zh-CN">AMD服务器架构负责人Mahesh Subramony称，随着计算核心增多，芯片间需要传输更多数据，EFB通过短距离互连降低功耗和延迟。产品进度方面，Venice的SP7平台已出货，面向企业市场的SP8预计2027年上半年供应，Verano与Venice-X计划同年下半年发布，相关服务器处理器目标2027年量产。</p></div></div>
+    <p class="story-title bilingual-title" lang="en" hidden>Kioxia and Dell Build 157PB Single-Rack All-Flash Configuration</p>
+    <h4 class="story-title">Kioxia与Dell构建157PB单机架全闪存配置</h4>
+    <p class="story-meta"><time>11月13日 09:15</time><span>重要</span><span>可靠性 B</span></p>
+    <div class="news-body chinese-body"><p>TechPowerUp报道，Kioxia与Dell在单个42U机架中构建了157PB原始闪存容量的配置，使用16台Dell PowerEdge R7725xd服务器、640块Kioxia 245.76TB LC9系列SSD，运行Dell ObjectScale对象存储平台。每台2U服务器装40块E3.L规格硬盘，16台占32U，剩余10U。</p><p>LC9为PCIe 5.0 NVMe硬盘，基于Kioxia第八代BiCS QLC和32 die堆叠。Kioxia称这是业界首个157PB单机架对象存储，依据是自家市场调查；报道指出，公告没有给出价格或可用时间。</p></div>
+    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">TechPowerUp reports that Kioxia and Dell built a configuration with 157PB of raw flash capacity in a single 42U rack, using 16 Dell PowerEdge R7725xd servers and 640 Kioxia 245.76TB LC9 series SSDs, running the Dell ObjectScale object storage platform. Each 2U server holds 40 E3.L form-factor drives; the 16 servers occupy 32U, leaving 10U.</p><p lang="zh-CN">TechPowerUp报道，Kioxia与Dell在单个42U机架中构建了157PB原始闪存容量的配置，使用16台Dell PowerEdge R7725xd服务器、640块Kioxia 245.76TB LC9系列SSD，运行Dell ObjectScale对象存储平台。每台2U服务器装40块E3.L规格硬盘，16台占32U，剩余10U。</p></div><div class="translation-pair"><p lang="en">The LC9 is a PCIe 5.0 NVMe drive based on Kioxia&#39;s eighth-generation BiCS QLC and 32-die stacking. Kioxia says this is the industry&#39;s first 157PB single-rack object storage, based on its own market survey; the report notes that the announcement did not provide pricing or availability.</p><p lang="zh-CN">LC9为PCIe 5.0 NVMe硬盘，基于Kioxia第八代BiCS QLC和32 die堆叠。Kioxia称这是业界首个157PB单机架对象存储，依据是自家市场调查；报道指出，公告没有给出价格或可用时间。</p></div></div>
     
-    <p class="story-sources">来源：<a href="https://chaincatcher.com/en/article/2304002" title="AMD reveals its 2-nanometer server processor layout, aiming for mass production in 2027" target="_blank" rel="noopener noreferrer">chaincatcher.com</a></p>
+    <p class="story-sources">来源：<a href="https://www.techpowerup.com/354767/kioxia-and-dell-build-a-157-pb-rack-with-640-ssds" title="Kioxia and Dell Build a 157 PB Rack With 640 SSDs" target="_blank" rel="noopener noreferrer">techpowerup.com</a></p>
+  </article>
+  
+</section>
+
+<section class="news-section" id="home-digital-s1" data-outline data-section="digital">
+  <h3 class="section-title">数码</h3>
+  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/technology/">本期</a></p>
+  
+  <article class="story" id="home-digital-s1-a1" data-outline>
+    <p class="story-title bilingual-title" lang="en" hidden>Samsung Smart Glasses to Go on Sale in the U.S. and South Korea on December 10, With Built-in Gemini</p>
+    <h4 class="story-title">三星智能眼镜将于12月10日在美韩开售，内置Gemini</h4>
+    <p class="story-meta"><time>11月12日 22:00</time><span>重要</span><span>可靠性 A</span><span>进展</span></p>
+    <div class="news-body chinese-body"><p>三星11月12日宣布，其智能眼镜全系将于12月10日在美国和韩国发售，预售从当天开始。产品与Gentle Monster和Warby Parker合作，共30款设计；三星称整机约41克，内置Google Gemini，提供免手操作协助，可帮助用户理解周围环境并进行跨语言交流。</p><p>硬件包括1200万像素HDR相机、开放式扬声器和四麦克风阵列，搭载高通Snapdragon AR1 Gen 1平台，单次充电续航最长9小时，搭配充电盒最长72小时。产品计划12月10日发售，尚未上市。</p></div>
+    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">Samsung announced on November 12 that its entire smart glasses lineup will go on sale in the United States and South Korea on December 10, with pre-orders beginning that day. The product was developed in collaboration with Gentle Monster and Warby Parker and offers 30 designs in total; Samsung says the glasses weigh about 41 grams, feature built-in Google Gemini, provide hands-free assistance, and can help users understand their surroundings and communicate across languages.</p><p lang="zh-CN">三星11月12日宣布，其智能眼镜全系将于12月10日在美国和韩国发售，预售从当天开始。产品与Gentle Monster和Warby Parker合作，共30款设计；三星称整机约41克，内置Google Gemini，提供免手操作协助，可帮助用户理解周围环境并进行跨语言交流。</p></div><div class="translation-pair"><p lang="en">The hardware includes a 12-megapixel HDR camera, open-ear speakers, and a four-microphone array, is powered by the Qualcomm Snapdragon AR1 Gen 1 platform, and offers up to 9 hours of battery life on a single charge and up to 72 hours with the charging case. The product is planned for release on December 10 and has not yet gone on sale.</p><p lang="zh-CN">硬件包括1200万像素HDR相机、开放式扬声器和四麦克风阵列，搭载高通Snapdragon AR1 Gen 1平台，单次充电续航最长9小时，搭配充电盒最长72小时。产品计划12月10日发售，尚未上市。</p></div></div>
+    
+    <p class="story-sources">来源：<a href="https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world" title="Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World" target="_blank" rel="noopener noreferrer">news.samsung.com</a></p>
   </article>
   
 </section>

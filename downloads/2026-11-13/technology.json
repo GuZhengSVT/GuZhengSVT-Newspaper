@@ -1,0 +1,406 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-13",
+  "title": "2026-11-13 科技",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "IBM发布Granite 4.1 LLMON预览模型，用原生标记语言隔离指令与数据",
+    "UARX Space称OSSIE-D轨道转移飞行器完成首飞部署",
+    "Kioxia与Dell构建157PB单机架全闪存配置",
+    "三星智能眼镜将于12月10日在美韩开售，内置Gemini"
+  ],
+  "window_start": "2026-11-12T12:00:00+08:00",
+  "window_end": "2026-11-13T12:00:00+08:00",
+  "generated_at": "2026-11-13T12:21:42.757082+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "IBM|发布模型|Granite 4.1",
+          "title": "IBM发布Granite 4.1 LLMON预览模型，用原生标记语言隔离指令与数据",
+          "summary": "IBM Granite团队发布两个基于Granite 4.1的实验预览模型，训练读取和生成LLMON标记文本；IBM称可降低间接提示注入成功率。",
+          "published_at": "2026-11-13T03:07:35+08:00",
+          "follow_up": false,
+          "new_facts": "IBM发布granite-4.1-3b-LLMON-preview和granite-4.1-8b-LLMON-preview；发布LLMON工具包；官方称部分基准提示注入成功率降至近零。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "IBM",
+            "Granite 4.1",
+            "LLMON"
+          ],
+          "limitations": "提示注入防护和通用能力数据来自IBM Granite团队官方博客，未提供独立复现；模型为实验预览版。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "IBM Granite团队在Hugging Face发文，发布两个实验性预览模型granite-4.1-3b-LLMON-preview和granite-4.1-8b-LLMON-preview，基于Granite 4.1基座，训练目标是读取和生成LLMON标记文本；团队同时发布GitHub工具包。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "Today we are releasing two experimental preview models, derived from Granite 4.1 base models, trained to consume and generate LLMON-marked text: granite-4.1-3b-LLMON-preview and granite-4.1-8b-LLMON-preview ."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "We are also releasing a GitHub repo, which includes a toolkit for working with LLMON and examples of workflows and templates."
+                }
+              ]
+            },
+            {
+              "kind": "explanation",
+              "verification": "official_statement",
+              "text": "LLMON全称LLM Object Notation，是一种面向大模型的原生标记语言。它用保留的特殊token作为结构分隔符，给指令、数据和约束打标签，并用唯一ID把指令与作用数据绑定。团队称，这样模型不必像处理JSON那样从普通字符推断嵌套和转义；JSON面向解析器设计，不是为因果语言模型设计。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "LLMON (LLM Object Notation, pronounced “lemon”), an LLM-native markup language for explicitly communicating structure and semantics to the models."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "JSON was designed for parsers, not for causal language models."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "IBM称，在部分基准上，隐藏在用户数据中的间接提示注入成功率降至接近零，而常规指令微调模型有较高概率被劫持；同时相对Granite 4.1 Instruct保持通用能力。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "For some benchmarks, attack success rates drop to nearly zero, whereas regular instruction-tuned models get hijacked with high probability."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "This is achieved while maintaining general capability relative to Granite 4.1 Instruct models."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "IBM releases Granite 4.1 LLMON preview models, using a native markup language to separate instructions from data",
+            "sentences": [
+              {
+                "en": "The IBM Granite team published a post on Hugging Face releasing two experimental preview models, granite-4.1-3b-LLMON-preview and granite-4.1-8b-LLMON-preview, built on the Granite 4.1 base, with the training goal of reading and generating LLMON-marked text; the team also released a GitHub toolkit.",
+                "zh": "IBM Granite团队在Hugging Face发文，发布两个实验性预览模型granite-4.1-3b-LLMON-preview和granite-4.1-8b-LLMON-preview，基于Granite 4.1基座，训练目标是读取和生成LLMON标记文本；团队同时发布GitHub工具包。"
+              },
+              {
+                "en": "LLMON stands for LLM Object Notation, a native markup language for large models.",
+                "zh": "LLMON全称LLM Object Notation，是一种面向大模型的原生标记语言。"
+              },
+              {
+                "en": "It uses reserved special tokens as structural delimiters, labels instructions, data, and constraints, and binds instructions to the data they act on using unique IDs.",
+                "zh": "它用保留的特殊token作为结构分隔符，给指令、数据和约束打标签，并用唯一ID把指令与作用数据绑定。"
+              },
+              {
+                "en": "The team says this way the model does not have to infer nesting and escaping from ordinary characters as it does when processing JSON; JSON is designed for parsers, not for causal language models.",
+                "zh": "团队称，这样模型不必像处理JSON那样从普通字符推断嵌套和转义；JSON面向解析器设计，不是为因果语言模型设计。"
+              },
+              {
+                "en": "IBM says that on some benchmarks, the success rate of indirect prompt injection hidden in user data dropped to near zero, whereas conventionally instruction-tuned models have a high probability of being hijacked, and that the models maintain general capabilities relative to Granite 4.1 Instruct.",
+                "zh": "IBM称，在部分基准上，隐藏在用户数据中的间接提示注入成功率降至接近零，而常规指令微调模型有较高概率被劫持；同时相对Granite 4.1 Instruct保持通用能力。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "UARX Space|首飞|OSSIE-D",
+          "title": "UARX Space称OSSIE-D轨道转移飞行器完成首飞部署",
+          "summary": "UARX Space新闻稿称，OSSIE-D由SpaceX Falcon 9发射并用自家分离系统部署，DHV电源子系统在轨正常。",
+          "published_at": "2026-11-13T04:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "UARX Space称OSSIE-D已由Falcon 9发射并部署；使用SAU&RON 24分离系统；DHV电源子系统在轨工作正常。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "UARX Space",
+            "OSSIE-D",
+            "DHV Technology"
+          ],
+          "limitations": "来源为企业新闻稿，未给出具体发射日期和独立任务确认；部署与在轨运行状态为公司口径。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据UARX Space发布的新闻稿，西班牙公司UARX Space的轨道转移飞行器OSSIE-D已由SpaceX Falcon 9发射，并使用该公司SAU&RON 24分离系统完成部署。公司称OSSIE-D完全在西班牙设计制造，75%组件由公司内部开发。",
+              "evidence": [
+                {
+                  "source_id": "s30",
+                  "quote": "Launched aboard a SpaceX Falcon 9 rocket, OSSIE-D was deployed using SAU&RON 24, UARX Space’s proprietary separation system."
+                },
+                {
+                  "source_id": "s30",
+                  "quote": "UARX Space has achieved a major milestone for Spain’s space industry with the deployment of OSSIE-D, an Orbital Transfer Vehicle (OTV) designed and manufactured entirely in Spain, with 75% of its components developed in-house by the company."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "DHV Technology提供的完整电源子系统在入轨后工作正常，包括太阳能阵列、PCDU和电池的初始遥测符合预期。UARX称，这是首次由同一家公司同时提供轨道转移飞行器和分离系统的任务。新闻稿没有给出具体发射日期。",
+              "evidence": [
+                {
+                  "source_id": "s30",
+                  "quote": "Following launch, DHV Technology’s electrical power subsystem is operating nominally in orbit"
+                },
+                {
+                  "source_id": "s30",
+                  "quote": "The achievement marks a world first , bringing together an orbital transfer vehicle and a separation system developed by the same company in a single mission."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "UARX Space Says OSSIE-D Orbital Transfer Vehicle Completed First Flight Deployment",
+            "sentences": [
+              {
+                "en": "According to a press release issued by UARX Space, the Spanish company's OSSIE-D orbital transfer vehicle has been launched by a SpaceX Falcon 9 and deployed using the company's SAU&RON 24 separation system.",
+                "zh": "据UARX Space发布的新闻稿，西班牙公司UARX Space的轨道转移飞行器OSSIE-D已由SpaceX Falcon 9发射，并使用该公司SAU&RON 24分离系统完成部署。"
+              },
+              {
+                "en": "The company says OSSIE-D was fully designed and manufactured in Spain, with 75% of its components developed in-house.",
+                "zh": "公司称OSSIE-D完全在西班牙设计制造，75%组件由公司内部开发。"
+              },
+              {
+                "en": "The complete power subsystem provided by DHV Technology is functioning properly after orbital insertion, with initial telemetry for the solar arrays, PCDU and batteries meeting expectations.",
+                "zh": "DHV Technology提供的完整电源子系统在入轨后工作正常，包括太阳能阵列、PCDU和电池的初始遥测符合预期。"
+              },
+              {
+                "en": "UARX says this is the first mission in which a single company provided both the orbital transfer vehicle and the separation system.",
+                "zh": "UARX称，这是首次由同一家公司同时提供轨道转移飞行器和分离系统的任务。"
+              },
+              {
+                "en": "The press release did not provide a specific launch date.",
+                "zh": "新闻稿没有给出具体发射日期。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Kioxia|构建存储系统|157PB机架",
+          "title": "Kioxia与Dell构建157PB单机架全闪存配置",
+          "summary": "Kioxia与Dell在单个42U机架构建157PB原始闪存容量，使用16台Dell服务器和640块245.76TB LC9 SSD；价格和可用性未公布。",
+          "published_at": "2026-11-13T09:15:24+08:00",
+          "follow_up": false,
+          "new_facts": "Kioxia与Dell构建157PB单机架对象存储配置；16台PowerEdge R7725xd、640块245.76TB LC9 SSD；Kioxia称业界首个。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Kioxia",
+            "Dell",
+            "LC9",
+            "PowerEdge R7725xd"
+          ],
+          "limitations": "来源为TechPowerUp转述Kioxia/Dell发布，未给出价格和可用时间；“业界首个”为Kioxia基于自家调查的宣称。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "TechPowerUp报道，Kioxia与Dell在单个42U机架中构建了157PB原始闪存容量的配置，使用16台Dell PowerEdge R7725xd服务器、640块Kioxia 245.76TB LC9系列SSD，运行Dell ObjectScale对象存储平台。每台2U服务器装40块E3.L规格硬盘，16台占32U，剩余10U。",
+              "evidence": [
+                {
+                  "source_id": "s41",
+                  "quote": "Kioxia and Dell have managed to fit a massive 157 PB of raw flash storage into a single 42U server rack."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "The configuration runs Dell's software-defined ObjectScale object storage platform on 16 PowerEdge R7725xd servers, which together carry 640 of Kioxia's 245.76 TB LC9 Series SSDs ."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "Each 2U server holds 40 of the E3.L drives"
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "so the 16 servers take up 32U and leave 10U of the rack free"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "LC9为PCIe 5.0 NVMe硬盘，基于Kioxia第八代BiCS QLC和32 die堆叠。Kioxia称这是业界首个157PB单机架对象存储，依据是自家市场调查；报道指出，公告没有给出价格或可用时间。",
+              "evidence": [
+                {
+                  "source_id": "s41",
+                  "quote": "The LC9 drives are PCIe 5.0 NVMe SSDs built on Kioxia's eighth-generation BiCS FLASH QLC with a 32-die stack."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "Kioxia calls it the industry's first 157 PB single-rack object store, a claim it bases on its own market survey."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "There's no word on pricing or availability either."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Kioxia and Dell Build 157PB Single-Rack All-Flash Configuration",
+            "sentences": [
+              {
+                "en": "TechPowerUp reports that Kioxia and Dell built a configuration with 157PB of raw flash capacity in a single 42U rack, using 16 Dell PowerEdge R7725xd servers and 640 Kioxia 245.76TB LC9 series SSDs, running the Dell ObjectScale object storage platform.",
+                "zh": "TechPowerUp报道，Kioxia与Dell在单个42U机架中构建了157PB原始闪存容量的配置，使用16台Dell PowerEdge R7725xd服务器、640块Kioxia 245.76TB LC9系列SSD，运行Dell ObjectScale对象存储平台。"
+              },
+              {
+                "en": "Each 2U server holds 40 E3.L form-factor drives; the 16 servers occupy 32U, leaving 10U.",
+                "zh": "每台2U服务器装40块E3.L规格硬盘，16台占32U，剩余10U。"
+              },
+              {
+                "en": "The LC9 is a PCIe 5.0 NVMe drive based on Kioxia's eighth-generation BiCS QLC and 32-die stacking.",
+                "zh": "LC9为PCIe 5.0 NVMe硬盘，基于Kioxia第八代BiCS QLC和32 die堆叠。"
+              },
+              {
+                "en": "Kioxia says this is the industry's first 157PB single-rack object storage, based on its own market survey; the report notes that the announcement did not provide pricing or availability.",
+                "zh": "Kioxia称这是业界首个157PB单机架对象存储，依据是自家市场调查；报道指出，公告没有给出价格或可用时间。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Samsung|发布产品|Intelligent Eyewear",
+          "title": "三星智能眼镜将于12月10日在美韩开售，内置Gemini",
+          "summary": "三星宣布智能眼镜全系12月10日在美国和韩国发售，预售已开始；产品内置Gemini，约41克，价格和具体型号未公布。",
+          "published_at": "2026-11-12T22:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "三星智能眼镜12月10日美韩发售，预售开始；30款设计；内置Gemini；约41克；1200万像素相机；Snapdragon AR1 Gen 1；续航9小时。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Samsung",
+            "Intelligent Eyewear"
+          ],
+          "limitations": "价格和具体型号未在新闻稿中公布；产品处于预售和计划发售阶段，尚未上市。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "三星11月12日宣布，其智能眼镜全系将于12月10日在美国和韩国发售，预售从当天开始。产品与Gentle Monster和Warby Parker合作，共30款设计；三星称整机约41克，内置Google Gemini，提供免手操作协助，可帮助用户理解周围环境并进行跨语言交流。",
+              "evidence": [
+                {
+                  "source_id": "s47",
+                  "quote": "Set for release in the U.S. and South Korea on Dec. 10 with pre-orders beginning today, the collection combines Samsung’s mobile engineering expertise with 30 distinctive designs 1 from Gentle Monster and Warby Parker for comfortable, stylish everyday wear."
+                },
+                {
+                  "source_id": "s47",
+                  "quote": "Developed in collaboration with Google and with Gemini built in, the intelligent eyewear helps users understand the world around them, communicate across languages and stay connected while remaining present in the moment."
+                },
+                {
+                  "source_id": "s47",
+                  "quote": "Weighing around 41 grams"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "硬件包括1200万像素HDR相机、开放式扬声器和四麦克风阵列，搭载高通Snapdragon AR1 Gen 1平台，单次充电续航最长9小时，搭配充电盒最长72小时。产品计划12月10日发售，尚未上市。",
+              "evidence": [
+                {
+                  "source_id": "s47",
+                  "quote": "A 12MP HDR camera provides visual context for Gemini while supporting high-resolution photos and clear video recording."
+                },
+                {
+                  "source_id": "s47",
+                  "quote": "Powered by the Snapdragon® AR1 Gen 1 Platform"
+                },
+                {
+                  "source_id": "s47",
+                  "quote": "up to nine hours of battery life on a single charge, and up to 72 hours with a fully charged charging case."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Samsung Smart Glasses to Go on Sale in the U.S. and South Korea on December 10, With Built-in Gemini",
+            "sentences": [
+              {
+                "en": "Samsung announced on November 12 that its entire smart glasses lineup will go on sale in the United States and South Korea on December 10, with pre-orders beginning that day.",
+                "zh": "三星11月12日宣布，其智能眼镜全系将于12月10日在美国和韩国发售，预售从当天开始。"
+              },
+              {
+                "en": "The product was developed in collaboration with Gentle Monster and Warby Parker and offers 30 designs in total; Samsung says the glasses weigh about 41 grams, feature built-in Google Gemini, provide hands-free assistance, and can help users understand their surroundings and communicate across languages.",
+                "zh": "产品与Gentle Monster和Warby Parker合作，共30款设计；三星称整机约41克，内置Google Gemini，提供免手操作协助，可帮助用户理解周围环境并进行跨语言交流。"
+              },
+              {
+                "en": "The hardware includes a 12-megapixel HDR camera, open-ear speakers, and a four-microphone array, is powered by the Qualcomm Snapdragon AR1 Gen 1 platform, and offers up to 9 hours of battery life on a single charge and up to 72 hours with the charging case.",
+                "zh": "硬件包括1200万像素HDR相机、开放式扬声器和四麦克风阵列，搭载高通Snapdragon AR1 Gen 1平台，单次充电续航最长9小时，搭配充电盒最长72小时。"
+              },
+              {
+                "en": "The product is planned for release on December 10 and has not yet gone on sale.",
+                "zh": "产品计划12月10日发售，尚未上市。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s17",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "published_at": "2026-11-12T19:07:35+00:00"
+    },
+    {
+      "id": "s47",
+      "url": "https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world",
+      "title": "Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World",
+      "published_at": "2026-11-12T23:00:00+09:00"
+    },
+    {
+      "id": "s30",
+      "url": "https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/",
+      "title": "UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology",
+      "published_at": "2026-11-12T20:00:00+00:00"
+    },
+    {
+      "id": "s41",
+      "url": "https://www.techpowerup.com/354767/kioxia-and-dell-build-a-157-pb-rack-with-640-ssds",
+      "title": "Kioxia and Dell Build a 157 PB Rack With 640 SSDs",
+      "published_at": "2026-11-13T01:15:24+00:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
