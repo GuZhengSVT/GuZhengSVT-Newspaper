@@ -49,28 +49,7 @@
           <li>
             <a class="toc-section" href="#home-ai-s1">人工智能</a>
             <ul>
-            <li><a class="toc-article" href="#home-ai-s1-a1">IBM发布Granite 4.1 LLMON预览模型，用原生标记语言隔离指令与数据</a></li>
-            </ul>
-          </li>
-        
-          <li>
-            <a class="toc-section" href="#home-space-s1">航天宇航</a>
-            <ul>
-            <li><a class="toc-article" href="#home-space-s1-a1">UARX Space称OSSIE-D轨道转移飞行器完成首飞部署</a></li>
-            </ul>
-          </li>
-        
-          <li>
-            <a class="toc-section" href="#home-hardware-s1">硬件</a>
-            <ul>
-            <li><a class="toc-article" href="#home-hardware-s1-a1">Kioxia与Dell构建157PB单机架全闪存配置</a></li>
-            </ul>
-          </li>
-        
-          <li>
-            <a class="toc-section" href="#home-digital-s1">数码</a>
-            <ul>
-            <li><a class="toc-article" href="#home-digital-s1-a1">三星智能眼镜将于12月10日在美韩开售，内置Gemini</a></li>
+            <li><a class="toc-article" href="#home-ai-s1-a1">OpenAI推出ChatGPT Wallet，Dots代理可代购但需逐笔批准</a></li><li><a class="toc-article" href="#home-ai-s1-a2">llama.cpp发布v1.0.0，引入语义版本管理</a></li>
             </ul>
           </li>
         
@@ -96,30 +75,16 @@
         <ul>
         
           <li>
+            <a class="toc-section" href="#home-politics-china-s1">中国</a>
+            <ul>
+            <li><a class="toc-article" href="#home-politics-china-s1-a1">中国新版医保药品目录公布：新增107种药品，含51个一类新药</a></li>
+            </ul>
+          </li>
+        
+          <li>
             <a class="toc-section" href="#home-politics-us-s1">美国</a>
             <ul>
-            <li><a class="toc-article" href="#home-politics-us-s1-a1">范霍伦将挑战舒默的参议院领导职位</a></li>
-            </ul>
-          </li>
-        
-          <li>
-            <a class="toc-section" href="#home-politics-russia-ukraine-s1">俄乌战争</a>
-            <ul>
-            <li><a class="toc-article" href="#home-politics-russia-ukraine-s1-a1">乌克兰无人机袭击芬兰湾俄军舰，芬爱官员证实</a></li>
-            </ul>
-          </li>
-        
-          <li>
-            <a class="toc-section" href="#home-politics-middle-east-s1">中东地区</a>
-            <ul>
-            <li><a class="toc-article" href="#home-politics-middle-east-s1-a1">特朗普称伊朗战争无需协议，命万斯转向国内事务</a></li><li><a class="toc-article" href="#home-politics-middle-east-s1-a2">以军空袭加沙纳赛尔医院致六人死亡，各方对目标说法不一</a></li>
-            </ul>
-          </li>
-        
-          <li>
-            <a class="toc-section" href="#home-politics-other-s1">其他</a>
-            <ul>
-            <li><a class="toc-article" href="#home-politics-other-s1-a1">FBI：朝鲜黑客以虚假视频通话窃取逾4亿美元加密货币</a></li>
+            <li><a class="toc-article" href="#home-politics-us-s1-a1">美联邦航空局解除全国停飞令：空管通信系统过载，逾四小时后复飞</a></li>
             </ul>
           </li>
         
@@ -161,64 +126,26 @@
 
 <section class="news-section" id="home-ai-s1" data-outline data-section="ai">
   <h3 class="section-title">人工智能</h3>
-  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/technology/">本期</a></p>
+  <p class="story-meta">更新于 2026-11-14 · <a href="/daily/2026-11-14/technology/">本期</a></p>
   
   <article class="story" id="home-ai-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>IBM releases Granite 4.1 LLMON preview models, using a native markup language to separate instructions from data</p>
-    <h4 class="story-title">IBM发布Granite 4.1 LLMON预览模型，用原生标记语言隔离指令与数据</h4>
-    <p class="story-meta"><time>11月13日 03:07</time><span>重要</span><span>可靠性 A</span></p>
-    <div class="news-body chinese-body"><p>IBM Granite团队在Hugging Face发文，发布两个实验性预览模型granite-4.1-3b-LLMON-preview和granite-4.1-8b-LLMON-preview，基于Granite 4.1基座，训练目标是读取和生成LLMON标记文本；团队同时发布GitHub工具包。</p><p>LLMON全称LLM Object Notation，是一种面向大模型的原生标记语言。它用保留的特殊token作为结构分隔符，给指令、数据和约束打标签，并用唯一ID把指令与作用数据绑定。团队称，这样模型不必像处理JSON那样从普通字符推断嵌套和转义；JSON面向解析器设计，不是为因果语言模型设计。</p><p>IBM称，在部分基准上，隐藏在用户数据中的间接提示注入成功率降至接近零，而常规指令微调模型有较高概率被劫持；同时相对Granite 4.1 Instruct保持通用能力。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">The IBM Granite team published a post on Hugging Face releasing two experimental preview models, granite-4.1-3b-LLMON-preview and granite-4.1-8b-LLMON-preview, built on the Granite 4.1 base, with the training goal of reading and generating LLMON-marked text; the team also released a GitHub toolkit.</p><p lang="zh-CN">IBM Granite团队在Hugging Face发文，发布两个实验性预览模型granite-4.1-3b-LLMON-preview和granite-4.1-8b-LLMON-preview，基于Granite 4.1基座，训练目标是读取和生成LLMON标记文本；团队同时发布GitHub工具包。</p></div><div class="translation-pair"><p lang="en">LLMON stands for LLM Object Notation, a native markup language for large models. It uses reserved special tokens as structural delimiters, labels instructions, data, and constraints, and binds instructions to the data they act on using unique IDs. The team says this way the model does not have to infer nesting and escaping from ordinary characters as it does when processing JSON; JSON is designed for parsers, not for causal language models.</p><p lang="zh-CN">LLMON全称LLM Object Notation，是一种面向大模型的原生标记语言。它用保留的特殊token作为结构分隔符，给指令、数据和约束打标签，并用唯一ID把指令与作用数据绑定。团队称，这样模型不必像处理JSON那样从普通字符推断嵌套和转义；JSON面向解析器设计，不是为因果语言模型设计。</p></div><div class="translation-pair"><p lang="en">IBM says that on some benchmarks, the success rate of indirect prompt injection hidden in user data dropped to near zero, whereas conventionally instruction-tuned models have a high probability of being hijacked, and that the models maintain general capabilities relative to Granite 4.1 Instruct.</p><p lang="zh-CN">IBM称，在部分基准上，隐藏在用户数据中的间接提示注入成功率降至接近零，而常规指令微调模型有较高概率被劫持；同时相对Granite 4.1 Instruct保持通用能力。</p></div></div>
+    <p class="story-title bilingual-title" lang="en" hidden>OpenAI Launches ChatGPT Wallet for Dots Agents, With Per-Purchase Approval Required</p>
+    <h4 class="story-title">OpenAI推出ChatGPT Wallet，Dots代理可代购但需逐笔批准</h4>
+    <p class="story-meta"><time>11月14日 04:45</time><span>重大</span><span>可靠性 B</span></p>
+    <div class="news-body chinese-body"><p>据The Verge报道，OpenAI推出面向Dots代理的ChatGPT Wallet，11月13日起向美国18岁以上的ChatGPT Pro订阅用户逐步开放。用户需使用美国账单地址和符合条件的美国发行美国运通、Chase、万事达或Visa卡。</p><p>添加卡片后，Dots代理可依据用户提示选购商品，但每次结账前都要用户确认，并通过Face ID或指纹等生物验证；支付时用支付令牌替代实际卡号，商户和代理不会获得完整卡信息。</p><p>OpenAI称未来将允许用户设置消费限额、购买类别或时段，并预先批准符合条件的购买，让代理完全代购。部分零售商已限制或屏蔽AI代理购物，OpenAI表示需要网站和支付风控系统识别代理发起的合法交易。</p></div>
+    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">According to The Verge, OpenAI has launched ChatGPT Wallet for Dots agents, gradually opening it from November 13 to US ChatGPT Pro subscribers aged 18 and over. Users need a US billing address and an eligible US-issued American Express, Chase, Mastercard or Visa card.</p><p lang="zh-CN">据The Verge报道，OpenAI推出面向Dots代理的ChatGPT Wallet，11月13日起向美国18岁以上的ChatGPT Pro订阅用户逐步开放。用户需使用美国账单地址和符合条件的美国发行美国运通、Chase、万事达或Visa卡。</p></div><div class="translation-pair"><p lang="en">After a card is added, Dots agents can select products based on user prompts, but each checkout requires user confirmation through biometric authentication such as Face ID or a fingerprint; payments use a payment token instead of the actual card number, so merchants and agents do not receive full card information.</p><p lang="zh-CN">添加卡片后，Dots代理可依据用户提示选购商品，但每次结账前都要用户确认，并通过Face ID或指纹等生物验证；支付时用支付令牌替代实际卡号，商户和代理不会获得完整卡信息。</p></div><div class="translation-pair"><p lang="en">OpenAI says it will in the future allow users to set spending limits, purchase categories or time windows, and pre-approve eligible purchases so that agents can complete purchases entirely on their behalf. Some retailers have restricted or blocked AI agent shopping, and OpenAI says websites and payment risk-control systems need to identify legitimate transactions initiated by agents.</p><p lang="zh-CN">OpenAI称未来将允许用户设置消费限额、购买类别或时段，并预先批准符合条件的购买，让代理完全代购。部分零售商已限制或屏蔽AI代理购物，OpenAI表示需要网站和支付风控系统识别代理发起的合法交易。</p></div></div>
     
-    <p class="story-sources">来源：<a href="https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite" title="LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B" target="_blank" rel="noopener noreferrer">huggingface.co</a></p>
+    <p class="story-sources">来源：<a href="https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet" title="ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you" target="_blank" rel="noopener noreferrer">theverge.com</a></p>
   </article>
   
-</section>
-
-<section class="news-section" id="home-space-s1" data-outline data-section="space">
-  <h3 class="section-title">航天宇航</h3>
-  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/technology/">本期</a></p>
-  
-  <article class="story" id="home-space-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>UARX Space Says OSSIE-D Orbital Transfer Vehicle Completed First Flight Deployment</p>
-    <h4 class="story-title">UARX Space称OSSIE-D轨道转移飞行器完成首飞部署</h4>
-    <p class="story-meta"><time>11月13日 04:00</time><span>重要</span><span>可靠性 B</span></p>
-    <div class="news-body chinese-body"><p>据UARX Space发布的新闻稿，西班牙公司UARX Space的轨道转移飞行器OSSIE-D已由SpaceX Falcon 9发射，并使用该公司SAU&amp;RON 24分离系统完成部署。公司称OSSIE-D完全在西班牙设计制造，75%组件由公司内部开发。</p><p>DHV Technology提供的完整电源子系统在入轨后工作正常，包括太阳能阵列、PCDU和电池的初始遥测符合预期。UARX称，这是首次由同一家公司同时提供轨道转移飞行器和分离系统的任务。新闻稿没有给出具体发射日期。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">According to a press release issued by UARX Space, the Spanish company&#39;s OSSIE-D orbital transfer vehicle has been launched by a SpaceX Falcon 9 and deployed using the company&#39;s SAU&amp;RON 24 separation system. The company says OSSIE-D was fully designed and manufactured in Spain, with 75% of its components developed in-house.</p><p lang="zh-CN">据UARX Space发布的新闻稿，西班牙公司UARX Space的轨道转移飞行器OSSIE-D已由SpaceX Falcon 9发射，并使用该公司SAU&amp;RON 24分离系统完成部署。公司称OSSIE-D完全在西班牙设计制造，75%组件由公司内部开发。</p></div><div class="translation-pair"><p lang="en">The complete power subsystem provided by DHV Technology is functioning properly after orbital insertion, with initial telemetry for the solar arrays, PCDU and batteries meeting expectations. UARX says this is the first mission in which a single company provided both the orbital transfer vehicle and the separation system. The press release did not provide a specific launch date.</p><p lang="zh-CN">DHV Technology提供的完整电源子系统在入轨后工作正常，包括太阳能阵列、PCDU和电池的初始遥测符合预期。UARX称，这是首次由同一家公司同时提供轨道转移飞行器和分离系统的任务。新闻稿没有给出具体发射日期。</p></div></div>
+  <article class="story" id="home-ai-s1-a2" data-outline>
+    <p class="story-title bilingual-title" lang="en" hidden>llama.cpp Releases v1.0.0, Introduces Semantic Versioning</p>
+    <h4 class="story-title">llama.cpp发布v1.0.0，引入语义版本管理</h4>
+    <p class="story-meta"><time>11月13日 22:05</time><span>重要</span><span>可靠性 A</span></p>
+    <div class="news-body chinese-body"><p>ggml-org于11月13日发布llama.cpp v1.0.0和ggml v1.0.0。项目称这是面向下游开发者的稳定性里程碑，今后llama.cpp与ggml的公共C API出现不兼容变更时提升主版本号，向后兼容的功能、后端或模型支持提升次版本号，无API变化的修复提升补丁号。</p><p>llama.cpp定位为跨平台本地AI推理框架，通过量化和专用后端在消费级设备到企业服务器上运行多模态大模型。项目称目前支持150多种架构变体和主流投机解码方法，并为Linux、macOS、Windows、Android、iOS及多个包管理器提供预发布构件。</p></div>
+    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">ggml-org released llama.cpp v1.0.0 and ggml v1.0.0 on November 13. The project calls this a stability milestone for downstream developers: future incompatible changes to the public C APIs of llama.cpp and ggml will increment the major version number, backward-compatible features, backends or model support will increment the minor version number, and fixes without API changes will increment the patch number.</p><p lang="zh-CN">ggml-org于11月13日发布llama.cpp v1.0.0和ggml v1.0.0。项目称这是面向下游开发者的稳定性里程碑，今后llama.cpp与ggml的公共C API出现不兼容变更时提升主版本号，向后兼容的功能、后端或模型支持提升次版本号，无API变化的修复提升补丁号。</p></div><div class="translation-pair"><p lang="en">llama.cpp is positioned as a cross-platform local AI inference framework that runs multimodal large models from consumer devices to enterprise servers through quantization and specialized backends. The project says it currently supports more than 150 architecture variants and mainstream speculative decoding methods, and provides pre-release artifacts for Linux, macOS, Windows, Android, iOS and several package managers.</p><p lang="zh-CN">llama.cpp定位为跨平台本地AI推理框架，通过量化和专用后端在消费级设备到企业服务器上运行多模态大模型。项目称目前支持150多种架构变体和主流投机解码方法，并为Linux、macOS、Windows、Android、iOS及多个包管理器提供预发布构件。</p></div></div>
     
-    <p class="story-sources">来源：<a href="https://spacenews.com/uarx-space-marks-a-milestone-for-spains-space-industry-with-the-maiden-flight-of-ossie-d-featuring-a-complete-power-subsystem-supplied-by-dhv-technology/" title="UARX Space Marks a Milestone for Spain’s Space Industry with the Maiden Flight of OSSIE-D, Featuring a Complete Power Subsystem Supplied by DHV Technology" target="_blank" rel="noopener noreferrer">spacenews.com</a></p>
-  </article>
-  
-</section>
-
-<section class="news-section" id="home-hardware-s1" data-outline data-section="hardware">
-  <h3 class="section-title">硬件</h3>
-  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/technology/">本期</a></p>
-  
-  <article class="story" id="home-hardware-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>Kioxia and Dell Build 157PB Single-Rack All-Flash Configuration</p>
-    <h4 class="story-title">Kioxia与Dell构建157PB单机架全闪存配置</h4>
-    <p class="story-meta"><time>11月13日 09:15</time><span>重要</span><span>可靠性 B</span></p>
-    <div class="news-body chinese-body"><p>TechPowerUp报道，Kioxia与Dell在单个42U机架中构建了157PB原始闪存容量的配置，使用16台Dell PowerEdge R7725xd服务器、640块Kioxia 245.76TB LC9系列SSD，运行Dell ObjectScale对象存储平台。每台2U服务器装40块E3.L规格硬盘，16台占32U，剩余10U。</p><p>LC9为PCIe 5.0 NVMe硬盘，基于Kioxia第八代BiCS QLC和32 die堆叠。Kioxia称这是业界首个157PB单机架对象存储，依据是自家市场调查；报道指出，公告没有给出价格或可用时间。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">TechPowerUp reports that Kioxia and Dell built a configuration with 157PB of raw flash capacity in a single 42U rack, using 16 Dell PowerEdge R7725xd servers and 640 Kioxia 245.76TB LC9 series SSDs, running the Dell ObjectScale object storage platform. Each 2U server holds 40 E3.L form-factor drives; the 16 servers occupy 32U, leaving 10U.</p><p lang="zh-CN">TechPowerUp报道，Kioxia与Dell在单个42U机架中构建了157PB原始闪存容量的配置，使用16台Dell PowerEdge R7725xd服务器、640块Kioxia 245.76TB LC9系列SSD，运行Dell ObjectScale对象存储平台。每台2U服务器装40块E3.L规格硬盘，16台占32U，剩余10U。</p></div><div class="translation-pair"><p lang="en">The LC9 is a PCIe 5.0 NVMe drive based on Kioxia&#39;s eighth-generation BiCS QLC and 32-die stacking. Kioxia says this is the industry&#39;s first 157PB single-rack object storage, based on its own market survey; the report notes that the announcement did not provide pricing or availability.</p><p lang="zh-CN">LC9为PCIe 5.0 NVMe硬盘，基于Kioxia第八代BiCS QLC和32 die堆叠。Kioxia称这是业界首个157PB单机架对象存储，依据是自家市场调查；报道指出，公告没有给出价格或可用时间。</p></div></div>
-    
-    <p class="story-sources">来源：<a href="https://www.techpowerup.com/354767/kioxia-and-dell-build-a-157-pb-rack-with-640-ssds" title="Kioxia and Dell Build a 157 PB Rack With 640 SSDs" target="_blank" rel="noopener noreferrer">techpowerup.com</a></p>
-  </article>
-  
-</section>
-
-<section class="news-section" id="home-digital-s1" data-outline data-section="digital">
-  <h3 class="section-title">数码</h3>
-  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/technology/">本期</a></p>
-  
-  <article class="story" id="home-digital-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>Samsung Smart Glasses to Go on Sale in the U.S. and South Korea on December 10, With Built-in Gemini</p>
-    <h4 class="story-title">三星智能眼镜将于12月10日在美韩开售，内置Gemini</h4>
-    <p class="story-meta"><time>11月12日 22:00</time><span>重要</span><span>可靠性 A</span><span>进展</span></p>
-    <div class="news-body chinese-body"><p>三星11月12日宣布，其智能眼镜全系将于12月10日在美国和韩国发售，预售从当天开始。产品与Gentle Monster和Warby Parker合作，共30款设计；三星称整机约41克，内置Google Gemini，提供免手操作协助，可帮助用户理解周围环境并进行跨语言交流。</p><p>硬件包括1200万像素HDR相机、开放式扬声器和四麦克风阵列，搭载高通Snapdragon AR1 Gen 1平台，单次充电续航最长9小时，搭配充电盒最长72小时。产品计划12月10日发售，尚未上市。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">Samsung announced on November 12 that its entire smart glasses lineup will go on sale in the United States and South Korea on December 10, with pre-orders beginning that day. The product was developed in collaboration with Gentle Monster and Warby Parker and offers 30 designs in total; Samsung says the glasses weigh about 41 grams, feature built-in Google Gemini, provide hands-free assistance, and can help users understand their surroundings and communicate across languages.</p><p lang="zh-CN">三星11月12日宣布，其智能眼镜全系将于12月10日在美国和韩国发售，预售从当天开始。产品与Gentle Monster和Warby Parker合作，共30款设计；三星称整机约41克，内置Google Gemini，提供免手操作协助，可帮助用户理解周围环境并进行跨语言交流。</p></div><div class="translation-pair"><p lang="en">The hardware includes a 12-megapixel HDR camera, open-ear speakers, and a four-microphone array, is powered by the Qualcomm Snapdragon AR1 Gen 1 platform, and offers up to 9 hours of battery life on a single charge and up to 72 hours with the charging case. The product is planned for release on December 10 and has not yet gone on sale.</p><p lang="zh-CN">硬件包括1200万像素HDR相机、开放式扬声器和四麦克风阵列，搭载高通Snapdragon AR1 Gen 1平台，单次充电续航最长9小时，搭配充电盒最长72小时。产品计划12月10日发售，尚未上市。</p></div></div>
-    
-    <p class="story-sources">来源：<a href="https://news.samsung.com/global/samsung-announces-december-release-for-intelligent-eyewear-bringing-a-smarter-way-to-see-the-world" title="Samsung Announces December Release for Intelligent Eyewear, Bringing a Smarter Way To See the World" target="_blank" rel="noopener noreferrer">news.samsung.com</a></p>
+    <p class="story-sources">来源：<a href="https://huggingface.co/blog/ggml-org/llama-cpp-v1" title="llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem" target="_blank" rel="noopener noreferrer">huggingface.co</a></p>
   </article>
   
 </section>
@@ -294,76 +221,34 @@
       
 
 
+<section class="news-section" id="home-politics-china-s1" data-outline data-section="politics-china">
+  <h3 class="section-title">中国</h3>
+  <p class="story-meta">更新于 2026-11-14 · <a href="/daily/2026-11-14/politics/">本期</a></p>
+  
+  <article class="story" id="home-politics-china-s1-a1" data-outline>
+    <p class="story-title bilingual-title" lang="en" hidden>China releases new medical insurance drug catalog: 107 medicines added, including 51 Class 1 new drugs</p>
+    <h4 class="story-title">中国新版医保药品目录公布：新增107种药品，含51个一类新药</h4>
+    <p class="story-meta"><time>11月14日 10:44</time><span>重要</span><span>可靠性 B</span></p>
+    <div class="news-body chinese-body"><p>国家医保局11月14日在苏州发布2026年国家医保药品目录和商业健康保险创新药品目录。新版医保目录新增107种药品，其中51个为一类新药，数量再创历史新高，新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等领域。</p><p>商业健康保险创新药品目录新增12种药品，包括全球首个实体瘤CAR-T、中国首个血友病基因治疗药物，调整后共28种。新版医保目录药品总数达到3331个，其中西药1935个、中成药1396个，将于2027年1月1日落地执行。</p></div>
+    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">The National Healthcare Security Administration released the 2026 national medical insurance drug catalog and the commercial health insurance innovative drug catalog in Suzhou on November 14. The new medical insurance catalog adds 107 drugs, including 51 Class 1 new drugs, a number that once again set a record high, with the newly added products covering areas such as tumors, rare diseases, chronic diseases and mental illness.</p><p lang="zh-CN">国家医保局11月14日在苏州发布2026年国家医保药品目录和商业健康保险创新药品目录。新版医保目录新增107种药品，其中51个为一类新药，数量再创历史新高，新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等领域。</p></div><div class="translation-pair"><p lang="en">The commercial health insurance innovative drug catalog adds 12 drugs, including the world&#39;s first CAR-T therapy for solid tumors and China&#39;s first gene therapy drug for hemophilia, bringing the total to 28 after the adjustment. The new medical insurance catalog contains a total of 3,331 drugs, including 1,935 Western medicines and 1,396 traditional Chinese patent medicines, and will take effect on January 1, 2027.</p><p lang="zh-CN">商业健康保险创新药品目录新增12种药品，包括全球首个实体瘤CAR-T、中国首个血友病基因治疗药物，调整后共28种。新版医保目录药品总数达到3331个，其中西药1935个、中成药1396个，将于2027年1月1日落地执行。</p></div></div>
+    
+    <p class="story-sources">来源：<a href="https://www.chinanews.com.cn/gn/2026/11-14/10731912.shtml" title="再创新高 51个一类新药进入新版国家医保药品目录" target="_blank" rel="noopener noreferrer">chinanews.com.cn</a></p>
+  </article>
+  
+</section>
+
 <section class="news-section" id="home-politics-us-s1" data-outline data-section="politics-us">
   <h3 class="section-title">美国</h3>
-  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/politics/">本期</a></p>
+  <p class="story-meta">更新于 2026-11-14 · <a href="/daily/2026-11-14/politics/">本期</a></p>
   
   <article class="story" id="home-politics-us-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>Van Hollen to challenge Schumer for Senate leadership</p>
-    <h4 class="story-title">范霍伦将挑战舒默的参议院领导职位</h4>
-    <p class="story-meta"><time>11月13日 10:30</time><span>重要</span><span>可靠性 B</span><span>进展</span></p>
-    <div class="news-body chinese-body"><p>据《卫报》报道，克里斯·范霍伦将挑战查克·舒默的参议院多数党领袖职位。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">According to The Guardian, Chris Van Hollen will challenge Chuck Schumer for the Senate majority leader position.</p><p lang="zh-CN">据《卫报》报道，克里斯·范霍伦将挑战查克·舒默的参议院多数党领袖职位。</p></div></div>
+    <p class="story-title bilingual-title" lang="en" hidden>FAA Lifts Nationwide Ground Stop After More Than Four Hours as Air Traffic Control Communications System Overloads</p>
+    <h4 class="story-title">美联邦航空局解除全国停飞令：空管通信系统过载，逾四小时后复飞</h4>
+    <p class="story-meta"><time>11月14日 11:10</time><span>重大</span><span>可靠性 B</span><span>进展</span></p>
+    <div class="news-body chinese-body"><p>美国联邦航空管理局（FAA）13日发布全国停飞令，禁止所有国内起飞航班，停止运行超过四小时，至美东时间当晚20时15分解除。这是2001年9月11日以来最长的一次全国范围停飞。</p><p>据航班追踪网站FlightAware统计，13日超过8500架次航班延误、近8000架次取消，停飞时已有3500多架飞机在空中。欧洲空管组织Eurocontrol称，应FAA请求暂停成员国赴美航班。</p><p>交通部长达菲在记者会上说，一套老式模拟空管通信系统的交换机和路由器因数据过载宕机，影响通信与雷达，系统需全面改造，估计耗资500亿美元；达菲称该系统还会继续故障。国土安全部长马林称没有证据显示是网络攻击，并排除与前一天开始的全球微软故障有关。两位部长都称停飞期间公众没有危险。</p></div>
+    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">The U.S. Federal Aviation Administration (FAA) issued a nationwide ground stop on the 13th, barring all domestic departing flights and halting operations for more than four hours until it was lifted at 8:15 p.m. Eastern Time that evening. This was the longest nationwide ground stop since September 11, 2001.</p><p lang="zh-CN">美国联邦航空管理局（FAA）13日发布全国停飞令，禁止所有国内起飞航班，停止运行超过四小时，至美东时间当晚20时15分解除。这是2001年9月11日以来最长的一次全国范围停飞。</p></div><div class="translation-pair"><p lang="en">According to statistics from flight-tracking website FlightAware, more than 8,500 flights were delayed and nearly 8,000 were canceled on the 13th, while more than 3,500 aircraft were already in the air when the ground stop began. The European air traffic control organization Eurocontrol said it suspended member states&#39; flights to the United States at the FAA&#39;s request.</p><p lang="zh-CN">据航班追踪网站FlightAware统计，13日超过8500架次航班延误、近8000架次取消，停飞时已有3500多架飞机在空中。欧洲空管组织Eurocontrol称，应FAA请求暂停成员国赴美航班。</p></div><div class="translation-pair"><p lang="en">Transportation Secretary Duffy said at a press conference that the switches and routers of an old analog air traffic control communications system had crashed due to data overload, affecting communications and radar; the system needs a comprehensive overhaul estimated to cost $50 billion, and Duffy said it would continue to fail. Homeland Security Secretary Malin said there was no evidence that it was a cyberattack and ruled out any link to the global Microsoft outage that began the previous day. Both ministers said there was no danger to the public during the ground stop.</p><p lang="zh-CN">交通部长达菲在记者会上说，一套老式模拟空管通信系统的交换机和路由器因数据过载宕机，影响通信与雷达，系统需全面改造，估计耗资500亿美元；达菲称该系统还会继续故障。国土安全部长马林称没有证据显示是网络攻击，并排除与前一天开始的全球微软故障有关。两位部长都称停飞期间公众没有危险。</p></div></div>
     
-    <p class="story-sources">来源：<a href="https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader" title="Chris Van Hollen to challenge Chuck Schumer for Senate majority leader" target="_blank" rel="noopener noreferrer">theguardian.com</a></p>
-  </article>
-  
-</section>
-
-<section class="news-section" id="home-politics-russia-ukraine-s1" data-outline data-section="politics-russia-ukraine">
-  <h3 class="section-title">俄乌战争</h3>
-  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/politics/">本期</a></p>
-  
-  <article class="story" id="home-politics-russia-ukraine-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>Finnish and Estonian Officials Confirm Ukrainian Drone Attack on Russian Warship in Gulf of Finland</p>
-    <h4 class="story-title">乌克兰无人机袭击芬兰湾俄军舰，芬爱官员证实</h4>
-    <p class="story-meta"><time>11月13日 04:09</time><span>重要</span><span>可靠性 B</span><span>进展</span></p>
-    <div class="news-body chinese-body"><p>芬兰官员证实，一艘俄罗斯军舰周三在芬兰湾遭袭。乌克兰国家安全局称，目标是“纳罗-福明斯克”号，并称这是针对波罗的海沿岸乌斯季卢加石油出口设施的无人机行动的一部分。</p><p>爱沙尼亚国防部长赫尔姆说，军舰约在周三5时30分被击中，随后冒烟并返回圣彼得堡，但他未说明袭击方式。俄舰伤亡和损坏程度仍不清楚，俄方很少公布此类细节。</p><p>报道称，这可能是乌克兰无人机首次在向民用航运开放的波罗的海海域袭击俄舰。有分析人士认为，这不构成严重升级。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">A Finnish official confirmed that a Russian warship was attacked in the Gulf of Finland on Wednesday. The Security Service of Ukraine said the target was the “Naro-Fominsk” and that the attack was part of a drone operation against the Ust-Luga oil export facility on the Baltic coast.</p><p lang="zh-CN">芬兰官员证实，一艘俄罗斯军舰周三在芬兰湾遭袭。乌克兰国家安全局称，目标是“纳罗-福明斯克”号，并称这是针对波罗的海沿岸乌斯季卢加石油出口设施的无人机行动的一部分。</p></div><div class="translation-pair"><p lang="en">Estonian Defense Minister Helm said the warship was hit at about 5:30 on Wednesday, then began smoking and returned to St. Petersburg, but he did not say how the attack was carried out. The casualties and extent of damage to the Russian ship remain unclear, and Russia rarely publishes such details.</p><p lang="zh-CN">爱沙尼亚国防部长赫尔姆说，军舰约在周三5时30分被击中，随后冒烟并返回圣彼得堡，但他未说明袭击方式。俄舰伤亡和损坏程度仍不清楚，俄方很少公布此类细节。</p></div><div class="translation-pair"><p lang="en">Reports said this could be the first time Ukrainian drones had attacked a Russian warship in Baltic Sea waters open to civilian shipping. Some analysts believe this does not constitute a serious escalation.</p><p lang="zh-CN">报道称，这可能是乌克兰无人机首次在向民用航运开放的波罗的海海域袭击俄舰。有分析人士认为，这不构成严重升级。</p></div></div>
-    
-    <p class="story-sources">来源：<a href="https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&amp;at_campaign=rss" title="Russian warship hit by Ukrainian drone in Gulf of Finland" target="_blank" rel="noopener noreferrer">bbc.co.uk</a></p>
-  </article>
-  
-</section>
-
-<section class="news-section" id="home-politics-middle-east-s1" data-outline data-section="politics-middle-east">
-  <h3 class="section-title">中东地区</h3>
-  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/politics/">本期</a></p>
-  
-  <article class="story" id="home-politics-middle-east-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>Trump Says Iran War Needs No Deal, Directs Vance to Turn to Domestic Affairs</p>
-    <h4 class="story-title">特朗普称伊朗战争无需协议，命万斯转向国内事务</h4>
-    <p class="story-meta"><time>11月13日 03:01</time><span>重大</span><span>可靠性 B</span><span>进展</span></p>
-    <div class="news-body chinese-body"><p>据《卫报》报道，美国总统特朗普称伊朗战争不需要达成协议，并指示副总统万斯将注意力转向国内事务。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">According to The Guardian, U.S. President Trump said no agreement is needed in the Iran war and directed Vice President Vance to turn his attention to domestic affairs.</p><p lang="zh-CN">据《卫报》报道，美国总统特朗普称伊朗战争不需要达成协议，并指示副总统万斯将注意力转向国内事务。</p></div></div>
-    
-    <p class="story-sources">来源：<a href="https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war" title="Trump says no deal needed on Iran war and orders Vance to focus on domestic issues" target="_blank" rel="noopener noreferrer">theguardian.com</a></p>
-  </article>
-  
-  <article class="story" id="home-politics-middle-east-s1-a2" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>Israeli airstrike on Nasser Hospital in Gaza kills six as accounts of the target differ</p>
-    <h4 class="story-title">以军空袭加沙纳赛尔医院致六人死亡，各方对目标说法不一</h4>
-    <p class="story-meta"><time>11月13日 00:54</time><span>重大</span><span>可靠性 B</span><span>进展</span></p>
-    <div class="news-body chinese-body"><p>加沙地带南部汗尤尼斯的纳赛尔医院夜间遭以色列空袭。哈马斯控制的加沙卫生部称，袭击造成6人死亡、约30人受伤，死者包括外科医生里兹克·阿布·沙伊拉。</p><p>医院院长说，两枚导弹击中含手术病房和重症监护室的大楼，其中一枚未爆炸。以军称，打击目标是哈马斯武装翼的一名指挥官及其他武装人员，指其把医院用作策划袭击的指挥部。</p><p>以军表示空袭前发出预警，并公布一段据称发给加沙高级卫生官员的录音；院长则坚持医院未收到预警。哈马斯否认以方说法，称其散布“虚假叙事”以掩盖新的战争罪行。BBC指出，以色列不允许包括BBC在内的国际新闻机构进入加沙，外界难以核实当地情况。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">Nasser Hospital in Khan Younis in the southern Gaza Strip was hit by an Israeli airstrike overnight. The Hamas-run Gaza Ministry of Health said the attack killed six people and injured about 30, with the dead including surgeon Rizq Abu Shaila.</p><p lang="zh-CN">加沙地带南部汗尤尼斯的纳赛尔医院夜间遭以色列空袭。哈马斯控制的加沙卫生部称，袭击造成6人死亡、约30人受伤，死者包括外科医生里兹克·阿布·沙伊拉。</p></div><div class="translation-pair"><p lang="en">The hospital director said two missiles hit a building containing surgical wards and intensive care units, one of which did not explode. The Israeli military said the target was a commander in Hamas&#39;s armed wing and other armed personnel, accusing them of using the hospital as a command center for planning attacks.</p><p lang="zh-CN">医院院长说，两枚导弹击中含手术病房和重症监护室的大楼，其中一枚未爆炸。以军称，打击目标是哈马斯武装翼的一名指挥官及其他武装人员，指其把医院用作策划袭击的指挥部。</p></div><div class="translation-pair"><p lang="en">The Israeli military said it issued a warning before the airstrike and released an audio recording it said was sent to senior Gaza health officials; the hospital director maintained that the hospital did not receive a warning. Hamas denied the Israeli account, saying it was spreading a &#34;false narrative&#34; to cover up a new war crime. The BBC noted that Israel does not allow international news organizations, including the BBC, to enter Gaza, making it difficult for the outside world to verify the situation there.</p><p lang="zh-CN">以军表示空袭前发出预警，并公布一段据称发给加沙高级卫生官员的录音；院长则坚持医院未收到预警。哈马斯否认以方说法，称其散布“虚假叙事”以掩盖新的战争罪行。BBC指出，以色列不允许包括BBC在内的国际新闻机构进入加沙，外界难以核实当地情况。</p></div></div>
-    
-    <p class="story-sources">来源：<a href="https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&amp;at_campaign=rss" title="Israeli strike on Gaza hospital kills six Palestinians, health ministry says" target="_blank" rel="noopener noreferrer">bbc.co.uk</a></p>
-  </article>
-  
-</section>
-
-<section class="news-section" id="home-politics-other-s1" data-outline data-section="politics-other">
-  <h3 class="section-title">其他</h3>
-  <p class="story-meta">更新于 2026-11-13 · <a href="/daily/2026-11-13/politics/">本期</a></p>
-  
-  <article class="story" id="home-politics-other-s1-a1" data-outline>
-    <p class="story-title bilingual-title" lang="en" hidden>FBI: North Korean hackers stole over $400 million in crypto via fake video calls</p>
-    <h4 class="story-title">FBI：朝鲜黑客以虚假视频通话窃取逾4亿美元加密货币</h4>
-    <p class="story-meta"><time>11月13日 10:48</time><span>重大</span><span>可靠性 B</span><span>进展</span></p>
-    <div class="news-body chinese-body"><p>美国联邦调查局称，朝鲜国家支持的黑客通过虚假视频通话窃取身份，在18个月内盗取超过4亿美元加密货币，受害者超过900人；该手法被FBI称为“FaceStealer”。</p><p>FBI和司法部说，黑客用虚假或劫持的社媒账号邀请目标进入仿冒Zoom、Teams和Google Meet的视频通话，播放目标认识的前受害者的预录视频，并让音频“故障”，再以修复音频为名诱骗点击链接安装恶意软件。</p><p>FBI网络主管莱瑟曼称，朝鲜政权依赖大规模加密货币盗窃所得资助其非法武器项目。美国执法机构还把币安此前创纪录的63亿美元黑客案归咎于朝鲜关联行为者，平壤否认相关指控。</p></div>
-    <div class="news-body bilingual-body" hidden><div class="translation-pair"><p lang="en">The FBI said state-sponsored North Korean hackers stole identities through fake video calls and took more than $400 million in cryptocurrency over 18 months from more than 900 victims; the FBI calls the technique “FaceStealer.”</p><p lang="zh-CN">美国联邦调查局称，朝鲜国家支持的黑客通过虚假视频通话窃取身份，在18个月内盗取超过4亿美元加密货币，受害者超过900人；该手法被FBI称为“FaceStealer”。</p></div><div class="translation-pair"><p lang="en">The FBI and the Justice Department said the hackers used fake or hijacked social media accounts to invite targets to imitation Zoom, Teams and Google Meet video calls, played pre-recorded videos of previous victims whom the targets knew, made the audio “malfunction,” and then tricked them into clicking a link to install malware by claiming to fix the audio.</p><p lang="zh-CN">FBI和司法部说，黑客用虚假或劫持的社媒账号邀请目标进入仿冒Zoom、Teams和Google Meet的视频通话，播放目标认识的前受害者的预录视频，并让音频“故障”，再以修复音频为名诱骗点击链接安装恶意软件。</p></div><div class="translation-pair"><p lang="en">FBI cyber chief Leatherman said the North Korean regime relies on proceeds from large-scale cryptocurrency theft to fund its illegal weapons programs. U.S. law enforcement agencies also blamed North Korea-linked actors for Binance’s earlier record $6.3 billion hack, and Pyongyang denies the allegations.</p><p lang="zh-CN">FBI网络主管莱瑟曼称，朝鲜政权依赖大规模加密货币盗窃所得资助其非法武器项目。美国执法机构还把币安此前创纪录的63亿美元黑客案归咎于朝鲜关联行为者，平壤否认相关指控。</p></div></div>
-    
-    <p class="story-sources">来源：<a href="https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_medium=RSS&amp;at_campaign=rss" title="North Korean hackers used fake video calls in $400m crypto hack, says FBI" target="_blank" rel="noopener noreferrer">bbc.co.uk</a></p>
+    <p class="story-sources">来源：<a href="https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&amp;at_campaign=rss" title="What we know about the longest US nationwide flight ground stop since 9/11" target="_blank" rel="noopener noreferrer">bbc.co.uk</a><span aria-hidden="true"> · </span><a href="https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights" title="US aviation agency lifts nationwide ground stop affecting all air travel" target="_blank" rel="noopener noreferrer">theguardian.com</a><span aria-hidden="true"> · </span><a href="https://www.channelnewsasia.com/world/us-lift-nationwide-ground-stop-flights-travel-chaos-6551041" title="US lifts nationwide ground stop, allowing flights to resume after hours of travel chaos" target="_blank" rel="noopener noreferrer">channelnewsasia.com</a></p>
   </article>
   
 </section>

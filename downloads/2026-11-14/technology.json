@@ -1,0 +1,233 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-14",
+  "title": "2026-11-14 科技",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "OpenAI推出ChatGPT Wallet，Dots代理可代购但需逐笔批准",
+    "llama.cpp发布v1.0.0，引入语义版本管理"
+  ],
+  "window_start": "2026-11-13T12:00:00+08:00",
+  "window_end": "2026-11-14T12:00:00+08:00",
+  "generated_at": "2026-11-14T12:06:32.024430+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "OpenAI|推出|ChatGPT Wallet",
+          "title": "OpenAI推出ChatGPT Wallet，Dots代理可代购但需逐笔批准",
+          "summary": "OpenAI面向美国Pro订阅用户推出ChatGPT Wallet，Dots代理可在用户生物验证批准后完成购买，支付使用令牌替代卡号。",
+          "published_at": "2026-11-14T04:45:10+08:00",
+          "follow_up": false,
+          "new_facts": "OpenAI推出ChatGPT Wallet；美国18岁以上Pro订阅用户可用；代理每次购买需用户批准和生物验证；支付令牌替代实际卡信息；未来计划支持预设限额后完全代购。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "OpenAI",
+            "ChatGPT Wallet",
+            "Dots"
+          ],
+          "limitations": "上线范围、支持银行卡和商户限制来自The Verge对OpenAI支持页面及公告的转述，未取得OpenAI官方页面原文；完全代购为未来计划。",
+          "facts": [
+            {
+              "text": "据The Verge报道，OpenAI推出面向Dots代理的ChatGPT Wallet，11月13日起向美国18岁以上的ChatGPT Pro订阅用户逐步开放。用户需使用美国账单地址和符合条件的美国发行美国运通、Chase、万事达或Visa卡。",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers in the US aged 18 and older using a US billing address and “eligible US-issued American Express, Chase, Mastercard and Visa cards.”"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "添加卡片后，Dots代理可依据用户提示选购商品，但每次结账前都要用户确认，并通过Face ID或指纹等生物验证；支付时用支付令牌替代实际卡号，商户和代理不会获得完整卡信息。",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "OpenAI’s support page says every purchase with ChatGPT Wallet requires a security check with biometric verification like Face ID or a fingerprint scan. Users have to approve every purchase from ChatGPT Wallet."
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "it substitutes your credit card details with a payment token"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "OpenAI称未来将允许用户设置消费限额、购买类别或时段，并预先批准符合条件的购买，让代理完全代购。部分零售商已限制或屏蔽AI代理购物，OpenAI表示需要网站和支付风控系统识别代理发起的合法交易。",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "Eventually, OpenAI says it expects “users to be able to delegate purchases entirely to their agent by setting clear parameters—such as spending limits, purchase categories, or time periods—and pre-approve those purchases.”"
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "Some retailers have restrictions on AI agents or block them altogether."
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "websites need to ensure agents are not inadvertently blocked, and payment and risk systems need to recognize legitimate purchases made by agents."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "OpenAI Launches ChatGPT Wallet for Dots Agents, With Per-Purchase Approval Required",
+            "sentences": [
+              {
+                "en": "According to The Verge, OpenAI has launched ChatGPT Wallet for Dots agents, gradually opening it from November 13 to US ChatGPT Pro subscribers aged 18 and over.",
+                "zh": "据The Verge报道，OpenAI推出面向Dots代理的ChatGPT Wallet，11月13日起向美国18岁以上的ChatGPT Pro订阅用户逐步开放。"
+              },
+              {
+                "en": "Users need a US billing address and an eligible US-issued American Express, Chase, Mastercard or Visa card.",
+                "zh": "用户需使用美国账单地址和符合条件的美国发行美国运通、Chase、万事达或Visa卡。"
+              },
+              {
+                "en": "After a card is added, Dots agents can select products based on user prompts, but each checkout requires user confirmation through biometric authentication such as Face ID or a fingerprint; payments use a payment token instead of the actual card number, so merchants and agents do not receive full card information.",
+                "zh": "添加卡片后，Dots代理可依据用户提示选购商品，但每次结账前都要用户确认，并通过Face ID或指纹等生物验证；支付时用支付令牌替代实际卡号，商户和代理不会获得完整卡信息。"
+              },
+              {
+                "en": "OpenAI says it will in the future allow users to set spending limits, purchase categories or time windows, and pre-approve eligible purchases so that agents can complete purchases entirely on their behalf.",
+                "zh": "OpenAI称未来将允许用户设置消费限额、购买类别或时段，并预先批准符合条件的购买，让代理完全代购。"
+              },
+              {
+                "en": "Some retailers have restricted or blocked AI agent shopping, and OpenAI says websites and payment risk-control systems need to identify legitimate transactions initiated by agents.",
+                "zh": "部分零售商已限制或屏蔽AI代理购物，OpenAI表示需要网站和支付风控系统识别代理发起的合法交易。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "ggml-org|发布|llama.cpp v1.0.0",
+          "title": "llama.cpp发布v1.0.0，引入语义版本管理",
+          "summary": "本地AI推理框架llama.cpp与ggml库发布v1.0.0，今后主版本号对应公共C API的不兼容变更，项目称支持150多种模型架构。",
+          "published_at": "2026-11-13T22:05:22+08:00",
+          "follow_up": false,
+          "new_facts": "llama.cpp和ggml发布v1.0.0；主版本号对应公共C API不兼容变更；项目称支持150多种架构变体和主流投机解码；提供多平台预发布构件。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "ggml-org",
+            "llama.cpp",
+            "ggml"
+          ],
+          "limitations": "项目定位和支持范围来自官方博客自述，未提供独立性能测试。",
+          "facts": [
+            {
+              "text": "ggml-org于11月13日发布llama.cpp v1.0.0和ggml v1.0.0。项目称这是面向下游开发者的稳定性里程碑，今后llama.cpp与ggml的公共C API出现不兼容变更时提升主版本号，向后兼容的功能、后端或模型支持提升次版本号，无API变化的修复提升补丁号。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "Today we release libraries v1.0.0"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "Moving forward, both llama.cpp and ggml will reflect API and ABI incompatibilities with major-version bumps."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "MINOR Backward-compatible feature, backend updates, model support, or API addition PATCH Bug fix with no API change"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "llama.cpp定位为跨平台本地AI推理框架，通过量化和专用后端在消费级设备到企业服务器上运行多模态大模型。项目称目前支持150多种架构变体和主流投机解码方法，并为Linux、macOS、Windows、Android、iOS及多个包管理器提供预发布构件。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "llama.cpp makes it possible to run multi-modal LLMs across a wide range of hardware"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "Currently, llama.cpp supports more than 150 architecture variants as well as all mainstream speculative decoding methods."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "Pre-release artifacts Linux, macOS, Windows, Android, iOS Docker Linux Debian Linux Homebrew macOS, Linux conda-forge Windows, macOS, Linux MacPorts macOS Winget Windows XCFramework iOS, macOS"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "llama.cpp Releases v1.0.0, Introduces Semantic Versioning",
+            "sentences": [
+              {
+                "en": "ggml-org released llama.cpp v1.0.0 and ggml v1.0.0 on November 13.",
+                "zh": "ggml-org于11月13日发布llama.cpp v1.0.0和ggml v1.0.0。"
+              },
+              {
+                "en": "The project calls this a stability milestone for downstream developers: future incompatible changes to the public C APIs of llama.cpp and ggml will increment the major version number, backward-compatible features, backends or model support will increment the minor version number, and fixes without API changes will increment the patch number.",
+                "zh": "项目称这是面向下游开发者的稳定性里程碑，今后llama.cpp与ggml的公共C API出现不兼容变更时提升主版本号，向后兼容的功能、后端或模型支持提升次版本号，无API变化的修复提升补丁号。"
+              },
+              {
+                "en": "llama.cpp is positioned as a cross-platform local AI inference framework that runs multimodal large models from consumer devices to enterprise servers through quantization and specialized backends.",
+                "zh": "llama.cpp定位为跨平台本地AI推理框架，通过量化和专用后端在消费级设备到企业服务器上运行多模态大模型。"
+              },
+              {
+                "en": "The project says it currently supports more than 150 architecture variants and mainstream speculative decoding methods, and provides pre-release artifacts for Linux, macOS, Windows, Android, iOS and several package managers.",
+                "zh": "项目称目前支持150多种架构变体和主流投机解码方法，并为Linux、macOS、Windows、Android、iOS及多个包管理器提供预发布构件。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s17",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "published_at": "2026-11-13T14:05:22+00:00"
+    },
+    {
+      "id": "s50",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "published_at": "2026-11-13T20:45:10+00:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}

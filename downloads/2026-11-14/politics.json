@@ -1,0 +1,276 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-14",
+  "title": "2026-11-14 政治",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "中国新版医保药品目录公布：新增107种药品，含51个一类新药",
+    "美联邦航空局解除全国停飞令：空管通信系统过载，逾四小时后复飞"
+  ],
+  "window_start": "2026-11-13T12:00:00+08:00",
+  "window_end": "2026-11-14T12:00:00+08:00",
+  "generated_at": "2026-11-14T12:16:40.370621+08:00",
+  "edition": "politics",
+  "sources": [
+    {
+      "id": "s28",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+      "published_at": null
+    },
+    {
+      "id": "s18",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731912.shtml",
+      "title": "再创新高 51个一类新药进入新版国家医保药品目录",
+      "published_at": "2026-11-14T10:44:35+08:00"
+    },
+    {
+      "id": "s36",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
+      "published_at": "2026-11-14T02:15:53+00:00"
+    },
+    {
+      "id": "s114",
+      "url": "https://www.channelnewsasia.com/world/us-lift-nationwide-ground-stop-flights-travel-chaos-6551041",
+      "title": "US lifts nationwide ground stop, allowing flights to resume after hours of travel chaos",
+      "published_at": "2026-11-14T09:40:00+08:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "国家医保局|公布|新版国家医保药品目录新增51个一类新药",
+          "title": "中国新版医保药品目录公布：新增107种药品，含51个一类新药",
+          "summary": "国家医保局11月14日在苏州发布2026年国家医保药品目录，新增107种药品、其中51个一类新药，同步调整商业健康保险创新药品目录，新版目录2027年1月1日执行。",
+          "published_at": "2026-11-14T10:44:35+08:00",
+          "follow_up": false,
+          "new_facts": "2026年医保目录新增107种药品、含51个一类新药；商保创新药目录新增12种、共28种；目录总数3331个；2027年1月1日执行。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "国家医保局",
+            "新版国家医保药品目录",
+            "商业健康保险创新药品目录"
+          ],
+          "limitations": "仅有新华社快报经中新网转载一稿，未见国家医保局原文及具体药品名单、降价幅度，正文仅使用可核实的总量与执行日期。",
+          "facts": [
+            {
+              "text": "国家医保局11月14日在苏州发布2026年国家医保药品目录和商业健康保险创新药品目录。新版医保目录新增107种药品，其中51个为一类新药，数量再创历史新高，新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等领域。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "记者11月14日从国家医保局获悉，2026年国家医保药品目录和商业健康保险创新药品目录在苏州发布。新版国家医保药品目录新增107种药品，其中51个一类新药，再创历史新高。新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等多个临床急需治疗领域。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "商业健康保险创新药品目录新增12种药品，包括全球首个实体瘤CAR-T、中国首个血友病基因治疗药物，调整后共28种。新版医保目录药品总数达到3331个，其中西药1935个、中成药1396个，将于2027年1月1日落地执行。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "商业健康保险创新药品目录调整同步开展，新增12种药品，其中包括全球首个实体瘤CAR-T、中国首个血友病基因治疗药物等重大创新药品。调整后，2026年商业健康保险创新药品目录共有28种。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "此次调整后，2026年版国家医保药品目录药品总数达到3331个，其中西药1935个、中成药1396个。新版目录于2027年1月1日正式落地执行。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "China releases new medical insurance drug catalog: 107 medicines added, including 51 Class 1 new drugs",
+            "sentences": [
+              {
+                "en": "The National Healthcare Security Administration released the 2026 national medical insurance drug catalog and the commercial health insurance innovative drug catalog in Suzhou on November 14.",
+                "zh": "国家医保局11月14日在苏州发布2026年国家医保药品目录和商业健康保险创新药品目录。"
+              },
+              {
+                "en": "The new medical insurance catalog adds 107 drugs, including 51 Class 1 new drugs, a number that once again set a record high, with the newly added products covering areas such as tumors, rare diseases, chronic diseases and mental illness.",
+                "zh": "新版医保目录新增107种药品，其中51个为一类新药，数量再创历史新高，新增品种覆盖肿瘤、罕见病、慢性病、精神疾病等领域。"
+              },
+              {
+                "en": "The commercial health insurance innovative drug catalog adds 12 drugs, including the world's first CAR-T therapy for solid tumors and China's first gene therapy drug for hemophilia, bringing the total to 28 after the adjustment.",
+                "zh": "商业健康保险创新药品目录新增12种药品，包括全球首个实体瘤CAR-T、中国首个血友病基因治疗药物，调整后共28种。"
+              },
+              {
+                "en": "The new medical insurance catalog contains a total of 3,331 drugs, including 1,935 Western medicines and 1,396 traditional Chinese patent medicines, and will take effect on January 1, 2027.",
+                "zh": "新版医保目录药品总数达到3331个，其中西药1935个、中成药1396个，将于2027年1月1日落地执行。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国联邦航空局|解除|全国航班停飞令",
+          "title": "美联邦航空局解除全国停飞令：空管通信系统过载，逾四小时后复飞",
+          "summary": "美国联邦航空局11月13日因通信问题停飞全美起飞航班，持续逾四小时，当晚解除；交通部长称老旧模拟空管通信系统数据过载，需耗资约500亿美元改造。",
+          "published_at": "2026-11-14T11:10:00+08:00",
+          "follow_up": true,
+          "new_facts": "FAA发布并解除全国停飞令，持续逾四小时；超过8500架次延误、近8000架次取消；达菲称模拟空管通信系统过载，估计改造需500亿美元；马林称无网络攻击证据。",
+          "verification": "corroborated",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "美国联邦航空局（FAA）",
+            "美国全国空域",
+            "肖恩·达菲",
+            "马克韦恩·马林"
+          ],
+          "limitations": "除BBC外，《卫报》与CNA稿件仅取得标题级内容，故停飞时长、航班数量与故障原因的细节依赖BBC单篇报道；故障归因来自交通部长与国土安全部长的公开表态，非独立技术鉴定。",
+          "facts": [
+            {
+              "text": "美国联邦航空管理局（FAA）13日发布全国停飞令，禁止所有国内起飞航班，停止运行超过四小时，至美东时间当晚20时15分解除。这是2001年9月11日以来最长的一次全国范围停飞。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "The US Federal Aviation Administration has lifted the longest nationwide ground stop of flights since the 11 September 2001 terrorist attacks."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "The FAA's initial announcement at 15:54 EST (20:54 GMT) said all flights departing within the US would be grounded until further notice."
+                },
+                {
+                  "source_id": "s36",
+                  "quote": "US aviation agency lifts nationwide ground stop affecting all air travel"
+                },
+                {
+                  "source_id": "s114",
+                  "quote": "US lifts nationwide ground stop, allowing flights to resume after hours of travel chaos"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "据航班追踪网站FlightAware统计，13日超过8500架次航班延误、近8000架次取消，停飞时已有3500多架飞机在空中。欧洲空管组织Eurocontrol称，应FAA请求暂停成员国赴美航班。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "The ground stop led to more than 8,500 delayed and nearly 8,000 cancelled flights on Friday, according to FlightAware."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "More than 3,500 airplanes were in the air at the time."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "All US-bound air traffic from Eurocontrol member states was suspended \"on request of the FAA due to technical issues\", according to Eurocontrol's website."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "交通部长达菲在记者会上说，一套老式模拟空管通信系统的交换机和路由器因数据过载宕机，影响通信与雷达，系统需全面改造，估计耗资500亿美元；达菲称该系统还会继续故障。国土安全部长马林称没有证据显示是网络攻击，并排除与前一天开始的全球微软故障有关。两位部长都称停飞期间公众没有危险。",
+              "evidence": [
+                {
+                  "source_id": "s28",
+                  "quote": "\"So this is analogue telecom. Our switches, our routers actually got overloaded with data and they went down,\" Duffy said. He said this had affected communications and radar. The system needs a complete overhaul, he said, estimating a $50 billion price tag. \"It's going to continue to fail,\" he said."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "Homeland Security Secretary Markwayne Mullin told the news conference said they had seen \"zero evidence\" it was a cyber-attack. He also ruled out any link to the global Microsoft outage that began on Thursday."
+                },
+                {
+                  "source_id": "s28",
+                  "quote": "Both cabinet secretaries insisted the public was never in danger during the stoppage."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "FAA Lifts Nationwide Ground Stop After More Than Four Hours as Air Traffic Control Communications System Overloads",
+            "sentences": [
+              {
+                "en": "The U.S. Federal Aviation Administration (FAA) issued a nationwide ground stop on the 13th, barring all domestic departing flights and halting operations for more than four hours until it was lifted at 8:15 p.m. Eastern Time that evening.",
+                "zh": "美国联邦航空管理局（FAA）13日发布全国停飞令，禁止所有国内起飞航班，停止运行超过四小时，至美东时间当晚20时15分解除。"
+              },
+              {
+                "en": "This was the longest nationwide ground stop since September 11, 2001.",
+                "zh": "这是2001年9月11日以来最长的一次全国范围停飞。"
+              },
+              {
+                "en": "According to statistics from flight-tracking website FlightAware, more than 8,500 flights were delayed and nearly 8,000 were canceled on the 13th, while more than 3,500 aircraft were already in the air when the ground stop began.",
+                "zh": "据航班追踪网站FlightAware统计，13日超过8500架次航班延误、近8000架次取消，停飞时已有3500多架飞机在空中。"
+              },
+              {
+                "en": "The European air traffic control organization Eurocontrol said it suspended member states' flights to the United States at the FAA's request.",
+                "zh": "欧洲空管组织Eurocontrol称，应FAA请求暂停成员国赴美航班。"
+              },
+              {
+                "en": "Transportation Secretary Duffy said at a press conference that the switches and routers of an old analog air traffic control communications system had crashed due to data overload, affecting communications and radar; the system needs a comprehensive overhaul estimated to cost $50 billion, and Duffy said it would continue to fail.",
+                "zh": "交通部长达菲在记者会上说，一套老式模拟空管通信系统的交换机和路由器因数据过载宕机，影响通信与雷达，系统需全面改造，估计耗资500亿美元；达菲称该系统还会继续故障。"
+              },
+              {
+                "en": "Homeland Security Secretary Malin said there was no evidence that it was a cyberattack and ruled out any link to the global Microsoft outage that began the previous day.",
+                "zh": "国土安全部长马林称没有证据显示是网络攻击，并排除与前一天开始的全球微软故障有关。"
+              },
+              {
+                "en": "Both ministers said there was no danger to the public during the ground stop.",
+                "zh": "两位部长都称停飞期间公众没有危险。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
