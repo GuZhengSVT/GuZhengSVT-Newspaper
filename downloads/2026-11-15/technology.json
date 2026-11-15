@@ -1,0 +1,235 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-15",
+  "title": "2026-11-15 科技",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "UniPat AI发布湿实验预测基准SPU 前沿模型得分普遍有限",
+    "Rocket Lab Electron火箭完成第100次发射"
+  ],
+  "window_start": "2026-11-14T12:00:00+08:00",
+  "window_end": "2026-11-15T12:00:00+08:00",
+  "generated_at": "2026-11-15T12:21:41.649463+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "斯坦福大学等|发布湿实验预测基准|湿实验预测基准",
+          "title": "UniPat AI发布湿实验预测基准SPU 前沿模型得分普遍有限",
+          "summary": "UniPat AI牵头发布湿实验预测基准SPU，含116个任务、4207个湿实验，首轮评测12款前沿模型、13种配置，最高平均分Claude Opus 5.5为0.486；提高推理强度未显著改善结果。",
+          "published_at": "2026-11-14T17:58:22+08:00",
+          "follow_up": false,
+          "new_facts": "UniPat AI发布Science Prediction Universe基准，116个任务、4207个湿实验，覆盖化学、材料、生物和医学；评测12款模型、13种配置，Claude Opus 5.5平均分0.486最高；GPT-6 Astra提高推理强度后得分几乎不变；数据集和代码开源。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "斯坦福大学",
+            "哈佛大学",
+            "康奈尔大学",
+            "湿实验预测基准"
+          ],
+          "limitations": "SPU基准及评测结果来自量子位报道，未直接核对论文全文；部分任务和私有任务数据未公开，独立复现待评估。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "据量子位报道，UniPat AI 牵头推出湿实验预测基准 Science Prediction Universe（SPU），包含116个任务、4207个湿实验，覆盖化学、材料科学、生物学和医学；顾问与合作方包括斯坦福、康奈尔、哈佛等机构。数据集和代码已开源。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "UniPat AI牵头推出的新基准 Science Prediction Universe"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "116个任务，4207个湿实验"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "覆盖化学、材料科学、生物和医学"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "基准顾问与湿实验合作成员也来自斯坦福、康奈尔、哈佛等高校"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "数据集和代码都已经开源"
+                }
+              ],
+              "verification": "single_source"
+            },
+            {
+              "kind": "fact",
+              "text": "首轮评测覆盖12款前沿模型、13种配置。全部已评分任务上，平均分最高的是 Claude Opus 5.5，为0.486，仅约一半任务超过随机水平；各配置超过随机阈值的任务比例在34%至52%之间。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "12款前沿模型、13种配置"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "平均分最高的是Claude Opus 5.5，拿了0.486分"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "但其中也只有一半的任务，超过了随机水平"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "任务比例仅有 34％～52％"
+                }
+              ],
+              "verification": "single_source"
+            },
+            {
+              "kind": "fact",
+              "text": "研究团队将 GPT-6 Astra 从中等推理强度调到最高，运行时间中位数增至4.8倍、API成本中位数增至5.3倍，但预测得分几乎不变。最高强度下，模型通常运行到中位26%时已给出答案，后续计算多为微调。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "研究团队将GPT-6 Astra从中等推理强度调到最高"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "最高强度的运行时间中位数增至4.8倍，API成本中位数也增至5.3倍"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "预测得分…… 几乎纹丝不动"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "GPT-6 Astra最高推理强度通常在运行到中位26％时，就已经给出了答案"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "模型后续也没闲着，继续计算修改，但都是微调"
+                }
+              ],
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "UniPat AI Releases Wet-Lab Prediction Benchmark SPU, With Frontier Models Scoring Modestly Overall",
+            "sentences": [
+              {
+                "en": "According to QbitAI, UniPat AI led the launch of Science Prediction Universe (SPU), a wet-lab prediction benchmark comprising 116 tasks and 4,207 wet-lab experiments and covering chemistry, materials science, biology, and medicine; its advisors and partners include institutions such as Stanford, Cornell, and Harvard.",
+                "zh": "据量子位报道，UniPat AI 牵头推出湿实验预测基准 Science Prediction Universe（SPU），包含116个任务、4207个湿实验，覆盖化学、材料科学、生物学和医学；顾问与合作方包括斯坦福、康奈尔、哈佛等机构。"
+              },
+              {
+                "en": "The dataset and code have been open-sourced.",
+                "zh": "数据集和代码已开源。"
+              },
+              {
+                "en": "The first round of evaluation covered 12 frontier models and 13 configurations.",
+                "zh": "首轮评测覆盖12款前沿模型、13种配置。"
+              },
+              {
+                "en": "Across all scored tasks, Claude Opus 5.5 had the highest average score at 0.486, with only about half of the tasks exceeding the random level; across configurations, the proportion of tasks exceeding the random threshold ranged from 34% to 52%.",
+                "zh": "全部已评分任务上，平均分最高的是 Claude Opus 5.5，为0.486，仅约一半任务超过随机水平；各配置超过随机阈值的任务比例在34%至52%之间。"
+              },
+              {
+                "en": "The research team raised GPT-6 Astra from medium to maximum reasoning intensity; median runtime increased to 4.8 times and median API cost to 5.3 times, but prediction scores remained almost unchanged.",
+                "zh": "研究团队将 GPT-6 Astra 从中等推理强度调到最高，运行时间中位数增至4.8倍、API成本中位数增至5.3倍，但预测得分几乎不变。"
+              },
+              {
+                "en": "At maximum intensity, the model typically had already produced an answer at a median of 26% of runtime, with most subsequent computation consisting of fine-tuning.",
+                "zh": "最高强度下，模型通常运行到中位26%时已给出答案，后续计算多为微调。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Rocket Lab|Electron第100次发射|Electron",
+          "title": "Rocket Lab Electron火箭完成第100次发射",
+          "summary": "Rocket Lab 的 Electron 火箭11月14日为日本客户执行第100次发射，SpaceNews 称其达到该里程碑的速度快于其他商业火箭。",
+          "published_at": "2026-11-14T21:53:12+08:00",
+          "follow_up": false,
+          "new_facts": "Electron于11月14日完成第100次发射，任务客户为日本客户；报道称其达到百次发射快于其他商业火箭。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Rocket Lab",
+            "Electron"
+          ],
+          "limitations": "客户、载荷和入轨结果等细节未在可用摘录中披露；“快于其他商业火箭”为报道中的单一比较声明。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "据 SpaceNews 报道，Rocket Lab 的 Electron 火箭于11月14日执行第100次发射，此次任务为日本客户执行。报道称，Electron 达到100次发射的速度快于其他商业火箭。",
+              "evidence": [
+                {
+                  "source_id": "s72",
+                  "quote": "Rocket Lab’s Electron launched for the 100th time on a Nov. 14 mission for a Japanese customer, reaching that milestone faster than any other commercial rocket."
+                }
+              ],
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Rocket Lab's Electron Rocket Completes 100th Launch",
+            "sentences": [
+              {
+                "en": "According to SpaceNews, Rocket Lab's Electron rocket carried out its 100th launch on November 14, with the mission conducted for a Japanese customer.",
+                "zh": "据 SpaceNews 报道，Rocket Lab 的 Electron 火箭于11月14日执行第100次发射，此次任务为日本客户执行。"
+              },
+              {
+                "en": "The report said that Electron reached 100 launches faster than other commercial rockets.",
+                "zh": "报道称，Electron 达到100次发射的速度快于其他商业火箭。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s17",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "published_at": "2026-11-14T17:58:22+08:00"
+    },
+    {
+      "id": "s72",
+      "url": "https://spacenews.com/electron-launches-for-100th-time",
+      "title": "Electron launches for 100th time",
+      "published_at": "2026-11-14T13:53:12+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
