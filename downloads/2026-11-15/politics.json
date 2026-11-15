@@ -1,0 +1,568 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-15",
+  "title": "2026-11-15 政治",
+  "summary": "本期收录5条通过核验的新闻。",
+  "highlights": [
+    "白宫称特朗普、普京与习近平计划在深圳APEC期间举行三方会晤",
+    "美国FAA通信故障致全国航班停飞逾四小时，交通部长归因于铜线升级",
+    "匈牙利在欧尔班时期部长涉案调查中查获约1950万美元现金",
+    "泽连斯基指责SpaceX对星盾限速，SpaceX否认",
+    "以军称打死哈马斯拉法旅指挥官，哈马斯证实"
+  ],
+  "window_start": "2026-11-14T12:00:00+08:00",
+  "window_end": "2026-11-15T12:00:00+08:00",
+  "generated_at": "2026-11-15T12:06:17.053994+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国/俄罗斯/中国|计划举行|三方领导人会晤",
+          "title": "白宫称特朗普、普京与习近平计划在深圳APEC期间举行三方会晤",
+          "summary": "白宫发言人奥利维娅·韦尔斯称，特朗普、普京与习近平计划下周在深圳APEC峰会间隙举行三方会晤，讨论削减核武器，可能还有伊朗，但不是乌克兰。俄罗斯已确认，中国尚未回应。未具名美国高级官员称预计不会达成协议。",
+          "published_at": "2026-11-14T12:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "白宫首次宣布特朗普、普京与习近平计划在深圳APEC间隙举行三方会晤，讨论核武器削减和伊朗议题，俄罗斯确认，中国未回应，预计不达成协议。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "白宫发言人奥利维娅·韦尔斯对记者表示，美国总统特朗普、俄罗斯总统普京与中国国家主席习近平计划下周在深圳举行的亚太经合组织峰会间隙举行三方会晤。韦尔斯称，特朗普将讨论削减核武器，可能还有伊朗，但不是乌克兰。俄罗斯已确认会晤，中国尚未回应。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "Donald Trump, Vladimir Putin and Xi Jinping are planning to meet on the sidelines of a summit in China next week, the White House has said."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "Russia has confirmed the meeting. China has yet to react."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "The president has made it clear that, among other topics, he will discuss the reduction of nuclear weapons in the world, whose proliferation President Trump believes is very dangerous"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "It is understood Iran may also be discussed during the meeting of the world's biggest nuclear powers, but not Ukraine."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "一名未具名美国高级官员据美联社和路透社称，预计会谈不会达成协议。特朗普将于周三晚抵达深圳参加为期两天的APEC峰会，并于周四与习近平举行双边会谈。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "No agreement was expected to follow the talks, an unnamed, senior US official said, according to news agencies AP and Reuters."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "Trump will arrive in Shenzhen late on Wednesday for the two-day summit between the 21 member states. He will also take part in bilateral talks with Xi on Thursday"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "唐纳德·特朗普",
+            "俄罗斯",
+            "弗拉基米尔·普京",
+            "中国",
+            "习近平",
+            "白宫"
+          ],
+          "limitations": "白宫宣布的是计划中的会晤，尚未举行；中国尚未回应。BBC报道未给出确切发布时间，published_at为日期近似值。",
+          "bilingual": {
+            "title_en": "White House Says Trump, Putin and Xi Plan Trilateral Meeting at APEC in Shenzhen",
+            "sentences": [
+              {
+                "en": "White House spokesperson Olivia Wells told reporters that US President Donald Trump, Russian President Vladimir Putin and Chinese President Xi Jinping plan to hold a trilateral meeting on the sidelines of the APEC summit in Shenzhen next week.",
+                "zh": "白宫发言人奥利维娅·韦尔斯对记者表示，美国总统特朗普、俄罗斯总统普京与中国国家主席习近平计划下周在深圳举行的亚太经合组织峰会间隙举行三方会晤。"
+              },
+              {
+                "en": "Wells said Trump will discuss reducing nuclear weapons, and possibly Iran, but not Ukraine.",
+                "zh": "韦尔斯称，特朗普将讨论削减核武器，可能还有伊朗，但不是乌克兰。"
+              },
+              {
+                "en": "Russia has confirmed the meeting, while China has not yet responded.",
+                "zh": "俄罗斯已确认会晤，中国尚未回应。"
+              },
+              {
+                "en": "An unnamed senior US official said, according to AP and Reuters, that no agreement is expected from the talks.",
+                "zh": "一名未具名美国高级官员据美联社和路透社称，预计会谈不会达成协议。"
+              },
+              {
+                "en": "Trump will arrive in Shenzhen on Wednesday evening for the two-day APEC summit and hold bilateral talks with Xi on Thursday.",
+                "zh": "特朗普将于周三晚抵达深圳参加为期两天的APEC峰会，并于周四与习近平举行双边会谈。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|全国航班停飞/中断|FAA通信系统故障",
+          "title": "美国FAA通信故障致全国航班停飞逾四小时，交通部长归因于铜线升级",
+          "summary": "美国交通部长肖恩·达菲称，周五全国航班停飞由铜线升级期间安装的路由器引发，该路由器向其他空中交通管制系统发送大量连接请求。政府认为不是网络攻击。美国大陆航班停飞超过四小时，截至周六超过3500架航班取消，为2001年以来最长。",
+          "published_at": "2026-11-14T12:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "美国交通部长达菲称，全国航班停飞由铜线升级期间路由器故障引发，排除网络攻击；停飞超过四小时，截至周六3500余架航班取消，为2001年以来最长。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "美国交通部长肖恩·达菲在新闻发布会上称，周五导致数千架航班取消的全国停飞由铜线升级期间出现的问题引发。承包商L3Harris在将陈旧铜线更换为光纤时安装的一个路由器开始向其他空中交通管制系统发送大量连接请求，每四至五秒约1000次，导致22个空中交通管制中心中17个出现语音和地面通信不稳定。达菲称政府认为不是网络攻击，调查仍在进行。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "A nationwide US ground stop that caused thousands of flight cancellations was caused by an issue following a copper wire upgrade, Transport Secretary Sean Duffy said."
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "The US government does not believe it was as a result of a cyber-attack, although an investigation is still under way, Duffy said."
+                },
+                {
+                  "source_id": "s22",
+                  "quote": "that router started flooding others in the air traffic control system, sending 1,000 connection attempts every four to five seconds"
+                },
+                {
+                  "source_id": "s22",
+                  "quote": "17 out of 22 air route traffic control centres in the US experienced \"instability\" on voice and ground communications"
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "a router that was being worked on had started flooding other air traffic control systems and created communication issues with planes"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "美国大陆航班从周五15时54分（美国东部时间）起停飞超过四小时。截至周六（14日），超过3500架航班取消、2000多架延误。这是自2001年9月11日袭击以来最长的一次全国停飞。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "No flights were allowed to take off from the continental US for more than four hours from 15:54 EST (19:54 GMT) on Friday. More than 3,500 flights were cancelled and more than 2,000 delayed in the US on Saturday"
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "Friday's suspension was the longest such incident since the 11 September 2001 attacks"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "L3Harris表示正在配合FAA调查，称在停飞前已完成超过70%的通信基础设施现代化工作。达菲警告，除非国会批准空中交通管制升级资金，否则类似问题可能再次发生。特朗普已要求拨款301亿美元。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "On Saturday L3Harris said it had completed over 70% of the work to modernise communications infrastructure before the shutdown."
+                },
+                {
+                  "source_id": "s22",
+                  "quote": "In a statement on Saturday afternoon, L3Harris confirmed it was working with the FAA to modernise the airspace communications infrastructure and said it was supporting the agency with its investigation."
+                },
+                {
+                  "source_id": "s21",
+                  "quote": "Duffy warned that a similar issue could arise again unless the US Congress approved upgrades to air traffic control infrastructure. US President Donald Trump has requested $30.1bn for the upgrades."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "联邦航空管理局（FAA）",
+            "L3Harris",
+            "肖恩·达菲"
+          ],
+          "limitations": "BBC报道未给出确切发布时间，published_at为日期近似值。航班取消数据来自FlightAware，非官方统计，且为周六（14日）数据。",
+          "bilingual": {
+            "title_en": "FAA Communications Failure Grounds Flights Nationwide for Over Four Hours; Transportation Secretary Blames Copper Line Upgrade",
+            "sentences": [
+              {
+                "en": "U.S. Transportation Secretary Sean Duffy said at a news conference that the nationwide ground stop that led to thousands of flight cancellations on Friday was caused by a problem that arose during a copper line upgrade.",
+                "zh": "美国交通部长肖恩·达菲在新闻发布会上称，周五导致数千架航班取消的全国停飞由铜线升级期间出现的问题引发。"
+              },
+              {
+                "en": "A router installed by contractor L3Harris while it was replacing old copper lines with fiber optic cables began sending a large volume of connection requests to other air traffic control systems—about 1,000 every four to five seconds—causing instability in voice and ground communications at 17 of 22 air traffic control centers.",
+                "zh": "承包商L3Harris在将陈旧铜线更换为光纤时安装的一个路由器开始向其他空中交通管制系统发送大量连接请求，每四至五秒约1000次，导致22个空中交通管制中心中17个出现语音和地面通信不稳定。"
+              },
+              {
+                "en": "Duffy said the government does not believe it was a cyberattack and that the investigation is ongoing.",
+                "zh": "达菲称政府认为不是网络攻击，调查仍在进行。"
+              },
+              {
+                "en": "Flights in the continental United States were grounded for more than four hours starting at 3:54 p.m. Eastern Time on Friday.",
+                "zh": "美国大陆航班从周五15时54分（美国东部时间）起停飞超过四小时。"
+              },
+              {
+                "en": "As of Saturday, the 14th, more than 3,500 flights had been canceled and more than 2,000 delayed.",
+                "zh": "截至周六（14日），超过3500架航班取消、2000多架延误。"
+              },
+              {
+                "en": "It was the longest nationwide ground stop since the September 11, 2001, attacks.",
+                "zh": "这是自2001年9月11日袭击以来最长的一次全国停飞。"
+              },
+              {
+                "en": "L3Harris said it was cooperating with the FAA investigation and that it had completed more than 70% of the communications infrastructure modernization work before the ground stop.",
+                "zh": "L3Harris表示正在配合FAA调查，称在停飞前已完成超过70%的通信基础设施现代化工作。"
+              },
+              {
+                "en": "Duffy warned that similar problems could occur again unless Congress approves funding to upgrade air traffic control.",
+                "zh": "达菲警告，除非国会批准空中交通管制升级资金，否则类似问题可能再次发生。"
+              },
+              {
+                "en": "Trump has requested $30.1 billion in funding.",
+                "zh": "特朗普已要求拨款301亿美元。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "匈牙利|查获|欧尔班时期部长涉案资金",
+          "title": "匈牙利在欧尔班时期部长涉案调查中查获约1950万美元现金",
+          "summary": "匈牙利国家资产追回和保护办公室称，在调查前欧尔班政府部长米克洛什·塞什塔克时，查获近2000万美元现金。塞什塔克被指控在国家运输公司相关计划中收受贿赂，他否认不当行为。总理彼得·马扎尔称这是“黑手党”的终结。",
+          "published_at": "2026-11-14T12:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "匈牙利NVVH在调查前欧尔班政府部长塞什塔克时查获约1950万美元现金，塞什塔克否认受贿指控，总理马扎尔称这是反腐成果。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "匈牙利国家资产追回和保护办公室（NVVH）称，在调查前总理欧尔班·维克托政府部长米克洛什·塞什塔克时，查获近2000万美元现金。塞什塔克曾在欧尔班16年执政期间担任国家发展部长四年，他被指控在国家运输公司相关计划中收受贿赂。他否认不当行为。",
+              "evidence": [
+                {
+                  "source_id": "s37",
+                  "quote": "Nearly $20m (£14.8m) in cash has been found hidden in farm buildings and buried in forests as part of an investigation into a former minister of Viktor Orbán, authorities have said."
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "Miklós Seszták, who served as minister of national development for four of the ex-prime minister's 16-year rule, is accused of accepting bribes as part of a scheme involving the state transport company. He has denied any wrongdoing."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "NVVH称，调查人员在保险箱、林地、农业和住宅建筑及仓库中发现成捆钞票，金额为50.71632亿福林、265.835万欧元和125.71万美元，合计约1950万美元，已存入匈牙利国库。",
+              "evidence": [
+                {
+                  "source_id": "s37",
+                  "quote": "Investigators found wads of banknotes in safes, buried in woodlands and hidden in agricultural and residential buildings and warehouses, as part of the probe into Seszták, the National Asset Recovery and Protection Office (NVVH) said in a statement."
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "The cash amounted to \"5,071,632,000 forints, €2,658,350 and $1,257,100\", it added, bringing the combined value to $19.5m."
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "It has been deposited into the Hungarian State Treasury, the body said."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "总理彼得·马扎尔在两天搜查后称这是“黑手党”的终结。他在4月大选中以反腐承诺击败欧尔班，NVVH即为调查欧尔班时期腐败指控而设立。",
+              "evidence": [
+                {
+                  "source_id": "s37",
+                  "quote": "On Friday, following the two-day search for the cash - found in secluded locations across the country - Magyar described it as the end of the \"mafia\"."
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "Hungary's new Prime Minister Péter Magyar unseated Orbán in a landslide election in April on the promise of launching a sweeping anti-corruption drive."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "匈牙利",
+            "欧尔班·维克托",
+            "彼得·马扎尔",
+            "米克洛什·塞什塔克",
+            "国家资产追回和保护办公室（NVVH）"
+          ],
+          "limitations": "BBC报道未给出确切发布时间，published_at为日期近似值。案件仍在调查中，塞什塔克否认指控。",
+          "bilingual": {
+            "title_en": "Hungary Seizes About $19.5 Million in Cash in Probe of Minister From Orbán Era",
+            "sentences": [
+              {
+                "en": "Hungary's National Asset Recovery and Protection Office (NVVH) said it seized nearly $20 million in cash while investigating Miklós Seszták, a minister in former Prime Minister Viktor Orbán's government.",
+                "zh": "匈牙利国家资产追回和保护办公室（NVVH）称，在调查前总理欧尔班·维克托政府部长米克洛什·塞什塔克时，查获近2000万美元现金。"
+              },
+              {
+                "en": "Seszták served as minister of national development for four years during Orbán's 16-year rule and is accused of taking bribes in a scheme linked to the state transport company.",
+                "zh": "塞什塔克曾在欧尔班16年执政期间担任国家发展部长四年，他被指控在国家运输公司相关计划中收受贿赂。"
+              },
+              {
+                "en": "He denies wrongdoing.",
+                "zh": "他否认不当行为。"
+              },
+              {
+                "en": "The NVVH said investigators found bundles of banknotes in safes, woodland, agricultural and residential buildings and warehouses, amounting to 5,071,632,000 forints, 2,658,350 euros and $1,257,100 — about $19.5 million in total — and that the money had been deposited in Hungary's state treasury.",
+                "zh": "NVVH称，调查人员在保险箱、林地、农业和住宅建筑及仓库中发现成捆钞票，金额为50.71632亿福林、265.835万欧元和125.71万美元，合计约1950万美元，已存入匈牙利国库。"
+              },
+              {
+                "en": "After a two-day search, Prime Minister Péter Magyar called it the end of the “mafia.”",
+                "zh": "总理彼得·马扎尔在两天搜查后称这是“黑手党”的终结。"
+              },
+              {
+                "en": "He defeated Orbán in the April election on an anti-corruption pledge, and the NVVH was set up to investigate corruption allegations from the Orbán era.",
+                "zh": "他在4月大选中以反腐承诺击败欧尔班，NVVH即为调查欧尔班时期腐败指控而设立。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "乌克兰|指责|SpaceX限制星盾服务",
+          "title": "泽连斯基指责SpaceX对星盾限速，SpaceX否认",
+          "summary": "泽连斯基14日称SpaceX对在乌克兰境内俄控区运行的军用“星盾”卫星终端实施速度限制，最高速度被限制在每小时161公里，影响防空能力。SpaceX否认实施新限制。泽连斯基称限制已实施五天，乌克兰国防部已交涉。",
+          "published_at": "2026-11-15T11:50:31+08:00",
+          "follow_up": true,
+          "new_facts": "泽连斯基称SpaceX对在乌克兰境内俄控区运行的星盾终端限速每小时161公里已五天，影响拦截俄罗斯无人机，乌国防部已交涉，SpaceX否认新限制。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "乌克兰总统泽连斯基14日再次指责美国太空探索技术公司SpaceX，称其对在乌克兰境内俄控区运行的军用级“星盾”卫星终端实施速度限制，最高速度被限制在每小时161公里，削弱了乌克兰的防空能力。SpaceX否认曾实施新的限制措施。",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "乌克兰总统泽连斯基14日再次指责美国太空探索技术公司(SpaceX)，称该公司对其军用级“星盾”卫星终端实施的速度限制，削弱了乌克兰关键的防空能力。"
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "泽连斯基称，过去五天，在乌克兰境内被俄控制区运行的“星盾”卫星终端，其最高速度被限制在每小时161公里，这一限制影响了乌克兰的军事能力。"
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "SpaceX对此予以反驳，否认曾实施新的限制措施。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "泽连斯基称限制已实施五天，乌克兰国防部已与SpaceX交涉。他表示SpaceX称这是技术问题，但乌方不认为如此。他说限速使乌克兰防空部队更难拦截俄罗斯喷气式无人机，也使城市更容易受到攻击。",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "泽连斯基表示，乌克兰国防部已就此事与SpaceX进行交涉。"
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "他们称这是某种技术问题。我们不认为事实如此，”泽连斯基表示。"
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "泽连斯基还表示，速度限制使得乌克兰防空部队更难拦截俄罗斯的喷气式无人机，也使乌克兰城市更容易受到攻击。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "乌克兰",
+            "弗拉基米尔·泽连斯基",
+            "SpaceX",
+            "星盾（Starshield）"
+          ],
+          "limitations": "中新网援引路透社报道，未直接取得泽连斯基办公室或SpaceX原文；SpaceX否认新限制，双方说法不一。限速范围限于乌克兰境内俄控区运行的终端。",
+          "bilingual": {
+            "title_en": "Zelensky Accuses SpaceX of Speed-Limiting Starshield Terminals; SpaceX Denies New Restrictions",
+            "sentences": [
+              {
+                "en": "Ukrainian President Volodymyr Zelensky on the 14th again accused the U.S. space exploration company SpaceX of imposing speed limits on military-grade Starshield satellite terminals operating in Russian-controlled areas of Ukraine, capping their top speed at 161 kilometers per hour and weakening Ukraine's air defense capabilities.",
+                "zh": "乌克兰总统泽连斯基14日再次指责美国太空探索技术公司SpaceX，称其对在乌克兰境内俄控区运行的军用级“星盾”卫星终端实施速度限制，最高速度被限制在每小时161公里，削弱了乌克兰的防空能力。"
+              },
+              {
+                "en": "SpaceX denied that it had imposed any new restrictions.",
+                "zh": "SpaceX否认曾实施新的限制措施。"
+              },
+              {
+                "en": "Zelensky said the restrictions had been in place for five days, and that Ukraine's Defense Ministry had already raised the matter with SpaceX.",
+                "zh": "泽连斯基称限制已实施五天，乌克兰国防部已与SpaceX交涉。"
+              },
+              {
+                "en": "He said SpaceX described it as a technical issue, but Ukraine did not see it that way.",
+                "zh": "他表示SpaceX称这是技术问题，但乌方不认为如此。"
+              },
+              {
+                "en": "He said the speed limits made it harder for Ukrainian air defense forces to intercept Russian jet-powered drones and left cities more vulnerable to attack.",
+                "zh": "他说限速使乌克兰防空部队更难拦截俄罗斯喷气式无人机，也使城市更容易受到攻击。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "以色列|宣称打死|哈马斯高级军事指挥官",
+          "title": "以军称打死哈马斯拉法旅指挥官，哈马斯证实",
+          "summary": "以色列国防军与辛贝特15日联合声明称，以军打死了哈马斯高级军事指挥官萨米尔·阿布·尤尼斯。哈马斯随后证实其在汗尤尼斯空袭中身亡，当时在一辆汽车内。",
+          "published_at": "2026-11-15T11:49:37+08:00",
+          "follow_up": true,
+          "new_facts": "以色列国防军与辛贝特称打死哈马拉法旅指挥官萨米尔·阿布·尤尼斯，哈马斯证实其在汗尤尼斯空袭中身亡。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "以色列国防军与以色列国家安全总局（辛贝特）15日发表联合声明称，以军打死了巴勒斯坦伊斯兰抵抗运动（哈马斯）一名高级军事指挥官。哈马斯随后证实，拉法旅指挥官萨米尔·阿布·尤尼斯在加沙地带南部城市汗尤尼斯遭以色列空袭身亡。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "以色列国防军与以色列国家安全总局(辛贝特)15日在联合声明中称，以军打死了巴勒斯坦伊斯兰抵抗运动(哈马斯)一名高级军事指挥官。"
+                },
+                {
+                  "source_id": "s8",
+                  "quote": "哈马斯随后证实，拉法旅指挥官萨米尔·阿布·尤尼斯在加沙地带南部城市汗尤尼斯在以色列发动的空袭中身亡。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "据中新网综合外媒报道，尤尼斯当时在一辆汽车内。",
+              "evidence": [
+                {
+                  "source_id": "s8",
+                  "quote": "报道称，萨米尔·阿布·尤尼斯当时在一辆汽车内。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "以色列",
+            "以色列国防军",
+            "辛贝特",
+            "哈马斯",
+            "萨米尔·阿布·尤尼斯"
+          ],
+          "limitations": "以军声明为参战方主张，哈马斯已证实死亡；中新网综合外媒报道，未独立核实袭击细节。",
+          "bilingual": {
+            "title_en": "Israeli military says it killed Hamas Rafah Brigade commander; Hamas confirms",
+            "sentences": [
+              {
+                "en": "The Israel Defense Forces and the Israel Security Agency (Shin Bet) said in a joint statement on the 15th that the Israeli military had killed a senior military commander of the Palestinian Islamic Resistance Movement (Hamas).",
+                "zh": "以色列国防军与以色列国家安全总局（辛贝特）15日发表联合声明称，以军打死了巴勒斯坦伊斯兰抵抗运动（哈马斯）一名高级军事指挥官。"
+              },
+              {
+                "en": "Hamas subsequently confirmed that Samir Abu Yunis, commander of the Rafah Brigade, was killed in an Israeli airstrike in the southern Gaza Strip city of Khan Younis.",
+                "zh": "哈马斯随后证实，拉法旅指挥官萨米尔·阿布·尤尼斯在加沙地带南部城市汗尤尼斯遭以色列空袭身亡。"
+              },
+              {
+                "en": "According to a China News Service report citing foreign media, Yunis was in a car at the time.",
+                "zh": "据中新网综合外媒报道，尤尼斯当时在一辆汽车内。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s34",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "published_at": null
+    },
+    {
+      "id": "s21",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "published_at": null
+    },
+    {
+      "id": "s37",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "published_at": null
+    },
+    {
+      "id": "s8",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732298.shtml",
+      "title": "以军宣布：打死哈马斯一高级军事指挥官",
+      "published_at": "2026-11-15T11:49:37+08:00"
+    },
+    {
+      "id": "s22",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "title": "How telecoms upgrade work sparked US flight chaos",
+      "published_at": null
+    },
+    {
+      "id": "s6",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-15/10732299.shtml",
+      "title": "泽连斯基再指责SpaceX 称乌克兰使用“星盾”遭限速",
+      "published_at": "2026-11-15T11:50:31+08:00"
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

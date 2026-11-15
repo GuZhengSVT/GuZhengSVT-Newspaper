@@ -1,0 +1,340 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-15",
+  "title": "2026-11-15 ACGN",
+  "summary": "BLG在《英雄联盟》S16全球总决赛3:1击败Gen.G首夺冠军；《英雄联盟：曙光》公布2027年大型更新；育碧公布《彩虹六号：围攻》Year 11 Season 4，计划12月1日上线；《东北往事》登陆PS5和Xbox，Switch版定于11月26日。",
+  "highlights": [
+    "BLG 3:1 Gen.G，首夺《英雄联盟》S16全球总决赛冠军，Knight获FMVP。",
+    "《英雄联盟：曙光》公布，计划2027年更新客户端、召唤师峡谷与玩法。",
+    "《彩虹六号：围攻》Year 11 Season 4公布，新赛季计划12月1日启动。",
+    "真人互动影视作品《东北往事》登陆PS5和Xbox，Switch版11月26日发售。"
+  ],
+  "window_start": "2026-11-14T12:00:00+08:00",
+  "window_end": "2026-11-15T12:00:00+08:00",
+  "generated_at": "2026-11-15T12:11:48.906438+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Riot Games|公布|League of Legends: New Dawn",
+          "title": "《英雄联盟：曙光》公布，计划2027年进行大规模更新",
+          "summary": "游戏研发团队公布《英雄联盟：曙光》，计划2027年上线，更新客户端、召唤师峡谷地图与玩法。",
+          "published_at": "2026-11-15T06:14:40+08:00",
+          "follow_up": true,
+          "new_facts": "公布2027年大型更新《英雄联盟：曙光》，涵盖客户端、召唤师峡谷和玩法升级。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Riot Games",
+            "League of Legends",
+            "New Dawn"
+          ],
+          "facts": [
+            {
+              "text": "据机核报道，在2026年《英雄联盟》全球总决赛期间，游戏研发团队正式公布《英雄联盟：曙光》，称这是游戏上线以来最大规模的全面更新，预计2027年上线。",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "在2026英雄联盟全球总决赛期间，游戏研发团队正式揭晓了《英雄联盟：曙光》。这是一项涵盖游戏多个层面、上线以来最大规模的全面更新，预计将于2027年正式上线。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "公布内容涵盖现代化客户端、焕新的召唤师峡谷地图与视觉表现、持续演进的玩法，以及让玩家以新方式体验英雄的系统。",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "将带来包括全面现代化升级的游戏客户端、焕然一新的召唤师峡谷地图与视觉表现、持续进化的游戏玩法，以及让玩家以全新方式体验自己喜爱的英雄等一系列精彩内容。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "机核转述公布内容，IGN抓取页缺少正文；未直接取得Riot公告原文，更新细节以官方后续说明为准。",
+          "bilingual": {
+            "title_en": "League of Legends: Dawn Announced, With Major Update Planned for 2027",
+            "sentences": [
+              {
+                "en": "According to Gcores, during the 2026 League of Legends World Championship, the game's development team officially announced League of Legends: Dawn, describing it as the largest comprehensive update since the game's launch and expecting it to go live in 2027.",
+                "zh": "据机核报道，在2026年《英雄联盟》全球总决赛期间，游戏研发团队正式公布《英雄联盟：曙光》，称这是游戏上线以来最大规模的全面更新，预计2027年上线。"
+              },
+              {
+                "en": "The announcement covered a modernized client, a refreshed Summoner's Rift map and visual presentation, continuously evolving gameplay, and a system that lets players experience champions in new ways.",
+                "zh": "公布内容涵盖现代化客户端、焕新的召唤师峡谷地图与视觉表现、持续演进的玩法，以及让玩家以新方式体验英雄的系统。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Ubisoft|公布|Rainbow Six Siege Year 11 Season 4 Operation Vital Signal",
+          "title": "《彩虹六号：围攻》公布Year 11 Season 4，计划12月1日上线",
+          "summary": "4Gamer报道，育碧公布Year 11 Season 4，新赛季12月1日启动；排名队列拆分，地图“银行”等更新。",
+          "published_at": "2026-11-15T11:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "育碧公布Y11S4，新赛季12月1日启动，排名匹配改为两个队列，地图“银行”等更新。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Ubisoft",
+            "Rainbow Six Siege",
+            "Year 11 Season 4: Operation Vital Signal"
+          ],
+          "facts": [
+            {
+              "text": "据4Gamer报道，育碧公布了《彩虹六号：围攻》Year 11 Season 4的更新信息，新赛季计划在12月1日开始。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "「レインボーシックス シージ」Year11 Season4の情報が公開。"
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "新シーズンは12月1日に開始される予定だ。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "排名匹配将拆分为“单人/双人”和“灵活”两个队列，各自设置独立段位；四人小队不能再参加排名匹配，双人组队可能在部分地区和时段被转入灵活队列。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "マッチメイキングが「ソロ / デュオ」「フレックス（ソロ，デュオ，トリオ，フルスクワッド）」の2つのキューに分かれる"
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "各キューには個別のランクが設定され，4人編成のスクワッドではランクマッチをプレイできなくなる。"
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "ソロ / デュオのキューにデュオで参加した場合，地域や時間帯によってはフレックスに移動することがある。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "地图“银行”将加入从后巷通往阳台的楼梯和阳台掩体，削弱相邻房间窗户对阳台的控制；游艇、贫民窟和塔楼也会获得新的美术纹理与玩法元素。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "「銀行」にアップデート が入る。裏路地からバルコニーへと続く階段が配置され，ラペリングを使用せずに進行できる手段が増えた。また，あわせてバルコニーに遮蔽物が配置され，バルコニーに隣接する部屋の窓からバルコニー全体を守ることができなくなった。"
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "「ヨット」「ファベーラ」「タワー」には，新しいアートテクスチャとゲームプレイ要素を追加する改良が行われるそうだ。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "4Gamer基于开发者演示的报道，内容仍在开发中，实装时可能变化；未直接取得育碧中文公告。",
+          "bilingual": {
+            "title_en": "Rainbow Six Siege Announces Year 11 Season 4, Set to Launch December 1",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, Ubisoft has announced update information for Rainbow Six Siege Year 11 Season 4, with the new season planned to begin on December 1.",
+                "zh": "据4Gamer报道，育碧公布了《彩虹六号：围攻》Year 11 Season 4的更新信息，新赛季计划在12月1日开始。"
+              },
+              {
+                "en": "Ranked matchmaking will be split into two queues, “Solo/Duo” and “Flexible,” each with its own separate rank; four-player squads will no longer be able to participate in ranked matchmaking, and duos may be moved to the Flexible queue in some regions and at certain times.",
+                "zh": "排名匹配将拆分为“单人/双人”和“灵活”两个队列，各自设置独立段位；四人小队不能再参加排名匹配，双人组队可能在部分地区和时段被转入灵活队列。"
+              },
+              {
+                "en": "The map Bank will add stairs leading from the back alley to the balcony and balcony cover, weakening the ability of windows in adjacent rooms to control the balcony; Yacht, Favela, and Tower will also receive new art textures and gameplay elements.",
+                "zh": "地图“银行”将加入从后巷通往阳台的楼梯和阳台掩体，削弱相邻房间窗户对阳台的控制；游艇、贫民窟和塔楼也会获得新的美术纹理与玩法元素。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "NiuGamer|发行|东北往事 主机版",
+          "title": "《东北往事》真人互动影视作品登陆PS5与Xbox，Switch版11月26日发售",
+          "summary": "NiuGamer发行、二狗科技开发的《东北往事》登陆PS5和Xbox，Switch版定于11月26日。",
+          "published_at": "2026-11-15T10:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "《东北往事》真人互动影视作品已登陆PS5和Xbox，Switch版计划11月26日发售。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "NiuGamer",
+            "二狗科技",
+            "东北往事",
+            "DONGDA Gangster"
+          ],
+          "facts": [
+            {
+              "text": "据机核报道，由NiuGamer发行、二狗科技开发的真人互动影视作品《东北往事》已正式登陆Xbox与PlayStation 5，Nintendo Switch版计划11月26日发售。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "由 NiuGamer 发行、二狗科技开发的真人互动影视作品《东北往事》（DONGDA Gangster）现已正式登陆 Xbox 与 PlayStation 5 平台，Nintendo Switch 版将于11月26日正式发售。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "作品改编自孔二狗小说《东北往事之黑道风云20年》，由孔二狗执导；故事设定在上世纪80、90年代的中国东北街头，玩家扮演赵红兵，在兄弟义气与地盘争夺中行动。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "本作深度改编自孔二狗所著的国民级畅销小说《东北往事之黑道风云20年》（全系列销量超4000万册）。由原著作者孔二狗亲自执导，确保剧情精髓；由互动影游制作人帝皇今指导制作。"
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "游戏将玩家带回上世纪80、90年代暗流汹涌的中国东北街头，在这个新旧秩序交替的时代，你将扮演主角赵红兵，在兄弟义气、地盘争夺与红颜羁绊的漩涡中，走出独属于你的江湖之路。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "机核报道并附商店页面；未直接核对PlayStation/Xbox商店页或发行商公告。",
+          "bilingual": {
+            "title_en": "Live-Action Interactive 'Northeast Past' Launches on PS5 and Xbox, Switch Version Due November 26",
+            "sentences": [
+              {
+                "en": "According to Gcores, the live-action interactive work 'Northeast Past,' published by NiuGamer and developed by Ergou Technology, has officially launched on Xbox and PlayStation 5, and its Nintendo Switch version is scheduled for release on November 26.",
+                "zh": "据机核报道，由NiuGamer发行、二狗科技开发的真人互动影视作品《东北往事》已正式登陆Xbox与PlayStation 5，Nintendo Switch版计划11月26日发售。"
+              },
+              {
+                "en": "Adapted from Kong Ergou's novel 'Northeast Past: 20 Years of Underworld Storms' and directed by Kong Ergou, the work is set on the streets of Northeast China in the 1980s and 1990s, where players take on the role of Zhao Hongbing and act amid brotherhood and turf disputes.",
+                "zh": "作品改编自孔二狗小说《东北往事之黑道风云20年》，由孔二狗执导；故事设定在上世纪80、90年代的中国东北街头，玩家扮演赵红兵，在兄弟义气与地盘争夺中行动。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "BLG|夺冠|英雄联盟S16全球总决赛",
+          "title": "BLG 3:1击败Gen.G，首夺《英雄联盟》S16全球总决赛冠军",
+          "summary": "BLG 3:1击败Gen.G首夺S16冠军，Knight获FMVP；半决赛淘汰T1，LPL第四次夺得S赛冠军。",
+          "published_at": "2026-11-15T08:02:03+08:00",
+          "follow_up": false,
+          "new_facts": "BLG在S16决赛3:1击败Gen.G，首夺冠军，Knight获FMVP；半决赛3:1淘汰T1。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "BLG",
+            "英雄联盟",
+            "S16全球总决赛"
+          ],
+          "facts": [
+            {
+              "text": "据机核报道，BLG在纽约布鲁克林巴克莱中心以3比1击败韩国LCK赛区的Gen.G，首次夺得《英雄联盟》S16全球总决赛冠军，Knight获FMVP。",
+              "evidence": [
+                {
+                  "source_id": "s24",
+                  "quote": "BLG 于今日在纽约布鲁克林巴克莱中心以3比1击败韩国 LCK 赛区的 Gen.G， 首次夺得《英雄联盟》全球总决赛冠军。同时，FMVP 给到了 Knight 选手。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "半决赛中，BLG以3:1淘汰卫冕冠军T1；这是T1首次在全球总决赛五局三胜淘汰赛中输给LPL队伍，其三连冠纪录随之终结。",
+              "evidence": [
+                {
+                  "source_id": "s24",
+                  "quote": "在此前的半决赛中，BLG 以3:1击败卫冕冠军T1，这也是 T1 首次在全球总决赛五局三胜淘汰赛中输给 LPL 队伍，T1 连续三年夺冠的纪录随之终结。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "这也是LPL赛区自2021年EDward Gaming夺冠后的首座全球总决赛冠军，LPL赛区第四次夺得S赛冠军。",
+              "evidence": [
+                {
+                  "source_id": "s24",
+                  "quote": "这是 LPL 赛区自2021年 EDward Gaming 夺冠后的首座全球总决赛冠军，也是 LPL 赛区历史的第四次S赛夺冠。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "赛果来自机核单篇报道，未直接取得赛事官方页面或第二家独立媒体确认。",
+          "bilingual": {
+            "title_en": "BLG Beat Gen.G 3–1 to Claim First League of Legends S16 World Championship",
+            "sentences": [
+              {
+                "en": "According to Gcores, BLG defeated Gen.G of South Korea's LCK 3–1 at Barclays Center in Brooklyn, New York, to win the League of Legends S16 World Championship for the first time, with Knight named Finals MVP.",
+                "zh": "据机核报道，BLG在纽约布鲁克林巴克莱中心以3比1击败韩国LCK赛区的Gen.G，首次夺得《英雄联盟》S16全球总决赛冠军，Knight获FMVP。"
+              },
+              {
+                "en": "In the semifinals, BLG eliminated defending champion T1 3–1; this was the first time T1 had lost to an LPL team in a best-of-five knockout match at the World Championship, ending its three-peat record.",
+                "zh": "半决赛中，BLG以3:1淘汰卫冕冠军T1；这是T1首次在全球总决赛五局三胜淘汰赛中输给LPL队伍，其三连冠纪录随之终结。"
+              },
+              {
+                "en": "This was also the LPL's first World Championship title since EDward Gaming won in 2021, and the LPL's fourth S-series championship.",
+                "zh": "这也是LPL赛区自2021年EDward Gaming夺冠后的首座全球总决赛冠军，LPL赛区第四次夺得S赛冠军。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s24",
+      "url": "https://www.gcores.com/articles/222372",
+      "title": "BLG斩获《英雄联盟》S16全球总决赛冠军",
+      "published_at": "2026-11-15T08:02:03+08:00"
+    },
+    {
+      "id": "s5",
+      "url": "https://www.4gamer.net/games/902/G090227/20261115001/",
+      "title": "「レインボーシックス シージ」Year11 Season4の情報が公開。Docのリマスターやランクマッチのマッチメイキング改修などを予定。貴重なスキンを獲得できるチャンスも",
+      "published_at": "2026-11-15T12:00:00+09:00"
+    },
+    {
+      "id": "s23",
+      "url": "https://www.gcores.com/articles/222316",
+      "title": "【会员抽奖】原作者执导，原版演员回归！游戏版《东北往事》登陆主机平台",
+      "published_at": "2026-11-15T10:00:00+08:00"
+    },
+    {
+      "id": "s25",
+      "url": "https://www.gcores.com/articles/222374",
+      "title": "《英雄联盟：曙光》正式宣布",
+      "published_at": "2026-11-15T06:14:40+08:00"
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
