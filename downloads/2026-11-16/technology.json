@@ -1,0 +1,226 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-16",
+  "title": "2026-11-16 科技",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "Apple启动健康AI使用研究，计划招募20万美国用户",
+    "ULA Vulcan发射异常，40颗Amazon Leo卫星未入轨"
+  ],
+  "window_start": "2026-11-15T12:00:00+08:00",
+  "window_end": "2026-11-16T12:00:00+08:00",
+  "generated_at": "2026-11-16T12:05:18.792263+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Apple|启动|健康 AI 使用研究",
+          "title": "Apple启动健康AI使用研究，计划招募20万美国用户",
+          "summary": "Apple宣布启动Apple Health AI Usage Study，与OpenEvidence合作，在美国招募最多20万名21岁以上参与者，评估用户对对话式健康AI的信任、理解、回答质量和日常健康行动；研究数据不会用于训练AI模型。",
+          "published_at": "2026-11-16T09:18:33+08:00",
+          "follow_up": true,
+          "new_facts": "Apple启动Apple Health AI Usage Study，与OpenEvidence合作，在美招募最多20万人；参与者需iPhone 15 Pro或更新机型、iOS 26或更新；研究数据不用于训练AI模型。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Apple",
+            "OpenEvidence",
+            "Apple Health AI Usage Study"
+          ],
+          "limitations": "研究尚在招募阶段，结果未公布。",
+          "facts": [
+            {
+              "text": "Apple宣布启动Apple Health AI Usage Study，与临床AI平台OpenEvidence合作，在美国招募最多20万名21岁以上参与者；研究通过配套App评估用户对对话式健康AI的信任、理解、回答质量及日常健康行动。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s37",
+                  "quote": "The Apple Health AI Usage Study, conducted in collaboration with OpenEvidence, will evaluate trust, comprehension, and real-world health AI engagement"
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "Apple today announced the launch of the Apple Health AI Usage Study in the United States, a virtual research study and associated app designed to advance the understanding of how people interact with conversational health AI tools."
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "The Apple Health AI Usage Study is open to up to 200,000 eligible participants age 21 and older across the United States."
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "By examining what drives user trust, the quality of responses, comprehension, and everyday health actions, the study aims to inform the responsible design of health AI experiences for Apple and the industry."
+                }
+              ]
+            },
+            {
+              "text": "参与者需使用支持Apple Intelligence的iPhone 15 Pro或更新机型、运行iOS 26或更新系统，可自愿分享静息心率、活动、睡眠或化验结果等HealthKit数据；Apple称研究数据不会用于训练AI模型。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s37",
+                  "quote": "To join, participants must have an Apple Intelligence-enabled iPhone (iPhone 15 Pro or later) running iOS 26 or later."
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "Participants can also choose to share HealthKit data types — such as resting heart rate, activity, sleep, or lab results — to explore how personal data integration impacts relevance and understanding."
+                },
+                {
+                  "source_id": "s37",
+                  "quote": "and study data will not be used to train AI models."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Apple Launches Health AI Usage Study, Plans to Enroll 200,000 U.S. Users",
+            "sentences": [
+              {
+                "en": "Apple announced the launch of the Apple Health AI Usage Study, in collaboration with clinical AI platform OpenEvidence, recruiting up to 200,000 participants aged 21 and older in the United States; through a companion app, the study will assess users' trust in and understanding of conversational health AI, the quality of its responses, and their daily health actions.",
+                "zh": "Apple宣布启动Apple Health AI Usage Study，与临床AI平台OpenEvidence合作，在美国招募最多20万名21岁以上参与者；研究通过配套App评估用户对对话式健康AI的信任、理解、回答质量及日常健康行动。"
+              },
+              {
+                "en": "Participants must use an Apple Intelligence-capable iPhone 15 Pro or newer model running iOS 26 or later and may voluntarily share HealthKit data such as resting heart rate, activity, sleep, or lab results; Apple says study data will not be used to train AI models.",
+                "zh": "参与者需使用支持Apple Intelligence的iPhone 15 Pro或更新机型、运行iOS 26或更新系统，可自愿分享静息心率、活动、睡眠或化验结果等HealthKit数据；Apple称研究数据不会用于训练AI模型。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "United Launch Alliance|Vulcan 发射失败|Amazon Leo 卫星",
+          "title": "ULA Vulcan发射异常，40颗Amazon Leo卫星未入轨",
+          "summary": "ULA Vulcan发射约10分钟后异常，未能把40颗Amazon Leo卫星送入轨道；ULA称原因不明，Amazon表示仍信任ULA。",
+          "published_at": "2026-11-16T05:05:02+08:00",
+          "follow_up": true,
+          "new_facts": "ULA Vulcan从SLC-41发射约10分钟后异常，未能将40颗Amazon Leo卫星送入轨道；ULA称原因不明并承诺调查透明；Amazon表示仍信任ULA。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "United Launch Alliance",
+            "Vulcan",
+            "Amazon Leo"
+          ],
+          "limitations": "ULA和Amazon表态经The Verge转述，未直接取得官方原文；“20年首次失败”为报道说法。",
+          "facts": [
+            {
+              "text": "联合发射联盟（ULA）的Vulcan火箭从佛罗里达州SLC-41发射，搭载40颗Amazon Leo宽带卫星，发射约10分钟后出现异常，未能将任务送入轨道。ULA在社交平台声明中确认了这次异常。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s48",
+                  "quote": "we confirm that the Vulcan vehicle launched from Space Launch Complex 41 suffered an anomaly 10 minutes into the flight and failed to deliver the Amazon mission to orbit."
+                },
+                {
+                  "source_id": "s48",
+                  "quote": "failing to deliver 40 Amazon Leo satellites to orbit."
+                }
+              ]
+            },
+            {
+              "text": "The Verge称，这次发射原计划是Amazon向ULA购买的38次飞行中的第一次，也是ULA成立20年来首次任务失败。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s48",
+                  "quote": "Today’s launch was supposed to be the first of 38 flights Amazon purchased from ULA."
+                },
+                {
+                  "source_id": "s48",
+                  "quote": "reportedly its first mission failure in its 20-year history"
+                }
+              ]
+            },
+            {
+              "text": "ULA表示目前尚不清楚失败原因，承诺在调查中保持透明；Amazon表示任何发射都有风险，仍相信ULA能从这次任务中学习并执行Vulcan的长期计划。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s48",
+                  "quote": "The company said it was currently unclear what caused the failure, but pledged transparency as it continues its investigation."
+                },
+                {
+                  "source_id": "s48",
+                  "quote": "There is risk with any launch, and that’s especially true for inaugural missions like LV-01. ULA has been a trusted partner for Amazon, and we believe they’ll learn from this mission and deliver on their long-term plans for Vulcan."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "ULA Vulcan Launch Anomaly Leaves 40 Amazon Leo Satellites Out of Orbit",
+            "sentences": [
+              {
+                "en": "United Launch Alliance's (ULA) Vulcan rocket launched from SLC-41 in Florida carrying 40 Amazon Leo broadband satellites, and an anomaly occurred about 10 minutes after launch, preventing the mission from reaching orbit.",
+                "zh": "联合发射联盟（ULA）的Vulcan火箭从佛罗里达州SLC-41发射，搭载40颗Amazon Leo宽带卫星，发射约10分钟后出现异常，未能将任务送入轨道。"
+              },
+              {
+                "en": "ULA confirmed the anomaly in a statement on social media.",
+                "zh": "ULA在社交平台声明中确认了这次异常。"
+              },
+              {
+                "en": "The Verge reported that the launch was originally planned as the first of 38 flights Amazon had purchased from ULA and that it was ULA's first mission failure in its 20-year history.",
+                "zh": "The Verge称，这次发射原计划是Amazon向ULA购买的38次飞行中的第一次，也是ULA成立20年来首次任务失败。"
+              },
+              {
+                "en": "ULA said the cause of the failure is not yet clear and promised to be transparent in the investigation; Amazon said any launch carries risk and that it still believes ULA can learn from this mission and execute Vulcan's long-term plan.",
+                "zh": "ULA表示目前尚不清楚失败原因，承诺在调查中保持透明；Amazon表示任何发射都有风险，仍相信ULA能从这次任务中学习并执行Vulcan的长期计划。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s48",
+      "url": "https://www.theverge.com/science/1034006/vulcan-rocket-fails-destroying-40-amazon-leo-satellites",
+      "title": "Vulcan rocket fails, destroying 40 Amazon Leo satellites",
+      "published_at": "2026-11-15T21:05:02+00:00"
+    },
+    {
+      "id": "s37",
+      "url": "https://www.apple.com/newsroom/2026/11/apple-launches-research-study-to-explore-the-use-of-ai-for-health/",
+      "title": "Apple launches research study to explore the use of AI for health\n",
+      "published_at": "2026-11-16T01:18:33.934000+00:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}

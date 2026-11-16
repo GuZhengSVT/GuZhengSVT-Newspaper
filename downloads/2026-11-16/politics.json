@@ -1,0 +1,524 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-16",
+  "title": "2026-11-16 政治",
+  "summary": "本期收录6条通过核验的新闻。",
+  "highlights": [
+    "中共中央印发修订后的《中国共产党地方委员会工作条例》",
+    "中国－东盟自贸区3.0版升级议定书将于12月1日生效",
+    "爱沙尼亚将于12月1日关闭对俄全部边境口岸",
+    "伊朗对美军驻巴林基地发动无人机袭击",
+    "澳加意英外长联合呼吁以色列放行加沙援助"
+  ],
+  "window_start": "2026-11-15T12:00:00+08:00",
+  "window_end": "2026-11-16T12:00:00+08:00",
+  "generated_at": "2026-11-16T12:20:08.049354+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中共中央|印发|《中国共产党地方委员会工作条例》修订版",
+          "title": "中共中央印发修订后的《中国共产党地方委员会工作条例》",
+          "summary": "新华社11月15日报道，中共中央印发修订后的地方委员会工作条例并发出通知，条例对地方党委职责、常委会名额和议事决策程序作出规定。",
+          "published_at": "2026-11-15T16:56:55+08:00",
+          "follow_up": false,
+          "new_facts": "中共中央印发修订后的《中国共产党地方委员会工作条例》，条例经2026年3月27日中央政治局会议修订、11月7日发布，明确常委会名额、书记副书记职数及全会与常委会会议频次等要求。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "中共中央（CPC Central Committee）",
+            "《中国共产党地方委员会工作条例》（Regulations on the Work of Local Committees of the CPC）"
+          ],
+          "limitations": "内容依据新华社通稿及转载全文，未另获取中共中央通知原件；条例条文之外的实施细则未见披露。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "新华社11月15日报道，中共中央近日印发修订后的《中国共产党地方委员会工作条例》并发出通知，要求各地区各部门遵照执行。条例注明经2026年3月27日中共中央政治局会议修订，2026年11月7日由中共中央发布。",
+              "evidence": [
+                {
+                  "source_id": "s103",
+                  "quote": "近日，中共中央印发了修订后的《中国共产党地方委员会工作条例》（以下简称《条例》），并发出通知，要求各地区各部门认真遵照执行。"
+                },
+                {
+                  "source_id": "s103",
+                  "quote": "（2015年12月14日中共中央政治局会议审议批准 2015年12月25日中共中央发布 2026年3月27日中共中央政治局会议修订 2026年11月7日中共中央发布）"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "条例规定，地方党委在本地区发挥总揽全局、协调各方的作用，履行把方向、管大局、作决策、保落实职责；常委会委员名额省级为11至13人，市、县两级为9至11人，设书记1名、副书记2名。",
+              "evidence": [
+                {
+                  "source_id": "s103",
+                  "quote": "党的地方委员会在本地区发挥总揽全局、协调各方的领导作用，履行把方向、管大局、作决策、保落实职责"
+                },
+                {
+                  "source_id": "s103",
+                  "quote": "常委会委员名额，省级为11至13人，市、县两级为9至11人"
+                },
+                {
+                  "source_id": "s103",
+                  "quote": "党的地方委员会设书记1名、副书记2名"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "在议事规则上，条例要求全会每年至少召开2次，常委会会议一般每月召开2次；党委书记不得凌驾于组织之上、班子之上，不得搞“一言堂”“家长制”，并应在常委会会议上执行末位表态制。",
+              "evidence": [
+                {
+                  "source_id": "s103",
+                  "quote": "全会每年至少召开2次"
+                },
+                {
+                  "source_id": "s103",
+                  "quote": "常委会会议一般每月召开2次"
+                },
+                {
+                  "source_id": "s103",
+                  "quote": "不得凌驾于组织之上、班子之上，不得搞“一言堂”、“家长制”"
+                },
+                {
+                  "source_id": "s103",
+                  "quote": "书记应当执行末位表态制"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "CPC Central Committee Issues Revised Regulations on Work of Local Party Committees",
+            "sentences": [
+              {
+                "en": "Xinhua reported on November 15 that the CPC Central Committee recently issued the revised Regulations on the Work of Local Committees of the Communist Party of China and a notice requiring all regions and departments to comply.",
+                "zh": "新华社11月15日报道，中共中央近日印发修订后的《中国共产党地方委员会工作条例》并发出通知，要求各地区各部门遵照执行。"
+              },
+              {
+                "en": "The regulations note that they were revised at a meeting of the Political Bureau of the CPC Central Committee on March 27, 2026, and issued by the CPC Central Committee on November 7, 2026.",
+                "zh": "条例注明经2026年3月27日中共中央政治局会议修订，2026年11月7日由中共中央发布。"
+              },
+              {
+                "en": "The regulations stipulate that local Party committees shall play a role in taking overall charge and coordinating all parties in their regions and shall perform the duties of setting direction, managing the overall situation, making decisions, and ensuring implementation; the number of members of standing committees shall be 11 to 13 at the provincial level and 9 to 11 at the municipal and county levels, with one secretary and two deputy secretaries.",
+                "zh": "条例规定，地方党委在本地区发挥总揽全局、协调各方的作用，履行把方向、管大局、作决策、保落实职责；常委会委员名额省级为11至13人，市、县两级为9至11人，设书记1名、副书记2名。"
+              },
+              {
+                "en": "On rules of procedure, the regulations require that the plenary session be held at least twice a year and that Standing Committee meetings generally be held twice a month; Party committee secretaries must not place themselves above the organization or the leadership team, must not engage in \"one-person decision-making\" or \"patriarchal rule,\" and should follow the practice of speaking last at Standing Committee meetings.",
+                "zh": "在议事规则上，条例要求全会每年至少召开2次，常委会会议一般每月召开2次；党委书记不得凌驾于组织之上、班子之上，不得搞“一言堂”“家长制”，并应在常委会会议上执行末位表态制。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "中国与东盟|宣布|中国－东盟自贸区3.0版升级议定书生效",
+          "title": "中国－东盟自贸区3.0版升级议定书将于12月1日生效",
+          "summary": "新华社11月16日快讯称，中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。",
+          "published_at": "2026-11-16T11:53:44+08:00",
+          "follow_up": false,
+          "new_facts": "中国－东盟自贸区3.0版升级议定书的生效日期公布为2026年12月1日。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "中国（China）",
+            "东盟（ASEAN）",
+            "中国－东盟自贸区3.0版升级议定书（ACFTA 3.0 Upgrade Protocol）"
+          ],
+          "limitations": "仅有新华社一句话快讯，未取得议定书文本、签署与批准程序及关税减让安排等细节，亦未直接核对官方发布原文。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "新华社11月16日播发快讯称，中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。该日期为公布的计划生效时间，快讯未涉及签署、批准程序及具体开放安排。",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "新华社快讯：中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "China-ASEAN FTA 3.0 Upgrade Protocol to Take Effect on December 1",
+            "sentences": [
+              {
+                "en": "Xinhua News Agency said in a news flash on November 16 that the Protocol on the Upgrade of the China-ASEAN Free Trade Area 3.0 will take effect on December 1, 2026.",
+                "zh": "新华社11月16日播发快讯称，中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效。"
+              },
+              {
+                "en": "The date is the announced planned time of entry into force, and the news flash did not address the signing or ratification procedures or specific opening arrangements.",
+                "zh": "该日期为公布的计划生效时间，快讯未涉及签署、批准程序及具体开放安排。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "爱沙尼亚|关闭|对俄罗斯全部边境口岸",
+          "title": "爱沙尼亚将于12月1日关闭对俄全部边境口岸",
+          "summary": "爱沙尼亚宣布自12月1日起关闭与俄罗斯的全部边境口岸，此前无人机厂商遭未遂纵火袭击，爱方称嫌疑受俄军事情报部门指使。",
+          "published_at": "2026-11-16T06:17:09+08:00",
+          "follow_up": false,
+          "new_facts": "爱沙尼亚宣布12月1日起关闭对俄全部边境口岸，并把无人机厂商Threod Systems遭未遂纵火案归因于俄军事情报总局指使。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "爱沙尼亚（Estonia）",
+            "俄罗斯（Russia）",
+            "Threod Systems"
+          ],
+          "limitations": "细节依据BBC报道，另仅取得《卫报》标题；俄方未作回应，关于俄情报部门指使的说法为爱沙尼亚方面主张。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据BBC报道，爱沙尼亚宣布自12月1日起关闭与俄罗斯的全部边境口岸。此前无人机厂商Threod Systems遭未遂纵火袭击，8人被拘留，爱沙尼亚方面称他们受俄罗斯军事情报总局（GRU）指使，俄方未作评论。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Estonia has announced it will shut its border crossing points with Russia from 1 December following a suspected sabotage attack on a defence company."
+                },
+                {
+                  "source_id": "s38",
+                  "quote": "Estonia to close all border crossings with Russia after attack on drone maker"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "Eight people were detained over an attempted arson attack on drone maker Threod Systems."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "爱沙尼亚外长查赫克纳表示，俄罗斯必须明白针对爱沙尼亚的敌对行动会有后果。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "Russia must understand that hostile actions against Estonia come with consequences"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Estonia to Close All Border Crossings With Russia on December 1",
+            "sentences": [
+              {
+                "en": "According to the BBC, Estonia announced that it will close all its border crossings with Russia starting December 1.",
+                "zh": "据BBC报道，爱沙尼亚宣布自12月1日起关闭与俄罗斯的全部边境口岸。"
+              },
+              {
+                "en": "Earlier, drone manufacturer Threod Systems suffered an attempted arson attack and eight people were detained; Estonia said they were acting on the instructions of Russia's Main Intelligence Directorate (GRU), while Russia has not commented.",
+                "zh": "此前无人机厂商Threod Systems遭未遂纵火袭击，8人被拘留，爱沙尼亚方面称他们受俄罗斯军事情报总局（GRU）指使，俄方未作评论。"
+              },
+              {
+                "en": "Estonian Foreign Minister Tsahkna said that Russia must understand that hostile actions against Estonia will have consequences.",
+                "zh": "爱沙尼亚外长查赫克纳表示，俄罗斯必须明白针对爱沙尼亚的敌对行动会有后果。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "伊朗|袭击|美军驻巴林基地",
+          "title": "伊朗对美军驻巴林基地发动无人机袭击",
+          "summary": "《卫报》报道，伊朗对美军驻巴林基地发动无人机袭击，沙特、卡塔尔、约旦、埃及予以谴责。",
+          "published_at": "2026-11-16T02:03:56+08:00",
+          "follow_up": false,
+          "new_facts": "伊朗对美军驻巴林基地发动无人机袭击，沙特、卡塔尔、约旦和埃及发表谴责。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "伊朗（Iran）",
+            "美国（United States）",
+            "巴林（Bahrain）",
+            "美军驻巴林基地（US military base in Bahrain）",
+            "沙特阿拉伯（Saudi Arabia）",
+            "卡塔尔（Qatar）",
+            "约旦（Jordan）",
+            "埃及（Egypt）"
+          ],
+          "limitations": "两篇《卫报》报道仅取得标题与页面导航，缺少袭击时间、目标、损毁、伤亡及美方和巴林官方回应的可核实内容；同一媒体来源，未获独立互证。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据《卫报》11月15日报道，伊朗对美军驻巴林的一处基地发动无人机袭击，沙特阿拉伯、卡塔尔、约旦和埃及谴责了这起袭击。",
+              "evidence": [
+                {
+                  "source_id": "s61",
+                  "quote": "Iran launches drone attacks against US military base in Bahrain"
+                },
+                {
+                  "source_id": "s62",
+                  "quote": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Iran Launches Drone Attack on US Base in Bahrain",
+            "sentences": [
+              {
+                "en": "Iran launched a drone attack on a US military base in Bahrain, according to a report by The Guardian on November 15, with Saudi Arabia, Qatar, Jordan and Egypt condemning the attack.",
+                "zh": "据《卫报》11月15日报道，伊朗对美军驻巴林的一处基地发动无人机袭击，沙特阿拉伯、卡塔尔、约旦和埃及谴责了这起袭击。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "澳大利亚、加拿大、意大利、英国外长|发表|加沙联合声明",
+          "title": "澳加意英外长联合呼吁以色列放行加沙援助",
+          "summary": "澳、加、意、英四国外长11月15日发表联合声明，称加沙人道局势严峻，15万顶帐篷滞留边境，要求以色列立即停止拖延、开放过境点。",
+          "published_at": "2026-11-16T03:03:00+08:00",
+          "follow_up": false,
+          "new_facts": "澳大利亚、加拿大、意大利、英国外长发表加沙联合声明，要求以色列放行滞留边境的15万顶帐篷及物资，并呼吁各方落实加沙综合方案、遵守停火。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "澳大利亚（Australia）",
+            "加拿大（Canada）",
+            "意大利（Italy）",
+            "英国（United Kingdom）",
+            "加沙（Gaza）",
+            "以色列（Israel）"
+          ],
+          "limitations": "声明内容为四国外长的立场与主张，帐篷滞留数量等为其陈述，未获独立核实；以色列方面回应未见于所获材料。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "英国政府网站11月15日发布澳大利亚、加拿大、意大利和英国外长的联合声明，称随着冬季到来，加沙人道局势严峻，近日洪水带来更多苦难，当地民众急需住所和人道援助。",
+              "evidence": [
+                {
+                  "source_id": "s32",
+                  "quote": "We, the Foreign Ministers of Australia, Canada, Italy and the United Kingdom, are clear that as winter takes hold in Gaza, the humanitarian situation on the ground is dire."
+                },
+                {
+                  "source_id": "s32",
+                  "quote": "The recent floods have brought further suffering"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "声明称，15万顶帐篷及其他重要物资滞留在边境，被阻止进入加沙。四国外长敦促以色列政府立即停止拖延，开放过境点，允许人道物资立即、快速、无阻通行，并放行人道行动和早期恢复所需的两用物资。",
+              "evidence": [
+                {
+                  "source_id": "s32",
+                  "quote": "Yet 150,000 tents and other vital supplies are being held at the border and prevented from entering Gaza."
+                },
+                {
+                  "source_id": "s32",
+                  "quote": "we today urge the Government of Israel to stop the delays now and allow immediate, rapid and unimpeded humanitarian access throughout Gaza. The crossings must be opened, and the tents allowed in."
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "official_statement",
+              "text": "声明还呼吁各方落实加沙综合方案，遵守停火，并履行国际人道法义务。",
+              "evidence": [
+                {
+                  "source_id": "s32",
+                  "quote": "And all parties must implement the Comprehensive Plan for Gaza, respecting the ceasefire and their obligations under international humanitarian law"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Australia, Canada, Italy and UK foreign ministers jointly call on Israel to allow Gaza aid through",
+            "sentences": [
+              {
+                "en": "The UK government website published a joint statement on November 15 by the foreign ministers of Australia, Canada, Italy and the United Kingdom, saying that with winter approaching, the humanitarian situation in Gaza is severe, recent floods have brought further suffering, and people there urgently need shelter and humanitarian aid.",
+                "zh": "英国政府网站11月15日发布澳大利亚、加拿大、意大利和英国外长的联合声明，称随着冬季到来，加沙人道局势严峻，近日洪水带来更多苦难，当地民众急需住所和人道援助。"
+              },
+              {
+                "en": "The statement said that 150,000 tents and other important supplies were stranded at the border and blocked from entering Gaza.",
+                "zh": "声明称，15万顶帐篷及其他重要物资滞留在边境，被阻止进入加沙。"
+              },
+              {
+                "en": "The four foreign ministers urged the Israeli government to immediately stop delaying, open crossing points, allow humanitarian supplies to pass immediately, rapidly and without obstruction, and allow through dual-use materials needed for humanitarian operations and early recovery.",
+                "zh": "四国外长敦促以色列政府立即停止拖延，开放过境点，允许人道物资立即、快速、无阻通行，并放行人道行动和早期恢复所需的两用物资。"
+              },
+              {
+                "en": "The statement also called on all parties to implement the comprehensive plan for Gaza, observe the ceasefire, and fulfill their obligations under international humanitarian law.",
+                "zh": "声明还呼吁各方落实加沙综合方案，遵守停火，并履行国际人道法义务。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中国|确认|习近平-特朗普-普京APEC三方峰会",
+          "title": "中国确认习近平、特朗普、普京三方峰会将于周四举行",
+          "summary": "亚洲新闻台报道，中国确认首次习近平、特朗普、普京三方峰会将于周四举行；澳大利亚总理阿尔巴尼斯表示欢迎，部分欧洲领导人持保留态度。",
+          "published_at": "2026-11-16T09:32:00+08:00",
+          "follow_up": false,
+          "new_facts": "中国确认首次习近平、特朗普、普京三方峰会将于周四举行；阿尔巴尼斯表示欢迎，一些欧洲领导人表达保留意见。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "中国（China）",
+            "习近平（Xi Jinping）",
+            "唐纳德·特朗普（Donald Trump）",
+            "弗拉基米尔·普京（Vladimir Putin）",
+            "亚太经合组织（APEC）",
+            "安东尼·阿尔巴尼斯（Anthony Albanese）"
+          ],
+          "limitations": "两篇报道均只取得标题与页面导航，未获得会晤地点、议程与中方发布会原文；会期以报道所述“周四”表述，未换算为具体日期；欧洲领导人的保留意见内容不详。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "亚洲新闻台11月16日报道称，中国确认首次习近平、特朗普与普京三方峰会将于本周四举行。",
+              "evidence": [
+                {
+                  "source_id": "s87",
+                  "quote": "China confirms first Xi-Trump-Putin summit on Thursday"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据《卫报》11月15日报道，澳大利亚总理阿尔巴尼斯对这场三方峰会表示欢迎，同时一些欧洲领导人表达了保留意见。",
+              "evidence": [
+                {
+                  "source_id": "s47",
+                  "quote": "Anthony Albanese welcomes Trump-Xi-Putin summit"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "China confirms Xi, Trump and Putin trilateral summit for Thursday",
+            "sentences": [
+              {
+                "en": "Channel NewsAsia reported on November 16 that China confirmed the first trilateral summit among Xi Jinping, Donald Trump and Vladimir Putin would be held this Thursday.",
+                "zh": "亚洲新闻台11月16日报道称，中国确认首次习近平、特朗普与普京三方峰会将于本周四举行。"
+              },
+              {
+                "en": "The Guardian reported on November 15 that Australian Prime Minister Anthony Albanese welcomed the trilateral summit, while some European leaders expressed reservations.",
+                "zh": "据《卫报》11月15日报道，澳大利亚总理阿尔巴尼斯对这场三方峰会表示欢迎，同时一些欧洲领导人表达了保留意见。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s103",
+      "url": "https://news.cn/politics/20261115/aac5a93da4fe438a99ce4bcd477d2e38/c.html",
+      "title": "中共中央印发《中国共产党地方委员会工作条例》-新华网",
+      "published_at": null
+    },
+    {
+      "id": "s87",
+      "url": "https://www.channelnewsasia.com/asia/donald-trump-xi-jinping-vladimir-putin-china-meeting-6553826",
+      "title": "China confirms first Xi-Trump-Putin summit on Thursday",
+      "published_at": "2026-11-16T09:32:00+08:00"
+    },
+    {
+      "id": "s61",
+      "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+      "title": "Iran launches drone attacks against US military base in Bahrain",
+      "published_at": "2026-11-15T18:03:56+00:00"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.chinanews.com.cn/cj/2026/11-16/10732698.shtml",
+      "title": "中国－东盟自贸区3.0版升级议定书将于2026年12月1日生效",
+      "published_at": "2026-11-16T11:53:44+08:00"
+    },
+    {
+      "id": "s20",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "published_at": null
+    },
+    {
+      "id": "s38",
+      "url": "https://www.theguardian.com/world/2026/nov/15/estonia-to-close-all-border-crossings-with-russia-after-attack-on-drone-maker",
+      "title": "Estonia to close all border crossings with Russia after attack on drone maker",
+      "published_at": "2026-11-15T22:17:09+00:00"
+    },
+    {
+      "id": "s32",
+      "url": "https://www.gov.uk/government/news/joint-foreign-ministers-statement-on-gaza--2",
+      "title": "Joint Foreign Ministers Statement on Gaza",
+      "published_at": "2026-11-15T19:03:00+00:00"
+    },
+    {
+      "id": "s47",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/15/anthony-albanese-welcomes-trump-xi-putin-summit-even-as-european-leaders-express-reservations",
+      "title": "Anthony Albanese welcomes Trump-Xi-Putin summit – even as European leaders express reservations",
+      "published_at": "2026-11-15T06:22:32+00:00"
+    },
+    {
+      "id": "s62",
+      "url": "https://www.theguardian.com/world/live/2026/nov/15/middle-east-crisis-live-iran-bahrain-strikes-gulf-donald-trump-us-israel-yemen-houthis",
+      "title": "Saudi Arabia, Qatar, Jordan, Egypt condemn Iranian attack on Bahrain - as it happened",
+      "published_at": "2026-11-15T15:59:04+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}

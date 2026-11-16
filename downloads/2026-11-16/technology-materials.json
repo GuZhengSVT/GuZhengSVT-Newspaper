@@ -1,0 +1,131 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-16",
+  "title": "2026-11-16 科技 · 材料",
+  "summary": "本期材料板块收录国轩高科披露全固态电池进展：公司称全固态中试线稳定运行、下线电芯良品率可达90%，2GWh全固态量产线工作已启动，并称按2027年小批量生产及装车测试计划推进。中国化工信息周刊网转载储能前沿的报道援引项目负责人称中试线电芯已批量下线。相关数据来自公司披露及转载报道，量产线尚处工作启动阶段。",
+  "highlights": [
+    "国轩高科称全固态中试线稳定运行、下线电芯良品率可达90%，2GWh全固态量产线工作已启动。"
+  ],
+  "window_start": "2026-11-09T12:00:00+08:00",
+  "window_end": "2026-11-16T12:00:00+08:00",
+  "generated_at": "2026-11-16T12:12:20.062206+08:00",
+  "edition": "technology-materials",
+  "sections": [
+    {
+      "id": "materials",
+      "name": "材料",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "国轩高科|全固态电池中试线批量下线并启动2GWh量产线|全固态电池",
+          "title": "国轩高科称全固态中试线良品率可达90%，2GWh量产线工作已启动",
+          "summary": "国轩高科在互动平台称全固态中试线稳定运行、下线电芯良品率可达90%，并已启动2GWh全固态量产线工作；公司按2027年小批量生产及装车测试计划推进。中国化工信息周刊网11月11日转载储能前沿的报道援引项目负责人称中试线电芯已批量下线。相关数据来自公司披露及转载报道，量产线尚处工作启动阶段。",
+          "published_at": "2026-11-12T15:08:13+08:00",
+          "follow_up": false,
+          "new_facts": "国轩高科披露全固态中试线稳定运行、良品率可达90%，2GWh全固态量产线工作启动；2027年小批量生产及装车测试计划；中国化工信息周刊网转载储能前沿报道援引项目负责人称中试线电芯已批量下线，硫化锂产能规划2026年300吨/年、2027年2万吨/年、2030年5万吨/年。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据IT之家11月12日报道，国轩高科当日在互动平台称，全固态中试线稳定运行，下线电芯良品率可达90%，2GWh全固态量产线工作已启动，设备订单将按验证结果和项目节奏分批落地。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "国轩高科今日在互动平台透露了固态电池的相关进展。"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "全固态中试线稳定运行 ，下线电芯良品率可达 90%"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "2GWh 全固态量产线工作已启动 ，设备订单将根据验证结果、项目节奏分批落地。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "公司同时表示，按照2027年实现小批量生产及装车测试的计划推进全固态电池研发和产业化。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "按照 2027 年实现小批量生产及装车测试的计划，正在稳步推进全固态电池研发和产业化的相关工作。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "中国化工信息周刊网11月11日转载储能前沿的报道称，国轩高科固态项目负责人潘瑞军11月9日在ABAA-17大会期间透露，全固态中试线电芯已实现批量下线，电芯良率突破90%；公司规划2026年建成300吨/年硫化锂产能，2027年和2030年分别达到2万吨/年和5万吨/年。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "11月9日，国轩高科固态项目负责人潘瑞军在ABAA-17大会期间透露，目前，国轩高科全固态中试线电芯已实现批量下线"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "电芯良率突破90%"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "公司计划2026年建成300吨/年产能，2027年产能将达到2万吨/年，2030年产能目标为5万吨/年。"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "2026-11-11 13:53:29"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "来源：储能前沿 分享 收藏"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "国轩高科股份有限公司",
+            "Gotion High-Tech Co., Ltd.",
+            "全固态电池",
+            "all-solid-state battery"
+          ],
+          "limitations": "核心信息来自国轩高科互动平台披露及中国化工信息周刊网转载储能前沿的报道，未取得公司原始公告全文；中试线良品率与量产线工作启动不等于商业化量产；2GWh线设备订单分批落地，实际产能、良率及2027年装车计划仍需后续验证。",
+          "bilingual": {
+            "title_en": "Gotion High-Tech Says All-Solid-State Pilot Line Yield Can Reach 90%, Work on 2GWh Mass-Production Line Has Begun",
+            "sentences": [
+              {
+                "en": "According to an IT Home report on November 12, Gotion High-Tech said on the interactive platform that day that its all-solid-state pilot line was operating stably, that the yield of cells coming off the line could reach 90%, that work on a 2GWh all-solid-state mass-production line had started, and that equipment orders would be placed in batches according to verification results and the project schedule.",
+                "zh": "据IT之家11月12日报道，国轩高科当日在互动平台称，全固态中试线稳定运行，下线电芯良品率可达90%，2GWh全固态量产线工作已启动，设备订单将按验证结果和项目节奏分批落地。"
+              },
+              {
+                "en": "The company also said that it was advancing the R&D and industrialization of all-solid-state batteries according to its plan to achieve small-batch production and on-vehicle testing in 2027.",
+                "zh": "公司同时表示，按照2027年实现小批量生产及装车测试的计划推进全固态电池研发和产业化。"
+              },
+              {
+                "en": "In a report republished from Energy Storage Frontier on November 11, the website of China Chemical Information Weekly said that Pan Ruijun, head of Gotion High-Tech's solid-state project, disclosed during the ABAA-17 conference on November 9 that cells from the all-solid-state pilot line had been rolled off in batches and that the cell yield had exceeded 90%; the company plans to build 300 metric tons per year of lithium sulfide capacity in 2026, reaching 20,000 metric tons per year and 50,000 metric tons per year in 2027 and 2030, respectively.",
+                "zh": "中国化工信息周刊网11月11日转载储能前沿的报道称，国轩高科固态项目负责人潘瑞军11月9日在ABAA-17大会期间透露，全固态中试线电芯已实现批量下线，电芯良率突破90%；公司规划2026年建成300吨/年硫化锂产能，2027年和2030年分别达到2万吨/年和5万吨/年。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s17",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-11-12/doc-iniynife8498480.shtml",
+      "title": "国轩高科：全固态中试线稳定运行、下线电芯良品率可达 90%，2GWh 全固态量产线工作已启动",
+      "published_at": "2026-11-12T15:08:13+08:00"
+    },
+    {
+      "id": "s20",
+      "url": "https://www.chemnews.com.cn/c/2026-11-11/785433.shtml",
+      "title": "国轩高科全固态中试线电芯已实现批量下线 - 资讯 - 中国化工信息周刊网",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": []
+}
