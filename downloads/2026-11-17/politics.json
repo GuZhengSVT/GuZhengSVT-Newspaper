@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-17",
+  "title": "2026-11-17 政治",
+  "summary": "巴基斯坦前总理伊姆兰·汗通过律师公开信件，称健康恶化并寻求紧急医疗，巴政府否认其待遇不佳。",
+  "highlights": [
+    "伊姆兰·汗称医生警告脑出血和心脏骤停风险，要求紧急治疗；巴基斯坦政府称其在狱中获得全部设施。"
+  ],
+  "window_start": "2026-11-16T12:00:00+08:00",
+  "window_end": "2026-11-17T12:00:00+08:00",
+  "generated_at": "2026-11-18T06:16:30.258206+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "伊姆兰·汗|寻求|紧急医疗救治",
+          "title": "伊姆兰·汗狱中称健康恶化，寻求紧急医疗",
+          "summary": "巴基斯坦前总理伊姆兰·汗通过律师公开信件，称健康状况恶化、可能无法活着出狱，要求紧急治疗；巴政府称其在押期间获得医疗和设施。",
+          "published_at": "2026-11-17T09:26:00+08:00",
+          "follow_up": true,
+          "new_facts": "伊姆兰·汗通过律师公开信件称健康恶化并寻求紧急医疗；巴政府部长否认待遇不佳，称其获得全部设施；当局称其一周前接受眼部注射且临床稳定。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "巴基斯坦",
+            "伊姆兰·汗"
+          ],
+          "limitations": "核心医疗说法来自伊姆兰·汗一方公开信件，由BBC报道，未获独立医疗评估证实；巴基斯坦政府否认部分说法。报道未提供信件全文或具体医疗记录。",
+          "facts": [
+            {
+              "text": "据BBC报道，巴基斯坦前总理伊姆兰·汗通过律师公开信件，称自己与妻子健康状况持续恶化，要求紧急医疗救治。他写道，74岁的自己“可能无法活着回来”。",
+              "evidence": [
+                {
+                  "source_id": "s123",
+                  "quote": "Pakistan's jailed former PM Imran Khan has appealed for urgent medical treatment, saying that his and his wife's health has been deteriorating."
+                },
+                {
+                  "source_id": "s123",
+                  "quote": "\"At 74, this unrelenting state is taking me to a place from which I may not return alive,\" the cricket star-turned-politician wrote in a letter published by his lawyer Salman Safdar."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "伊姆兰·汗称医生警告他面临脑出血和心脏骤停风险，心脏已受损；他还说被单独监禁每天长达22小时，过去一年只见过律师四次。",
+              "evidence": [
+                {
+                  "source_id": "s123",
+                  "quote": "In his letter, Khan wrote that doctors have told him he is \"highly vulnerable to a brain haemorrhage and cardiac arrest\", and that his heart has already \"suffered damage\"."
+                },
+                {
+                  "source_id": "s123",
+                  "quote": "He said that he is being held in solitary confinement for up to 22 hours a day, where he is allowed neither visits by his family nor access to books and television, and that this has \"taken a heavy toll\" on his mental health."
+                },
+                {
+                  "source_id": "s123",
+                  "quote": "He also claimed he had only seen his lawyers four times over the past year."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "巴基斯坦议会事务部长乔杜里否认上述说法，称汗在狱中获得包括自选食物在内的全部设施。巴当局还表示，汗一周前被送往政府医院接受眼部注射，医生认为其“临床稳定”。",
+              "evidence": [
+                {
+                  "source_id": "s123",
+                  "quote": "Pakistan's parliamentary affairs minister Tariq Fazal Chaudhry disputed these claims, saying Khan is \"provided with all facilities in prison, including food of his own choosing\"."
+                },
+                {
+                  "source_id": "s123",
+                  "quote": "Authorities also say Khan was taken to a government-run hospital for an eye injection a week ago, where doctors deemed him \"clinically stable\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Imran Khan Says Health Is Worsening in Prison, Seeks Emergency Medical Care",
+            "sentences": [
+              {
+                "en": "According to BBC, former Pakistani Prime Minister Imran Khan said in a public letter released through his lawyers that his and his wife's health continued to deteriorate and requested emergency medical treatment.",
+                "zh": "据BBC报道，巴基斯坦前总理伊姆兰·汗通过律师公开信件，称自己与妻子健康状况持续恶化，要求紧急医疗救治。"
+              },
+              {
+                "en": "He wrote that, at 74, he \"might not come back alive.\"",
+                "zh": "他写道，74岁的自己“可能无法活着回来”。"
+              },
+              {
+                "en": "Imran Khan said doctors warned him that he faced the risk of a brain hemorrhage and cardiac arrest and that his heart had already been damaged; he also said he had been in solitary confinement for up to 22 hours a day and had seen his lawyers only four times in the past year.",
+                "zh": "伊姆兰·汗称医生警告他面临脑出血和心脏骤停风险，心脏已受损；他还说被单独监禁每天长达22小时，过去一年只见过律师四次。"
+              },
+              {
+                "en": "Chaudhry, Pakistan's minister for parliamentary affairs, denied those claims, saying Khan had access to all facilities in prison, including food of his choice.",
+                "zh": "巴基斯坦议会事务部长乔杜里否认上述说法，称汗在狱中获得包括自选食物在内的全部设施。"
+              },
+              {
+                "en": "Pakistani authorities also said Khan had been taken to a government hospital a week earlier for an eye injection and that doctors considered him \"clinically stable.\"",
+                "zh": "巴当局还表示，汗一周前被送往政府医院接受眼部注射，医生认为其“临床稳定”。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s123",
+      "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+      "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+      "published_at": null
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": []
+}
