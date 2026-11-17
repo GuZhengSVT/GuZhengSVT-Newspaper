@@ -1,0 +1,267 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-17",
+  "title": "2026-11-17 ACGN",
+  "summary": "本期收录网易《哈利波特：魔法觉醒》停运安排、《斯普拉遁3》12.0.0更新上线，以及《我的世界：地下城II》扩展《The Humblers Awaken》12月1日推出。",
+  "highlights": [
+    "网易宣布《哈利波特：魔法觉醒》将于2027年3月3日停运，2026年12月21日起停止充值和注册并下架。",
+    "《斯普拉遁3》12.0.0更新11月17日上线，调整武器平衡与匹配，并计划试行X Battles双人组队。",
+    "《我的世界：地下城II》扩展《The Humblers Awaken》将于12月1日推出。"
+  ],
+  "window_start": "2026-11-16T12:00:00+08:00",
+  "window_end": "2026-11-17T12:00:00+08:00",
+  "generated_at": "2026-11-17T18:30:20.902947+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "任天堂|发布|《斯普拉遁3》12.0.0版本更新",
+          "title": "《斯普拉遁3》12.0.0更新11月17日上线",
+          "summary": "任天堂宣布12.0.0更新11月17日上线，调整武器平衡和匹配系统，并将在Chill Season 2026试行X Battles双人组队。",
+          "published_at": "2026-11-17T09:44:31+08:00",
+          "follow_up": true,
+          "new_facts": "任天堂宣布《斯普拉遁3》12.0.0更新于11月17日上线，包含武器平衡与匹配调整，并计划在Chill Season 2026试行X Battles双人组队。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "Gematsu 11月16日报道，任天堂宣布《斯普拉遁3》12.0.0版本更新将于11月17日上线，改动覆盖多人对战、Anarchy Battle和X Battles等。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "Nintendo will release the version 12.0.0 update for Splatoon 3 on November 17, the company announced ."
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "Changes to multiplayer, Anarchy Battles, X Battles, and more."
+                }
+              ]
+            },
+            {
+              "text": "更新调整部分主武器伤害与耗墨，例如Sploosh-o-matic最大伤害从38.0提高到40.0、耗墨增加约5%；爆破枪的弹道距离受移动影响也被削弱。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "Increased maximum damage from 38.0 to 40.0. Increased the amount of ink consumed by approximately 5%."
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "Reduced the effect that player movement has on the flight distance of blaster shots. Shots fired while the player is moving forward will have a shorter flight distance than before."
+                }
+              ]
+            },
+            {
+              "text": "匹配方面，Anarchy Battle（Series）调整匹配系统，使匹配过程比此前更快完成，并通过匹配和分队机制降低队伍间技术或武器失衡；X Battles将在Chill Season 2026试行允许两人组队参赛。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s6",
+                  "quote": "Changed the matchmaking system so that matchmaking will complete quicker than before."
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "Changed the systems for matchmaking and team division to make it less likely to result in skill or weapon imbalances between teams."
+                },
+                {
+                  "source_id": "s6",
+                  "quote": "Made it possible to participate with a friend in traditional X Battles as a group of two. We will introduce this change on a trial basis starting in Chill Season 2026."
+                }
+              ]
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "任天堂（Nintendo）",
+            "《斯普拉遁3》（Splatoon 3）"
+          ],
+          "limitations": "Gematsu转述任天堂公告，未直接取得任天堂公告原文；更新内容依据报道中的补丁摘要。",
+          "bilingual": {
+            "title_en": "Splatoon 3 Version 12.0.0 Update Launches on November 17",
+            "sentences": [
+              {
+                "en": "Gematsu reported on November 16 that Nintendo announced that the version 12.0.0 update for Splatoon 3 will go live on November 17, with changes covering multiplayer battles, Anarchy Battle, and X Battles, among others.",
+                "zh": "Gematsu 11月16日报道，任天堂宣布《斯普拉遁3》12.0.0版本更新将于11月17日上线，改动覆盖多人对战、Anarchy Battle和X Battles等。"
+              },
+              {
+                "en": "The update adjusts the damage and ink consumption of some main weapons; for example, the Sploosh-o-matic's maximum damage rises from 38.0 to 40.0 and its ink consumption increases by about 5%, and the effect of movement on blasters' projectile distance is also reduced.",
+                "zh": "更新调整部分主武器伤害与耗墨，例如Sploosh-o-matic最大伤害从38.0提高到40.0、耗墨增加约5%；爆破枪的弹道距离受移动影响也被削弱。"
+              },
+              {
+                "en": "In terms of matchmaking, Anarchy Battle (Series) adjusts the matchmaking system so that the matching process completes faster than before and reduces skill or weapon imbalance between teams through matchmaking and team-assignment mechanisms; X Battles will trial allowing two-person teams to compete in Chill Season 2026.",
+                "zh": "匹配方面，Anarchy Battle（Series）调整匹配系统，使匹配过程比此前更快完成，并通过匹配和分队机制降低队伍间技术或武器失衡；X Battles将在Chill Season 2026试行允许两人组队参赛。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Mojang Studios|公布|《我的世界：地下城II》扩展《The Humblers Awaken》",
+          "title": "《我的世界：地下城II》扩展《The Humblers Awaken》12月1日推出",
+          "summary": "Xbox Wire 11月16日刊文宣布，《我的世界：地下城II》扩展《The Humblers Awaken》将于12月1日推出。",
+          "published_at": "2026-11-16T18:43:38+08:00",
+          "follow_up": false,
+          "new_facts": "Xbox Wire 11月16日宣布《我的世界：地下城II》扩展《The Humblers Awaken》于12月1日推出。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "Xbox Wire 11月16日刊文宣布，《我的世界：地下城II》的扩展内容《The Humblers Awaken》将于12月1日推出。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "Minecraft Dungeons II: The Humblers Awaken Arrives on December 1"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "Joe Skrebels, XBOX Wire Editor-in-Chief November 16, 2026 · 1 min read"
+                }
+              ]
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Mojang Studios",
+            "《我的世界：地下城II》（Minecraft Dungeons II）",
+            "《The Humblers Awaken》"
+          ],
+          "limitations": "Xbox Wire短文未提供该扩展的售价、平台范围和玩法细节。",
+          "bilingual": {
+            "title_en": "Minecraft Dungeons II Expansion The Humblers Awaken Launches December 1",
+            "sentences": [
+              {
+                "en": "An article published by Xbox Wire on November 16 announced that The Humblers Awaken, an expansion for Minecraft Dungeons II, will be released on December 1.",
+                "zh": "Xbox Wire 11月16日刊文宣布，《我的世界：地下城II》的扩展内容《The Humblers Awaken》将于12月1日推出。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "网易|宣布停运|《哈利波特：魔法觉醒》",
+          "title": "网易宣布《哈利波特：魔法觉醒》2027年3月停运",
+          "summary": "网易公告因授权协议到期，游戏将于2026年12月21日停止充值和注册并下架，2027年3月3日关服；停运后虚拟资产处理方案尚未公布。",
+          "published_at": "2026-11-17T00:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "网易公告《哈利波特：魔法觉醒》因授权到期于2027年3月3日停运，2026年12月21日停止充值、新用户注册并全平台下架。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "游研社11月17日报道称，网易11月16日发布公告，因授权协议到期，游戏将于2027年3月3日起正式停止运营。公告同时安排2026年12月21日停止充值、新用户注册并从全平台下架，2027年3月3日关闭服务器并停止角色交易等服务。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "今日（11月16日），网易旗下《哈利波特：魔法觉醒》发布公告。公告表示，因授权协议到期，游戏将于2027年3月3日起正式停止运营。"
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "游戏将于2026年12月21日停止充值、新用户注册，并从全平台下架。2027年3月3日正式关闭服务器，并停止角色交易等相关服务。"
+                }
+              ]
+            },
+            {
+              "text": "《哈利波特：魔法觉醒》2021年9月9日在中国大陆及港澳台上线，玩法结合卡牌收集、即时对战与角色扮演，玩家在霍格沃茨上课、探索禁林并通过卡牌参与决斗。",
+              "kind": "background",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "《哈利波特：魔法觉醒》于2021年9月9日在中国大陆及港澳台地区上线。游戏将卡牌收集、即时对战与角色扮演结合起来，玩家可以在霍格沃茨体验课程、探索禁林，并通过收集魔法卡牌参与决斗。"
+                }
+              ]
+            },
+            {
+              "text": "游研社称，停运后玩家账号数据、未使用游戏货币及其他虚拟资产如何处理，官方目前尚未给出具体方案。",
+              "kind": "limitation",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "至于停运后玩家账号数据、未使用的游戏货币及其他虚拟资产将如何处理，官方目前尚未给出具体方案。"
+                }
+              ]
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "网易",
+            "《哈利波特：魔法觉醒》（Harry Potter: Magic Awakened）"
+          ],
+          "limitations": "游研社报道转述网易公告，未直接取得公告原文；虚拟资产处理方案尚无细节。",
+          "bilingual": {
+            "title_en": "NetEase Announces Harry Potter: Magic Awakened Will End Service in March 2027",
+            "sentences": [
+              {
+                "en": "Youyan Society reported on November 17 that NetEase announced on November 16 that, due to the expiration of its licensing agreement, the game will officially cease operations on March 3, 2027.",
+                "zh": "游研社11月17日报道称，网易11月16日发布公告，因授权协议到期，游戏将于2027年3月3日起正式停止运营。"
+              },
+              {
+                "en": "The announcement also scheduled the suspension of top-ups and new user registration and the game's removal from all platforms on December 21, 2026, as well as the shutdown of servers and the cessation of services such as character trading on March 3, 2027.",
+                "zh": "公告同时安排2026年12月21日停止充值、新用户注册并从全平台下架，2027年3月3日关闭服务器并停止角色交易等服务。"
+              },
+              {
+                "en": "Harry Potter: Magic Awakened launched in mainland China, Hong Kong, Macao, and Taiwan on September 9, 2021; its gameplay combines card collection, real-time combat, and role-playing, with players attending classes at Hogwarts, exploring the Forbidden Forest, and taking part in duels through cards.",
+                "zh": "《哈利波特：魔法觉醒》2021年9月9日在中国大陆及港澳台上线，玩法结合卡牌收集、即时对战与角色扮演，玩家在霍格沃茨上课、探索禁林并通过卡牌参与决斗。"
+              },
+              {
+                "en": "Youyan Society said that no specific plan has yet been announced for how players' account data, unused in-game currency, and other virtual assets will be handled after the game's shutdown.",
+                "zh": "游研社称，停运后玩家账号数据、未使用游戏货币及其他虚拟资产如何处理，官方目前尚未给出具体方案。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s14",
+      "url": "https://www.yystv.cn/p/14636",
+      "title": "网易《哈利波特：魔法觉醒》宣布停运，月流水曾超11亿元",
+      "published_at": "2026-11-17T00:00:00+08:00"
+    },
+    {
+      "id": "s6",
+      "url": "https://www.gematsu.com/2026/11/splatoon-3-version-12-0-0-update-launches-november-17",
+      "title": "Splatoon 3 version 12.0.0 update launches November 17",
+      "published_at": "2026-11-17T01:44:31+00:00"
+    },
+    {
+      "id": "s19",
+      "url": "https://news.xbox.com/en-us/2026/11/16/minecraft-dungeons-ii-the-humblers-awaken-arrives-on-december-1/",
+      "title": "Minecraft Dungeons II: The Humblers Awaken Arrives on December 1",
+      "published_at": "2026-11-16T10:43:38+00:00"
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": []
+}

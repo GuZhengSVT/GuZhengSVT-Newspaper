@@ -1,0 +1,91 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-17",
+  "title": "2026-11-17 科技 · 能源",
+  "summary": "本期收录1条新闻。",
+  "highlights": [
+    "美国NRC批准Dow与X-energy在得州建设先进核设施"
+  ],
+  "window_start": "2026-11-10T12:00:00+08:00",
+  "window_end": "2026-11-17T12:00:00+08:00",
+  "generated_at": "2026-11-17T18:11:16.019362+08:00",
+  "edition": "technology-energy",
+  "sections": [
+    {
+      "id": "energy",
+      "name": "能源",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Dow、X-energy|获得建设许可|得克萨斯州先进核能项目",
+          "title": "美国NRC批准Dow与X-energy在得州建设先进核设施",
+          "summary": "美国能源部11月13日说，NRC已于11月9日批准Dow与X-energy在得州Seadrift的Dow厂址建设Long Mott Generating Station的建设许可，并称这是美国工业场址首个获批建设的先进核设施。",
+          "published_at": "2026-11-14T01:08:36+08:00",
+          "follow_up": false,
+          "new_facts": "NRC于11月9日批准Long Mott Generating Station建设许可；DOE于11月13日披露，并称其为美国工业场址首个获批建设的先进核设施。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Dow",
+            "X-energy",
+            "得克萨斯州先进核能项目"
+          ],
+          "limitations": "输入中的能源部页面节选未给出反应堆装机容量、具体工期和开工时间；报道仅确认建设许可获批及项目定位。",
+          "facts": [
+            {
+              "text": "美国能源部11月13日发布公告称，美国核管理委员会（NRC）已于11月9日批准Dow与X-energy在得克萨斯州Seadrift的Dow运营厂址建设Long Mott Generating Station的建设许可。",
+              "evidence": [
+                {
+                  "source_id": "s7",
+                  "quote": "The U.S. Nuclear Regulatory Commission (NRC) approved a construction permit on November 9 for Dow and X-energy’s proposed Long Mott Generating Station at Dow’s Seadrift Operations site in Texas."
+                },
+                {
+                  "source_id": "s7",
+                  "quote": "Office of Nuclear Energy November 13, 2026"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "能源部称，该项目是美国工业场址首个获批建设的先进核设施，并获得能源部支持。",
+              "evidence": [
+                {
+                  "source_id": "s7",
+                  "quote": "DOE-supported project becomes first advanced nuclear facility approved for construction at a U.S. industrial site."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "US NRC Approves Construction of Advanced Nuclear Facility for Dow and X-energy in Texas",
+            "sentences": [
+              {
+                "en": "On November 13, the U.S. Department of Energy announced that the U.S. Nuclear Regulatory Commission (NRC) had approved on November 9 the construction permit for Dow and X-energy to build the Long Mott Generating Station at Dow's operating site in Seadrift, Texas.",
+                "zh": "美国能源部11月13日发布公告称，美国核管理委员会（NRC）已于11月9日批准Dow与X-energy在得克萨斯州Seadrift的Dow运营厂址建设Long Mott Generating Station的建设许可。"
+              },
+              {
+                "en": "The Department of Energy said the project is the first advanced nuclear facility approved for construction at a U.S. industrial site and has the department's support.",
+                "zh": "能源部称，该项目是美国工业场址首个获批建设的先进核设施，并获得能源部支持。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s7",
+      "url": "https://www.energy.gov/ne/articles/dow-x-energy-receive-construction-permit-advanced-nuclear-project-texas",
+      "title": "Dow, X-energy Receive Construction Permit for Advanced Nuclear Project in Texas",
+      "published_at": "2026-11-13T12:08:36-05:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选资料未能充分核实，未予收录。"
+  ]
+}
