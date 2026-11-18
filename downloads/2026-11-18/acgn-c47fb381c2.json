@@ -1,0 +1,248 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-18",
+  "title": "2026-11-18 ACGN · Galgame / 新番播出与情报",
+  "summary": "本期入选两条新番情报：《SAKAMOTO DAYS》第2期定档2027年1月18日，并公布片头曲与追加声优；《異世界マンチキン》定档2027年1月7日，公布片头片尾曲及制作信息。",
+  "highlights": [
+    "《SAKAMOTO DAYS》第2期将于2027年1月18日开播，Creepy Nuts演唱片头曲。",
+    "《異世界マンチキン》定档2027年1月7日，LIL LEAGUE与ZAQ负责主题曲。"
+  ],
+  "window_start": "2026-11-11T12:00:00+08:00",
+  "window_end": "2026-11-18T12:00:00+08:00",
+  "generated_at": "2026-11-18T12:32:39.812686+08:00",
+  "sources": [
+    {
+      "id": "s19",
+      "url": "https://animeanime.jp/article/2026/11/18/104881.html",
+      "title": "「SAKAMOTO DAYS」第2期、Creepy NutsがOP担当！堀内賢雄＆谷山紀章も出演決定♪ 27年1月18日放送スタート",
+      "published_at": "2026-11-18T12:05:03+09:00"
+    },
+    {
+      "id": "s20",
+      "url": "https://animeanime.jp/article/2026/11/18/104880.html",
+      "title": "「異世界マンチキン」27年1月7日より放送！OPはLIL LEAGUE、EDはZAQに　原作陣も喜び「大変お待たせしました！！」「どうぞお楽しみに！」",
+      "published_at": "2026-11-18T12:00:04+09:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "galgame",
+      "name": "Galgame",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "anime",
+      "name": "新番播出与情报",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "SAKAMOTO DAYS|第2期开播|2027年1月18日",
+          "title": "《SAKAMOTO DAYS》第2期定档2027年1月18日，Creepy Nuts演唱片头曲",
+          "summary": "《SAKAMOTO DAYS》第2期公布主视觉和首支主PV，定档2027年1月18日，片头曲由Creepy Nuts负责，堀内賢雄与谷山紀章追加出演。",
+          "published_at": "2026-11-18T11:05:03+08:00",
+          "follow_up": true,
+          "new_facts": "第2期定档2027年1月18日；Creepy Nuts演唱OP《パパはいまだに Juvenile》；堀内賢雄、谷山紀章追加出演；2027年1月9日举行先行上映会。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "SAKAMOTO DAYS",
+            "第2期",
+            "Creepy Nuts",
+            "堀内賢雄",
+            "谷山紀章"
+          ],
+          "limitations": "本条仅依据Anime！Anime！的采编报道，未取得独立第二来源；未取得可核实的社区评价，无法区分正片评价、预告期待和原作评价。",
+          "facts": [
+            {
+              "text": "据Anime！Anime！11月18日报道，TV动画《SAKAMOTO DAYS》第2期公开主视觉图和首支主PV，定于2027年1月18日起每周一24时在东京电视台系列等播出；同日Netflix全球同步上线并先行播出第1话，其他平台在电视播出后陆续上线。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "TVアニメ『SAKAMOTO DAYS』第2期より、キービジュアルとメインPV第1弾が公開された。放送は2027年1月18日より開始され"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "同日よりNetflixにて世界同時配信と第1話先行配信を実施するほか、各配信サイトでもTV放送終了後より順次配信予定だ。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "第2期片头曲为Creepy Nuts新曲《パパはいまだに Juvenile》，追加声优堀内賢雄饰演廟堂、谷山紀章饰演クラブ・ジャム。动画由TMS Entertainment制作，监督中島大輔，总监督渡辺正樹，系列构成岸本卓，角色设计森山洋。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "オープニング・テーマはCreepy Nutsの「パパはいまだに Juvenile」に決定。追加キャストとして堀内賢雄、谷山紀章の出演も発表された。"
+                },
+                {
+                  "source_id": "s19",
+                  "quote": "アニメーション制作︓トムス・エンタテインメント"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "2027年1月9日将在TOHO Cinemas新宿举行第2期先行上映会，杉田智和、島﨑信長、M・A・O、日野聡预定登台。截至发稿，公开可追溯的社区讨论样本不足，尚无法区分正片评价、预告期待和原作评价。",
+              "evidence": [
+                {
+                  "source_id": "s19",
+                  "quote": "2027年1月9日（土）にTOHOシネマズ新宿にて実施され、坂本太郎役の杉田智和、朝倉シン役の島崎信長、赤尾晶役のM・A・O、京役の日野聡が登壇する予定だ。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "SAKAMOTO DAYS Season 2 Set for January 18, 2027; Creepy Nuts to Perform Opening Theme",
+            "sentences": [
+              {
+                "en": "According to Anime!",
+                "zh": "据Anime！"
+              },
+              {
+                "en": "Anime!",
+                "zh": "Anime！"
+              },
+              {
+                "en": "Anime! reported on November 18 that the second season of the TV anime SAKAMOTO DAYS has unveiled a key visual and its first main PV and is scheduled to air from January 18, 2027, every Monday at 24:00 on TV Tokyo and affiliated stations; on the same day, Netflix will launch it globally in simulcast and stream Episode 1 first, with other platforms to follow sequentially after the TV broadcast.",
+                "zh": "11月18日报道，TV动画《SAKAMOTO DAYS》第2期公开主视觉图和首支主PV，定于2027年1月18日起每周一24时在东京电视台系列等播出；同日Netflix全球同步上线并先行播出第1话，其他平台在电视播出后陆续上线。"
+              },
+              {
+                "en": "The opening theme for Season 2 will be Creepy Nuts’ new song “パパはいまだに Juvenile”, and the additional voice cast includes Kenyu Horiuchi as Byodo and Kisho Taniyama as Club Jam.",
+                "zh": "第2期片头曲为Creepy Nuts新曲《パパはいまだに Juvenile》，追加声优堀内賢雄饰演廟堂、谷山紀章饰演クラブ・ジャム。"
+              },
+              {
+                "en": "The anime is produced by TMS Entertainment, directed by Daisuke Nakashima, with Masaki Watanabe as chief director, Taku Kishimoto handling series composition, and Hiroshi Moriyama as character designer.",
+                "zh": "动画由TMS Entertainment制作，监督中島大輔，总监督渡辺正樹，系列构成岸本卓，角色设计森山洋。"
+              },
+              {
+                "en": "An advance screening event for Season 2 will be held at TOHO Cinemas Shinjuku on January 9, 2027, with Tomokazu Sugita, Nobunaga Shimazaki, M・A・O, and Satoshi Hino scheduled to take the stage.",
+                "zh": "2027年1月9日将在TOHO Cinemas新宿举行第2期先行上映会，杉田智和、島﨑信長、M・A・O、日野聡预定登台。"
+              },
+              {
+                "en": "As of publication, publicly traceable community discussion samples are insufficient, and it is not yet possible to distinguish reviews of the main anime, anticipation for the trailer, and evaluations of the original work.",
+                "zh": "截至发稿，公开可追溯的社区讨论样本不足，尚无法区分正片评价、预告期待和原作评价。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "異世界マンチキン|TV动画开播|2027年1月7日",
+          "title": "《異世界マンチキン》定档2027年1月7日，LIL LEAGUE与ZAQ负责主题曲",
+          "summary": "《異世界マンチキン》TV动画定档2027年1月7日，片头曲由LIL LEAGUE负责、片尾曲由ZAQ负责，并公布制作阵容和播出平台。",
+          "published_at": "2026-11-18T11:00:04+08:00",
+          "follow_up": true,
+          "new_facts": "TV动画定档2027年1月7日；OP为LIL LEAGUE《賽》，ED为ZAQ《残火》；动画由デュランダル制作。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "《異世界マンチキン》",
+            "LIL LEAGUE",
+            "ZAQ"
+          ],
+          "limitations": "本条仅依据Anime！Anime！的采编报道，未取得独立第二来源；未取得可核实的社区评价，无法区分正片评价、预告期待和原作评价。",
+          "facts": [
+            {
+              "text": "据Anime！Anime！11月18日报道，TV动画《異世界マンチキン －HP1のままで最強最速ダンジョン攻略－》定于2027年1月7日起播出。TOKYO MX和BS11在每周四24时30分播出，MBS从1月9日起每周六27时38分播出，メ～テレ周四26时30分，群马电视台周四25时。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "2027年1月7日より放送されることがわかった"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "TOKYO MX 1月7日(木)より 毎週木曜24：30～"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "原作是志瑞祐、漫画青桐良在讲谈社《水曜日のシリウス》连载的TRPG世界观异世界转生奇幻。动画由デュランダル制作，监督福士直也，系列构成細川博司，角色设计横田守、加藤優依；片头曲LIL LEAGUE《賽》，片尾曲ZAQ《残火》。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "『異世界マンチキン』こと『異世界マンチキン ―HP1のままで最強最速ダンジョン攻略―』は、『聖剣学院の魔剣使い』でも知られる志瑞祐の原作、青桐良の漫画により講談社「水曜日のシリウス」にて連載中の、TRPG（テーブルトークRPG）の世界観をベースにした異世界転生ファンタジーだ。"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "OP主題歌をLIL LEAGUE、ED主題歌をZAQが担当することも明らかになった。"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "監督：福士直也、シリーズ構成：細川博司 キャラクターデザイン：横田 守／加藤優依"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "アニメーション制作：デュランダル"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该作曾于2025年9月以提升质量为由推迟开播，本次公布第2弹主视觉、第2弹PV，以及原作者志瑞祐和漫画作者青桐良的留言。截至发稿，公开可追溯的社区讨论样本不足，尚无法区分正片评价、预告期待和原作评价。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "2025年9月に、さらなるクオリティ向上を図るとして放送開始時期の延期が発表され、続報が待たれていた。"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "さらに、原作者の志瑞祐よりコメント、漫画を手掛ける青桐良よりコメントとイラストが寄せられた。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Isekai Munchkin to Premiere January 7, 2027; LIL LEAGUE and ZAQ to Handle Theme Songs",
+            "sentences": [
+              {
+                "en": "According to Anime!",
+                "zh": "据Anime！"
+              },
+              {
+                "en": "Anime!",
+                "zh": "Anime！"
+              },
+              {
+                "en": "A November 18 report said that the TV anime Isekai Munchkin: HP1 no Mama de Saikyou Saisoku Dungeon Kouryaku is scheduled to begin airing on January 7, 2027.",
+                "zh": "11月18日报道，TV动画《異世界マンチキン －HP1のままで最強最速ダンジョン攻略－》定于2027年1月7日起播出。"
+              },
+              {
+                "en": "TOKYO MX and BS11 will broadcast it every Thursday at 24:30; MBS will broadcast it from January 9 every Saturday at 27:38; Mētele will broadcast it at 26:30 on Thursdays; and Gunma TV will broadcast it at 25:00 on Thursdays.",
+                "zh": "TOKYO MX和BS11在每周四24时30分播出，MBS从1月9日起每周六27时38分播出，メ～テレ周四26时30分，群马电视台周四25时。"
+              },
+              {
+                "en": "The original work is a TRPG-setting isekai reincarnation fantasy by Yū Shimizu, with manga by Aogiri Ryo, serialized in Kodansha's Suiyōbi no Sirius.",
+                "zh": "原作是志瑞祐、漫画青桐良在讲谈社《水曜日のシリウス》连载的TRPG世界观异世界转生奇幻。"
+              },
+              {
+                "en": "The anime is produced by Durandal, directed by Naoya Fukushi, with series composition by Hiroshi Hosokawa and character designs by Mamoru Yokota and Yui Kato; the opening theme is LIL LEAGUE's 'Sai' and the ending theme is ZAQ's 'Zanka'.",
+                "zh": "动画由デュランダル制作，监督福士直也，系列构成細川博司，角色设计横田守、加藤優依；片头曲LIL LEAGUE《賽》，片尾曲ZAQ《残火》。"
+              },
+              {
+                "en": "The work had been delayed from a September 2025 start to improve quality; this announcement unveiled the second key visual, the second PV, and comments from original author Yū Shimizu and manga author Aogiri Ryo.",
+                "zh": "该作曾于2025年9月以提升质量为由推迟开播，本次公布第2弹主视觉、第2弹PV，以及原作者志瑞祐和漫画作者青桐良的留言。"
+              },
+              {
+                "en": "As of publication, publicly traceable community discussion samples are insufficient, and it is not yet possible to distinguish evaluations of the main feature, trailer anticipation, and the original work.",
+                "zh": "截至发稿，公开可追溯的社区讨论样本不足，尚无法区分正片评价、预告期待和原作评价。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "edition": "acgn-c47fb381c2",
+  "coverage_notes": []
+}

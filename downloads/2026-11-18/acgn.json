@@ -1,0 +1,292 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-18",
+  "title": "2026-11-18 ACGN",
+  "summary": "本期收录3条通过核验的新闻。",
+  "highlights": [
+    "Firaxis Games裁员约60人，工作室负责人将离职",
+    "索尼推送PS5系统更新，称为《GTA VI》游玩所必需",
+    "《SAKAMOTO DAYS》第2期定档2027年1月18日，Creepy Nuts担当片头曲"
+  ],
+  "window_start": "2026-11-17T12:00:00+08:00",
+  "window_end": "2026-11-18T12:00:00+08:00",
+  "generated_at": "2026-11-18T12:27:00.001181+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Firaxis Games|裁员|约60人/三分之一",
+          "title": "Firaxis Games裁员约60人，工作室负责人将离职",
+          "summary": "机核报道，2K旗下Firaxis Games裁员约60人，占员工总数约三分之一；2K证实负责人Heather Hazen将离职，并称工作室正重组。",
+          "published_at": "2026-11-18T09:10:00+08:00",
+          "follow_up": false,
+          "new_facts": "Firaxis Games裁员约60人、约占三分之一；2K证实Heather Hazen将离职；2K称重组聚焦核心优势；匿名知情人士称新《幽浮》项目仍继续但可能受裁员影响。",
+          "verification": "single_source",
+          "limitations": "裁员人数及负责人离职来自机核转述2K声明；新《幽浮》项目状态来自未获授权公开发言的匿名知情人士，未获独立确认。",
+          "facts": [
+            {
+              "text": "据机核11月18日报道，2K Games旗下Firaxis Games裁员约60人，约占员工总数三分之一；2K发言人证实，工作室负责人Heather Hazen也将离职。",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "Firaxis Games 于日前宣布裁员约60人，占员工总数的三分之一左右。2K Games 发言人随后证实，工作室负责人 Heather Hazen 也将离职。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "2K在声明中称，Firaxis正进行重组并重新聚焦核心优势，缩减规模以专注设计、技术和玩家体验，继续开发策略游戏。",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "Firaxis 正在进行重组并重新聚焦核心优势，继续开发在过去30年里树立行业标准的策略游戏。"
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "作为调整的一部分，工作室正在缩减规模，以专注于设计、技术和玩家体验。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "机核援引未获授权公开发言的知情人士称，Firaxis一直在开发一款新的《幽浮》游戏，项目仍会继续，但此次裁员可能给项目带来较大变动。",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "据未获授权公开发言的知情人士透露，Firaxis一直在开发一款新的《幽浮》游戏。"
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "知情人士表示，新《幽浮》项目的开发仍会继续，但此次裁员可能会给项目带来较大变动。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Firaxis Games",
+            "2K Games",
+            "Heather Hazen"
+          ],
+          "bilingual": {
+            "title_en": "Firaxis Games Lays Off About 60 as Studio Head Prepares to Depart",
+            "sentences": [
+              {
+                "en": "According to a November 18 report by Gcores, 2K Games-owned Firaxis Games has laid off about 60 people, roughly one-third of its total workforce; a 2K spokesperson confirmed that studio head Heather Hazen will also depart.",
+                "zh": "据机核11月18日报道，2K Games旗下Firaxis Games裁员约60人，约占员工总数三分之一；2K发言人证实，工作室负责人Heather Hazen也将离职。"
+              },
+              {
+                "en": "In a statement, 2K said Firaxis is restructuring and refocusing on its core strengths, scaling down to focus on design, technology and player experience, and continuing to develop strategy games.",
+                "zh": "2K在声明中称，Firaxis正进行重组并重新聚焦核心优势，缩减规模以专注设计、技术和玩家体验，继续开发策略游戏。"
+              },
+              {
+                "en": "Gcores, citing people familiar with the matter who were not authorized to speak publicly, reported that Firaxis has been developing a new XCOM game; the project will continue, but the layoffs could bring significant changes to it.",
+                "zh": "机核援引未获授权公开发言的知情人士称，Firaxis一直在开发一款新的《幽浮》游戏，项目仍会继续，但此次裁员可能给项目带来较大变动。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Grand Theft Auto VI|发售前强制更新|PS5系统软件",
+          "title": "索尼推送PS5系统更新，称为《GTA VI》游玩所必需",
+          "summary": "4Gamer报道，索尼已推送PS5系统软件26.07-14.23.00，官方称该更新是11月19日《GTA VI》游玩所必需，并建议玩家提前下载。",
+          "published_at": "2026-11-18T11:25:43+08:00",
+          "follow_up": false,
+          "new_facts": "SIE推送PS5系统软件26.07-14.23.00；PlayStation Support官方X称该更新为11月19日《GTA VI》游玩必需，建议在11月19日0时前下载；更新包含安全修正但未公开细节。",
+          "verification": "single_source",
+          "limitations": "4Gamer转述PlayStation Support官方X与支持页面；系统更新具体安全修复内容未公开。",
+          "facts": [
+            {
+              "text": "据4Gamer报道，索尼互动娱乐已开始推送PS5系统软件更新26.07-14.23.00。PlayStation Support官方X称，该更新是11月19日发售的《GTA VI》游玩所必需，建议玩家在11月19日0时前下载。",
+              "evidence": [
+                {
+                  "source_id": "s10",
+                  "quote": "ソニー・インタラクティブエンタテインメントは，PS5向け システムソフトウェアアップデート「26.07-14.23.00」 の配信を開始した。"
+                },
+                {
+                  "source_id": "s10",
+                  "quote": "今回のアップデートは，11月19日発売予定の 「グランド・セフト・オートVI」 を プレイするために必須となる 。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "官方支持页面称，此次更新包含系统安全修正，但未公开具体修正内容。",
+              "evidence": [
+                {
+                  "source_id": "s10",
+                  "quote": "今回のアップデートではシステムソフトウェアのセキュリティ修正が実施された。具体的な修正内容については明らかにされていない。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Grand Theft Auto VI",
+            "PlayStation 5",
+            "Sony Interactive Entertainment"
+          ],
+          "bilingual": {
+            "title_en": "Sony Pushes PS5 System Update, Says It Is Required to Play GTA VI",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, Sony Interactive Entertainment has begun rolling out PS5 system software update 26.07-14.23.00.",
+                "zh": "据4Gamer报道，索尼互动娱乐已开始推送PS5系统软件更新26.07-14.23.00。"
+              },
+              {
+                "en": "The official PlayStation Support X account said the update is required to play GTA VI, which launches on November 19, and advised players to download it before 0:00 on November 19.",
+                "zh": "PlayStation Support官方X称，该更新是11月19日发售的《GTA VI》游玩所必需，建议玩家在11月19日0时前下载。"
+              },
+              {
+                "en": "The official support page said the update includes system security fixes but did not disclose the specific contents of the fixes.",
+                "zh": "官方支持页面称，此次更新包含系统安全修正，但未公开具体修正内容。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "SAKAMOTO DAYS|公布第二期|第2期",
+          "title": "《SAKAMOTO DAYS》第2期定档2027年1月18日，Creepy Nuts担当片头曲",
+          "summary": "Anime!Anime!报道，《SAKAMOTO DAYS》第2期公布主视觉与首支主PV，定档2027年1月18日；片头曲由Creepy Nuts担当，堀内賢雄、谷山紀章确定出演。",
+          "published_at": "2026-11-18T11:05:03+08:00",
+          "follow_up": false,
+          "new_facts": "《SAKAMOTO DAYS》第2期定档2027年1月18日东京电视台系深夜24时；Netflix同日全球配信并先行播出第1话；OP为Creepy Nuts《パパはいまだに Juvenile》；追加声优堀内賢雄、谷山紀章；2027年1月9日新宿先行上映会。",
+          "verification": "single_source",
+          "limitations": "Anime!Anime!报道官方公布信息，未直接取得动画官网原文；先行上映会票务细节尚未公布。",
+          "facts": [
+            {
+              "text": "据Anime!Anime!报道，《SAKAMOTO DAYS》第2期公布主视觉和首支主PV，定于2027年1月18日在东京电视台系等频道每周一深夜24时播出，Netflix同日全球配信并先行播出第1话。",
+              "evidence": [
+                {
+                  "source_id": "s42",
+                  "quote": "TVアニメ第2期が2027年1月18日（月）より、毎週月曜日の深夜24時からテレ東系列ほかにて放送されることが決定。"
+                },
+                {
+                  "source_id": "s42",
+                  "quote": "同日よりNetflixにて世界同時配信と第1話先行配信を実施する"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "片头曲确定为Creepy Nuts的《パパはいまだに Juvenile》，歌曲1月19日配信；追加声优为堀内賢雄饰廟堂、谷山紀章饰クラブ・ジャム。",
+              "evidence": [
+                {
+                  "source_id": "s42",
+                  "quote": "放送は2027年1月18日より開始され、オープニング・テーマはCreepy Nutsの「パパはいまだに Juvenile」に決定。追加キャストとして堀内賢雄、谷山紀章の出演も発表された。"
+                },
+                {
+                  "source_id": "s42",
+                  "quote": "楽曲はアニメ初回にあわせて2027年1月19日より配信リリースが決定。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "官方还定于2027年1月9日在TOHO Cinemas新宿举行第2期先行上映会，杉田智和、島崎信長、M・A・O、日野聡将登台，票务详情日后公布。",
+              "evidence": [
+                {
+                  "source_id": "s42",
+                  "quote": "2027年1月9日（土）にTOHOシネマズ新宿にて実施され、坂本太郎役の杉田智和、朝倉シン役の島崎信長、赤尾晶役のM・A・O、京役の日野聡が登壇する予定"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "SAKAMOTO DAYS",
+            "Creepy Nuts",
+            "堀内賢雄",
+            "谷山紀章"
+          ],
+          "bilingual": {
+            "title_en": "SAKAMOTO DAYS Season 2 Set for January 18, 2027; Creepy Nuts to Perform Opening Theme",
+            "sentences": [
+              {
+                "en": "According to Anime!",
+                "zh": "据Anime!"
+              },
+              {
+                "en": "Anime! reports the following.",
+                "zh": "Anime!"
+              },
+              {
+                "en": "SAKAMOTO DAYS Season 2 has unveiled a key visual and its first main PV and is set to air on TV Tokyo network and other channels at 24:00 every Monday starting January 18, 2027, with Netflix streaming globally the same day and pre-releasing Episode 1.",
+                "zh": "报道，《SAKAMOTO DAYS》第2期公布主视觉和首支主PV，定于2027年1月18日在东京电视台系等频道每周一深夜24时播出，Netflix同日全球配信并先行播出第1话。"
+              },
+              {
+                "en": "The opening theme is confirmed as Creepy Nuts' “パパはいまだに Juvenile”, which will be released digitally on January 19; the additional cast includes Kenyu Horiuchi as Byōdō and Kisho Taniyama as Club Jam.",
+                "zh": "片头曲确定为Creepy Nuts的《パパはいまだに Juvenile》，歌曲1月19日配信；追加声优为堀内賢雄饰廟堂、谷山紀章饰クラブ・ジャム。"
+              },
+              {
+                "en": "It has also been officially announced that an advance screening event for Season 2 will be held on January 9, 2027, at TOHO Cinemas Shinjuku, with Tomokazu Sugita, Nobunaga Shimazaki, M・A・O, and Satoshi Hino taking the stage, and that ticket details will be announced later.",
+                "zh": "官方还定于2027年1月9日在TOHO Cinemas新宿举行第2期先行上映会，杉田智和、島崎信長、M・A・O、日野聡将登台，票务详情日后公布。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "edition": "acgn",
+  "sources": [
+    {
+      "id": "s33",
+      "url": "https://www.gcores.com/articles/222466",
+      "title": "《文明》《幽浮》开发工作室Firaxis Games裁员三分之一",
+      "published_at": "2026-11-18T09:10:00+08:00"
+    },
+    {
+      "id": "s10",
+      "url": "https://www.4gamer.net/games/758/G075801/20261118005/",
+      "title": "「GTA VI」発売直前，プレイに必須となるPS5のシステムソフトウェアアップデートが配信。公式は発売日の11月19日0：00までにダウンロードするよう呼びかけ",
+      "published_at": "2026-11-18T12:25:43+09:00"
+    },
+    {
+      "id": "s42",
+      "url": "https://animeanime.jp/article/2026/11/18/104881.html",
+      "title": "「SAKAMOTO DAYS」第2期、Creepy NutsがOP担当！堀内賢雄＆谷山紀章も出演決定♪ 27年1月18日放送スタート",
+      "published_at": "2026-11-18T12:05:03+09:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}

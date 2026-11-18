@@ -1,0 +1,352 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-18",
+  "title": "2026-11-18 科技 · 基础学科",
+  "summary": "本期基础学科收录三项进展：加州大学圣迭戈分校团队提出检验宇宙微波背景偏振旋转的新方法，并与既有分析给出一致的双折射角估计；中科院团队在嫦娥六号月壤撞击玻璃中发现室温下留存的γ-Fe纳米颗粒及其稳定单磁涡旋态；中科院脑智卓越中心开发双近红外光控神经开关，在小鼠上实现无需植入、按需启停的神经调控。",
+  "highlights": [
+    "新方法比较普朗克卫星8张偏振图，估计宇宙双折射角0.37±0.12度，但无法独立定出绝对偏振角",
+    "嫦娥六号月壤撞击玻璃中留存γ-Fe纳米颗粒，内部形成稳定单磁涡旋态，成果发表于PNAS",
+    "双近红外开关用980纳米启动、808纳米复位，无需植入光纤即可调控自由活动小鼠行为"
+  ],
+  "window_start": "2026-11-11T12:00:00+08:00",
+  "window_end": "2026-11-18T12:00:00+08:00",
+  "generated_at": "2026-11-18T12:09:49.350868+08:00",
+  "edition": "technology-science",
+  "sections": [
+    {
+      "id": "science",
+      "name": "基础学科",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "宇宙微波背景|发现|旋转迹象",
+          "title": "检验宇宙微波背景偏振旋转的新方法给出0.37度双折射估计",
+          "summary": "加州大学圣迭戈分校团队在《天体物理学报快报》发表方法，通过比较普朗克卫星不同探测器组的偏振图来分离相对定标误差，并与Minami-Komatsu分析给出一致的宇宙双折射角估计；该方法不能独立测定绝对偏振角。",
+          "published_at": "2026-11-17T20:14:04+08:00",
+          "follow_up": true,
+          "new_facts": "UC圣迭戈团队提出利用不同探测器组偏振图比较来检验宇宙双折射信号的方法，基于普朗克卫星8张偏振图；结果与Minami-Komatsu分析一致，双折射角0.37±0.12度；方法本身无法独立给出绝对偏振角。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "宇宙微波背景辐射（CMB）",
+            "宇宙双折射",
+            "加州大学圣迭戈分校",
+            "普朗克卫星"
+          ],
+          "limitations": "未直接查阅《天体物理学报快报》原文，信息来自加州大学圣迭戈分校发布稿的转载；该方法检验的是探测器相对定标，不能独立给出绝对偏振角，宇宙双折射是否真实存在仍待确认。",
+          "facts": [
+            {
+              "text": "加州大学圣迭戈分校团队在《天体物理学报快报》发表一种检验宇宙微波背景偏振旋转的新方法，分析基于普朗克卫星的观测数据。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "They tested their approach using existing observations collected by the European Space Agency's Planck satellite, which mapped the universe's ancient radiation in extraordinary detail."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "Their findings were published in The Astrophysical Journal Letters ."
+                }
+              ]
+            },
+            {
+              "text": "宇宙微波背景是宇宙约38万岁时的余辉，其偏振在传播中若发生极微小旋转（宇宙双折射），可能指向标准粒子模型之外的物理。困难在于望远镜偏振探测器若存在同等微小的对准误差，会制造几乎相同的假信号；研究改为比较不同探测器组生成的8张偏振图，真实信号应在各图中一致出现。",
+              "kind": "background",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "This possible rotation, called cosmic birefringence, is especially intriguing because it could point to physical processes not explained by the Standard Model"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "An extremely small error in how a telescope's polarization detectors are aligned can produce a signal that looks almost identical to cosmic birefringence."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "the researchers analyzed eight polarization maps produced using Planck observations."
+                }
+              ]
+            },
+            {
+              "text": "团队将相对定标结果与既有Minami-Komatsu分析给出的共有定标值结合，估计双折射角为0.37±0.12度，与该分析一致。由于方法扣除了所有偏振图共有的旋转，它不能独立测定绝对偏振角，仍需独立定标基准才能判断宇宙本身让光旋转了多少。",
+              "kind": "limitation",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "This produced an estimated cosmic birefringence angle of 0.37 ± 0.12 degrees, matching the Minami-Komatsu result."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "Because it removes any rotation common to all the maps, it cannot independently measure the overall polarization angle or determine how much the universe itself may have rotated the light."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "New Test of Cosmic Microwave Background Polarization Rotation Yields 0.37-Degree Birefringence Estimate",
+            "sentences": [
+              {
+                "en": "A University of California, San Diego team has published a new method for testing cosmic microwave background polarization rotation in The Astrophysical Journal Letters, with the analysis based on observations from the Planck satellite.",
+                "zh": "加州大学圣迭戈分校团队在《天体物理学报快报》发表一种检验宇宙微波背景偏振旋转的新方法，分析基于普朗克卫星的观测数据。"
+              },
+              {
+                "en": "The cosmic microwave background is the afterglow from when the universe was about 380,000 years old; if its polarization undergoes an extremely tiny rotation during propagation (cosmic birefringence), this could point to physics beyond the standard particle model.",
+                "zh": "宇宙微波背景是宇宙约38万岁时的余辉，其偏振在传播中若发生极微小旋转（宇宙双折射），可能指向标准粒子模型之外的物理。"
+              },
+              {
+                "en": "The difficulty is that if a telescope's polarization detectors have an equally tiny alignment error, they can create an almost identical false signal; the study instead compares eight polarization maps generated by different detector groups, since a real signal should appear consistently in each map.",
+                "zh": "困难在于望远镜偏振探测器若存在同等微小的对准误差，会制造几乎相同的假信号；研究改为比较不同探测器组生成的8张偏振图，真实信号应在各图中一致出现。"
+              },
+              {
+                "en": "The team combined the relative calibration results with the common calibration value given by the existing Minami-Komatsu analysis and estimated the birefringence angle to be 0.37±0.12 degrees, consistent with that analysis.",
+                "zh": "团队将相对定标结果与既有Minami-Komatsu分析给出的共有定标值结合，估计双折射角为0.37±0.12度，与该分析一致。"
+              },
+              {
+                "en": "Because the method subtracts the rotation common to all polarization maps, it cannot independently determine the absolute polarization angle, and an independent calibration reference is still needed to judge how much the universe itself has rotated the light.",
+                "zh": "由于方法扣除了所有偏振图共有的旋转，它不能独立测定绝对偏振角，仍需独立定标基准才能判断宇宙本身让光旋转了多少。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "嫦娥六号月壤|发现|稳定单涡旋态",
+          "title": "嫦娥六号月壤撞击玻璃中留存γ-Fe并形成稳定单磁涡旋",
+          "summary": "中科院合肥物质科学研究院、地质与地球物理研究所等在嫦娥六号月壤的撞击玻璃颗粒中发现大量纳米级金属铁颗粒，部分以高温相γ-Fe形式存在，内部形成稳定单磁涡旋态；研究提示其有保存磁场信息的潜力，但尚不能判定月球古磁场来源。",
+          "published_at": "2026-11-17T00:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "嫦娥六号月壤撞击玻璃颗粒中发现纳米级金属铁，部分主相为室温下理论上不稳定的γ-Fe；离轴电子全息显示较大颗粒内形成稳定单磁涡旋态；成果发表于PNAS，古磁场来源问题未定。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "嫦娥六号月壤样品",
+            "γ-Fe",
+            "单磁涡旋态",
+            "中国科学院合肥物质科学研究院"
+          ],
+          "limitations": "中科院网站只标注发布日期2026年11月17日，未给出具体时刻；γ-Fe的留存机制系研究团队的推测解释，月球古磁场来源问题仍未解决。",
+          "facts": [
+            {
+              "text": "月球已不存在全球性磁场，但月面仍留有磁化痕迹。这些痕迹来自月球内部活动还是撞击产生的瞬态磁场，一直缺少可靠的记录者。",
+              "kind": "background",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "月球已经不存在全球性磁场，但月面依旧留存磁化痕迹。"
+                }
+              ]
+            },
+            {
+              "text": "中科院合肥物质科学研究院、地质与地球物理研究所等在嫦娥六号月壤的撞击玻璃颗粒中发现大量纳米级金属铁颗粒，其中部分颗粒的主要铁相是理论上无法在室温存在的γ-Fe。γ-Fe是铁的高温形态，一般只在900多摄氏度以上稳定，冷却后变回日常所见的α-Fe。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "科研团队在月壤中找到含金属铁的撞击玻璃颗粒，并在这些撞击玻璃中发现大量纳米尺度金属铁颗粒。其中部分颗粒的主要铁相是理论上无法在室温存在的γ-Fe。"
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "它 一般只在900多摄氏度以上稳定存在，冷却后就会变回α-Fe。"
+                }
+              ]
+            },
+            {
+              "text": "团队用离轴电子全息技术观察到，部分较大γ-Fe颗粒内部磁化沿环状排列，形成稳定的单磁涡旋态；外界磁场变化时结构响应稳定，具备保存磁场信息的潜力。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "当外界磁场变化时，这种结构会作出稳定响应，表明它具有保存磁场信息的潜力。"
+                }
+              ]
+            },
+            {
+              "text": "研究推测，撞击后的快速冷却、微量元素作用与周围玻璃的约束可能共同固定了这一结构。作者指出，该发现为理解月球古磁场记录提供新视角，但尚不能为古磁场来源定案，后续需结合磁学实验与微磁模拟评估其记录瞬态撞击场和发电机磁场的能力。成果发表在《美国国家科学院院刊》（PNAS）。",
+              "kind": "limitation",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "该发现为理解月球古磁场记录提供了新视角，但尚不能为月球古磁场来源“定案”，需要开展更多实验和模拟。"
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "相关研究成果发表在《美国国家科学院院刊》（PNAS）上。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "γ-Fe Persists in Chang'e-6 Lunar Soil Impact Glass and Forms a Stable Single-Magnetic-Vortex State",
+            "sentences": [
+              {
+                "en": "The Moon no longer has a global magnetic field, but magnetized traces remain on the lunar surface.",
+                "zh": "月球已不存在全球性磁场，但月面仍留有磁化痕迹。"
+              },
+              {
+                "en": "Whether these traces come from lunar internal activity or from transient magnetic fields generated by impacts has long lacked a reliable recorder.",
+                "zh": "这些痕迹来自月球内部活动还是撞击产生的瞬态磁场，一直缺少可靠的记录者。"
+              },
+              {
+                "en": "Researchers from the Hefei Institutes of Physical Science and the Institute of Geology and Geophysics of the Chinese Academy of Sciences, among other institutions, found numerous nanoscale metallic iron particles in impact glass particles from Chang'e-6 lunar soil, and in some of these particles the main iron phase is γ-Fe, which theoretically cannot exist at room temperature.",
+                "zh": "中科院合肥物质科学研究院、地质与地球物理研究所等在嫦娥六号月壤的撞击玻璃颗粒中发现大量纳米级金属铁颗粒，其中部分颗粒的主要铁相是理论上无法在室温存在的γ-Fe。"
+              },
+              {
+                "en": "γ-Fe is a high-temperature form of iron that is generally stable only above about 900 °C and reverts to the familiar α-Fe after cooling.",
+                "zh": "γ-Fe是铁的高温形态，一般只在900多摄氏度以上稳定，冷却后变回日常所见的α-Fe。"
+              },
+              {
+                "en": "Using off-axis electron holography, the team observed that within some larger γ-Fe particles the magnetization is arranged in a ring, forming a stable single-magnetic-vortex state; the structure responds stably to changes in the external magnetic field and has the potential to preserve magnetic field information.",
+                "zh": "团队用离轴电子全息技术观察到，部分较大γ-Fe颗粒内部磁化沿环状排列，形成稳定的单磁涡旋态；外界磁场变化时结构响应稳定，具备保存磁场信息的潜力。"
+              },
+              {
+                "en": "The study speculates that rapid cooling after impact, the action of trace elements, and confinement by the surrounding glass may have jointly fixed this structure.",
+                "zh": "研究推测，撞击后的快速冷却、微量元素作用与周围玻璃的约束可能共同固定了这一结构。"
+              },
+              {
+                "en": "The authors note that this finding offers a new perspective for understanding records of the Moon's ancient magnetic field, but it cannot yet settle the origin of the ancient magnetic field; future work needs to combine magnetic experiments and micromagnetic simulations to assess its ability to record transient impact fields and dynamo magnetic fields.",
+                "zh": "作者指出，该发现为理解月球古磁场记录提供新视角，但尚不能为古磁场来源定案，后续需结合磁学实验与微磁模拟评估其记录瞬态撞击场和发电机磁场的能力。"
+              },
+              {
+                "en": "The results were published in the Proceedings of the National Academy of Sciences (PNAS).",
+                "zh": "成果发表在《美国国家科学院院刊》（PNAS）。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "神经活动|开发|无线开关",
+          "title": "双近红外光控开关实现无植入、按需启停的神经调控",
+          "summary": "中科院脑科学与智能技术卓越创新中心开发“双近红外开关”技术，用980纳米与808纳米两束穿颅近红外光分别启动和终止神经元兴奋，在小鼠三个脑区、三种时间尺度上完成行为调控，成果发表于《美国化学会志》。",
+          "published_at": "2026-11-17T00:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "脑智卓越中心开发双近红外开关：上转换纳米颗粒odUCNPs与光敏蛋白SOUL组合，980纳米启动、808纳米复位，仅在开关瞬间照射；小鼠无需植入光纤即可实现数秒至数十分钟的行为调控。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "双近红外开关（Dual-NIR Switch）",
+            "光遗传学",
+            "中国科学院脑科学与智能技术卓越创新中心"
+          ],
+          "limitations": "原文只标注2026年11月17日为发布日期，未给出具体时刻；验证限于小鼠三个脑区的实验，属神经调控工具研发进展，机制与长期安全性未在该报道中展开。",
+          "facts": [
+            {
+              "text": "中科院脑科学与智能技术卓越创新中心开发出名为“双近红外开关”的神经调控技术，用两束穿颅近红外光分别开启和终止神经元兴奋，成果发表在《美国化学会志》。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "开发出一种名为“双近红外开关”（Dual-NIR Switch）的神经调控技术，依靠两束穿颅近红外光，分别“开启”和“终止”神经元兴奋信号 。"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "相关研究成果发表在《美国化学会志》（ JACS ）上。"
+                }
+              ]
+            },
+            {
+              "text": "技术将近红外响应的双色正交发光上转换纳米颗粒与光敏蛋白SOUL组合：一次短暂980纳米照射即可启动神经元兴奋并自行维持，需要终止时再用808纳米照射复位。光照只在开关瞬间起作用，累计照射与随之而来的光热风险因此下降。",
+              "kind": "explanation",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "通过一次短暂的980纳米近红外照射，便可启动神经元兴奋并自行维持；如需终止，再以808纳米近红外照射使其复位。"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "该技术 整合了近红外光响应的双色正交发光的上转换纳米颗粒（odUCNPs）和光敏蛋白SOUL 。"
+                }
+              ]
+            },
+            {
+              "text": "常见光敏蛋白依赖穿透力有限的可见光，传统方案需向脑内植入光纤；近红外光遗传虽可隔着颅骨递光，却要持续照射。新方案在小鼠实验中无需植入光纤、也无需头戴设备，可在自由活动状态下调控行为，时长从数秒延伸到数十分钟。",
+              "kind": "background",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "常见的光敏蛋白大多依赖可见光，而可见光穿透力有限。传统方案只能在颅内植入光纤，把光送入脑深部，易对脑组织造成损伤。"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "实验中，这套技术无需给小鼠植入光纤，也不用在它头部佩戴设备，可在小鼠自由活动状态下灵活调控它的行为，调控时长能够从数秒延伸至数十分钟。"
+                }
+              ]
+            },
+            {
+              "text": "研究在小鼠三个脑区验证了调控能力：作用于次级运动皮层可在秒级控制运动量与转圈行为，作用于外侧下丘脑可在分钟级抑制摄食，作用于腹侧被盖区可支持数十分钟量级的条件性位置偏好训练。",
+              "kind": "fact",
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "调控次级运动皮层，可在秒级控制运动量与转圈行为。调控外侧下丘脑，可在分钟级抑制摄食。调控腹侧被盖区，可支持数十分钟量级的条件性位置偏好训练。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Dual Near-Infrared Light-Controlled Switch Enables Implant-Free, On-Demand On–Off Neuromodulation",
+            "sentences": [
+              {
+                "en": "The Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, has developed a neuromodulation technique called the \"dual near-infrared switch,\" which uses two transcranial near-infrared light beams to initiate and terminate neuronal excitation, respectively, with the results published in the Journal of the American Chemical Society.",
+                "zh": "中科院脑科学与智能技术卓越创新中心开发出名为“双近红外开关”的神经调控技术，用两束穿颅近红外光分别开启和终止神经元兴奋，成果发表在《美国化学会志》。"
+              },
+              {
+                "en": "The technique combines near-infrared-responsive dual-color orthogonal luminescent upconversion nanoparticles with the photosensitive protein SOUL: a brief 980 nm irradiation can initiate neuronal excitation that sustains itself, and when termination is needed, 808 nm irradiation resets it.",
+                "zh": "技术将近红外响应的双色正交发光上转换纳米颗粒与光敏蛋白SOUL组合：一次短暂980纳米照射即可启动神经元兴奋并自行维持，需要终止时再用808纳米照射复位。"
+              },
+              {
+                "en": "Light acts only at the switching moments, thereby reducing cumulative irradiation and the associated photothermal risk.",
+                "zh": "光照只在开关瞬间起作用，累计照射与随之而来的光热风险因此下降。"
+              },
+              {
+                "en": "Common photosensitive proteins rely on visible light with limited penetration, and conventional approaches require implanting optical fibers into the brain; although near-infrared optogenetics can deliver light through the skull, it requires continuous irradiation.",
+                "zh": "常见光敏蛋白依赖穿透力有限的可见光，传统方案需向脑内植入光纤；近红外光遗传虽可隔着颅骨递光，却要持续照射。"
+              },
+              {
+                "en": "In mouse experiments, the new approach requires neither implanted optical fibers nor head-mounted devices and can modulate behavior in freely moving animals, with durations ranging from several seconds to tens of minutes.",
+                "zh": "新方案在小鼠实验中无需植入光纤、也无需头戴设备，可在自由活动状态下调控行为，时长从数秒延伸到数十分钟。"
+              },
+              {
+                "en": "The study validated the modulation capability in three mouse brain regions: acting on the secondary motor cortex enabled second-scale control of movement amount and circling behavior, acting on the lateral hypothalamus enabled minute-scale suppression of feeding, and acting on the ventral tegmental area supported conditioned place preference training on a timescale of tens of minutes.",
+                "zh": "研究在小鼠三个脑区验证了调控能力：作用于次级运动皮层可在秒级控制运动量与转圈行为，作用于外侧下丘脑可在分钟级抑制摄食，作用于腹侧被盖区可支持数十分钟量级的条件性位置偏好训练。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s13",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023348.htm",
+      "title": "A mysterious twist in the universe’s oldest light could reveal new physics",
+      "published_at": "2026-11-17T07:14:04-05:00"
+    },
+    {
+      "id": "s15",
+      "url": "https://www.cas.cn/../../syky/202611/t20261117_5124414.shtml",
+      "title": "研究人员在嫦娥六号月壤中发现稳定单涡旋态",
+      "published_at": null
+    },
+    {
+      "id": "s16",
+      "url": "https://www.cas.cn/../../syky/202611/t20261117_5124408.shtml",
+      "title": "科研人员开发神经活动无线“开关”",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": []
+}
