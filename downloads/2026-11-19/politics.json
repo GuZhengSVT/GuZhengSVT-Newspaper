@@ -1,0 +1,172 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-19",
+  "title": "2026-11-19 政治",
+  "summary": "本期政治日报收录巴西参议院通过政府财政调整方案。该方案预计2027年节省451亿至561亿雷亚尔，并调整财政框架和转移支付安排；法案已送众议院。",
+  "highlights": [
+    "巴西参议院通过PLP 299/2026财政调整方案，否决反对派三项修改，法案送众议院。"
+  ],
+  "window_start": "2026-11-18T12:00:00+08:00",
+  "window_end": "2026-11-19T12:00:00+08:00",
+  "generated_at": "2026-11-20T00:16:07.179495+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "巴西参议院|通过|政府财政调整方案",
+          "title": "巴西参议院通过政府财政调整方案",
+          "summary": "巴西参议院18日通过政府财政调整方案PLP 299/2026，否决反对派三项修改，法案送众议院；方案预计2027年节省451亿至561亿雷亚尔，并调整支出增长上限和Kandir法转移支付。",
+          "published_at": "2026-11-19T09:39:00+08:00",
+          "follow_up": true,
+          "new_facts": "巴西参议院11月18日通过PLP 299/2026财政调整方案，否决反对派三项修改，法案送众议院；预计2027年节省451亿至561亿雷亚尔，并调整财政框架、支出增长上限和Kandir法转移支付安排。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "巴西通讯社报道，巴西参议院18日傍晚通过政府财政调整方案（PLP 299/2026），否决反对派提出的三项修改。法案已送交众议院，预计下周审议。",
+              "evidence": [
+                {
+                  "source_id": "s84",
+                  "quote": "O Senado Federal aprovou no fim da tarde desta quarta-feira (18) o projeto de ajuste fiscal do governo , sem as alterações no texto tentadas pela oposição."
+                },
+                {
+                  "source_id": "s84",
+                  "quote": "Concluída a votação no Senado, o projeto agora será analisado na Câmara dos Deputados, o que só deve ocorrer próxima semana, já que o presidente da Casa, Hugo Motta (Republicanos-AP), está em viagem oficial para a Argentina."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "方案预计2027年节省451亿至561亿雷亚尔。它调整财政框架，允许政府额外冻结支出，并从明年起在采取控支措施的年份把支出增长上限从通胀加2.5%降至加2%。",
+              "evidence": [
+                {
+                  "source_id": "s84",
+                  "quote": "com economia estimada entre R$ 45,1 bilhões e R$ 56,1 bilhões em 2027."
+                },
+                {
+                  "source_id": "s84",
+                  "quote": "reduzir de 2,5% para 2% o limite de crescimento dos gastos acima da inflação nos anos em que forem adotadas medidas de contenção."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "方案还减少税收优惠、允许推迟《坎迪尔法》对州和市的转移支付，并要求国会在120天内规范超过公务员薪酬上限（现为4.63万雷亚尔）的支付。表决期间，报告人提出的一项协议获反对党领袖接受，把2028至2030年基于《坎迪尔法》的联邦对州年度转移支付从每年10亿雷亚尔提高到20亿雷亚尔。",
+              "evidence": [
+                {
+                  "source_id": "s84",
+                  "quote": "O projeto também reduz benefícios tributários, permite adiar parte dos repasses a estados e municípios previstos na Lei Kandir e estabelece prazo de 120 dias para o Congresso regulamentar os pagamentos acima do teto do funcionalismo público, atualmente de R$ 46,3 mil."
+                },
+                {
+                  "source_id": "s84",
+                  "quote": "Durante a votação, houve um acordo proposto pelo próprio relator em um dos destaques, e que foi aceito pelo líder da oposição, Rogério Marinho (PL-RN)."
+                },
+                {
+                  "source_id": "s84",
+                  "quote": "O acordo modulou o repasse anual do governo federal aos estados, com base na Lei Kandir, de R$ 1 bilhão para R$ 2 bilhões anuais, entre 2028 e 2030."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "巴西参议院",
+            "巴西联邦政府",
+            "财政调整方案"
+          ],
+          "limitations": "稿件依据巴西通讯社Agência Brasil的报道，未直接取得参议院表决记录；反对派修改的具体内容和最终表决票数未在来源中披露。",
+          "bilingual": {
+            "title_en": "Brazil's Senate passes government fiscal adjustment plan",
+            "sentences": [
+              {
+                "en": "Agência Brasil reported that Brazil's Senate passed the government's fiscal adjustment plan (PLP 299/2026) on the evening of the 18th, rejecting three amendments proposed by the opposition.",
+                "zh": "巴西通讯社报道，巴西参议院18日傍晚通过政府财政调整方案（PLP 299/2026），否决反对派提出的三项修改。"
+              },
+              {
+                "en": "The bill has been sent to the Chamber of Deputies and is expected to be considered next week.",
+                "zh": "法案已送交众议院，预计下周审议。"
+              },
+              {
+                "en": "The plan is expected to save 45.1 billion to 56.1 billion reais in 2027.",
+                "zh": "方案预计2027年节省451亿至561亿雷亚尔。"
+              },
+              {
+                "en": "It adjusts the fiscal framework, allowing the government to freeze additional spending and, starting next year, to lower the cap on spending growth from inflation plus 2.5% to inflation plus 2% in years when spending-control measures are adopted.",
+                "zh": "它调整财政框架，允许政府额外冻结支出，并从明年起在采取控支措施的年份把支出增长上限从通胀加2.5%降至加2%。"
+              },
+              {
+                "en": "The plan also reduces tax incentives, allows the postponement of transfers under the Kandir Law to states and municipalities, and requires Congress to regulate within 120 days payments exceeding the civil servant salary cap (currently 46,300 reais).",
+                "zh": "方案还减少税收优惠、允许推迟《坎迪尔法》对州和市的转移支付，并要求国会在120天内规范超过公务员薪酬上限（现为4.63万雷亚尔）的支付。"
+              },
+              {
+                "en": "During the vote, an agreement proposed by the rapporteur and accepted by opposition leaders raised annual federal transfers to states under the Kandir Law for 2028 to 2030 from 1 billion reais to 2 billion reais per year.",
+                "zh": "表决期间，报告人提出的一项协议获反对党领袖接受，把2028至2030年基于《坎迪尔法》的联邦对州年度转移支付从每年10亿雷亚尔提高到20亿雷亚尔。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s84",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/senado-rejeita-mudancas-no-texto-e-aprova-ajuste-fiscal-do-governo",
+      "title": "Brasília – 18/11/2026 – Sessão do Senado que concluiu a votação do projeto de ajuste fiscal do governo. Foto: Lula Marques/ Agência Brasil Brasília – 18/11/2026 – Sessão do Senado que concluiu a votação do projeto de ajuste fiscal do governo. Foto: Lula Marques/ Agência Brasil",
+      "published_at": "2026-11-18T22:39:00-03:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
