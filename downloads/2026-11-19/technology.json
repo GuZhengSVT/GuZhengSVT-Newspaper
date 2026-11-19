@@ -1,0 +1,370 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-19",
+  "title": "2026-11-19 科技",
+  "summary": "Google在官方博客发布Gemini 4 Neon介绍文章，并宣布Project Genie中的Genie 4可用；RadixArk发布并开放DaisyRose-27B；中国用长征二号丁成功发射实践二十四号卫星；NVIDIA的RTX Spark紧凑台式机开始上市。",
+  "highlights": [
+    "Google发布Gemini 4 Neon介绍文章。",
+    "Google DeepMind宣布Genie 4在Project Genie中可用。",
+    "RadixArk发布DaisyRose-27B，基于Qwen3.8-27B并以Apache 2.0开放checkpoints。",
+    "长征二号丁成功发射实践二十四号卫星。",
+    "NVIDIA RTX Spark紧凑台式机上市，最高128GB统一内存。"
+  ],
+  "window_start": "2026-11-18T12:00:00+08:00",
+  "window_end": "2026-11-19T12:00:00+08:00",
+  "generated_at": "2026-11-19T23:12:42.544060+08:00",
+  "sources": [
+    {
+      "id": "s13",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "title": "Introducing Gemini 4 Neon",
+      "published_at": "2026-11-18T21:00:00+00:00"
+    },
+    {
+      "id": "s14",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+      "title": "Genie 4 is now available",
+      "published_at": "2026-11-18T18:00:00+00:00"
+    },
+    {
+      "id": "s17",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "published_at": "2026-11-18T19:54:56+00:00"
+    },
+    {
+      "id": "s29",
+      "url": "https://www.cnsa.gov.cn/n6758823/n6758838/c10813940/content.html",
+      "title": "我国成功发射实践二十四号卫星 2026-11-19 我国成功发射实践二十四号卫... 2026年11月19日6时51分，我国在太原卫星发射中心使用长征二号丁运载火箭，成功将实践二十四号卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。 此次任务是长征系列运载火箭的第6... 2026年11月19日6时51分，我国在太原卫星发射中心使用长征二号丁运载火箭，成功将实践二十四号卫星...",
+      "published_at": null
+    },
+    {
+      "id": "s34",
+      "url": "https://blogs.nvidia.com/blog/rtx-spark-desktop-local-ai-available-now/",
+      "title": "NVIDIA RTX Spark Compact Desktops Out Now",
+      "published_at": "2026-11-18T14:00:31+00:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Google|发布|Gemini 4 Neon",
+          "title": "Google发布Gemini 4 Neon",
+          "summary": "Google官方博客发布题为《Introducing Gemini 4 Neon》的文章，宣告该模型；可获页面内容未提供能力、开放范围与定价细节。",
+          "published_at": "2026-11-19T05:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "Google官方博客发布Gemini 4 Neon介绍文章。",
+          "verification": "official_statement",
+          "limitations": "官方博客页面所获正文仅为标题、导航与发布日期，无法核验Gemini 4 Neon的版本定位、模型规格、能力、开放范围、API或定价；未对官方性能作独立确认。",
+          "facts": [
+            {
+              "text": "Google在官方博客上线题为《Introducing Gemini 4 Neon》的文章，宣告Gemini 4 Neon。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "页面元数据 datePublished: 2026-11-18T21:00:00+00:00\nIntroducing Gemini 4 Neon"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Google",
+            "Gemini 4 Neon"
+          ],
+          "bilingual": {
+            "title_en": "Google releases Gemini 4 Neon",
+            "sentences": [
+              {
+                "en": "Google published an article titled “Introducing Gemini 4 Neon” on its official blog, announcing Gemini 4 Neon.",
+                "zh": "Google在官方博客上线题为《Introducing Gemini 4 Neon》的文章，宣告Gemini 4 Neon。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Google DeepMind|发布|Genie 4",
+          "title": "Google DeepMind宣布Genie 4可用",
+          "summary": "Google DeepMind官方博客宣布，Project Genie更新中的Genie 4现已可用；可获内容未给出产品形态、访问范围和安全限制细节。",
+          "published_at": "2026-11-19T02:00:00+08:00",
+          "follow_up": true,
+          "new_facts": "Google DeepMind宣布Project Genie更新中的Genie 4现已可用。",
+          "verification": "official_statement",
+          "limitations": "官方博客页面所获正文仅为标题、导航与发布日期，无法核验Genie 4的产品形态、访问范围、安全限制及具体能力；不将标题之外的描述视为已确认事实。",
+          "facts": [
+            {
+              "text": "Google DeepMind在官方博客宣布，Project Genie更新中的Genie 4现已可用。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "Genie 4 is now available"
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "Project Genie update featuring Genie 4"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Google DeepMind",
+            "Genie 4",
+            "Project Genie"
+          ],
+          "bilingual": {
+            "title_en": "Google DeepMind announces Genie 4 availability",
+            "sentences": [
+              {
+                "en": "Google DeepMind announced on its official blog that Genie 4, part of the Project Genie update, is now available.",
+                "zh": "Google DeepMind在官方博客宣布，Project Genie更新中的Genie 4现已可用。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "RadixArk|发布|DaisyRose-27B",
+          "title": "RadixArk发布DaisyRose-27B并开放权重",
+          "summary": "RadixArk发布首个模型DaisyRose-27B，基于Qwen3.8-27B，以Apache 2.0开放checkpoints；团队称其长程agent训练将Terminal-Bench 4.1 pass@1从5.6%提高到12.0%。",
+          "published_at": "2026-11-19T03:54:56+08:00",
+          "follow_up": false,
+          "new_facts": "RadixArk发布基于Qwen3.8-27B的DaisyRose-27B，开放BF16、FP8和NVFP4 checkpoints；团队称在144块H200上用1200个任务训练18天，Terminal-Bench 4.1 pass@1由5.6%升至12.0%。",
+          "verification": "official_statement",
+          "limitations": "基准与训练效率数据均来自RadixArk团队自述，未提供独立复现；模型卡中的推理设置和完整测试条件未在正文展开。",
+          "facts": [
+            {
+              "text": "RadixArk发布其首个模型DaisyRose-27B，基于Qwen3.8-27B，checkpoints按Apache 2.0开放，并提供BF16、FP8和NVFP4格式。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "Today we are releasing DaisyRose-27B , RadixArk’s first model, built on Qwen3.8-27B and trained with reinforcement learning using Miles ."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "The checkpoints are available under Apache 2.0 : BF16 FP8 NVFP4"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "团队称，模型通过Miles强化学习框架在长程agent任务上训练，会话最长100万token；训练仅用1200个精选任务，在144块H200 GPU上耗时18天。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "We trained it on long-horizon agent tasks with sessions up to 1M tokens, with just 1,200 curated tasks in 18 days on 144 H200 GPUs."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "团队公布，Terminal-Bench 4.1 pass@1从5.6%升至12.0%，其他推理、指令遵循和编码基准也有提升；模型保留Qwen3.8-27B的架构、tokenizer、聊天模板、图像理解和256K上下文窗口。上述基准为团队自测。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "DaisyRose-27B improves Terminal-Bench 4.1 pass@1 from 5.6% to 12.0% ."
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "The model retains Qwen3.8-27B’s architecture, tokenizer, chat template, image understanding, and 256K-token context window ."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "RadixArk",
+            "DaisyRose-27B",
+            "Qwen3.8-27B"
+          ],
+          "bilingual": {
+            "title_en": "RadixArk Releases DaisyRose-27B with Open Weights",
+            "sentences": [
+              {
+                "en": "RadixArk released DaisyRose-27B, its first model, based on Qwen3.8-27B, with checkpoints released under Apache 2.0 and provided in BF16, FP8, and NVFP4 formats.",
+                "zh": "RadixArk发布其首个模型DaisyRose-27B，基于Qwen3.8-27B，checkpoints按Apache 2.0开放，并提供BF16、FP8和NVFP4格式。"
+              },
+              {
+                "en": "The team said the model was trained through the Miles reinforcement learning framework on long-horizon agent tasks, with sessions of up to 1 million tokens; training used only 1,200 curated tasks and took 18 days on 144 H200 GPUs.",
+                "zh": "团队称，模型通过Miles强化学习框架在长程agent任务上训练，会话最长100万token；训练仅用1200个精选任务，在144块H200 GPU上耗时18天。"
+              },
+              {
+                "en": "The team reported that Terminal-Bench 4.1 pass@1 rose from 5.6% to 12.0%, with improvements also on other reasoning, instruction-following, and coding benchmarks; the model retains Qwen3.8-27B's architecture, tokenizer, chat template, image understanding, and 256K context window.",
+                "zh": "团队公布，Terminal-Bench 4.1 pass@1从5.6%升至12.0%，其他推理、指令遵循和编码基准也有提升；模型保留Qwen3.8-27B的架构、tokenizer、聊天模板、图像理解和256K上下文窗口。"
+              },
+              {
+                "en": "These benchmarks were self-tested by the team.",
+                "zh": "上述基准为团队自测。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中国航天|发射|实践二十四号卫星",
+          "title": "长征二号丁成功发射实践二十四号卫星",
+          "summary": "国家航天局通报，11月19日6时51分长征二号丁在太原发射实践二十四号卫星，卫星进入预定轨道，任务成功；这是长征系列第678次飞行。",
+          "published_at": "2026-11-19T00:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "2026年11月19日6时51分，长征二号丁在太原卫星发射中心成功发射实践二十四号卫星，卫星进入预定轨道；任务为长征系列第678次飞行。",
+          "verification": "official_statement",
+          "limitations": "国家航天局页面只显示发布日期（2026-11-19），未给出具体发布时间，published_at采用当日日期粒度；通报未披露卫星用途、质量、轨道参数和在轨工作状态，发射成功不延伸为卫星长期运行状态。",
+          "facts": [
+            {
+              "text": "国家航天局通报，2026年11月19日6时51分，在太原卫星发射中心用长征二号丁运载火箭发射实践二十四号卫星，卫星进入预定轨道，发射任务成功。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "2026年11月19日6时51分，我国在太原卫星发射中心使用长征二号丁运载火箭，成功将实践二十四号卫星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "此次任务是长征系列运载火箭的第678次飞行。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "此次任务是长征系列运载火箭的第678次飞行。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "中国国家航天局",
+            "长征二号丁运载火箭",
+            "实践二十四号卫星",
+            "太原卫星发射中心"
+          ],
+          "bilingual": {
+            "title_en": "Long March 2D Successfully Launches Shijian-24 Satellite",
+            "sentences": [
+              {
+                "en": "The China National Space Administration announced that at 6:51 a.m. on November 19, 2026, a Long March 2D carrier rocket launched the Shijian-24 satellite from the Taiyuan Satellite Launch Center; the satellite entered its predetermined orbit, and the launch mission was successful.",
+                "zh": "国家航天局通报，2026年11月19日6时51分，在太原卫星发射中心用长征二号丁运载火箭发射实践二十四号卫星，卫星进入预定轨道，发射任务成功。"
+              },
+              {
+                "en": "This mission was the 678th flight of the Long March series of carrier rockets.",
+                "zh": "此次任务是长征系列运载火箭的第678次飞行。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NVIDIA|上市|RTX Spark紧凑台式机",
+          "title": "NVIDIA RTX Spark紧凑台式机上市，最高128GB统一内存",
+          "summary": "NVIDIA称ASUS、Dell和MSI的RTX Spark紧凑台式机已上市，配备20核Grace CPU、最高128GB统一内存和最高1 petaflop AI性能，更多OEM机型将推出。",
+          "published_at": "2026-11-18T22:00:31+08:00",
+          "follow_up": false,
+          "new_facts": "NVIDIA称ASUS、Dell和MSI的RTX Spark紧凑台式机已上市，Acer、GIGABYTE、HP和Microsoft机型随后推出；系统配20核Grace CPU、6144 CUDA核心Blackwell RTX GPU和最高128GB统一内存。",
+          "verification": "official_statement",
+          "limitations": "NVIDIA博客未给出各机型的具体售价、完整销售地区和独立实测；1 petaflop等性能为官方宣称，不能视为第三方验证结果。",
+          "facts": [
+            {
+              "text": "NVIDIA称，ASUS、Dell和MSI的RTX Spark紧凑台式机当日上市，Acer、GIGABYTE、HP和Microsoft的机型随后推出。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "New NVIDIA RTX Spark compact desktops from ASUS, Dell and MSI are available today"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "Mini PCs from Acer, GIGABYTE and HP are coming soon, along with the Microsoft Surface RTX Spark Dev Box ."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "NVIDIA称这些系统配备20核Grace CPU、6144个CUDA核心的Blackwell RTX GPU和最高128GB统一内存，AI性能最高1 petaflop，并提供万兆以太网。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "RTX Spark desktops are equipped with a 20-core NVIDIA Grace CPU, an NVIDIA Blackwell RTX GPU with 6,144 CUDA cores and up to 128GB of unified memory, delivering up to 1 petaflop of AI performance."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "Ten-gigabit Ethernet connectivity enables fast transfers of large datasets, model files and creative assets between RTX Spark compact desktops and networked storage."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "RTX Spark",
+            "ASUS",
+            "Dell",
+            "MSI"
+          ],
+          "bilingual": {
+            "title_en": "NVIDIA RTX Spark Compact Desktops Launch with Up to 128GB Unified Memory",
+            "sentences": [
+              {
+                "en": "NVIDIA said that RTX Spark compact desktops from ASUS, Dell and MSI went on sale that day, with models from Acer, GIGABYTE, HP and Microsoft to follow.",
+                "zh": "NVIDIA称，ASUS、Dell和MSI的RTX Spark紧凑台式机当日上市，Acer、GIGABYTE、HP和Microsoft的机型随后推出。"
+              },
+              {
+                "en": "NVIDIA said these systems are equipped with a 20-core Grace CPU, a Blackwell RTX GPU with 6,144 CUDA cores and up to 128GB of unified memory, deliver up to 1 petaflop of AI performance, and offer 10-gigabit Ethernet.",
+                "zh": "NVIDIA称这些系统配备20核Grace CPU、6144个CUDA核心的Blackwell RTX GPU和最高128GB统一内存，AI性能最高1 petaflop，并提供万兆以太网。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "人工智能的部分资料检索未完成，本期覆盖受限。",
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}

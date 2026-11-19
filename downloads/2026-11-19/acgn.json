@@ -1,0 +1,202 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-19",
+  "title": "2026-11-19 ACGN",
+  "summary": "本期收录两条：PlayStation官方博客公告《GTA VI》11月19日登陆PS5；游研社报道《明日方舟：终末地》获Google Play全球年度最佳游戏与多地区最佳剧情游戏。",
+  "highlights": [
+    "《GTA VI》定于11月19日登陆PS5，PlayStation官方博客在发售前一日公布。",
+    "游研社报道《明日方舟：终末地》获Google Play全球年度最佳游戏及多地区最佳剧情游戏。"
+  ],
+  "window_start": "2026-11-18T12:00:00+08:00",
+  "window_end": "2026-11-19T12:00:00+08:00",
+  "generated_at": "2026-11-19T23:29:45.075748+08:00",
+  "edition": "acgn",
+  "sources": [
+    {
+      "id": "s16",
+      "url": "https://blog.playstation.com/2026/11/18/grand-theft-auto-vi-launches-tomorrow-november-19/",
+      "title": "Grand Theft Auto VI launches tomorrow, November 19",
+      "published_at": "2026-11-18T08:00:23-08:00"
+    },
+    {
+      "id": "s14",
+      "url": "https://www.yystv.cn/p/14645",
+      "title": "终末地斩获Google Play双料大奖：鹰角的“逆周期”之作，再次迎来回响",
+      "published_at": "2026-11-19T00:00:00+08:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Rockstar Games|正式发售|Grand Theft Auto VI",
+          "title": "《GTA VI》定于11月19日登陆PS5",
+          "summary": "PlayStation官方博客11月18日公告，《GTA VI》将于11月19日登陆PS5；官方介绍舞台为莱昂尼达州与罪恶城，双主角因交易失手卷入犯罪阴谋，并新增按需播客。",
+          "published_at": "2026-11-19T00:00:23+08:00",
+          "follow_up": true,
+          "new_facts": "1. PlayStation官方博客11月18日宣布《GTA VI》11月19日登陆PS5并通过PlayStation Store提供。2. 官方介绍舞台为莱昂尼达州，含罪恶城；主角杰森与露西亚因交易失手卷入跨州犯罪阴谋。3. 该作首次加入车载和步行可听的按需播客，通过连接智能手机的新耳机收听。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Rockstar Games",
+            "Grand Theft Auto VI（侠盗猎车手VI）"
+          ],
+          "limitations": "发售信息仅来自PlayStation官方博客在11月18日发布的发售前公告；未采用发布时间晚于本窗口的Xbox Wire消息，也未核实各地区实际解锁时间和Xbox版本。语言、地区与商业模式细节在证据中未完整披露。",
+          "facts": [
+            {
+              "text": "PlayStation官方博客在11月18日（美国太平洋时间）发布消息，《GTA VI》定于11月19日登陆PS5，通过PlayStation Store提供。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "页面元数据 datePublished: 2026-11-18T08:00:23-08:00"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "Grand Theft Auto VI arrives on PlayStation 5 Thursday, November 19, available at PlayStation Store."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "官方博客介绍，游戏舞台设在莱昂尼达州，包含罪恶城；主角杰森和露西亚因一桩本应简单的交易失手，卷入横跨全州的犯罪阴谋。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "The latest installment in the Grand Theft Auto series heads to the state of Leonida, home to the neon-soaked streets of Vice City and beyond."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "Jason and Lucia have always known the deck is stacked against them. But when an easy score goes wrong, they find themselves on the darkest side of the sunniest place in America, in the middle of a criminal conspiracy stretching across the state of Leonida — forced to rely on each other more than ever if they want to make it out alive."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "该作还首次加入按需播客，玩家可在车内或步行时通过连接智能手机的新耳机收听电台与播客。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "for the first time ever, Grand Theft Auto VI introduces a series of on-demand podcasts for Jason and Lucia to experience beyond Leonida’s terrestrial radio, with both radio and podcasts available to listen to in vehicles and on foot through newly introduced headphones and earbuds connected to their smartphones."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "bilingual": {
+            "title_en": "GTA VI Set to Launch on PS5 on November 19",
+            "sentences": [
+              {
+                "en": "The PlayStation Blog announced on November 18 (U.S. Pacific Time) that GTA VI is set to launch on PS5 on November 19 and will be available through the PlayStation Store.",
+                "zh": "PlayStation官方博客在11月18日（美国太平洋时间）发布消息，《GTA VI》定于11月19日登陆PS5，通过PlayStation Store提供。"
+              },
+              {
+                "en": "The PlayStation Blog said the game is set in the state of Leonida and includes Vice City, with protagonists Jason and Lucia drawn into a crime conspiracy spanning the entire state after a deal that should have been simple goes wrong.",
+                "zh": "官方博客介绍，游戏舞台设在莱昂尼达州，包含罪恶城；主角杰森和露西亚因一桩本应简单的交易失手，卷入横跨全州的犯罪阴谋。"
+              },
+              {
+                "en": "The game also introduces on-demand podcasts for the first time, allowing players to listen to radio stations and podcasts through new headphones connected to a smartphone while in a vehicle or on foot.",
+                "zh": "该作还首次加入按需播客，玩家可在车内或步行时通过连接智能手机的新耳机收听电台与播客。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "鹰角网络|获奖|明日方舟：终末地（Google Play年度榜单）",
+          "title": "游研社报道：《明日方舟：终末地》获Google Play全球年度最佳与多地区最佳剧情游戏",
+          "summary": "游研社报道，Google Play 2026年度榜单公布，《明日方舟：终末地》获全球年度最佳游戏与多地区最佳剧情游戏；报道并转引颁奖词提及即时战斗、角色和工厂建造经营玩法。",
+          "published_at": "2026-11-19T00:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "1. 游研社称Google Play于北京时间11月18日23时左右公布2026年度最佳榜单，《明日方舟：终末地》获全球年度最佳游戏（Best of 2026）和多地区最佳剧情游戏（Best Story Game）。2. 游研社转引Google Play颁奖词，称赞即时战斗、角色、工厂建造与经营玩法。3. 终末地于今年1月开启全球公测。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "鹰角网络（Hypergryph）",
+            "明日方舟：终末地",
+            "Google Play 2026年度最佳"
+          ],
+          "limitations": "仅有游研社一篇报道，未直接取得Google Play官方榜单页面或鹰角网络公告；奖项的官方英文全称、地区细分与完整获奖名单未能独立核验。",
+          "facts": [
+            {
+              "text": "据游研社报道，Google Play于北京时间11月18日23时左右公布2026年度最佳榜单，《明日方舟：终末地》同时获得全球“年度最佳游戏（Best of 2026）”与多地区“最佳剧情游戏（Best Story Game）”。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "而北京时间昨晚十一点，Google Play已经率先交出了自己的2026年度最佳榜单——而在最终揭晓的名单里，《明日方舟：终末地》无疑也成了赢家：它一口气将 全球“年度最佳游戏（Best of 2026）”与多地区“最佳剧情游戏（Best Story Game）” 两项重量级大奖收入囊中。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "游研社转引的Google Play颁奖词称，游戏的即时战斗、角色塑造以及工厂建造与经营玩法带来独特体验。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "在Google官方给出的颁奖词里，给了一段相当高的评价：“……《 明日方舟：终末地》的每一处都让我们着迷。流畅爽快的即时战斗、鲜活立体的角色，以及颇具深度的工厂建造与经营玩法，共同带来了独一无二的游戏体验，令我们久久难忘。 ”"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《明日方舟：终末地》今年1月开启全球公测，至榜单公布时上线约十个月。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "现在，距离这款作品在今年1月开启全球公测，才刚刚过去快十个月。"
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "YouYanShe Reports: Arknights: Endfield Wins Google Play's Global Best of 2026 and Multiple Regional Best Story Game Awards",
+            "sentences": [
+              {
+                "en": "According to a report by YouYanShe, Google Play announced its 2026 Game of the Year list at around 23:00 Beijing time on November 18, and Arknights: Endfield won both the global \"Best of 2026\" award and multiple regional \"Best Story Game\" awards.",
+                "zh": "据游研社报道，Google Play于北京时间11月18日23时左右公布2026年度最佳榜单，《明日方舟：终末地》同时获得全球“年度最佳游戏（Best of 2026）”与多地区“最佳剧情游戏（Best Story Game）”。"
+              },
+              {
+                "en": "The Google Play award citation quoted by YouYanShe said that the game's real-time combat, character portrayal, and factory-building and management gameplay deliver a unique experience.",
+                "zh": "游研社转引的Google Play颁奖词称，游戏的即时战斗、角色塑造以及工厂建造与经营玩法带来独特体验。"
+              },
+              {
+                "en": "Arknights: Endfield launched its global open beta in January this year and had been online for about ten months when the list was announced.",
+                "zh": "《明日方舟：终末地》今年1月开启全球公测，至榜单公布时上线约十个月。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": []
+}
