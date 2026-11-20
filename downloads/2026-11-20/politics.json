@@ -1,0 +1,495 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-20",
+  "title": "2026-11-20 政治",
+  "summary": "本期收录6条通过核验的新闻。",
+  "highlights": [
+    "白宫发布美俄中元首和平声明",
+    "《卫报》：白宫国家网络主任在美国技术中断后被解职",
+    "英欧接近达成脱欧后协议，青年流动上限每年10万",
+    "库什纳称特朗普对乌获类似北约保障持开放态度",
+    "以军称完成加沙中部黄线以外地面行动，哈马斯指违反停火"
+  ],
+  "window_start": "2026-11-19T12:00:00+08:00",
+  "window_end": "2026-11-20T12:00:00+08:00",
+  "generated_at": "2026-11-20T12:56:21.362738+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中国、美国、俄罗斯|举行三方峰会并发表和平声明|APEC深圳峰会",
+          "title": "白宫发布美俄中元首和平声明",
+          "summary": "白宫发布题为《美俄中元首和平声明》的文件；《卫报》称声明未提及乌克兰和伊朗战争。",
+          "published_at": "2026-11-19T21:53:04+08:00",
+          "follow_up": true,
+          "new_facts": "白宫发布题为《美俄中元首和平声明》的文件；《卫报》称声明未提乌克兰和伊朗战争。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "白宫发布题为《美俄中元首和平声明》的文件，页面显示时间为11月19日。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "U.S.-Russia-China Heads of State Declaration toward Peace"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "《卫报》称，这份声明没有提及乌克兰战争和伊朗战争。",
+              "evidence": [
+                {
+                  "source_id": "s55",
+                  "quote": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "中国",
+            "美国",
+            "俄罗斯",
+            "和平声明（Peace Declaration）"
+          ],
+          "limitations": "白宫页面抓取内容仅含标题和元数据，声明具体条款及发布场合无法从输入来源核实；未采用候选中的核战争、联合国改革等细节。",
+          "bilingual": {
+            "title_en": "White House Releases Peace Statement by US, Russian and Chinese Heads of State",
+            "sentences": [
+              {
+                "en": "The White House released a document titled “Peace Statement by the Heads of State of the United States, Russia and China,” and the page displayed a date of November 19.",
+                "zh": "白宫发布题为《美俄中元首和平声明》的文件，页面显示时间为11月19日。"
+              },
+              {
+                "en": "The Guardian said that the statement did not mention the war in Ukraine or the war in Iran.",
+                "zh": "《卫报》称，这份声明没有提及乌克兰战争和伊朗战争。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|白宫国家网络主任被解职|肖恩·凯恩克罗斯",
+          "title": "《卫报》：白宫国家网络主任在美国技术中断后被解职",
+          "summary": "《卫报》报道白宫国家网络主任在美国遭遇一波技术中断后被解职，但抓取内容未提供姓名、原因和接任者。",
+          "published_at": "2026-11-20T09:25:05+08:00",
+          "follow_up": true,
+          "new_facts": "白宫国家网络主任在美国遭遇技术中断浪潮后被解职。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "《卫报》报道，白宫国家网络主任在美国遭遇一波技术中断后被解职。",
+              "evidence": [
+                {
+                  "source_id": "s31",
+                  "quote": "White House cyber director ousted after US hit by wave of tech outages"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国白宫",
+            "白宫国家网络主任"
+          ],
+          "limitations": "报道抓取内容仅有标题和页面导航，姓名、解职原因和接任者无法核实。",
+          "bilingual": {
+            "title_en": "White House national cyber director dismissed after US tech disruptions, Guardian reports",
+            "sentences": [
+              {
+                "en": "The Guardian reported that the White House national cyber director was dismissed after the United States experienced a wave of technical disruptions.",
+                "zh": "《卫报》报道，白宫国家网络主任在美国遭遇一波技术中断后被解职。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "英国|与欧盟谈判重置脱欧后关系|英欧关系重置协议",
+          "title": "英欧接近达成脱欧后协议，青年流动上限每年10万",
+          "summary": "《卫报》报道，英国与欧盟接近达成脱欧后协议并同意每年10万名青年流动上限，双方还计划首次就向第三国遣送被拒庇护者举行会谈。",
+          "published_at": "2026-11-20T04:52:05+08:00",
+          "follow_up": true,
+          "new_facts": "英欧接近达成脱欧后协议；双方同意每年10万名青年流动上限；计划首次就第三国遣送被拒庇护者举行会谈。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据《卫报》报道，英国与欧盟接近达成脱欧后协议，并已同意每年10万名青年流动的上限。",
+              "evidence": [
+                {
+                  "source_id": "s47",
+                  "quote": "UK and EU close to post-Brexit deal as they agree 100,000 youth mobility cap"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《卫报》还报道，双方计划首次就向第三国遣送被拒绝的寻求庇护者举行会谈。",
+              "evidence": [
+                {
+                  "source_id": "s48",
+                  "quote": "UK and EU plan first talks on sending refused asylum seekers to third countries"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "英国",
+            "欧盟",
+            "青年流动计划",
+            "第三国遣返中心"
+          ],
+          "limitations": "协议尚未最终达成；第三国遣送仅属计划会谈，输入来源未显示正式决定。",
+          "bilingual": {
+            "title_en": "UK and EU near post-Brexit deal with 100,000-a-year youth mobility cap",
+            "sentences": [
+              {
+                "en": "The Guardian reported that the UK and EU are close to a post-Brexit agreement and have agreed to an annual cap of 100,000 youth mobility places.",
+                "zh": "据《卫报》报道，英国与欧盟接近达成脱欧后协议，并已同意每年10万名青年流动的上限。"
+              },
+              {
+                "en": "The Guardian also reported that the two sides plan to hold talks for the first time on deporting rejected asylum seekers to third countries.",
+                "zh": "《卫报》还报道，双方计划首次就向第三国遣送被拒绝的寻求庇护者举行会谈。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|表示对乌克兰提供类似北约集体防御保障持开放态度|乌克兰安全保障",
+          "title": "库什纳称特朗普对乌获类似北约保障持开放态度",
+          "summary": "《卫报》乌克兰战争简报称，库什纳表示特朗普对基辅获得类似北约的集体防御保障持开放态度。",
+          "published_at": "2026-11-20T09:37:48+08:00",
+          "follow_up": true,
+          "new_facts": "库什纳称特朗普对基辅获得类似北约集体防御保障持开放态度。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "《卫报》乌克兰战争简报称，库什纳表示特朗普对基辅获得类似北约的集体防御保障持开放态度。",
+              "evidence": [
+                {
+                  "source_id": "s46",
+                  "quote": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "乌克兰",
+            "贾里德·库什纳（Jared Kushner）",
+            "唐纳德·特朗普",
+            "北约"
+          ],
+          "limitations": "这一表态由库什纳转述，输入来源未显示其已成为正式政策承诺。",
+          "bilingual": {
+            "title_en": "Kushner Says Trump Open to NATO-Like Security Guarantees for Ukraine",
+            "sentences": [
+              {
+                "en": "The Guardian's Ukraine war briefing said that Kushner indicated Trump is open to Kyiv receiving NATO-like collective defense guarantees.",
+                "zh": "《卫报》乌克兰战争简报称，库什纳表示特朗普对基辅获得类似北约的集体防御保障持开放态度。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "以色列|越过黄线在加沙中部完成地面行动|加沙黄线/哈马斯控制区",
+          "title": "以军称完成加沙中部黄线以外地面行动，哈马斯指违反停火",
+          "summary": "以军称完成加沙中部黄线以西罕见地面行动，目标拆除“恐怖隧道”；哈马斯指其公然违反停火协议，其管理机构称约6000人逃离。",
+          "published_at": "2026-11-19T20:40:46+08:00",
+          "follow_up": true,
+          "new_facts": "以军称完成加沙中部黄线以西罕见地面行动；以军称目标拆除“恐怖隧道”；行动18日引发撤离，19日结束并重开萨拉丁轴线；哈马斯指违反停火协议；哈马斯管理机构称约6000人逃离。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "以色列军方称，以军已完成在加沙中部黄线以外部分地区的一次罕见地面行动。",
+              "evidence": [
+                {
+                  "source_id": "s71",
+                  "quote": "Israeli forces have completed a rare ground operation in part of central Gaza outside their control, the military says"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "以军称行动目标是拆除黄线以西一条“恐怖隧道”；行动18日引发居民撤离，19日早上结束，萨拉丁轴线重新开放。",
+              "evidence": [
+                {
+                  "source_id": "s71",
+                  "quote": "The Israeli military said the \"targeted\" operation aimed to dismantle a \"terror tunnel\" west of the so-called Yellow Line"
+                },
+                {
+                  "source_id": "s71",
+                  "quote": "the activity has ended, and the Salah al-Din axis has been reopened"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "哈马斯称以军越线和居民撤离是对2025年10月停火协议的“公然违反”；哈马斯管理的政府媒体办公室称约6000人逃离，并称这构成强制迁移。",
+              "evidence": [
+                {
+                  "source_id": "s71",
+                  "quote": "accused Israel of a \"flagrant violation\" of the October 2025 ceasefire deal"
+                },
+                {
+                  "source_id": "s71",
+                  "quote": "an estimated 6,000 people had fled their homes and tents because of the operation"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "以色列国防军",
+            "加沙",
+            "哈马斯",
+            "黄线（Yellow Line）"
+          ],
+          "limitations": "以军行动、隧道目标和平民撤离说法主要来自以军及哈马斯方面，BBC报道未获独立现场核实；6000人为哈马斯管理机构的估计。",
+          "bilingual": {
+            "title_en": "Israeli Military Says It Completed Ground Operation Beyond Yellow Line in Central Gaza; Hamas Calls It a Ceasefire Violation",
+            "sentences": [
+              {
+                "en": "The Israeli military said its forces have completed a rare ground operation in some areas beyond the Yellow Line in central Gaza.",
+                "zh": "以色列军方称，以军已完成在加沙中部黄线以外部分地区的一次罕见地面行动。"
+              },
+              {
+                "en": "The Israeli military said the operation aimed to dismantle a \"terror tunnel\" west of the Yellow Line; the operation prompted residents to evacuate on the 18th and ended on the morning of the 19th, when the Salah al-Din axis was reopened.",
+                "zh": "以军称行动目标是拆除黄线以西一条“恐怖隧道”；行动18日引发居民撤离，19日早上结束，萨拉丁轴线重新开放。"
+              },
+              {
+                "en": "Hamas said the Israeli military's crossing of the line and the evacuation of residents constituted a \"blatant violation\" of the October 2025 ceasefire agreement; the Hamas-run government media office said about 6,000 people fled and described this as forced displacement.",
+                "zh": "哈马斯称以军越线和居民撤离是对2025年10月停火协议的“公然违反”；哈马斯管理的政府媒体办公室称约6000人逃离，并称这构成强制迁移。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "国际法院|裁定缅甸对罗兴亚人实施种族灭绝|冈比亚诉缅甸案",
+          "title": "国际法院裁定缅甸对罗兴亚人实施种族灭绝",
+          "summary": "国际法院19日首次裁定一个国家犯种族灭绝罪，认定缅甸对罗兴亚人实施种族灭绝，以9比6通过；缅甸否认相关指控。",
+          "published_at": "2026-11-20T04:07:02+08:00",
+          "follow_up": true,
+          "new_facts": "国际法院裁定缅甸对罗兴亚人实施种族灭绝；这是国际法院首次认定国家犯种族灭绝罪；9比6通过；法院认定约1万人被杀、超70万人逃亡；缅甸否认。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "国际法院19日裁定缅甸对罗兴亚人实施种族灭绝，这是国际法院首次认定一个国家犯下种族灭绝罪。",
+              "evidence": [
+                {
+                  "source_id": "s101",
+                  "quote": "Myanmar has been found guilty of committing genocide against its Rohingya minority by the International Court of Justice (ICJ)."
+                },
+                {
+                  "source_id": "s101",
+                  "quote": "The verdict marks the first time a state has ever been found to have committed genocide by an international court."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "法院以9票对6票作出裁决，认定2017年“清剿行动”中约1万名罗兴亚人被暴力杀害，超过70万人逃往孟加拉国，约81.5万人成为目标。",
+              "evidence": [
+                {
+                  "source_id": "s101",
+                  "quote": "The verdict was reached by a majority of nine votes to six among a panel of judges from around the world."
+                },
+                {
+                  "source_id": "s101",
+                  "quote": "The ICJ determined that around 10,000 Rohingya were \"violently killed\" during the clearance operation, while more than 700,000 are thought to have fled to Bangladesh"
+                },
+                {
+                  "source_id": "s101",
+                  "quote": "approximately 815,000 had been targeted in some way"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "法院称，从证据中只能合理推断出种族灭绝意图，并认定缅甸存在大规模毁坏证据等行为；缅甸一直否认种族灭绝，称其行动针对武装威胁。",
+              "evidence": [
+                {
+                  "source_id": "s101",
+                  "quote": "genocidal intent is the only reasonable inference that can be drawn from the evidence"
+                },
+                {
+                  "source_id": "s101",
+                  "quote": "Myanmar consistently denied genocide against the Rohingya, saying its operations had targeted militant or insurgent threats"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "法院还认定缅甸有义务支付成比例赔偿，具体金额日后确定。",
+              "evidence": [
+                {
+                  "source_id": "s101",
+                  "quote": "Myanmar had an obligation to pay proportionate reparations, but said an exact figure could be determined at a later date."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "国际法院（ICJ）",
+            "缅甸",
+            "罗兴亚人",
+            "冈比亚"
+          ],
+          "limitations": "判决细节来自BBC对国际法院裁决的报道，输入未附法院判决全文；缅甸方面的否认已注明。",
+          "bilingual": {
+            "title_en": "ICJ rules Myanmar committed genocide against Rohingya",
+            "sentences": [
+              {
+                "en": "The International Court of Justice ruled on the 19th that Myanmar committed genocide against the Rohingya, the first time the court has found a state guilty of genocide.",
+                "zh": "国际法院19日裁定缅甸对罗兴亚人实施种族灭绝，这是国际法院首次认定一个国家犯下种族灭绝罪。"
+              },
+              {
+                "en": "The court ruled by 9 votes to 6, finding that about 10,000 Rohingya were violently killed during the 2017 \"clearance operations,\" more than 700,000 fled to Bangladesh and about 815,000 were targeted.",
+                "zh": "法院以9票对6票作出裁决，认定2017年“清剿行动”中约1万名罗兴亚人被暴力杀害，超过70万人逃往孟加拉国，约81.5万人成为目标。"
+              },
+              {
+                "en": "The court said the only reasonable inference from the evidence was genocidal intent, and found that Myanmar had engaged in acts including the large-scale destruction of evidence; Myanmar has consistently denied genocide, saying its operations targeted armed threats.",
+                "zh": "法院称，从证据中只能合理推断出种族灭绝意图，并认定缅甸存在大规模毁坏证据等行为；缅甸一直否认种族灭绝，称其行动针对武装威胁。"
+              },
+              {
+                "en": "The court also found that Myanmar is obliged to pay proportionate reparations, with the specific amount to be determined later.",
+                "zh": "法院还认定缅甸有义务支付成比例赔偿，具体金额日后确定。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s55",
+      "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+      "title": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+      "published_at": "2026-11-19T17:13:23+00:00"
+    },
+    {
+      "id": "s71",
+      "url": "https://www.bbc.co.uk/news/articles/cw8r7510degno?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli military completes ground operation in Gaza beyond Yellow Line",
+      "published_at": null
+    },
+    {
+      "id": "s31",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+      "title": "White House cyber director ousted after US hit by wave of tech outages",
+      "published_at": "2026-11-20T01:25:05+00:00"
+    },
+    {
+      "id": "s47",
+      "url": "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
+      "title": "UK-EU reset talks will go ‘down to the wire’ as crunch summit approaches",
+      "published_at": "2026-11-19T20:52:05+00:00"
+    },
+    {
+      "id": "s46",
+      "url": "https://www.theguardian.com/world/2026/nov/20/ukraine-war-briefing-trump-open-to-kyiv-getting-nato-like-mutual-defence-guarantee-says-kushner",
+      "title": "Ukraine war briefing: Trump ‘open’ to Kyiv getting Nato-like mutual defence guarantee, says Kushner",
+      "published_at": "2026-11-20T01:37:48+00:00"
+    },
+    {
+      "id": "s101",
+      "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
+      "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
+      "published_at": null
+    },
+    {
+      "id": "s48",
+      "url": "https://www.theguardian.com/uk-news/2026/nov/19/uk-eu-talks-asylum-seekers-third-country-hubs",
+      "title": "UK and EU plan first talks on sending refused asylum seekers to third countries",
+      "published_at": "2026-11-19T19:02:45+00:00"
+    },
+    {
+      "id": "s16",
+      "url": "https://www.whitehouse.gov/briefings-statements/2026/11/u-s-russia-china-heads-of-state-declaration-toward-peace/",
+      "title": "U.S.-Russia-China Heads of State Declaration toward Peace",
+      "published_at": "2026-11-19T13:53:04+00:00"
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
