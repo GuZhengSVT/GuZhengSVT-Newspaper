@@ -1,0 +1,461 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-20",
+  "title": "2026-11-20 科技",
+  "summary": "本期科技日报收录：Google称Gemini可在Mac上处理重复性任务；华为云展示CloudRobo平台并计划11月30日开源世界模型；NASA称旅行者1号达到距地球一光日，并称其数据支持发现难测脉冲星的新方法；微软采用英特尔EMIB封装，英特尔称18A签下首家外部客户；NVIDIA与微软扩大加速计算合作。",
+  "highlights": [
+    "Google官方博客称Gemini可帮助Mac用户处理重复性任务。",
+    "华为云展示CloudRobo具身智能平台，计划11月30日开源CloudRobo-WM1.2。",
+    "NASA称旅行者1号达到距地球一光日。",
+    "NASA称其科学数据支持发现难以探测的脉冲星的新方法。",
+    "微软成为首家宣布在Azure自研芯片采用英特尔EMIB封装的客户；英特尔称18A已签下首家外部客户但未具名。"
+  ],
+  "window_start": "2026-11-19T12:00:00+08:00",
+  "window_end": "2026-11-20T12:00:00+08:00",
+  "generated_at": "2026-11-20T12:04:07.254214+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Google|推出|Gemini Mac 电脑操作功能",
+          "title": "Google称Gemini可在Mac上处理重复性任务",
+          "summary": "Google官方博客发布文章，称Gemini可以帮Mac用户处理重复性任务。",
+          "published_at": "2026-11-20T01:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Google官方博客上线文章，称Gemini可在Mac上处理重复性任务。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "Google",
+            "Gemini",
+            "Mac"
+          ],
+          "facts": [
+            {
+              "text": "Google在官方博客发布文章，称Gemini可以帮Mac用户处理重复性任务。文章标题为《Let Gemini tackle repetitive chores on your Mac》。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "Let Gemini tackle repetitive chores on your Mac"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "Automate Mac tasks with Gemini computer use"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "limitations": "抓取片段仅能确认文章标题和发布时间，支持机型、macOS版本、可用地区及权限限制等细节无法核实。",
+          "bilingual": {
+            "title_en": "Google says Gemini can handle repetitive tasks on Mac",
+            "sentences": [
+              {
+                "en": "Google published a post on its official blog saying that Gemini can help Mac users handle repetitive tasks.",
+                "zh": "Google在官方博客发布文章，称Gemini可以帮Mac用户处理重复性任务。"
+              },
+              {
+                "en": "The post is titled “Let Gemini tackle repetitive chores on your Mac.”",
+                "zh": "文章标题为《Let Gemini tackle repetitive chores on your Mac》。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "华为云|推出/推进|CloudRobo 具身机器人平台",
+          "title": "华为云展示CloudRobo平台，计划11月30日开源世界模型",
+          "summary": "量子位报道，华为云在具身智能论坛上介绍CloudRobo平台，并计划11月30日开源CloudRobo-WM1.2；平台已积累超100万条导航轨迹等资源。",
+          "published_at": "2026-11-20T09:07:38+08:00",
+          "follow_up": true,
+          "new_facts": "量子位报道，华为云在11月18日论坛上介绍CloudRobo平台，计划11月30日开源CloudRobo-WM1.2；平台已积累超100万条导航轨迹、5万多条操作轨迹和50多种数据处理算子。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "华为云",
+            "CloudRobo",
+            "具身机器人"
+          ],
+          "facts": [
+            {
+              "text": "据量子位11月20日报道，华为云在11月16日发布昇腾原生具身世界模型CloudRobo-WM1.2，两天后在上海举办具身智能高层论坛，介绍CloudRobo平台从数据处理、模型训练、仿真验证到真机部署的链路。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "11月16日，华为云发布了 昇腾原生具身世界模型CloudRobo-WM1.2 。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "两天后，华为云在上海办了场 「行业AI梦工厂·具身智能高层论坛」"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "它把数据处理、模型训练、仿真验证，一直到真机部署接成一条链。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道称，CloudRobo平台已积累超过100万条导航轨迹、5万多条操作轨迹和50多种数据处理算子；计划于11月30日正式开源的CloudRobo-WM1.2也将成为平台上的模型资源。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "目前， 平台已积累超过100万条导航轨迹、5万多条操作轨迹，还有50多种数据处理算子。"
+                },
+                {
+                  "source_id": "s18",
+                  "quote": "计划于 11月30日正式开源 的昇腾原生具身世界模型 CloudRobo-WM1.2 ，也将成为平台上的模型资源。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "现场还签署了备忘录，华为云与福建小状智能准备把CloudRobo和昇腾算力用于高校实训。",
+              "evidence": [
+                {
+                  "source_id": "s18",
+                  "quote": "现场还签了份备忘录。 华为云和福建小状智能准备把CloudRobo和昇腾算力用到高校实训里"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "报道为量子位单一来源，平台数据、合作伙伴计划和开源安排均来自报道转述；未取得华为云官方原文逐项核对。",
+          "bilingual": {
+            "title_en": "Huawei Cloud Showcases CloudRobo Platform, Plans to Open-Source World Model on November 30",
+            "sentences": [
+              {
+                "en": "According to a November 20 report by QbitAI, Huawei Cloud released the Ascend-native embodied world model CloudRobo-WM1.2 on November 16 and two days later held a high-level embodied intelligence forum in Shanghai, where it introduced the CloudRobo platform's pipeline from data processing and model training to simulation validation and real-robot deployment.",
+                "zh": "据量子位11月20日报道，华为云在11月16日发布昇腾原生具身世界模型CloudRobo-WM1.2，两天后在上海举办具身智能高层论坛，介绍CloudRobo平台从数据处理、模型训练、仿真验证到真机部署的链路。"
+              },
+              {
+                "en": "The report said the CloudRobo platform has accumulated more than 1 million navigation trajectories, over 50,000 manipulation trajectories, and more than 50 data processing operators; CloudRobo-WM1.2, scheduled for official open-source release on November 30, will also become a model resource on the platform.",
+                "zh": "报道称，CloudRobo平台已积累超过100万条导航轨迹、5万多条操作轨迹和50多种数据处理算子；计划于11月30日正式开源的CloudRobo-WM1.2也将成为平台上的模型资源。"
+              },
+              {
+                "en": "A memorandum was also signed at the event, with Huawei Cloud and Fujian Xiaozhuang Intelligent planning to use CloudRobo and Ascend computing power for university practical training.",
+                "zh": "现场还签署了备忘录，华为云与福建小状智能准备把CloudRobo和昇腾算力用于高校实训。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NASA|旅行者1号|达到距地球一日光程",
+          "title": "NASA称旅行者1号达到距地球一光日",
+          "summary": "NASA新闻稿称，旅行者1号已达到距地球一光日的距离，并称其创造历史。",
+          "published_at": "2026-11-19T22:31:15+08:00",
+          "follow_up": false,
+          "new_facts": "NASA新闻稿称旅行者1号达到距地球一光日。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "NASA",
+            "旅行者1号",
+            "Voyager 1"
+          ],
+          "facts": [
+            {
+              "text": "NASA在新闻稿中称，旅行者1号已达到距地球一光日的距离，并将这一进展称为创造历史。",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "limitations": "抓取片段仅含新闻稿标题和页面导航，缺少正文中的距离数值、信号往返时间及任务状态细节，未写入。",
+          "bilingual": {
+            "title_en": "NASA Says Voyager 1 Reaches One Light-Day from Earth",
+            "sentences": [
+              {
+                "en": "NASA said in a press release that Voyager 1 has reached a distance of one light-day from Earth, calling the milestone history-making.",
+                "zh": "NASA在新闻稿中称，旅行者1号已达到距地球一光日的距离，并将这一进展称为创造历史。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "NASA|Fermi数据支持|脉冲星快速发现新方法",
+          "title": "NASA称费米数据支持发现难测脉冲星的新方法",
+          "summary": "NASA科学页面发布文章，称其科学数据支持一种发现难以探测的脉冲星的新方法。",
+          "published_at": "2026-11-19T23:33:55+08:00",
+          "follow_up": false,
+          "new_facts": "NASA科学页面称其科学数据支持发现难测脉冲星的新方法。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NASA",
+            "费米伽马射线空间望远镜",
+            "脉冲星"
+          ],
+          "facts": [
+            {
+              "text": "NASA在科学页面发布文章称，其科学数据支持了一种发现难以探测的脉冲星的新方法。",
+              "evidence": [
+                {
+                  "source_id": "s22",
+                  "quote": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "limitations": "抓取片段缺少正文，无法核实方法细节、研究团队、论文及“速度提升”等说法。",
+          "bilingual": {
+            "title_en": "NASA Says Fermi Data Supports New Method to Find Hard-to-Detect Pulsars",
+            "sentences": [
+              {
+                "en": "NASA published an article on its science page saying that its scientific data supports a new method for finding hard-to-detect pulsars.",
+                "zh": "NASA在科学页面发布文章称，其科学数据支持了一种发现难以探测的脉冲星的新方法。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "英特尔|获微软采用|EMIB先进封装并签下18A首家外部客户",
+          "title": "微软采用英特尔EMIB封装，英特尔称18A签下首家外部客户",
+          "summary": "每经报道，微软成为首家宣布在Azure自研芯片采用英特尔EMIB封装的客户；英特尔CEO同日称18A已签下首家外部客户但未具名。",
+          "published_at": "2026-11-19T23:12:53+08:00",
+          "follow_up": true,
+          "new_facts": "每经报道，微软成为首家宣布在Azure自研芯片采用英特尔EMIB封装的客户；英特尔与微软达成长期协议；英特尔CEO称18A已签下首家外部客户但未具名，CTO称该客户采用18A-P节点。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "英特尔",
+            "微软",
+            "EMIB",
+            "18A",
+            "Azure"
+          ],
+          "facts": [
+            {
+              "text": "据《每日经济新闻》11月19日晚间报道，微软成为首家宣布在Azure自研芯片上采用英特尔代工EMIB封装的客户。英特尔与微软达成长期协议，确认多年期英特尔至强产能供应，其中包括代号Diamond Rapids的下一代服务器CPU，并扩大在Azure路线图及基于英特尔的Azure硬件系统上的合作。",
+              "evidence": [
+                {
+                  "source_id": "s91",
+                  "quote": "11月19日晚间，《每日经济新闻》记者从英特尔处获悉，微软成为首家宣布在Azure自研芯片上采用英特尔代工业务EMIB（嵌入式多芯片互连桥）封装的客户。"
+                },
+                {
+                  "source_id": "s91",
+                  "quote": "这项协议确认了多年期的英特尔®至强®产能供应，其中包括代号为Diamond Rapids的下一代服务器CPU（中央处理器）的相关实例，并进一步扩大了双方在Azure路线图以及基于英特尔的Azure硬件系统方面的合作。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "英特尔首席执行官陈立武同日在得克萨斯州奥斯汀的TomorrowX峰会上称，英特尔已为18A芯片制造工艺签下首家外部客户，但没有透露客户名称。英特尔首席技术官Pushkar Ranade称，该客户签约采用18A-P制造工艺节点，该节点已于6月进入风险试产阶段。",
+              "evidence": [
+                {
+                  "source_id": "s91",
+                  "quote": "11月19日，陈立武在美国得克萨斯州奥斯汀举行的 TomorrowX 峰会上透露称，英特尔已为其18A芯片制造工艺签下首家外部客户。"
+                },
+                {
+                  "source_id": "s91",
+                  "quote": "英特尔首席技术官Pushkar Ranade还在社交媒体上称，该外部客户签约采用的是英特尔18A-P制造工艺节点，该工艺已于6月进入风险试产阶段。"
+                },
+                {
+                  "source_id": "s91",
+                  "quote": "不过，英特尔方面并未透露这家客户的名字。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "limitations": "报道为每经单一来源转述英特尔说法；18A首家客户未具名，协议细节和量产时间未获独立确认。",
+          "bilingual": {
+            "title_en": "Microsoft Adopts Intel EMIB Packaging; Intel Says 18A Signs First External Customer",
+            "sentences": [
+              {
+                "en": "According to a report by National Business Daily on the evening of November 19, Microsoft became the first customer to announce that it would use Intel Foundry's EMIB packaging in its self-developed chips for Azure.",
+                "zh": "据《每日经济新闻》11月19日晚间报道，微软成为首家宣布在Azure自研芯片上采用英特尔代工EMIB封装的客户。"
+              },
+              {
+                "en": "Intel and Microsoft reached a long-term agreement that confirms multi-year supply of Intel Xeon capacity, including the next-generation server CPU code-named Diamond Rapids, and expands cooperation on the Azure roadmap and on Intel-based Azure hardware systems.",
+                "zh": "英特尔与微软达成长期协议，确认多年期英特尔至强产能供应，其中包括代号Diamond Rapids的下一代服务器CPU，并扩大在Azure路线图及基于英特尔的Azure硬件系统上的合作。"
+              },
+              {
+                "en": "Intel CEO Lip-Bu Tan said the same day at the TomorrowX summit in Austin, Texas, that Intel had signed its first external customer for the 18A chip manufacturing process, but did not disclose the customer's name.",
+                "zh": "英特尔首席执行官陈立武同日在得克萨斯州奥斯汀的TomorrowX峰会上称，英特尔已为18A芯片制造工艺签下首家外部客户，但没有透露客户名称。"
+              },
+              {
+                "en": "Intel Chief Technology Officer Pushkar Ranade said the customer had signed to adopt the 18A-P manufacturing process node, which entered risk production in June.",
+                "zh": "英特尔首席技术官Pushkar Ranade称，该客户签约采用18A-P制造工艺节点，该节点已于6月进入风险试产阶段。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "NVIDIA|与微软扩展|加速计算合作至Azure和Windows PC",
+          "title": "NVIDIA与微软扩大加速计算合作，Vera Rubin进入Azure",
+          "summary": "NVIDIA博客称，与微软在Microsoft Ignite扩大全栈合作，Vera Rubin NVL72系统在Azure数据中心运行，合作还延伸至Windows PC和企业模型定制。",
+          "published_at": "2026-11-20T04:00:15+08:00",
+          "follow_up": false,
+          "new_facts": "NVIDIA称与微软扩大全栈合作，Vera Rubin NVL72在Azure数据中心运行；微软用RTX PRO 6000 Blackwell GPU加速Bing搜索模型；Nemotron 3.5通过Microsoft Foundry提供；Windows 365 Cloud PC的Direct Stream有限预览开放报名，公开预览计划2027年初。",
+          "verification": "official_statement",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NVIDIA",
+            "Microsoft",
+            "Azure",
+            "Windows PC"
+          ],
+          "facts": [
+            {
+              "text": "NVIDIA在博客中称，与微软在Microsoft Ignite扩大全栈合作，NVIDIA Vera Rubin NVL72系统正在Azure数据中心运行，面向推理、代理式应用和大规模模型训练与推理。",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "NVIDIA Vera Rubin NVL72 systems are running in Azure data centers , providing infrastructure designed for demanding reasoning, agentic applications, and large-scale model training and inference."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "NVIDIA称，微软使用NVIDIA RTX PRO 6000 Blackwell GPU加速Bing搜索模型，并通过Microsoft Foundry提供Nemotron 3.5系列开放模型和企业定制能力。",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "Microsoft is also using NVIDIA technologies to accelerate its own models and services, including NVIDIA Dynamo inference software for post-training and NVIDIA RTX PRO 6000 Blackwell GPUs for Bing search models."
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "NVIDIA and Microsoft are expanding the models and services available through Microsoft Foundry to help developers bring these capabilities into business applications."
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "The expanded NVIDIA Nemotron 3.5 lineup on Foundry Managed Compute supports different requirements across enterprise applications."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "面向Windows PC，NVIDIA称将在Ignite展示RTX Spark设备上的本地大语言模型体验，并为GPU加速的Windows 365 Cloud PC提供Direct Stream能力，有限预览已开放报名，公开预览计划于2027年初。",
+              "evidence": [
+                {
+                  "source_id": "s33",
+                  "quote": "On Windows PCs powered by NVIDIA RTX Spark , NVIDIA and Microsoft will showcase local large language model experiences at Ignite"
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "For organizations using Cloud PCs, the companies are bringing Direct Stream capabilities to GPU-accelerated Windows 365 Cloud PCs."
+                },
+                {
+                  "source_id": "s33",
+                  "quote": "A limited preview is open for sign-ups, with public preview planned for early 2027."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "limitations": "内容来自NVIDIA官方博客，属于厂商声明；性能、可用性和时间安排未获独立验证。",
+          "bilingual": {
+            "title_en": "NVIDIA and Microsoft Expand Accelerated Computing Partnership as Vera Rubin Comes to Azure",
+            "sentences": [
+              {
+                "en": "NVIDIA said in a blog post that it expanded its full-stack collaboration with Microsoft at Microsoft Ignite, and that NVIDIA Vera Rubin NVL72 systems are running in Azure data centers for inference, agentic applications, and large-scale model training and inference.",
+                "zh": "NVIDIA在博客中称，与微软在Microsoft Ignite扩大全栈合作，NVIDIA Vera Rubin NVL72系统正在Azure数据中心运行，面向推理、代理式应用和大规模模型训练与推理。"
+              },
+              {
+                "en": "NVIDIA said that Microsoft is using NVIDIA RTX PRO 6000 Blackwell GPUs to accelerate Bing search models and is offering the Nemotron 3.5 family of open models and enterprise customization capabilities through Microsoft Foundry.",
+                "zh": "NVIDIA称，微软使用NVIDIA RTX PRO 6000 Blackwell GPU加速Bing搜索模型，并通过Microsoft Foundry提供Nemotron 3.5系列开放模型和企业定制能力。"
+              },
+              {
+                "en": "For Windows PCs, NVIDIA said it will showcase a local large language model experience on RTX Spark devices at Ignite and provide Direct Stream capabilities for GPU-accelerated Windows 365 Cloud PCs, with registration open for a limited preview and a public preview planned for early 2027.",
+                "zh": "面向Windows PC，NVIDIA称将在Ignite展示RTX Spark设备上的本地大语言模型体验，并为GPU加速的Windows 365 Cloud PC提供Direct Stream能力，有限预览已开放报名，公开预览计划于2027年初。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s25",
+      "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/",
+      "title": "NASA’s Voyager 1 Makes History Reaching One Light-Day From Earth",
+      "published_at": "2026-11-19T14:31:15+00:00"
+    },
+    {
+      "id": "s91",
+      "url": "https://nbd.com.cn/articles/2026-11-19/4653122.html",
+      "title": "追赶台积电有了重大进展？英特尔拿下微软先进封装大单，18A芯片制造工艺签下首家外部客户 | 每经网",
+      "published_at": null
+    },
+    {
+      "id": "s16",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/computer-use-mac/",
+      "title": "Let Gemini tackle repetitive chores on your Mac",
+      "published_at": "2026-11-19T17:00:00+00:00"
+    },
+    {
+      "id": "s18",
+      "url": "https://www.qbitai.com/2026/11/511426.html",
+      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "published_at": "2026-11-20T09:07:38+08:00"
+    },
+    {
+      "id": "s22",
+      "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/",
+      "title": "NASA Science Data Powers New Method to Discover Hard-to-Find Pulsars",
+      "published_at": "2026-11-19T10:33:55-05:00"
+    },
+    {
+      "id": "s33",
+      "url": "https://blogs.nvidia.com/blog/microsoft-ignite-accelerated-computing-azure-windows-pcs/",
+      "title": "NVIDIA and Microsoft Expand Accelerated Computing From Azure to Windows PCs",
+      "published_at": "2026-11-19T20:00:15+00:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "航天宇航的部分资料检索未完成，本期覆盖受限。"
+  ]
+}

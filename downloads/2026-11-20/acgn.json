@@ -1,0 +1,259 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-20",
+  "title": "2026-11-20 ACGN",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "Xbox Wire称《GTA VI》已发售",
+    "育碧蒙特利尔与魁北克市工作室裁减166人",
+    "育碧成立生成式AI工作室Motherbrain",
+    "LiSA获格莱美新设亚洲流行表演奖提名"
+  ],
+  "window_start": "2026-11-19T12:00:00+08:00",
+  "window_end": "2026-11-20T12:00:00+08:00",
+  "generated_at": "2026-11-20T12:25:14.680552+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Rockstar Games|正式发行|Grand Theft Auto VI",
+          "title": "Xbox Wire称《GTA VI》已发售",
+          "summary": "Xbox Wire发布文章称《GTA VI》已发售，页面推广位称其于11月19日通过Xbox Cloud Gaming登陆Xbox One与Xbox Series X|S。",
+          "published_at": "2026-11-19T22:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Xbox Wire称《GTA VI》已发售；页面推广位称该作于11月19日通过Xbox Cloud Gaming登陆Xbox One与Xbox Series X|S。",
+          "verification": "official_statement",
+          "facts": [
+            {
+              "text": "Xbox Wire在11月19日发文，标题为“Grand Theft Auto VI is Out Now”，称游戏已发售。同一页面推广位写明，该作于11月19日通过Xbox Cloud Gaming登陆Xbox One与Xbox Series X|S。",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "Grand Theft Auto VI is Out Now"
+                },
+                {
+                  "source_id": "s17",
+                  "quote": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Rockstar Games",
+            "Grand Theft Auto VI",
+            "GTA 6"
+          ],
+          "limitations": "Xbox Wire抓取正文未给出售价、版本明细或全球解锁时区；未直接取得Rockstar Games的独立公告。",
+          "bilingual": {
+            "title_en": "Xbox Wire Says Grand Theft Auto VI Is Out Now",
+            "sentences": [
+              {
+                "en": "On November 19, Xbox Wire published an article titled \"Grand Theft Auto VI is Out Now,\" stating that the game has been released.",
+                "zh": "Xbox Wire在11月19日发文，标题为“Grand Theft Auto VI is Out Now”，称游戏已发售。"
+              },
+              {
+                "en": "A promotional placement on the same page states that the title launched on November 19 on Xbox One and Xbox Series X|S via Xbox Cloud Gaming.",
+                "zh": "同一页面推广位写明，该作于11月19日通过Xbox Cloud Gaming登陆Xbox One与Xbox Series X|S。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Ubisoft|裁员|蒙特利尔与魁北克工作室166人",
+          "title": "育碧蒙特利尔与魁北克市工作室裁减166人",
+          "summary": "Rock Paper Shotgun报道，育碧在蒙特利尔和魁北克市工作室裁减166名员工。",
+          "published_at": "2026-11-20T00:12:50+08:00",
+          "follow_up": false,
+          "new_facts": "Rock Paper Shotgun报道育碧在蒙特利尔和魁北克市工作室裁减166名员工。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据Rock Paper Shotgun 11月19日报道，育碧在蒙特利尔和魁北克市工作室裁减166名员工。",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "Ubisoft lay off 166 more staff, this time at their Montreal and Quebec City studios"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Ubisoft",
+            "Ubisoft Montreal",
+            "Ubisoft Quebec"
+          ],
+          "limitations": "抓取页面正文未提供受影响岗位、项目、补偿安排及育碧官方声明，无法核实裁员原因与内部影响。",
+          "bilingual": {
+            "title_en": "Ubisoft Cuts 166 Jobs at Montreal and Quebec City Studios",
+            "sentences": [
+              {
+                "en": "According to a November 19 report by Rock Paper Shotgun, Ubisoft has cut 166 jobs at its Montreal and Quebec City studios.",
+                "zh": "据Rock Paper Shotgun 11月19日报道，育碧在蒙特利尔和魁北克市工作室裁减166名员工。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Ubisoft|成立|生成式AI游戏工作室 Motherbrain",
+          "title": "育碧成立生成式AI工作室Motherbrain",
+          "summary": "IGN报道，育碧成立名为Motherbrain的生成式AI游戏工作室。",
+          "published_at": "2026-11-20T05:34:57.284000+08:00",
+          "follow_up": false,
+          "new_facts": "IGN报道育碧成立生成式AI游戏工作室Motherbrain。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据IGN 11月19日报道，育碧成立名为Motherbrain的生成式AI游戏工作室。",
+              "evidence": [
+                {
+                  "source_id": "s21",
+                  "quote": "Ubisoft Creates Generative AI Game Studio Called Motherbrain"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Ubisoft",
+            "Motherbrain"
+          ],
+          "limitations": "仅取得IGN报道标题，未取得育碧官方公告确认Motherbrain的主体性质、团队规模与项目范围。",
+          "bilingual": {
+            "title_en": "Ubisoft Establishes Generative AI Game Studio Motherbrain",
+            "sentences": [
+              {
+                "en": "According to a November 19 report by IGN, Ubisoft has founded a generative AI game studio called Motherbrain.",
+                "zh": "据IGN 11月19日报道，育碧成立名为Motherbrain的生成式AI游戏工作室。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "LiSA|获得提名|格莱美奖",
+          "title": "LiSA获格莱美新设亚洲流行表演奖提名",
+          "summary": "第69届格莱美提名公布，LiSA以《魔法科高校的劣等生》主题曲《YES》获新设亚洲流行表演奖提名，BABYMETAL也入围同一奖项。",
+          "published_at": "2026-11-20T11:05:11+08:00",
+          "follow_up": true,
+          "new_facts": "LiSA以剧场版《魔法科高校的劣等生 四叶继承篇》主题曲《YES》获第69届格莱美新设Best Asian Pop Music Performance提名；BABYMETAL也获同一奖项提名。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "AnimeAnime 11月20日报道，第69届格莱美奖提名公布，LiSA以剧场版《魔法科高校的劣等生 四叶继承篇》主题曲《YES》获得新设“最佳亚洲流行音乐表演”提名，BABYMETAL也获同一奖项提名。",
+              "evidence": [
+                {
+                  "source_id": "s40",
+                  "quote": "2027年2月に開催される第69回グラミー賞のノミネーションが発表された。日本からはLiSAとBABYMETALの2組が、新設部門「Best Asian Pop Music Performance（最優秀アジアン・ポップ・パフォーマンス）」にノミネートされている。"
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "LiSAが候補に選ばれたのは、劇場版『魔法科高校の劣等生 四葉継承編』の主題歌「YES」。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "第69届格莱美奖颁奖礼定于2027年2月7日在洛杉矶Crypto.com球馆举行。",
+              "evidence": [
+                {
+                  "source_id": "s40",
+                  "quote": "第69回グラミー賞の授賞式は、2027年2月7日にロサンゼルスのクリプト・ドットコム・アリーナで開催される予定だ。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "LiSA",
+            "Grammy Awards",
+            "Asian Pop",
+            "BABYMETAL"
+          ],
+          "limitations": "未直接取得格莱美官方提名名单，奖项名称、提名作品与典礼信息来自AnimeAnime报道。",
+          "bilingual": {
+            "title_en": "LiSA Nominated for Newly Created Grammy Award for Best Asian Pop Music Performance",
+            "sentences": [
+              {
+                "en": "AnimeAnime reported on November 20 that the nominations for the 69th Grammy Awards had been announced, with LiSA receiving a nomination in the newly created “Best Asian Pop Music Performance” category for “YES,” the theme song of the theatrical film The Irregular at Magic High School: Yotsuba Succession Arc, and BABYMETAL also nominated in the same category.",
+                "zh": "AnimeAnime 11月20日报道，第69届格莱美奖提名公布，LiSA以剧场版《魔法科高校的劣等生 四叶继承篇》主题曲《YES》获得新设“最佳亚洲流行音乐表演”提名，BABYMETAL也获同一奖项提名。"
+              },
+              {
+                "en": "The 69th Grammy Awards ceremony is scheduled to take place on February 7, 2027, at Crypto.com Arena in Los Angeles.",
+                "zh": "第69届格莱美奖颁奖礼定于2027年2月7日在洛杉矶Crypto.com球馆举行。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s17",
+      "url": "https://news.xbox.com/en-us/2026/11/19/grand-theft-auto-vi-is-out-now/",
+      "title": "Grand Theft Auto VI is Out Now",
+      "published_at": "2026-11-19T14:00:00+00:00"
+    },
+    {
+      "id": "s21",
+      "url": "https://www.ign.com/articles/ubisoft-creates-generative-ai-game-studio-called-motherbrain",
+      "title": "Ubisoft Creates Generative AI Game Studio Called Motherbrain",
+      "published_at": "2026-11-19T21:34:57.284000+00:00"
+    },
+    {
+      "id": "s40",
+      "url": "https://animeanime.jp/article/2026/11/20/104947.html",
+      "title": "LiSAがグラミー賞にノミネート！ 世界的な音楽賞の歴史や選考の仕組み、新設「アジアン・ポップ」部門とは？",
+      "published_at": "2026-11-20T12:05:11+09:00"
+    },
+    {
+      "id": "s25",
+      "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+      "title": "Ubisoft lay off 166 more staff, this time at their Montreal and Quebec City studios, while mumbling about \"current production priorities and business needs\"",
+      "published_at": "2026-11-19T16:12:50+00:00"
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
