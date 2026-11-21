@@ -1,0 +1,277 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-21",
+  "title": "2026-11-21 ACGN",
+  "summary": "Rockstar公布《GTA VI》发售前销量3250万份、首日收入估算37.9亿美元；NVIDIA发布热修复驱动621.35，修复驱动过量写入SSD的问题；Arika董事Akira Kurabayashi因心力衰竭去世。",
+  "highlights": [
+    "Rockstar称《GTA VI》发售前全球销量达3250万份，4Gamer称创全平台发售前销量新纪录。",
+    "NVIDIA发布非WHQL热修复驱动621.35，修复Release 620世代驱动持续过量写入存储的问题。",
+    "Arika董事Akira Kurabayashi因心力衰竭去世，曾参与《Street Fighter EX》《Tetris 99》等作品。"
+  ],
+  "window_start": "2026-11-20T12:00:00+08:00",
+  "window_end": "2026-11-21T12:00:00+08:00",
+  "generated_at": "2026-11-21T12:19:55.476611+08:00",
+  "edition": "acgn",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Rockstar Games|正式发售并公布销售数据|Grand Theft Auto VI",
+          "title": "Rockstar公布《GTA VI》发售前销量3250万份，首日收入估算37.9亿美元",
+          "summary": "4Gamer报道，Rockstar于11月21日公布《GTA VI》发售前全平台销量3250万份，并称创发售前销量新纪录；截至11月19日结束的全球销售额估算为37.9亿美元，为娱乐作品首日最高。",
+          "published_at": "2026-11-21T08:34:49+08:00",
+          "follow_up": true,
+          "new_facts": "Rockstar公布《GTA VI》发售前全球销量3250万份；4Gamer称这是全平台发售前销量新纪录；截至11月19日结束的全球销售额估算为37.9亿美元。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Rockstar Games",
+            "Grand Theft Auto VI"
+          ],
+          "facts": [
+            {
+              "text": "4Gamer报道，Rockstar Games于11月21日宣布，《Grand Theft Auto VI》在11月19日发售前全球销量达到3250万份，并称这是全平台发售前销量的新纪录。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "Rockstar Gamesは本日（2026年11月21日），オープンワールドクライムアクション 「グランド・セフト・オートVI」 （ PS5 / Xbox Series X|S ） について， 発売前の販売本数が3250万本 に達したと発表した。"
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "今回の数字は，全プラットフォームを通じた発売前の販売本数として新記録だという。"
+                }
+              ]
+            },
+            {
+              "text": "4Gamer称，截至11月19日结束，该作全球销售额估算为37.9亿美元（约6030亿日元），为娱乐作品首日销售额最高；这一数字为估算。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "発売日の11月19日終了時点で，全世界での売上高は推計で 37億9000万ドル（約6030億円） に達した。こちらは，エンターテインメント作品の初日売上高として過去最高とのこと。"
+                }
+              ]
+            },
+            {
+              "text": "4Gamer提到，Take-Two Interactive在11月9日的财报说明会上曾表示预订量大幅超出预期，此次公布了具体数字。",
+              "kind": "background",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "11月9日に行われたTake-Two Interactiveの決算説明会では 「予約注文数が当初の予想を大幅に上回っている」 と説明されていたが，その具体的な本数が明らかになった形だ。"
+                }
+              ]
+            }
+          ],
+          "limitations": "销售数据来自4Gamer对Rockstar公告的转述，未直接取得Rockstar官方公告原文；3250万份的统计口径（预售或出货）及首日收入估算方法未在可见报道中说明。",
+          "bilingual": {
+            "title_en": "Rockstar Reports 32.5 Million Pre-Release Sales for GTA VI, Estimated $3.79 Billion in First-Day Revenue",
+            "sentences": [
+              {
+                "en": "4Gamer reported that Rockstar Games announced on November 21 that Grand Theft Auto VI had reached 32.5 million copies sold worldwide before its November 19 release, and called this a new record for pre-release sales across all platforms.",
+                "zh": "4Gamer报道，Rockstar Games于11月21日宣布，《Grand Theft Auto VI》在11月19日发售前全球销量达到3250万份，并称这是全平台发售前销量的新纪录。"
+              },
+              {
+                "en": "4Gamer said that as of the end of November 19, the game's global sales were estimated at $3.79 billion (about 603 billion yen), the highest first-day sales revenue for an entertainment work, and that the figure was an estimate.",
+                "zh": "4Gamer称，截至11月19日结束，该作全球销售额估算为37.9亿美元（约6030亿日元），为娱乐作品首日销售额最高；这一数字为估算。"
+              },
+              {
+                "en": "4Gamer mentioned that Take-Two Interactive had said at its November 9 earnings briefing that preorders had significantly exceeded expectations, and that the specific figure was announced this time.",
+                "zh": "4Gamer提到，Take-Two Interactive在11月9日的财报说明会上曾表示预订量大幅超出预期，此次公布了具体数字。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NVIDIA|发布修复SSD写入问题的热修复驱动|GeForce Hotfix Driver 621.35",
+          "title": "NVIDIA发布热修复驱动621.35，修复驱动持续写入SSD问题",
+          "summary": "4Gamer报道，NVIDIA于美国时间11月20日发布非WHQL热修复驱动621.35，修复Release 620世代驱动中NVDisplay.Container.exe的nvtops插件持续过量写入存储的问题；RPS报道称621.24驱动疑似无必要写入PC固态硬盘。",
+          "published_at": "2026-11-21T11:18:11+08:00",
+          "follow_up": true,
+          "new_facts": "NVIDIA发布GeForce Hotfix Driver 621.35，修复Release 620世代驱动过量写入存储的问题；该版本为非WHQL热修复；RPS报道621.24驱动疑似无必要写入PC固态硬盘并建议回退。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "NVIDIA",
+            "GeForce Hotfix Driver 621.35",
+            "GeForce Game Ready Driver"
+          ],
+          "facts": [
+            {
+              "text": "4Gamer报道，NVIDIA于美国时间11月20日发布非WHQL认证的GeForce Hotfix Driver 621.35，修复Release 620世代驱动中NVDisplay.Container.exe的nvtops插件持续过量写入存储的问题。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "米国時間2026年11月20日，NVIDIAは，WHQL（Windows Hardware Quality Labs）非通過のHotfix版ドライバ「 GeForce Hotfix Driver 621.35 」をリリースした。"
+                },
+                {
+                  "source_id": "s11",
+                  "quote": "本ドライバは，GeForce公式フォーラムで報告があった，Release 620世代のGeForce Driverで発生する，ストレージに大量の書き込みを行う不具合を修正したものだ。"
+                },
+                {
+                  "source_id": "s11",
+                  "quote": "NVDisplay.Container.exeの「nvtops」プラグインが，ストレージに対して過剰な書き込みを続けることのあった問題"
+                }
+              ]
+            },
+            {
+              "text": "该媒体称，热修复版省略了WHQL版的质量保证流程，安装存在一定风险；希望规避风险的用户可回退到GeForce 617.42，等待下一版WHQL驱动。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "ただし，Hotfix版ドライバはWHQL版のドライバに比べて，品質保証プロセスが省略されている。そのため，利用には多少のリスクがともなう可能性がある点を考慮すべきだ。"
+                },
+                {
+                  "source_id": "s11",
+                  "quote": "リスクを避けたいGeForceユーザーは，この問題が起きない「 GeForce 617.42 Driver 」にバージョンダウンして，次のWHQL版ドライバを待つことをおすすめする。"
+                }
+              ]
+            },
+            {
+              "text": "Rock Paper Shotgun在11月20日的报道中称，621.24驱动似乎会无必要地写入PC固态硬盘，并建议回退。",
+              "kind": "community",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s25",
+                  "quote": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting"
+                },
+                {
+                  "source_id": "s25",
+                  "quote": "Driver 621.24 looks to be dodgy"
+                }
+              ]
+            }
+          ],
+          "limitations": "NVIDIA发布说明未直接取得，信息来自4Gamer转述；RPS可见内容仅提供标题和副标题，未提供受影响驱动版本范围、写入量及触发条件的正文细节。",
+          "bilingual": {
+            "title_en": "NVIDIA Releases Hotfix Driver 621.35 to Fix Persistent SSD Writes",
+            "sentences": [
+              {
+                "en": "4Gamer reported that NVIDIA released the non-WHQL-certified GeForce Hotfix Driver 621.35 on November 20, U.S. time, to fix an issue in which the nvtops plug-in of NVDisplay.Container.exe in Release 620-generation drivers continuously performed excessive writes to storage.",
+                "zh": "4Gamer报道，NVIDIA于美国时间11月20日发布非WHQL认证的GeForce Hotfix Driver 621.35，修复Release 620世代驱动中NVDisplay.Container.exe的nvtops插件持续过量写入存储的问题。"
+              },
+              {
+                "en": "The outlet said that the hotfix version omits the quality assurance process of WHQL versions, so installation carries a certain risk; users who wish to avoid the risk can roll back to GeForce 617.42 and wait for the next WHQL driver.",
+                "zh": "该媒体称，热修复版省略了WHQL版的质量保证流程，安装存在一定风险；希望规避风险的用户可回退到GeForce 617.42，等待下一版WHQL驱动。"
+              },
+              {
+                "en": "In a report on November 20, Rock Paper Shotgun said that the 621.24 driver appeared to perform unnecessary writes to PC solid-state drives and recommended rolling back.",
+                "zh": "Rock Paper Shotgun在11月20日的报道中称，621.24驱动似乎会无必要地写入PC固态硬盘，并建议回退。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Arika|董事去世|Akira Kurabayashi",
+          "title": "Arika董事Akira Kurabayashi因心力衰竭去世",
+          "summary": "Rock Paper Shotgun于11月20日报道，Arika公司董事Akira Kurabayashi因心力衰竭去世，其参与作品包括《Street Fighter EX》《Tetris 99》和《Fighting EX Layer》。",
+          "published_at": "2026-11-20T21:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Arika公司董事Akira Kurabayashi因心力衰竭去世；RPS列出的参与作品包括《Street Fighter EX》《Tetris 99》和《Fighting EX Layer》。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Arika",
+            "Akira Kurabayashi",
+            "Street Fighter EX",
+            "Tetris 99",
+            "Fighting EX Layer"
+          ],
+          "facts": [
+            {
+              "text": "Rock Paper Shotgun于11月20日报道，Arika公司董事Akira Kurabayashi因心力衰竭去世。该媒体列出的参与作品包括《Street Fighter EX》《Tetris 99》和《Fighting EX Layer》。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure"
+                }
+              ]
+            }
+          ],
+          "limitations": "RPS可见内容仅提供标题，未给出去世日期、Arika官方声明全文及具体职务细节；未取得Arika官方公告。",
+          "bilingual": {
+            "title_en": "Arika Director Akira Kurabayashi Dies of Heart Failure",
+            "sentences": [
+              {
+                "en": "Rock Paper Shotgun reported on November 20 that Arika director Akira Kurabayashi died of heart failure.",
+                "zh": "Rock Paper Shotgun于11月20日报道，Arika公司董事Akira Kurabayashi因心力衰竭去世。"
+              },
+              {
+                "en": "The outlet listed his works as including \"Street Fighter EX,\" \"Tetris 99,\" and \"Fighting EX Layer.\"",
+                "zh": "该媒体列出的参与作品包括《Street Fighter EX》《Tetris 99》和《Fighting EX Layer》。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s15",
+      "url": "https://www.4gamer.net/games/758/G075801/20261121002/",
+      "title": "「グランド・セフト・オートVI」，発売“前”に全世界で3250万本を販売。初日の売上高は推計37億9000万ドル（約6030億円）に達する",
+      "published_at": "2026-11-21T09:34:49+09:00"
+    },
+    {
+      "id": "s11",
+      "url": "https://www.4gamer.net/games/022/G002210/20261121009/",
+      "title": "ストレージに大量のデータを書き込み続ける不具合を修正した「GeForce Hotfix Driver 621.35」をリリース",
+      "published_at": "2026-11-21T12:18:11+09:00"
+    },
+    {
+      "id": "s27",
+      "url": "https://www.rockpapershotgun.com/akira-kurabayashi-company-director-at-arika-and-developer-on-street-fighter-ex-tetris-99-fighting-ex-layer-and-more-has-sadly-passed-away-due-to-heart-failure",
+      "title": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure",
+      "published_at": "2026-11-20T13:00:00+00:00"
+    },
+    {
+      "id": "s25",
+      "url": "https://www.rockpapershotgun.com/nvidias-latest-graphics-card-driver-appears-to-be-unnecessarily-writing-to-pc-ssds-something-thats-dumb-annoying-and-definitely-warrants-reverting",
+      "title": "Nvidia's latest graphics card driver appears to be unnecessarily writing to PC SSDs, something that's dumb, annoying and definitely warrants reverting",
+      "published_at": "2026-11-20T16:04:10+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "二游的部分资料检索未完成，本期覆盖受限。",
+    "热门游戏事件与热梗的部分资料检索未完成，本期覆盖受限。",
+    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}

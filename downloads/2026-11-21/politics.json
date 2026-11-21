@@ -1,0 +1,246 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-21",
+  "title": "2026-11-21 政治",
+  "summary": "本期收录2条通过核验的新闻。",
+  "highlights": [
+    "特朗普威胁惩罚在海外建设AI数据中心的美国科技企业",
+    "丹麦驱逐俄罗斯国防武官，俄方称将适当回应"
+  ],
+  "window_start": "2026-11-20T12:00:00+08:00",
+  "window_end": "2026-11-21T12:00:00+08:00",
+  "generated_at": "2026-11-21T12:14:51.141708+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "美国|特朗普威胁惩罚|在海外建设数据中心的美国科技企业",
+          "title": "特朗普威胁惩罚在海外建设AI数据中心的美国科技企业",
+          "summary": "特朗普20日称将禁止美国公司在海外建设AI数据中心，并威胁对这样做的科技企业征收“巨额税”；他表示要把数据中心留在美国，但未说明如何执行，政策是否成形尚不清楚。",
+          "published_at": "2026-11-21T05:47:41+08:00",
+          "follow_up": false,
+          "new_facts": "特朗普威胁对在海外建设AI数据中心的美国科技企业征收“巨额税”，称要把数据中心留在美国；未提供执行细节，政策是否成形不明。",
+          "verification": "corroborated",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "美国",
+            "唐纳德·特朗普",
+            "美国科技企业",
+            "人工智能数据中心"
+          ],
+          "limitations": "特朗普表态的细节来自记者会转述，尚未形成正式政策文件；执行方式不明。",
+          "facts": [
+            {
+              "text": "特朗普威胁对在海外建设人工智能数据中心的美国科技企业征收“巨额税”，并称要把数据中心留在美国。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "Donald Trump has said he will ban US companies from building AI data centres overseas, threatening a \"tremendous tax\" for tech firms who do so."
+                },
+                {
+                  "source_id": "s38",
+                  "quote": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "特朗普20日在白宫记者会上表示，不会允许美国公司到海外建设数据中心，并称这一想法此前未告知其团队；报道称他没有提供细节，政策能否成为正式措施尚不清楚。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "We're not going to allow our companies to build data centres outside of our country,"
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "whether that idea will become policy remains unclear."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "此举紧随美国政府本周宣布限制先进芯片出口、要求企业取得许可之后；数据中心建设也是11月中期选举的议题之一。",
+              "evidence": [
+                {
+                  "source_id": "s34",
+                  "quote": "Washington on Monday announced firms would require a licence to buy advanced chips, so US officials can monitor whether they are being used to serve Chinese companies or they are being smuggled into China."
+                },
+                {
+                  "source_id": "s34",
+                  "quote": "Data centres were a central issue in the midterm elections earlier in November, with many Democratic candidates promising tougher regulation on their construction."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Trump threatens to punish US tech companies building AI data centers overseas",
+            "sentences": [
+              {
+                "en": "Trump threatened to impose a \"huge tax\" on US tech companies that build artificial intelligence data centers overseas, and said he wants to keep data centers in the United States.",
+                "zh": "特朗普威胁对在海外建设人工智能数据中心的美国科技企业征收“巨额税”，并称要把数据中心留在美国。"
+              },
+              {
+                "en": "Trump said at a White House press conference on the 20th that he would not allow US companies to build data centers overseas, and that the idea had not previously been communicated to his team; reports said he gave no details and it was unclear whether the policy could become a formal measure.",
+                "zh": "特朗普20日在白宫记者会上表示，不会允许美国公司到海外建设数据中心，并称这一想法此前未告知其团队；报道称他没有提供细节，政策能否成为正式措施尚不清楚。"
+              },
+              {
+                "en": "The move came shortly after the US government announced this week restrictions on advanced chip exports and a requirement for companies to obtain licenses; data center construction is also one of the issues in the November midterm elections.",
+                "zh": "此举紧随美国政府本周宣布限制先进芯片出口、要求企业取得许可之后；数据中心建设也是11月中期选举的议题之一。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "丹麦|驱逐|俄罗斯驻丹麦国防武官",
+          "title": "丹麦驱逐俄罗斯国防武官，俄方称将适当回应",
+          "summary": "丹麦外交大臣拉斯穆森20日宣布驱逐俄罗斯驻丹麦国防武官，限7日内离境；丹麦安全与情报局称俄情报机构策划针对一名乌克兰裔美国公民的暗杀，俄方称丹方未提供证据并将适当回应。",
+          "published_at": "2026-11-21T11:27:26+08:00",
+          "follow_up": true,
+          "new_facts": "丹麦宣布驱逐俄驻丹国防武官，限7日离境；丹麦安全与情报局称俄情报机构策划针对一名乌克兰裔美国公民的暗杀，9月25日挫败；俄方称未获证据并将适当回应。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "丹麦",
+            "俄罗斯",
+            "俄罗斯驻丹麦国防武官",
+            "基辅斯顿纳（Kyivstoner）"
+          ],
+          "limitations": "暗杀指控来自丹麦安全与情报局，俄方否认并提供证据之说未获独立核实；驱逐细节主要来自中新网转述。",
+          "facts": [
+            {
+              "text": "据中新社报道，丹麦外交大臣拉斯穆森20日宣布，丹麦决定驱逐俄罗斯驻丹麦国防武官，要求其在7日内离境。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "当地时间20日，丹麦外交大臣拉斯穆森宣布，丹麦决定驱逐俄罗斯驻丹麦国防武官，要求其在7日内离境。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "拉斯穆森在记者会上称，丹麦已召见俄罗斯驻丹麦大使弗拉基米尔·巴尔宾，告知驱逐决定；他称此举旨在向俄方发出明确信号，丹麦不会因此切断与俄罗斯的外交联系，将继续支持乌克兰。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "拉斯穆森当天在哥本哈根举行的记者会上表示，丹麦已召见俄罗斯驻丹麦大使弗拉基米尔·巴尔宾，告知丹方驱逐俄罗斯国防武官的决定。他称，此举旨在向俄方“发出明确信号”。拉斯穆森同时表示，丹麦不会因此切断与俄罗斯的外交联系，将继续支持乌克兰。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "丹麦安全与情报局称，俄情报机构策划并发动了针对一名乌克兰裔美国公民的暗杀，丹方9月25日挫败行动；俄驻丹使馆称丹方未提供证据，俄外交部称将作出“适当回应”。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "丹麦安全与情报局20日发布通报称，该机构评估认为，俄罗斯情报机构策划并发起了一起针对一名乌克兰裔美国公民的暗杀行动。丹麦有关部门于9月25日挫败了这一行动。"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "俄罗斯驻丹麦大使馆表示，丹麦方面没有提供俄罗斯参与所谓暗杀行动的证据。俄罗斯外交部发言人扎哈罗娃则表示，莫斯科将对丹麦驱逐俄国防武官一事作出“适当回应”。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Denmark expels Russian defense attaché, Russia says it will respond appropriately",
+            "sentences": [
+              {
+                "en": "According to China News Service, Danish Foreign Minister Rasmussen announced on the 20th that Denmark had decided to expel Russia's defense attaché to Denmark and demanded that he leave the country within seven days.",
+                "zh": "据中新社报道，丹麦外交大臣拉斯穆森20日宣布，丹麦决定驱逐俄罗斯驻丹麦国防武官，要求其在7日内离境。"
+              },
+              {
+                "en": "Rasmussen said at a press conference that Denmark had summoned Russian Ambassador to Denmark Vladimir Barbin to inform him of the expulsion decision; he said the move was intended to send a clear signal to Russia, and that Denmark would not cut off diplomatic ties with Russia as a result and would continue to support Ukraine.",
+                "zh": "拉斯穆森在记者会上称，丹麦已召见俄罗斯驻丹麦大使弗拉基米尔·巴尔宾，告知驱逐决定；他称此举旨在向俄方发出明确信号，丹麦不会因此切断与俄罗斯的外交联系，将继续支持乌克兰。"
+              },
+              {
+                "en": "The Danish Security and Intelligence Service said that Russian intelligence services had planned and launched an assassination attempt against a US citizen of Ukrainian origin, and that Danish authorities foiled the operation on September 25; the Russian Embassy in Denmark said the Danish side had provided no evidence, while the Russian Foreign Ministry said it would give an \"appropriate response.\"",
+                "zh": "丹麦安全与情报局称，俄情报机构策划并发动了针对一名乌克兰裔美国公民的暗杀，丹方9月25日挫败行动；俄驻丹使馆称丹方未提供证据，俄外交部称将作出“适当回应”。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s9",
+      "url": "https://www.chinanews.com.cn/gj/2026/11-21/10735674.shtml",
+      "title": "丹麦驱逐俄罗斯武官，俄表示将“适当回应”",
+      "published_at": "2026-11-21T11:27:26+08:00"
+    },
+    {
+      "id": "s34",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+      "title": "Trump threatens ban on US firms building AI data centres overseas",
+      "published_at": null
+    },
+    {
+      "id": "s38",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+      "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "published_at": "2026-11-20T21:47:41+00:00"
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}

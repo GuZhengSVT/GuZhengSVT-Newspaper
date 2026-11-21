@@ -1,0 +1,377 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-21",
+  "title": "2026-11-21 科技",
+  "summary": "本期收录三条：台湾6G-FORMOSA实验网全面启用，定位为测试验证平台；TechPowerUp报道微软为Windows 11提供USB4 RDMA支持，多台PC可串联分担负载，正式或预览状态未说明；腾讯混元团队在Reddit AMA谈Hy4改进空间与更大模型计划。",
+  "highlights": [
+    "台湾6G-FORMOSA实验网11月20日全面启用，定位为测试验证平台。",
+    "TechPowerUp报道微软为Windows 11提供USB4 RDMA支持，多台PC可串联处理大负载，正式或预览状态未说明。",
+    "腾讯混元团队在Reddit AMA称Hy4后训练仍有改进空间，计划训练更大模型。"
+  ],
+  "window_start": "2026-11-20T12:00:00+08:00",
+  "window_end": "2026-11-21T12:00:00+08:00",
+  "generated_at": "2026-11-21T12:04:24.457294+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "腾讯混元|社区问答|Hy4与更大规模模型计划",
+          "title": "腾讯混元团队：Hy4后训练仍有改进空间，计划训练更大模型",
+          "summary": "腾讯混元团队在Reddit AMA表示Hy4后训练仍有改进空间，正进行大规模强化学习并计划训练更大模型，同时考虑240亿至310亿参数稠密模型。",
+          "published_at": "2026-11-21T11:24:35+08:00",
+          "follow_up": true,
+          "new_facts": "腾讯混元团队AMA称Hy4后训练仍有改进空间，计划训练更大规模模型，并考虑推出240亿至310亿参数稠密模型。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据IT之家11月21日报道，腾讯首席AI科学家、混元大模型负责人姚顺雨和团队成员11月21日凌晨在Reddit举行持续120分钟的AMA，回答开发者提问。",
+              "evidence": [
+                {
+                  "source_id": "s46",
+                  "quote": "11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和团队成员，在 Reddit 进行了一场持续 120 分钟的 AMA"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "团队称，Hy3和Hy4表明做得扎实的小模型也能超过更大模型，成本更低；但Hy4仍有很大改进空间，尤其是后训练。团队正投入大规模强化学习，并计划训练更大规模模型。",
+              "evidence": [
+                {
+                  "source_id": "s46",
+                  "quote": "Hy3 和 Hy4 已经表明， 做得扎实的小模型也能超过更大的模型。 它们的成本也更低，而且在这个过程中，你能学到更多、收获更多。"
+                },
+                {
+                  "source_id": "s46",
+                  "quote": "Hy4 仍有很大的改进空间，尤其是通过后训练。“我们正投入大量精力进行大规模强化学习，同时继续改善用户体验和模型安全。 我们还计划训练更大规模的模型 。”"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "被问及是否会推出240亿至310亿参数的稠密模型时，团队表示“有可能，我们正在考虑”。",
+              "evidence": [
+                {
+                  "source_id": "s46",
+                  "quote": "对于是否有可能推出 240 亿到 310 亿参数的稠密模型？该团队表示：“有可能，我们正在考虑。”"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "腾讯混元",
+            "Hy4",
+            "姚顺雨"
+          ],
+          "limitations": "仅IT之家转述Reddit AMA，未直接核对AMA原文；团队表态不等同于产品发布或既定时间表。",
+          "bilingual": {
+            "title_en": "Tencent Hunyuan Team: Hy4 Post-Training Still Has Room for Improvement, Plans to Train Larger Models",
+            "sentences": [
+              {
+                "en": "IT Home reported on November 21 that Yao Shunyu, Tencent's Chief AI Scientist and head of the Hunyuan large model, and team members held a 120-minute AMA on Reddit early on November 21 to answer developers' questions.",
+                "zh": "据IT之家11月21日报道，腾讯首席AI科学家、混元大模型负责人姚顺雨和团队成员11月21日凌晨在Reddit举行持续120分钟的AMA，回答开发者提问。"
+              },
+              {
+                "en": "The team said Hy3 and Hy4 show that well-built small models can also outperform larger models at lower cost, but Hy4 still has considerable room for improvement, especially in post-training.",
+                "zh": "团队称，Hy3和Hy4表明做得扎实的小模型也能超过更大模型，成本更低；但Hy4仍有很大改进空间，尤其是后训练。"
+              },
+              {
+                "en": "The team is investing in large-scale reinforcement learning and plans to train larger-scale models.",
+                "zh": "团队正投入大规模强化学习，并计划训练更大规模模型。"
+              },
+              {
+                "en": "When asked whether they would launch dense models with 24 billion to 31 billion parameters, the team said, “It’s possible; we’re considering it.”",
+                "zh": "被问及是否会推出240亿至310亿参数的稠密模型时，团队表示“有可能，我们正在考虑”。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "微软|引入|Windows 11 USB4 RDMA",
+          "title": "Windows 11引入USB4 RDMA，多台PC可串联分担负载",
+          "summary": "TechPowerUp报道，微软开始为Windows 11提供USB4 RDMA支持，但未说明是正式上线还是预览；多台PC可通过菊花链互联分担负载，微软测试显示该方案延迟低于USB4以太网。",
+          "published_at": "2026-11-21T01:51:54+08:00",
+          "follow_up": false,
+          "new_facts": "TechPowerUp报道微软开始为Windows 11提供USB4 RDMA支持，未说明正式上线或预览；多PC菊花链互联，测试延迟28至50微秒，低于USB4以太网UDP方案。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据TechPowerUp 11月21日报道，微软开始为Windows 11提供USB4协议的远程直接内存访问（RDMA）支持，允许多台PC以菊花链方式互联并共同处理大负载；报道未说明该功能是正式上线还是预览。报道称，这使家庭AI推理等场景可调用多台PC的算力和内存。",
+              "evidence": [
+                {
+                  "source_id": "s40",
+                  "quote": "Microsoft is finally enabling Remote Direct Memory Access (RDMA) over the USB4 protocol on Windows 11, allowing multiple PCs to be daisy-chained and used together to process large workloads."
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "Essentially, AI inferencing at home is now limited by the number of PCs and their specifications, rather than a single PC."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道引述微软的测试称，两台PC互联时，USB4 RDMA的往返延迟为28至50微秒，而USB4上基于UDP的以太网方案为116至194微秒，前者约快四倍；USB4链路带宽最高80 Gbps。",
+              "evidence": [
+                {
+                  "source_id": "s40",
+                  "quote": "Microsoft interconnected two PCs to measure round-trip latency by message size, finding that RDMA over USB4 achieves latency between 28 and 50 microseconds. In contrast, Ethernet over USB4 using UDP results in latency between 116 and 194 microseconds, making the RDMA implementation roughly four times faster."
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "all through USB4, which offers up to 80 Gbps bandwidth for fast data transfer."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该功能要求使用由Windows管理的USB4端口并启用内核DMA保护；兼容框架可通过NetworkDirect接入，无需编写USB4专用代码。",
+              "evidence": [
+                {
+                  "source_id": "s40",
+                  "quote": "The feature requires Windows-managed USB4 ports with Kernel DMA Protection."
+                },
+                {
+                  "source_id": "s40",
+                  "quote": "Compatible frameworks access the link through NetworkDirect without requiring USB4-specific code."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Microsoft",
+            "Windows 11",
+            "USB4",
+            "RDMA"
+          ],
+          "limitations": "仅TechPowerUp报道，未直接取得微软官方文档；正式或预览状态及支持范围未独立确认。",
+          "bilingual": {
+            "title_en": "Windows 11 Introduces USB4 RDMA, Allowing Multiple PCs to Be Daisy-Chained to Share Workloads",
+            "sentences": [
+              {
+                "en": "According to a November 21 report by TechPowerUp, Microsoft has begun providing Remote Direct Memory Access (RDMA) support over USB4 for Windows 11, allowing multiple PCs to be connected in a daisy chain and jointly handle large workloads; the report did not say whether the feature is officially launched or a preview.",
+                "zh": "据TechPowerUp 11月21日报道，微软开始为Windows 11提供USB4协议的远程直接内存访问（RDMA）支持，允许多台PC以菊花链方式互联并共同处理大负载；报道未说明该功能是正式上线还是预览。"
+              },
+              {
+                "en": "The report said this allows scenarios such as home AI inference to use the computing power and memory of multiple PCs.",
+                "zh": "报道称，这使家庭AI推理等场景可调用多台PC的算力和内存。"
+              },
+              {
+                "en": "Citing Microsoft's tests, the report said that when two PCs are connected, USB4 RDMA has a round-trip latency of 28 to 50 microseconds, compared with 116 to 194 microseconds for a UDP-based Ethernet solution over USB4—about four times faster; USB4 link bandwidth is up to 80 Gbps.",
+                "zh": "报道引述微软的测试称，两台PC互联时，USB4 RDMA的往返延迟为28至50微秒，而USB4上基于UDP的以太网方案为116至194微秒，前者约快四倍；USB4链路带宽最高80 Gbps。"
+              },
+              {
+                "en": "The feature requires the use of Windows-managed USB4 ports and enabled kernel DMA protection; compatible frameworks can connect via NetworkDirect without the need to write USB4-specific code.",
+                "zh": "该功能要求使用由Windows管理的USB4端口并启用内核DMA保护；兼容框架可通过NetworkDirect接入，无需编写USB4专用代码。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "台湾经济部/国科会|启用|6G-FORMOSA次世代通讯实验网",
+          "title": "台湾6G-FORMOSA实验网全面启用，串联国际6G验证平台",
+          "summary": "台湾经济部与国科会11月20日宣布6G-FORMOSA实验网全面启用，串联欧盟、英国等国际6G实验网，并计划2027年与欧盟启动联合征案。",
+          "published_at": "2026-11-20T18:37:35+08:00",
+          "follow_up": true,
+          "new_facts": "台湾6G-FORMOSA实验网11月20日全面启用，18家产研学参与，串联欧盟、英国实验网及Eutelsat OneWeb、SES；2027年计划与欧盟启动6G联合征案。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据中央社和经济日报11月20日报道，台湾经济部与国科会宣布，次世代通讯实验网（6G-FORMOSA）全面启用。该网由工研院与联发科、和硕、明泰、启碁、濰元等18家产研学伙伴共同建置。",
+              "evidence": [
+                {
+                  "source_id": "s87",
+                  "quote": "經濟部與國科會於20日宣布國內「次世代通訊實驗網（6G-FORMOSA）」全面啟用！"
+                },
+                {
+                  "source_id": "s87",
+                  "quote": "全新啟用的「次世代通訊實驗網」由聯發科技、和碩、明泰、啟碁、濰元、工研院等18家產學研共同投入"
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "國內次世代通訊實驗網（6G-FORMOSA）全面啟用，已串聯歐盟、英國等國際6G實驗網及國際衛星營運商，並整合18家產學研夥伴"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "实验网以网络战情室整合通讯感知融合、高效节能、智慧网络、3GPP非地面网络及多轨道宽带卫星五大主题，已协助20家台湾业者进行技术验证；并首度引入美国VIAVI与西班牙马拉加大学等验测能量，完成6G通感融合基站低空无人机侦测、3GPP非地面网络手机直连卫星即时传送救援信息两项在台测试。",
+              "evidence": [
+                {
+                  "source_id": "s87",
+                  "quote": "以網路戰情室整合「通訊感知融合、高效節能、智慧網路、3GPP非地面網路及多軌道寬頻衛星」五大主題。目前已累計協助20家國內業者進行技術驗測。"
+                },
+                {
+                  "source_id": "s87",
+                  "quote": "完成「6G通感融合基地台低空無人機偵測」與「3GPP非地面網路手機直連衛星即時傳送救援訊息」兩項國際合作在臺驗測"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "经济部称，该网已串联欧盟、英国等国际6G实验网及Eutelsat OneWeb、SES等卫星运营商；2027年将与欧盟委员会通讯网络暨科技总署共同启动台欧盟6G联合征案，初步聚焦6G芯片、AI-RAN与ISAC技术研发和验测。国际6G标准预计2029年释出。",
+              "evidence": [
+                {
+                  "source_id": "s87",
+                  "quote": "已成功串聯歐盟、英國等國際6G實驗網與Eutelsat OneWeb、SES國際衛星營運商"
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "2027年將與歐盟執委會通訊網路暨科技總署（DG CONNECT）共同啟動「台歐盟6G聯合徵案」"
+                },
+                {
+                  "source_id": "s89",
+                  "quote": "初步規劃聚焦6G晶片、人工智慧無線接取網路（AI-RAN）及通訊感知融合（ISAC）等技術研發與驗測"
+                },
+                {
+                  "source_id": "s87",
+                  "quote": "國際6G標準預計於2029年釋出"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "这一实验网定位为测试验证平台，旨在让台湾业者在国际标准确立前对接跨国验证资源。其启用不等于6G商用网络开通或标准冻结。",
+              "evidence": [
+                {
+                  "source_id": "s89",
+                  "quote": "打造國際測試驗證平台"
+                },
+                {
+                  "source_id": "s87",
+                  "quote": "在國際標準組織3GPP於 2029年確立第一版6G標準前，搶占國際6G市場先機。"
+                }
+              ],
+              "kind": "explanation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "台湾经济部",
+            "国科会",
+            "工业技术研究院",
+            "6G-FORMOSA",
+            "联发科技",
+            "和硕",
+            "明泰",
+            "启",
+            "启碁",
+            "濰元",
+            "Eutelsat OneWeb",
+            "SES"
+          ],
+          "limitations": "报道均转述经济部与工研院新闻稿，未直接取得官方原文；实验网启用不等于6G商用或标准冻结，2027年联合征案为计划。",
+          "bilingual": {
+            "title_en": "Taiwan's 6G-FORMOSA Experimental Network Fully Launched, Links International 6G Validation Platforms",
+            "sentences": [
+              {
+                "en": "According to CNA and Economic Daily News on November 20, Taiwan's Ministry of Economic Affairs and National Science and Technology Council announced the full launch of the next-generation communications experimental network (6G-FORMOSA).",
+                "zh": "据中央社和经济日报11月20日报道，台湾经济部与国科会宣布，次世代通讯实验网（6G-FORMOSA）全面启用。"
+              },
+              {
+                "en": "The network was jointly built by ITRI and 18 industry-academia-research partners, including MediaTek, Pegatron, Alpha Networks, Wistron NeWeb and Weiyuan.",
+                "zh": "该网由工研院与联发科、和硕、明泰、启碁、濰元等18家产研学伙伴共同建置。"
+              },
+              {
+                "en": "Through a network situation room, the experimental network integrates five themes—communication-sensing integration, high energy efficiency, smart networks, 3GPP non-terrestrial networks and multi-orbit broadband satellites—and has assisted 20 Taiwanese companies in technology validation; it has for the first time brought in testing capabilities from the U.S. VIAVI and Spain's University of Malaga, among others, and has completed two tests in Taiwan: low-altitude drone detection by a 6G integrated sensing and communication base station, and real-time transmission of rescue information via direct smartphone-to-satellite communication under 3GPP non-terrestrial networks.",
+                "zh": "实验网以网络战情室整合通讯感知融合、高效节能、智慧网络、3GPP非地面网络及多轨道宽带卫星五大主题，已协助20家台湾业者进行技术验证；并首度引入美国VIAVI与西班牙马拉加大学等验测能量，完成6G通感融合基站低空无人机侦测、3GPP非地面网络手机直连卫星即时传送救援信息两项在台测试。"
+              },
+              {
+                "en": "The Ministry of Economic Affairs said the network has linked with international 6G experimental networks in the EU, the UK and elsewhere, as well as satellite operators such as Eutelsat OneWeb and SES; in 2027, it will jointly launch a Taiwan-EU 6G joint call for proposals with the European Commission's Directorate-General for Communications Networks, Content and Technology (DG CONNECT), initially focusing on the R&D and testing of 6G chips, AI-RAN and ISAC technologies.",
+                "zh": "经济部称，该网已串联欧盟、英国等国际6G实验网及Eutelsat OneWeb、SES等卫星运营商；2027年将与欧盟委员会通讯网络暨科技总署共同启动台欧盟6G联合征案，初步聚焦6G芯片、AI-RAN与ISAC技术研发和验测。"
+              },
+              {
+                "en": "International 6G standards are expected to be released in 2029.",
+                "zh": "国际6G标准预计2029年释出。"
+              },
+              {
+                "en": "This experimental network is positioned as a testing and validation platform aimed at enabling Taiwanese companies to connect with cross-border validation resources before international standards are established.",
+                "zh": "这一实验网定位为测试验证平台，旨在让台湾业者在国际标准确立前对接跨国验证资源。"
+              },
+              {
+                "en": "Its launch does not mean that a commercial 6G network has been opened or that the standards have been frozen.",
+                "zh": "其启用不等于6G商用网络开通或标准冻结。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s87",
+      "url": "https://money.udn.com/money/story/7307/9892189?from=edn_newestlist_cate_side",
+      "title": "臺灣首座「次世代通訊實驗網」啟動 推動聯合驗測 加速接軌國際生態系",
+      "published_at": "2026-11-20T21:15:43+08:00"
+    },
+    {
+      "id": "s40",
+      "url": "https://www.techpowerup.com/355062/microsoft-brings-rdma-over-usb4-to-windows-11-for-daisy-chained-pcs",
+      "title": "Microsoft Brings RDMA over USB4 to Windows 11 for Daisy-Chained PCs",
+      "published_at": "2026-11-20T17:51:54+00:00"
+    },
+    {
+      "id": "s46",
+      "url": "https://www.ithome.com/1/030/338.htm",
+      "title": "腾讯混元姚顺雨团队：Hy4 仍有很大改进空间，计划训练更大规模模型",
+      "published_at": "2026-11-21T11:24:35+08:00"
+    },
+    {
+      "id": "s89",
+      "url": "https://money.udn.com/money/story/5612/9891967",
+      "title": "台灣6G實驗網全面啟用 串聯18家產學研打造國際測試驗證平台",
+      "published_at": "2026-11-20T18:37:35+08:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "人工智能的部分资料检索未完成，本期覆盖受限。",
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
