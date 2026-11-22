@@ -1,0 +1,133 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-22",
+  "title": "2026-11-22 科技",
+  "summary": "本期收录1条新闻。",
+  "highlights": [
+    "Phison展示内置NPU的企业级SSD设计，可运行AI框架"
+  ],
+  "window_start": "2026-11-21T12:00:00+08:00",
+  "window_end": "2026-11-22T12:00:00+08:00",
+  "generated_at": "2026-11-22T12:29:05.955351+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Phison|预览|内置NPU的计算存储SSD",
+          "title": "Phison展示内置NPU的企业级SSD设计，可运行AI框架",
+          "summary": "Phison在芝加哥SC26展示企业级计算存储SSD设计，盘内集成NPU和64GB内存，可运行PyTorch等框架，公司称可将数据传输减少10至100倍。产品仍在开发中，控制器、接口与形态未公布。",
+          "published_at": "2026-11-22T09:23:59+08:00",
+          "follow_up": false,
+          "new_facts": "Phison在SC26展示内置NPU和64GB板上内存的企业级SSD设计，带宽130GB/s，支持PyTorch、vLLM、OpenVINO和llama.cpp；公司称对合适负载可将数据传输减少10至100倍，NPU性能以DMIPS衡量；控制器、接口、形态和存储类型尚未公布，属概念验证。",
+          "verification": "single_source",
+          "reliability": "B",
+          "importance": "重要",
+          "entities": [
+            "Phison",
+            "企业级计算存储SSD"
+          ],
+          "limitations": "仅有TechPowerUp的单篇采编报道，未取得Phison官方材料；产品处于预览阶段，控制器、接口、外形规格与存储介质类型均未披露，也无独立测试或样片数据，130GB/s为板上内存带宽而非盘内NPU算力。",
+          "facts": [
+            {
+              "kind": "fact",
+              "text": "存储控制器厂商Phison在芝加哥SC26超算展上展示了一款企业级SSD设计，把NPU和64GB板上内存放进盘内，内存带宽130GB/s，可运行PyTorch、vLLM、OpenVINO和llama.cpp等AI框架。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "Phison has detailed an enterprise SSD design that can run AI frameworks on the drive itself. At the Supercomputing 2026 (SC26) event in Chicago, the company showed off the computational storage design that hosts both an NPU and 64 GB of onboard memory running at 130 GB/s. It also supports PyTorch, vLLM, OpenVINO, and llama.ccp."
+                }
+              ]
+            },
+            {
+              "kind": "explanation",
+              "text": "Phison称，该设计针对合适负载可把数据传输量减少10至100倍：数据在盘内并行扫描和处理，只把相关结果回传主机，而不必搬运整个数据集。其NPU性能用DMIPS衡量，没有采用业界常见的TOPS。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "Phison says this SSD could cut data transfers by 10 to 100 times for suitable workloads. It achieves that by scanning and processing the dataset in parallel, so it only sends back the relevant results instead of moving the entire dataset over the host. The company uses DMIPS to rate its NPU performance instead of using TOPS, which is a bit unusual."
+                }
+              ]
+            },
+            {
+              "kind": "limitation",
+              "text": "目前公布的信息有限，控制器、接口、外形规格和存储类型均未说明，相关产品仍在开发中，应视为概念验证而非可售产品。",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s17",
+                  "quote": "As for the SSD with the built-in NPU, it is sparse on details for now. We don't know what kind of controller, interface, form factor, or memory type it uses or plans to use. These are products that are still in development, so it's best to treat them as proof of concepts for now."
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Phison Shows Enterprise SSD Design With Built-in NPU That Can Run AI Frameworks",
+            "sentences": [
+              {
+                "en": "Phison, a storage controller maker, showcased an enterprise SSD design at the SC26 supercomputing show in Chicago that places an NPU and 64GB of on-board memory inside the drive, provides 130GB/s of memory bandwidth, and can run AI frameworks such as PyTorch, vLLM, OpenVINO, and llama.cpp.",
+                "zh": "存储控制器厂商Phison在芝加哥SC26超算展上展示了一款企业级SSD设计，把NPU和64GB板上内存放进盘内，内存带宽130GB/s，可运行PyTorch、vLLM、OpenVINO和llama.cpp等AI框架。"
+              },
+              {
+                "en": "Phison says the design can reduce data transfer volume by 10 to 100 times for suitable workloads: data is scanned and processed in parallel inside the drive, and only relevant results are returned to the host instead of moving the entire dataset.",
+                "zh": "Phison称，该设计针对合适负载可把数据传输量减少10至100倍：数据在盘内并行扫描和处理，只把相关结果回传主机，而不必搬运整个数据集。"
+              },
+              {
+                "en": "Its NPU performance is measured in DMIPS rather than the industry-common TOPS.",
+                "zh": "其NPU性能用DMIPS衡量，没有采用业界常见的TOPS。"
+              },
+              {
+                "en": "Information disclosed so far is limited, with the controller, interface, form factor, and storage type all unspecified; the related product is still under development and should be viewed as a proof of concept rather than a sellable product.",
+                "zh": "目前公布的信息有限，控制器、接口、外形规格和存储类型均未说明，相关产品仍在开发中，应视为概念验证而非可售产品。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s17",
+      "url": "https://www.techpowerup.com/355089/phison-previews-an-ssd-that-runs-ai-frameworks-on-its-own-npu",
+      "title": "Phison Previews an SSD That Runs AI Frameworks on Its Own NPU",
+      "published_at": "2026-11-22T01:23:59+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "人工智能的部分资料检索未完成，本期覆盖受限。",
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "硬件的部分资料检索未完成，本期覆盖受限。",
+    "数码的部分资料检索未完成，本期覆盖受限。",
+    "部分候选资料未能充分核实，未予收录。"
+  ]
+}
