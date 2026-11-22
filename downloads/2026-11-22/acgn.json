@@ -1,0 +1,286 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-22",
+  "title": "2026-11-22 ACGN",
+  "summary": "本期收录《Arknights: Endfield》新干员公开及版本2.0新区域展示、《シノビ NEXUS -閃乱カグラ-》11月29日上线计划，以及《Darkest Dungeon 2》下一部DLC的短流程战斗玩法报道。",
+  "highlights": [
+    "Automaton报道《Arknights: Endfield》公开新6星“ケーちゃん”和配布5星“ミミノ”，并展示版本2.0新增区域。",
+    "《シノビ NEXUS -閃乱カグラ-》定于11月29日开始服务，11月28日开放预下载。",
+    "RPS报道《Darkest Dungeon 2》下一部DLC为短流程、以战斗为核心的gauntlet。"
+  ],
+  "window_start": "2026-11-21T12:00:00+08:00",
+  "window_end": "2026-11-22T12:00:00+08:00",
+  "generated_at": "2026-11-22T12:24:31.281249+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "GRYPHLINE|发布|Arknights: Endfield 版本更新“Meeting You in the World o’Shrooms”及2.0信息",
+          "title": "《Arknights: Endfield》公开新干员并展示2.0新区域情报",
+          "summary": "Automaton报道，《Arknights: Endfield》公开新6星“ケーちゃん”和配布5星“ミミノ”，同时展示版本2.0新增区域及“謎キノコ生えまくりダム”之旅。",
+          "published_at": "2026-11-21T21:39:23+08:00",
+          "follow_up": true,
+          "new_facts": "公开新6星“ケーちゃん”、配布5星“ミミノ”，并展示版本2.0新增区域。",
+          "verification": "single_source",
+          "entities": [
+            "Arknights: Endfield",
+            "GRYPHLINE",
+            "Mountain Contour"
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "limitations": "仅取得Automaton日文报道的标题与元数据；证据未说明新干员是否属于版本2.0，版本上线日期、平台、地区及商业模式未在证据中确认，正文不涉及。",
+          "facts": [
+            {
+              "text": "Automaton 11月21日报道，《Arknights: Endfield》公开新6星干员“ケーちゃん”与配布5星“ミミノ”。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "『アークナイツ：エンドフィールド』新オペレーター★6「ケーちゃん」と配布★5「ミミノ」お披露目。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道同时展示版本2.0追加的新区域，以及“謎キノコ生えまくりダム”之旅。",
+              "evidence": [
+                {
+                  "source_id": "s27",
+                  "quote": "“謎キノコ生えまくりダム”の旅や、バージョン2.0で追加の「新地域」も一挙公開"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Arknights: Endfield Unveils New Operators and Version 2.0 Area Info",
+            "sentences": [
+              {
+                "en": "Automaton reported on November 21 that Arknights: Endfield unveiled the new 6-star operator “Ke-chan” and the distributed 5-star operator “Mimino.”",
+                "zh": "Automaton 11月21日报道，《Arknights: Endfield》公开新6星干员“ケーちゃん”与配布5星“ミミノ”。"
+              },
+              {
+                "en": "The report also showed the new area added in Version 2.0 and the journey to “Nazo Kinoko Haemakuri Dam.”",
+                "zh": "报道同时展示版本2.0追加的新区域，以及“謎キノコ生えまくりダム”之旅。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "HONEY∞PARADE GAMES|上线|シノビ NEXUS -閃乱カグラ-",
+          "title": "《シノビ NEXUS -閃乱カグラ-》定档11月29日开始服务",
+          "summary": "HONEY∞PARADE GAMES宣布系列新作《シノビ NEXUS -閃乱カグラ-》11月29日开始服务，11月28日开放预下载；游戏登陆iOS、Android和Windows 11（64bit），PC版由DMM GAMES发行，开服奖励包含10连。",
+          "published_at": "2026-11-21T20:45:00+08:00",
+          "follow_up": true,
+          "new_facts": "服务开始日定为2026年11月29日，11月28日开放预下载；公布平台、剧情时间线、换装与桑拿玩法及开服10连奖励。",
+          "verification": "corroborated",
+          "entities": [
+            "HONEY∞PARADE GAMES",
+            "シノビ NEXUS -閃乱カグラ-",
+            "閃乱カグラ"
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "limitations": "官方公告原文未直接取得；服务开始的具体时刻、地区与收费细节未确认，正文仅写已报道的平台与开服奖励；预下载日期仅有Famitsu报道支持。",
+          "facts": [
+            {
+              "text": "Famitsu 11月21日报道，HONEY∞PARADE GAMES宣布《シノビ NEXUS -閃乱カグラ-》服务开始日定于2026年11月29日；Automaton同日亦报道该作11月29日开始服务。",
+              "evidence": [
+                {
+                  "source_id": "s53",
+                  "quote": "サービス開始日を2026年11月29日に決定した"
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "11月29日配信開始へ"
+                }
+              ],
+              "kind": "fact",
+              "verification": "corroborated"
+            },
+            {
+              "text": "Famitsu同时报道，11月28日将开放事前下载。",
+              "evidence": [
+                {
+                  "source_id": "s53",
+                  "quote": "11月28日からは事前ダウンロードも開始予定"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "据Famitsu报道，本作登陆iOS、Android和Windows 11（64bit），PC版通过DMM GAMES发行；剧情舞台设在《シノマス》三年后。",
+              "evidence": [
+                {
+                  "source_id": "s53",
+                  "quote": "スマートフォン（iOS、Android）、PC（DMM GAMES）向けに配信される"
+                },
+                {
+                  "source_id": "s53",
+                  "quote": "対応OS：iOS / Android / Windows11（64bit）"
+                },
+                {
+                  "source_id": "s53",
+                  "quote": "『シノマス』から3年後が舞台の『閃乱カグラ』新作アプリゲーム"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Automaton称本作为指令RPG，并搭载换装与桑拿“シノビスパ”。",
+              "evidence": [
+                {
+                  "source_id": "s29",
+                  "quote": "新作コマンドRPG"
+                },
+                {
+                  "source_id": "s29",
+                  "quote": "着せ替えやサウナでととのう“シノビスパ”も搭載"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Famitsu报道，开服奖励包含1500忍魂（10连）和SR卡“紅姫（忍転身）”，教程结束后还可重抽10连。",
+              "evidence": [
+                {
+                  "source_id": "s53",
+                  "quote": "「忍魂1500個」(ガチャ10回分)と、シノビカード「SRカード【紅姫(忍転身)】」"
+                },
+                {
+                  "source_id": "s53",
+                  "quote": "こちらは何度でも引き直しできます"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Shinobi NEXUS -Senran Kagura- Set to Launch on November 29",
+            "sentences": [
+              {
+                "en": "Famitsu reported on November 21 that HONEY∞PARADE GAMES announced that Shinobi NEXUS -Senran Kagura- will begin service on November 29, 2026; Automaton also reported the same day that the game will start service on November 29.",
+                "zh": "Famitsu 11月21日报道，HONEY∞PARADE GAMES宣布《シノビ NEXUS -閃乱カグラ-》服务开始日定于2026年11月29日；Automaton同日亦报道该作11月29日开始服务。"
+              },
+              {
+                "en": "Famitsu also reported that pre-downloads will open on November 28.",
+                "zh": "Famitsu同时报道，11月28日将开放事前下载。"
+              },
+              {
+                "en": "According to Famitsu, the game will be available on iOS, Android, and Windows 11 (64-bit), with the PC version distributed through DMM GAMES; its story is set three years after Shinomas.",
+                "zh": "据Famitsu报道，本作登陆iOS、Android和Windows 11（64bit），PC版通过DMM GAMES发行；剧情舞台设在《シノマス》三年后。"
+              },
+              {
+                "en": "Automaton described the title as a command RPG featuring outfit changes and a sauna called \"Shinobi Spa.\"",
+                "zh": "Automaton称本作为指令RPG，并搭载换装与桑拿“シノビスパ”。"
+              },
+              {
+                "en": "Famitsu reported that launch rewards include 1,500 Ninja Souls (a 10-pull) and the SR card \"Benihime (Shinobi Transformation),\" and that players can reroll a 10-pull after finishing the tutorial.",
+                "zh": "Famitsu报道，开服奖励包含1500忍魂（10连）和SR卡“紅姫（忍転身）”，教程结束后还可重抽10连。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Red Hook Studios|公布|Darkest Dungeon 2 新DLC",
+          "title": "RPS报道《Darkest Dungeon 2》下一部DLC为短流程战斗挑战",
+          "summary": "Rock Paper Shotgun报道，《Darkest Dungeon 2》下一部DLC为短流程、以战斗为核心的gauntlet，玩家需尽力取悦观众。",
+          "published_at": "2026-11-22T00:53:00+08:00",
+          "follow_up": true,
+          "new_facts": "RPS披露下一部DLC采用短流程、战斗导向的gauntlet结构，并以取悦观众为目标。",
+          "verification": "single_source",
+          "entities": [
+            "Red Hook Studios",
+            "Darkest Dungeon 2"
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "limitations": "仅取得RPS标题与页面元数据；DLC名称、上线日期、平台和售价未确认。",
+          "facts": [
+            {
+              "text": "Rock Paper Shotgun 11月21日报道，《Darkest Dungeon 2》下一部DLC将是一段短流程、以战斗为核心的连续挑战（gauntlet），玩家必须尽力取悦观众。",
+              "evidence": [
+                {
+                  "source_id": "s24",
+                  "quote": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "RPS Reports Darkest Dungeon 2's Next DLC Is a Short, Combat-Focused Gauntlet",
+            "sentences": [
+              {
+                "en": "Rock Paper Shotgun reported on November 21 that the next DLC for Darkest Dungeon 2 will be a short, combat-focused gauntlet in which players must do their best to please the audience.",
+                "zh": "Rock Paper Shotgun 11月21日报道，《Darkest Dungeon 2》下一部DLC将是一段短流程、以战斗为核心的连续挑战（gauntlet），玩家必须尽力取悦观众。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s29",
+      "url": "https://automaton-media.com/articles/newsjp/20261121-480302/",
+      "title": "『閃乱カグラ』新作コマンドRPG『シノビ NEXUS -閃乱カグラ-』11月29日配信開始へ。新たなシノビ少女たちのハイパーシノビバトル、着せ替えやサウナでととのう“シノビスパ”も搭載",
+      "published_at": "2026-11-21T12:55:33+00:00"
+    },
+    {
+      "id": "s24",
+      "url": "https://www.rockpapershotgun.com/darkest-dungeon-2s-next-bit-of-dlc-is-a-short-run-combat-focused-gauntlet-where-you-must-do-everything-in-your-power-to-please-the-audience",
+      "title": "Darkest Dungeon 2's next bit of DLC is a short run, combat focused gauntlet where you must do everything in your power to please the audience",
+      "published_at": "2026-11-21T16:53:00+00:00"
+    },
+    {
+      "id": "s27",
+      "url": "https://automaton-media.com/articles/newsjp/20261121-480318/",
+      "title": "『アークナイツ：エンドフィールド』新オペレーター★6「ケーちゃん」と配布★5「ミミノ」お披露目。 “謎キノコ生えまくりダム”の旅や、バージョン2.0で追加の「新地域」も一挙公開",
+      "published_at": "2026-11-21T13:39:23+00:00"
+    },
+    {
+      "id": "s53",
+      "url": "https://famitsu.com/article/202611/94710",
+      "title": "『シノビNEXUS 閃乱カグラ』サービス開始日が11月29日に決定。『シノマス』から3年後が舞台の『閃乱カグラ』新作アプリゲーム",
+      "published_at": "2026-11-21T21:45:00+09:00"
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": [
+    "二游的部分资料检索未完成，本期覆盖受限。",
+    "热门游戏事件与热梗的部分资料检索未完成，本期覆盖受限。",
+    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}

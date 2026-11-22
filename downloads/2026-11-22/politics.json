@@ -1,0 +1,170 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-22",
+  "title": "2026-11-22 政治",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "巴林称伊朗袭击工业设施，伊朗革命卫队称打击美军基地"
+  ],
+  "window_start": "2026-11-21T12:00:00+08:00",
+  "window_end": "2026-11-22T12:00:00+08:00",
+  "generated_at": "2026-11-22T12:16:39.713103+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "伊朗|袭击巴林工业设施及霍尔木兹海峡油轮|巴林",
+          "title": "巴林称伊朗袭击工业设施，伊朗革命卫队称打击美军基地",
+          "summary": "巴林称伊朗袭击民用工业设施引发火灾，无伤亡；伊朗革命卫队称以导弹和无人机打击巴林境内两处美军基地并摧毁两套爱国者雷达；两艘油轮在霍尔木兹海峡遇袭。",
+          "published_at": "2026-11-22T05:31:03+08:00",
+          "follow_up": false,
+          "new_facts": "巴林内政部称工业设施遭“伊朗侵略”起火，无伤亡；IRGC称打击al-Riffa和Awali基地并摧毁两套爱国者雷达；法新社报道两艘油轮在霍尔木兹海峡遇袭；UKMTO称一艘油轮被不明发射物击中。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "伊朗",
+            "巴林",
+            "伊斯兰革命卫队",
+            "霍尔木兹海峡"
+          ],
+          "limitations": "伊朗方面战果和袭击责任为单方主张，巴林未说明设施地点；两艘油轮遇袭细节来自法新社单一报道，未获独立核实。",
+          "facts": [
+            {
+              "text": "巴林内政部在社交平台X称，伊朗的“侵略”导致一处民用工业设施被击中起火，初步报告为财物损失、无人受伤，民防部门正在灭火；内政部未说明设施名称和地点。",
+              "evidence": [
+                {
+                  "source_id": "s107",
+                  "quote": "In a post on X, Bahrain’s Ministry of Interior said the attack was part of “Iranian aggression”. It said preliminary reports pointed to material damage but no injuries, and that civil defence teams were working to bring the fire under control. The Interior Ministry did not name the facility or say where it was."
+                },
+                {
+                  "source_id": "s114",
+                  "quote": "Bahrain accused Iran of striking a civilian industrial facility on Saturday, causing a fire and damage but no casualties"
+                },
+                {
+                  "source_id": "s114",
+                  "quote": "As a result of the heinous Iranian aggression, a civilian industrial facility was targeted, causing a fire at the site. Civil Defence is working to bring the fire under control"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "伊朗伊斯兰革命卫队称，它以导弹和无人机打击巴林境内al-Riffa和Awali两处美军基地，并称摧毁两套美国“爱国者”防空雷达。",
+              "evidence": [
+                {
+                  "source_id": "s107",
+                  "quote": "In a statement after the attack, Iran’s Islamic Revolutionary Guard Corps (IRGC) said it had carried out a combined missile and drone operation targeting United States military positions at the al-Riffa and Awali bases in Bahrain. The IRGC claimed it destroyed two US Patriot air defence radars at the bases."
+                },
+                {
+                  "source_id": "s114",
+                  "quote": "Iran's Revolutionary Guards said \"during the operation, US military positions at the Al-Riffa and Awali bases in Bahrain were targeted with missile and drone strikes\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "同日，法新社通过Al-Monitor报道，两艘油轮在霍尔木兹海峡遇袭；英国海事贸易行动办公室称一艘油轮被“不明发射物”击中，无伤亡报告，另一艘机舱被击中。",
+              "evidence": [
+                {
+                  "source_id": "s114",
+                  "quote": "The attacks came as two tankers were struck in the Strait of Hormuz"
+                },
+                {
+                  "source_id": "s114",
+                  "quote": "British maritime agency UKMTO said Saturday one tanker was struck by an \"unknown projectile\" while transiting Hormuz. \"There are no reported casualties at this time,\" it said, adding another tanker was hit in its engine room."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Bahrain Says Iran Struck Industrial Facility; IRGC Says It Hit U.S. Bases",
+            "sentences": [
+              {
+                "en": "Bahrain's Interior Ministry said on social platform X that Iran's \"aggression\" caused a civilian industrial facility to be hit and catch fire; initial reports indicated property damage and no injuries, and civil defense teams were extinguishing the fire; the ministry did not name or locate the facility.",
+                "zh": "巴林内政部在社交平台X称，伊朗的“侵略”导致一处民用工业设施被击中起火，初步报告为财物损失、无人受伤，民防部门正在灭火；内政部未说明设施名称和地点。"
+              },
+              {
+                "en": "Iran's Islamic Revolutionary Guard Corps said it struck two U.S. military bases in Bahrain, at al-Riffa and Awali, with missiles and drones, and said it destroyed two U.S. Patriot air-defense radars.",
+                "zh": "伊朗伊斯兰革命卫队称，它以导弹和无人机打击巴林境内al-Riffa和Awali两处美军基地，并称摧毁两套美国“爱国者”防空雷达。"
+              },
+              {
+                "en": "The same day, AFP reported via Al-Monitor that two oil tankers were attacked in the Strait of Hormuz; the UK Maritime Trade Operations office said one tanker was hit by an \"unidentified projectile\" with no casualties reported, while the other was hit in the engine room.",
+                "zh": "同日，法新社通过Al-Monitor报道，两艘油轮在霍尔木兹海峡遇袭；英国海事贸易行动办公室称一艘油轮被“不明发射物”击中，无伤亡报告，另一艘机舱被击中。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到本板块收录标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s107",
+      "url": "https://aljazeera.com/news/2026/11/22/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "published_at": "2026-11-21T21:31:03+00:00"
+    },
+    {
+      "id": "s114",
+      "url": "https://www.al-monitor.com/originals/2026/11/bahrain-says-iran-struck-industrial-site-tankers-hit-hormuz",
+      "title": "Bahrain says Iran struck industrial site as tankers hit in Hormuz - AL-MONITOR: The Middle Eastʼs leading independent news source since 2012",
+      "published_at": "2026-11-21T12:22:41-05:00"
+    }
+  ],
+  "coverage_notes": [
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
+    "部分候选资料未能充分核实，未予收录。",
+    "部分候选消息未能充分核实，未予收录。",
+    "部分候选消息未达到本板块收录标准，未予收录。"
+  ]
+}
