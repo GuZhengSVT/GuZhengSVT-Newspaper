@@ -6,7 +6,7 @@
 
 ### Phison展示内置NPU的企业级SSD设计，可运行AI框架
 
-11月22日 09:23 · 重要 · 可靠性 B
+11月22日 09:23 · 重要 · 可靠性 B · 单一来源报道
 
 存储控制器厂商Phison在芝加哥SC26超算展上展示了一款企业级SSD设计，把NPU和64GB板上内存放进盘内，内存带宽130GB/s，可运行PyTorch、vLLM、OpenVINO和llama.cpp等AI框架。
 

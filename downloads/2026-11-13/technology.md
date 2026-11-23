@@ -6,7 +6,7 @@
 
 ### IBM发布Granite 4.1 LLMON预览模型，用原生标记语言隔离指令与数据
 
-11月13日 03:07 · 重要 · 可靠性 A
+11月13日 03:07 · 重要 · 可靠性 A · 官方陈述
 
 IBM Granite团队在Hugging Face发文，发布两个实验性预览模型granite-4.1-3b-LLMON-preview和granite-4.1-8b-LLMON-preview，基于Granite 4.1基座，训练目标是读取和生成LLMON标记文本；团队同时发布GitHub工具包。
 
@@ -20,7 +20,7 @@ IBM称，在部分基准上，隐藏在用户数据中的间接提示注入成�
 
 ### UARX Space称OSSIE-D轨道转移飞行器完成首飞部署
 
-11月13日 04:00 · 重要 · 可靠性 B
+11月13日 04:00 · 重要 · 可靠性 B · 单一来源报道
 
 据UARX Space发布的新闻稿，西班牙公司UARX Space的轨道转移飞行器OSSIE-D已由SpaceX Falcon 9发射，并使用该公司SAU&RON 24分离系统完成部署。公司称OSSIE-D完全在西班牙设计制造，75%组件由公司内部开发。
 
@@ -32,7 +32,7 @@ DHV Technology提供的完整电源子系统在入轨后工作正常，包括太
 
 ### Kioxia与Dell构建157PB单机架全闪存配置
 
-11月13日 09:15 · 重要 · 可靠性 B
+11月13日 09:15 · 重要 · 可靠性 B · 单一来源报道
 
 TechPowerUp报道，Kioxia与Dell在单个42U机架中构建了157PB原始闪存容量的配置，使用16台Dell PowerEdge R7725xd服务器、640块Kioxia 245.76TB LC9系列SSD，运行Dell ObjectScale对象存储平台。每台2U服务器装40块E3.L规格硬盘，16台占32U，剩余10U。
 
@@ -44,7 +44,7 @@ LC9为PCIe 5.0 NVMe硬盘，基于Kioxia第八代BiCS QLC和32 die堆叠。Kioxi
 
 ### 三星智能眼镜将于12月10日在美韩开售，内置Gemini
 
-11月12日 22:00 · 重要 · 可靠性 A · 进展
+11月12日 22:00 · 重要 · 可靠性 A · 进展 · 官方陈述
 
 三星11月12日宣布，其智能眼镜全系将于12月10日在美国和韩国发售，预售从当天开始。产品与Gentle Monster和Warby Parker合作，共30款设计；三星称整机约41克，内置Google Gemini，提供免手操作协助，可帮助用户理解周围环境并进行跨语言交流。
 

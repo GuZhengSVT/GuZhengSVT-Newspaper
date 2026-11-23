@@ -6,7 +6,7 @@
 
 ### Rockstar公布《GTA VI》发售前销量3250万份，首日收入估算37.9亿美元
 
-11月21日 08:34 · 重大 · 可靠性 B · 进展
+11月21日 08:34 · 重大 · 可靠性 B · 进展 · 单一来源报道
 
 4Gamer报道，Rockstar Games于11月21日宣布，《Grand Theft Auto VI》在11月19日发售前全球销量达到3250万份，并称这是全平台发售前销量的新纪录。
 
@@ -20,7 +20,7 @@
 
 ### NVIDIA发布热修复驱动621.35，修复驱动持续写入SSD问题
 
-11月21日 11:18 · 重要 · 可靠性 B · 进展
+11月21日 11:18 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 4Gamer报道，NVIDIA于美国时间11月20日发布非WHQL认证的GeForce Hotfix Driver 621.35，修复Release 620世代驱动中NVDisplay.Container.exe的nvtops插件持续过量写入存储的问题。
 
@@ -32,7 +32,7 @@ Rock Paper Shotgun在11月20日的报道中称，621.24驱动似乎会无必要�
 
 ### Arika董事Akira Kurabayashi因心力衰竭去世
 
-11月20日 21:00 · 重要 · 可靠性 B
+11月20日 21:00 · 重要 · 可靠性 B · 单一来源报道
 
 Rock Paper Shotgun于11月20日报道，Arika公司董事Akira Kurabayashi因心力衰竭去世。该媒体列出的参与作品包括《Street Fighter EX》《Tetris 99》和《Fighting EX Layer》。
 

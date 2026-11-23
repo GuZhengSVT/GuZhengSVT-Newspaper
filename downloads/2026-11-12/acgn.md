@@ -6,7 +6,7 @@
 
 ### 《Reality Drift》在Steam发售，高桥庆太参与关卡设计
 
-11月12日 11:15 · 重要 · 可靠性 B
+11月12日 11:15 · 重要 · 可靠性 B · 单一来源报道
 
 Arganoid Industries于11月12日在Steam正式发售《Reality Drift》，售价2100日元，11月22日前15%优惠至1785日元。
 
@@ -18,7 +18,7 @@ Arganoid Industries于11月12日在Steam正式发售《Reality Drift》，售价
 
 ### 前Doom开发者组建新工作室，首作《Danger Pay》
 
-11月12日 02:08 · 重要 · 可靠性 B · 进展
+11月12日 02:08 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 据Rock Paper Shotgun报道，多名前id Software开发者在被微软裁员后成立新工作室，首款作品为受《Smash TV》影响的射击游戏《Danger Pay》，工作室称其不受投资者需求约束。
 
@@ -26,7 +26,7 @@ Arganoid Industries于11月12日在Steam正式发售《Reality Drift》，售价
 
 ### Black Forest Games脱离THQ Nordic，组建独立工作室集团
 
-11月11日 23:19 · 重要 · 可靠性 B · 进展
+11月11日 23:19 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 据Rock Paper Shotgun报道，曾负责《Destroy All Humans!》重制的Black Forest Games已从THQ Nordic剥离，组建新的独立工作室集团。
 
@@ -34,7 +34,7 @@ Arganoid Industries于11月12日在Steam正式发售《Reality Drift》，售价
 
 ### 《王权陨落》登陆PS5与Xbox，DLC《岩冠之境》同步推出
 
-11月12日 11:38 · 重要 · 可靠性 B
+11月12日 11:38 · 重要 · 可靠性 B · 单一来源报道
 
 《王权陨落》于11月11日登陆PS5和Xbox Series X|S，并加入Xbox Game Pass；首个大型DLC《岩冠之境》同步登陆PC、PS5和Xbox Series X|S。
 

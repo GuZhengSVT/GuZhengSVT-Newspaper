@@ -6,7 +6,7 @@
 
 ### 《GTA VI》PS5预载开启 11月19日按国家滚动解锁
 
-11月10日 23:41 · 重大 · 可靠性 A
+11月10日 23:41 · 重大 · 可靠性 A · 官方陈述
 
 索尼互动娱乐11月10日宣布，《Grand Theft Auto VI》PS5版预下载已在PlayStation Store开启，玩家可在11月19日发售前提前九天装载。
 
@@ -18,7 +18,7 @@
 
 ### 《The Outer Worlds 2》首个剧情DLC定档12月2日
 
-11月11日 02:00 · 重要 · 可靠性 A
+11月11日 02:00 · 重要 · 可靠性 A · 官方陈述
 
 据PlayStation Blog与Xbox Wire 11月10日发布的消息，黑曜石娱乐《The Outer Worlds 2》首个剧情DLC《Side Effects Guaranteed》将于12月2日推出，是两部分故事的第一部分，第二部分计划2027年春。
 
@@ -30,7 +30,7 @@ DLC还提供27级预设角色，玩家可从主菜单直接开始该DLC；同步
 
 ### 《Marathon》12月8日上线Symbiosis更新 加入PvE与PvP新模式
 
-11月10日 22:00 · 重要 · 可靠性 A
+11月10日 22:00 · 重要 · 可靠性 A · 官方陈述
 
 索尼互动娱乐在PlayStation Blog宣布，《Marathon》的Symbiosis更新将于12月8日上线，加入PvE与PvP模式、新武器、新Runner外壳和扩展区域；更新对所有玩家开放。
 
@@ -42,7 +42,7 @@ DLC还提供27级预设角色，玩家可从主菜单直接开始该DLC；同步
 
 ### 《Football Manager 27》正式发售 同步加入Game Pass
 
-11月11日 04:00 · 重要 · 可靠性 A
+11月11日 04:00 · 重要 · 可靠性 A · 官方陈述
 
 Xbox Wire 11月10日宣布，《Football Manager 27》与《Football Manager 27 Console》已正式发售，分别面向Xbox PC和Xbox Series X|S，并加入Game Pass。
 
@@ -52,7 +52,7 @@ Xbox Wire 11月10日宣布，《Football Manager 27》与《Football Manager 27 
 
 ### 集英社游戏发行《梦魇执行官》 公开先导预告
 
-11月11日 10:29 · 重要 · 可靠性 B
+11月11日 10:29 · 重要 · 可靠性 B · 单一来源报道
 
 据机核报道，集英社游戏公开由DDDistortion开发的TPS动作恐怖游戏《梦魇执行官》先导预告和主视觉，并宣布以发行商身份参与本作。
 
@@ -66,7 +66,7 @@ Xbox Wire 11月10日宣布，《Football Manager 27》与《Football Manager 27 
 
 ### RPS报道索尼取消《Fairgame$》 称无开发者被裁
 
-11月11日 05:28 · 重大 · 可靠性 B
+11月11日 05:28 · 重大 · 可靠性 B · 单一来源报道
 
 据Rock Paper Shotgun 11月10日报道，索尼已取消《Fairgame$》，报道称没有开发者因此被裁。
 
@@ -74,7 +74,7 @@ Xbox Wire 11月10日宣布，《Football Manager 27》与《Football Manager 27 
 
 ### 19名IGF评委拒绝为生成式AI游戏投票 《Big Walk》回应
 
-11月11日 09:25 · 重要 · 可靠性 B
+11月11日 09:25 · 重要 · 可靠性 B · 单一来源报道
 
 据机核报道，包括Sam Barlow与Austin Walker在内的19名2027年独立游戏节IGF评委发表联合声明，拒绝为任何使用生成式AI制作的游戏投票，并呼吁IGF制定严格政策，全面禁止含AI生成内容的作品参选。 评委称决定是为声援担忧行业前景的创作者，认为生成式AI在生态、经济、认知及劳动权益等方面造成负面影响，并称有其他评委因职业风险未联署。
 
@@ -86,7 +86,7 @@ House House确认《Big Walk》项目后期曾用LLM解决性能问题，但称�
 
 ### 剧场版《魔法使之夜》11月20日上映 公布入场特典与漫画化
 
-11月11日 11:10 · 重要 · 可靠性 B
+11月11日 11:10 · 重要 · 可靠性 B · 单一来源报道
 
 据AnimeAnime 11月11日报道，TYPE-MOON原作、ufotable制作的剧场版《魔法使之夜》将于2026年11月20日在日本上映；第一弹入场特典为TYPE-MOON绘制的迷你色纸全3种随机，IMAX场限定特典为A5插图板。
 

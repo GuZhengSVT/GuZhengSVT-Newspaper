@@ -2,29 +2,13 @@
   "schema_version": 2,
   "date": "2026-11-23",
   "title": "2026-11-23 科技 · 材料",
-  "summary": "本期收录2条新闻。",
+  "summary": "本期收录1条通过核验的新闻。",
   "highlights": [
-    "糖基水凝胶反复弯折后变强而非疲劳",
-    "无金属分子电催化剂将氧还原为过氧化氢"
+    "高负载全固态锂硫电池正极报告近15 mAh cm−2面容量"
   ],
   "window_start": "2026-11-16T12:00:00+08:00",
   "window_end": "2026-11-23T12:00:00+08:00",
-  "generated_at": "2026-11-23T12:09:09.056833+08:00",
-  "sources": [
-    {
-      "id": "s5",
-      "url": "https://phys.org/news/2026-11-sugar-based-hydrogel.html",
-      "title": "Repeated bending strengthens sugar-based hydrogel instead of wearing it down",
-      "published_at": "2026-11-21T15:00:05-05:00"
-    },
-    {
-      "id": "s7",
-      "url": "https://phys.org/news/2026-11-qa-hydrogen-peroxide-precious-metals.html",
-      "title": "Q&A: Making hydrogen peroxide without using precious metals",
-      "published_at": "2026-11-19T19:20:01-05:00"
-    }
-  ],
-  "edition": "technology-materials",
+  "generated_at": "2026-11-23T21:55:58.525994+08:00",
   "sections": [
     {
       "id": "materials",
@@ -32,187 +16,109 @@
       "empty_reason": "",
       "articles": [
         {
-          "event_key": "糖基水凝胶|反复弯曲后增强|聚合物",
-          "title": "糖基水凝胶反复弯折后变强而非疲劳",
-          "summary": "华盛顿大学圣路易斯分校团队在《自然·材料》报告一种糖晶体与聚乙二醇水凝胶，反复弯曲后环糊精环重组使材料增强；目前仅小批量制备，医疗应用尚在探索。",
-          "published_at": "2026-11-22T04:00:05+08:00",
+          "event_key": "全固态锂硫电池|界面设计实现高负载|全固态锂硫电池",
+          "title": "高负载全固态锂硫电池正极报告近15 mAh cm−2面容量",
+          "summary": "《Nature Materials》论文报告通过硫–硫化物和硫–碳界面调控，实现高负载全固态锂硫电池正极，面容量接近15 mAh cm−2，并给出超过500 Wh kg−1的软包电池能量密度预测。",
+          "published_at": "2026-11-20T08:00:00+08:00",
           "follow_up": false,
-          "new_facts": "《自然·材料》发表糖基水凝胶研究，弯折1万次后增强；环糊精环沿聚合物链滑动并重组；目前一次制备数十克。",
-          "verification": "single_source",
+          "new_facts": "本期首次收录：界面调控使全固态锂硫电池正极面容量接近15 mAh cm−2、硫利用率超过90%，并给出500 Wh kg−1级软包电池预测。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "全固态锂硫电池（All-solid-state lithium–sulfur batteries）",
+            "硫–硫化物/硫–碳界面（sulfur–sulfide and sulfur–carbon interfaces）"
+          ],
+          "limitations": "论文摘要只给出关键性能，未提供完整实验条件；500 Wh kg−1为基于正极数据的软包电池推算值，不是独立实测的商用电池结果。",
           "facts": [
             {
-              "text": "华盛顿大学圣路易斯分校化学教授Chenfeng Ke（Ke）领导的团队在《自然·材料》发表研究，报告一种由糖晶体和聚乙二醇构成的水凝胶在反复弯曲、拉伸后强度提高，而非像多数材料那样疲劳弱化。团队在模拟膝关节的柔性接头上弯折1万次，称材料表现与预测一致。",
-              "evidence": [
-                {
-                  "source_id": "s5",
-                  "quote": "The breakthrough was described in a study published online in Nature Materials ."
-                },
-                {
-                  "source_id": "s5",
-                  "quote": "Our smart material actually gets stronger the more it's bent and strained"
-                },
-                {
-                  "source_id": "s5",
-                  "quote": "We bent it 10,000 times, and the material performed just as we predicted"
-                }
-              ],
+              "text": "《Nature Materials》11月20日在线发表的研究称，研究团队通过让硫–硫化物界面发生部分锂化、并消除硫–碳界面的电子阻挡氧化层，制备出高负载全固态锂硫电池正极。论文报告的面容量接近15 mAh cm−2，硫利用率超过90%，测试时的堆叠压力为15–25 MPa。",
               "kind": "fact",
-              "verification": "single_source"
-            },
-            {
-              "text": "材料中的环糊精形成环状结构，拉伸使环糊精环簇解体并沿聚合物链滑动，材料松弛时重组为更小的结晶区域，从而在应变位置局部增强。研究人员认为这种机制类似胶原蛋白等生物材料，并设想用于人工关节或组织修复。",
+              "verification": "official_statement",
               "evidence": [
                 {
-                  "source_id": "s5",
-                  "quote": "Stretching breaks apart large clusters of cyclodextrin rings, which slide along polymer chains and reorganize into smaller crystalline structures when the material relaxes."
+                  "source_id": "s3",
+                  "quote": "Article Published: 20 November 2026"
                 },
                 {
-                  "source_id": "s5",
-                  "quote": "In many ways, the material mimics biological materials in the human body, including collagen, a protein that gives skin its strength and elasticity."
+                  "source_id": "s3",
+                  "quote": "By enabling partial lithiation at the sulfur–sulfide interface and eliminating the electron-impeding oxidation layer at the sulfur–carbon interface"
                 },
                 {
-                  "source_id": "s5",
-                  "quote": "the material could be used to support artificial joints or to repair damaged tissues"
+                  "source_id": "s3",
+                  "quote": "areal capacities near 15 mAh"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "sulfur utilization above 90%"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "moderate stack pressure of 15–25 MPa"
                 }
-              ],
-              "kind": "explanation",
-              "verification": "single_source"
+              ]
             },
             {
-              "text": "团队表示目前一次仅能制备数十克材料，医疗应用仍需与骨科和器械专家合作探索。",
+              "text": "论文将这些正极指标折算为软包电池层面超过500 Wh kg−1的能量密度预测，并报告1C倍率下循环500次保持82.1%容量、库仑效率最高99.9%；使用锂金属负极时，在10 MPa而不是常见的锂–铟合金条件下也能稳定循环。",
+              "kind": "fact",
+              "verification": "official_statement",
               "evidence": [
                 {
-                  "source_id": "s5",
-                  "quote": "So far, Ke and his team have produced the material in small quantities, just tens of grams at a time."
+                  "source_id": "s3",
+                  "quote": "projected pouch-cell-level energy densities surpassing 500 Wh kg"
                 },
                 {
-                  "source_id": "s5",
-                  "quote": "We want to work with experts at WashU Medicine and elsewhere to explore the possibilities"
+                  "source_id": "s3",
+                  "quote": "Fast cycling at 1C retains 82.1% capacity over 500 cycles"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "Coulombic efficiencies up to 99.9%"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "stable cycling is also achieved with a lithium metal anode at 10 MPa"
                 }
-              ],
+              ]
+            },
+            {
+              "text": "摘要给出的500 Wh kg−1是软包电池层面的推算值，论文报告的是正极面容量和循环数据；摘要称该工作展示了通过复合正极界面控制设计高能量密度全固态电池的途径。",
               "kind": "limitation",
-              "verification": "single_source"
+              "verification": "official_statement",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "projected pouch-cell-level energy densities"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "This work highlights the power of interfacial control within composite cathodes"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "demonstrates another approach for designing high-energy-density all-solid-state"
+                }
+              ]
             }
           ],
-          "importance": "重大",
-          "reliability": "B",
-          "entities": [
-            "糖基水凝胶（sugar-based hydrogel）",
-            "聚合物（polymer）",
-            "华盛顿大学圣路易斯分校（Washington University in St. Louis）"
-          ],
-          "limitations": "来源为大学新闻稿转述的同行评审论文；材料仅小批量制备，医疗应用尚未验证。",
           "bilingual": {
-            "title_en": "Sugar-Based Hydrogel Strengthens Rather Than Fatigues After Repeated Bending",
+            "title_en": "High-Loading All-Solid-State Lithium–Sulfur Cathode Reports Nearly 15 mAh cm−2 Areal Capacity",
             "sentences": [
               {
-                "en": "A team led by Chenfeng Ke (Ke), a chemistry professor at Washington University in St. Louis, published research in Nature Materials reporting that a hydrogel made of sugar crystals and polyethylene glycol increases in strength after repeated bending and stretching, rather than weakening from fatigue like most materials.",
-                "zh": "华盛顿大学圣路易斯分校化学教授Chenfeng Ke（Ke）领导的团队在《自然·材料》发表研究，报告一种由糖晶体和聚乙二醇构成的水凝胶在反复弯曲、拉伸后强度提高，而非像多数材料那样疲劳弱化。"
+                "en": "A study published online in Nature Materials on November 20 reported that the research team fabricated a high-loading all-solid-state lithium–sulfur battery cathode by partially lithiating the sulfur–sulfide interface and eliminating the electron-blocking oxide layer at the sulfur–carbon interface.",
+                "zh": "《Nature Materials》11月20日在线发表的研究称，研究团队通过让硫–硫化物界面发生部分锂化、并消除硫–碳界面的电子阻挡氧化层，制备出高负载全固态锂硫电池正极。"
               },
               {
-                "en": "The team bent the material 10,000 times on a flexible joint simulating a knee joint and said its behavior matched predictions.",
-                "zh": "团队在模拟膝关节的柔性接头上弯折1万次，称材料表现与预测一致。"
+                "en": "The paper reported an areal capacity approaching 15 mAh cm−2, a sulfur utilization exceeding 90%, and a stack pressure of 15–25 MPa during testing.",
+                "zh": "论文报告的面容量接近15 mAh cm−2，硫利用率超过90%，测试时的堆叠压力为15–25 MPa。"
               },
               {
-                "en": "Cyclodextrin in the material forms ring-shaped structures; stretching causes clusters of cyclodextrin rings to disassemble and slide along polymer chains, and when the material relaxes, they reassemble into smaller crystalline regions, thereby locally reinforcing the strained locations.",
-                "zh": "材料中的环糊精形成环状结构，拉伸使环糊精环簇解体并沿聚合物链滑动，材料松弛时重组为更小的结晶区域，从而在应变位置局部增强。"
+                "en": "The paper converted these cathode metrics into a projected energy density exceeding 500 Wh kg−1 at the pouch-cell level and reported 82.1% capacity retention after 500 cycles at 1C, with Coulombic efficiency up to 99.9%; when a lithium-metal anode was used, stable cycling was also achieved at 10 MPa rather than under the commonly used lithium–indium alloy condition.",
+                "zh": "论文将这些正极指标折算为软包电池层面超过500 Wh kg−1的能量密度预测，并报告1C倍率下循环500次保持82.1%容量、库仑效率最高99.9%；使用锂金属负极时，在10 MPa而不是常见的锂–铟合金条件下也能稳定循环。"
               },
               {
-                "en": "The researchers believe this mechanism resembles biological materials such as collagen and envision applications in artificial joints or tissue repair.",
-                "zh": "研究人员认为这种机制类似胶原蛋白等生物材料，并设想用于人工关节或组织修复。"
-              },
-              {
-                "en": "The team said it can currently prepare only tens of grams of the material at a time, and medical applications still require exploration in collaboration with orthopedic and device experts.",
-                "zh": "团队表示目前一次仅能制备数十克材料，医疗应用仍需与骨科和器械专家合作探索。"
-              }
-            ]
-          }
-        },
-        {
-          "event_key": "过氧化氢合成|实现|无贵金属催化路线",
-          "title": "无金属分子电催化剂将氧还原为过氧化氢",
-          "summary": "罗格斯大学纽瓦克分校与波恩大学在《自然通讯》报告无金属、无氢气的过氧化氢电合成路线，实验室选择性超过99%；催化剂寿命和放大仍需验证。",
-          "published_at": "2026-11-20T08:20:01+08:00",
-          "follow_up": false,
-          "new_facts": "《自然通讯》发表无金属分子电催化剂制过氧化氢研究；实验室电荷利用率超过99%；催化剂寿命与放大待验证。",
-          "verification": "single_source",
-          "facts": [
-            {
-              "text": "罗格斯大学纽瓦克分校与波恩大学研究人员在《自然通讯》发表研究，描述一种不含金属、也不使用氢气的过氧化氢制备方法：以氧、电流和质子源为原料，用分子电催化剂完成氧还原。",
-              "evidence": [
-                {
-                  "source_id": "s7",
-                  "quote": "chemists from Rutgers University–Newark in the US and the University of Bonn have now described an alternative technique"
-                },
-                {
-                  "source_id": "s7",
-                  "quote": "Their findings have now been published in the journal Nature Communications ."
-                },
-                {
-                  "source_id": "s7",
-                  "quote": "we looked at a new way to make hydrogen peroxide using a molecular electrocatalyst that needs no metals or hydrogen gas. Instead, we use oxygen, an electric current and a proton source."
-                }
-              ],
-              "kind": "fact",
-              "verification": "single_source"
-            },
-            {
-              "text": "实验室结果显示，超过99%的电荷用于生成目标产物，催化剂转换频率很高；计算与实验将反应归为“自由基回弹”机制，即生成的过氧羟基自由基先与催化剂结合，再释放过氧化氢。",
-              "evidence": [
-                {
-                  "source_id": "s7",
-                  "quote": "More than 99% of the electric charge that was applied was used to create the desired product, and the catalyst also achieved very high turnover frequencies."
-                },
-                {
-                  "source_id": "s7",
-                  "quote": "Our calculations support an unusual mechanism known as the \"radical rebound,\" where the hydroperoxyl radical (HO₂•) that is initially formed following the hydrogen transfer binds to the catalyst again (\"rebound\") before hydrogen peroxide (H₂O₂) is released in subsequent reaction steps."
-                }
-              ],
-              "kind": "fact",
-              "verification": "single_source"
-            },
-            {
-              "text": "研究团队指出，催化剂稳定性和寿命仍需测试改进，反应放大及在水中的运行也待验证，目前尚处实验室阶段。",
-              "evidence": [
-                {
-                  "source_id": "s7",
-                  "quote": "the stability and lifespan of the catalyst need to be tested and improved to handle longer operating times and a larger scale to produce hydrogen peroxide."
-                },
-                {
-                  "source_id": "s7",
-                  "quote": "perform the reaction in water"
-                },
-                {
-                  "source_id": "s7",
-                  "quote": "However, there are still some fundamental challenges to overcome with further development steps before the technique might be suitable for industrial application."
-                }
-              ],
-              "kind": "limitation",
-              "verification": "single_source"
-            }
-          ],
-          "importance": "重大",
-          "reliability": "B",
-          "entities": [
-            "过氧化氢（hydrogen peroxide）",
-            "无贵金属催化剂（precious-metal-free catalyst）",
-            "罗格斯大学纽瓦克分校/波恩大学（Rutgers University–Newark / University of Bonn）"
-          ],
-          "limitations": "来源为大学Q&A转述的同行评审论文；结果处于实验室阶段，催化剂寿命、放大和水相运行尚待验证。",
-          "bilingual": {
-            "title_en": "Metal-free molecular electrocatalyst reduces oxygen to hydrogen peroxide",
-            "sentences": [
-              {
-                "en": "Researchers at Rutgers University–Newark and the University of Bonn have published a study in Nature Communications describing a method for producing hydrogen peroxide that uses neither metal nor hydrogen: with oxygen, electric current, and a proton source as inputs, a molecular electrocatalyst carries out oxygen reduction.",
-                "zh": "罗格斯大学纽瓦克分校与波恩大学研究人员在《自然通讯》发表研究，描述一种不含金属、也不使用氢气的过氧化氢制备方法：以氧、电流和质子源为原料，用分子电催化剂完成氧还原。"
-              },
-              {
-                "en": "Laboratory results showed that more than 99% of the charge was used to generate the target product and that the catalyst’s turnover frequency was high; calculations and experiments attributed the reaction to a “radical rebound” mechanism, in which the generated hydroperoxyl radical first binds to the catalyst and then releases hydrogen peroxide.",
-                "zh": "实验室结果显示，超过99%的电荷用于生成目标产物，催化剂转换频率很高；计算与实验将反应归为“自由基回弹”机制，即生成的过氧羟基自由基先与催化剂结合，再释放过氧化氢。"
-              },
-              {
-                "en": "The research team noted that the catalyst’s stability and lifetime still require testing and improvement and that scaling up the reaction and running it in water remain to be verified; the work is currently still at the laboratory stage.",
-                "zh": "研究团队指出，催化剂稳定性和寿命仍需测试改进，反应放大及在水中的运行也待验证，目前尚处实验室阶段。"
+                "en": "The 500 Wh kg−1 given in the abstract is a projected value at the pouch-cell level, while the paper reports cathode areal capacity and cycling data; the abstract states that this work demonstrates a route to designing high-energy-density all-solid-state batteries through interfacial control in composite cathodes.",
+                "zh": "摘要给出的500 Wh kg−1是软包电池层面的推算值，论文报告的是正极面容量和循环数据；摘要称该工作展示了通过复合正极界面控制设计高能量密度全固态电池的途径。"
               }
             ]
           }
@@ -220,5 +126,16 @@
       ]
     }
   ],
-  "coverage_notes": []
+  "sources": [
+    {
+      "id": "s3",
+      "url": "https://www.nature.com/articles/s41563-026-02813-1",
+      "title": "High-loading all-solid-state lithium–sulfur batteries enabled by tailored sulfur–sulfide and sulfur–carbon interfaces",
+      "published_at": null
+    }
+  ],
+  "edition": "technology-materials",
+  "coverage_notes": [
+    "部分候选消息未能充分核实，未予收录。"
+  ]
 }

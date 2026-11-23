@@ -1,5 +1,3 @@
-# Newspaper: public pages and RSS may be crawled.
 User-agent: *
-# Avoid duplicate downloads and the client-side search data.
 Disallow: /downloads/
 Disallow: /search.json

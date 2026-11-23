@@ -2,16 +2,42 @@
   "schema_version": 2,
   "date": "2026-11-23",
   "title": "2026-11-23 ACGN",
-  "summary": "本期ACGN日报收录《绝区零》3.4版本与《崩坏：星穹铁道》联动、三人PvP游戏《Arkheron》Steam抢先体验、《怪物猎人：崛起》Netflix手机版，以及小说《その者。のちに…》2027年TV动画化。",
+  "summary": "本期 ACGN 日报收录 3 条：Gematsu 周报将《蓝色星原：旅谣》列入本周日本数字版发售重点；《以撒的结合：忏悔+》因未披露 AI 生成音乐引发差评，Nicalis 已移除相关文件；《GTA 6》一款枪械涂装被指与艺术家旧作相似，目前仍为指控。",
   "highlights": [
-    "《绝区零》3.4版本12月2日上线，联动《崩坏：星穹铁道》，Robin登录可免费领取。",
-    "三人PvP动作游戏《Arkheron》11月28日在Steam开启抢先体验，支持Friend Pass。",
-    "《怪物猎人：崛起》Netflix版11月24日登陆手机端，订阅用户可玩本体和全部DLC。",
-    "小说《その者。のちに…》2027年TV动画化，伊东健人、小仓唯主配。"
+    "Gematsu 周报将《蓝色星原：旅谣》列入本周日本数字版发售重点，平台为 PC、iOS、Android。",
+    "《以撒的结合：忏悔+》更新因未披露 AI 生成音乐引发差评，Nicalis 称已移除相关文件。",
+    "《GTA 6》一款冲锋枪涂装被指与艺术家 GabyT 旧作高度相似，报道强调目前仅为指控。"
   ],
   "window_start": "2026-11-22T12:00:00+08:00",
   "window_end": "2026-11-23T12:00:00+08:00",
-  "generated_at": "2026-11-23T12:23:57.667859+08:00",
+  "generated_at": "2026-11-23T22:14:43.441828+08:00",
+  "edition": "acgn",
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise-the-stellar-angel-more",
+      "title": "This Week’s Japanese Game Releases: Azur Promilia, Expelled from Paradise: The Stellar Angel, more",
+      "published_at": "2026-11-23T02:36:01+00:00"
+    },
+    {
+      "id": "s22",
+      "url": "https://automaton-media.com/articles/newsjp/20261123-480440/",
+      "title": "『The Binding of Isaac』新実装の隠しモード、“BGMがAI生成”と発覚して批判殺到。生みの親Edmund McMillen氏も困惑、現行チームに削除要請する事態に",
+      "published_at": "2026-11-23T03:55:27+00:00"
+    },
+    {
+      "id": "s59",
+      "url": "https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizraph1226172.shtml",
+      "title": "《GTA 6》陷入首起抄袭争议：枪械涂装被指照搬艺术家近五年前的作品",
+      "published_at": "2026-11-22T16:20:17+08:00"
+    },
+    {
+      "id": "s63",
+      "url": "https://www.ign.com.cn/ysdjhgame/64204/yi-sa-de-jie-he-kai-fa-shang-yi-chu-liao-you-xi-nei-de-aiyin-le",
+      "title": "《以撒的结合》开发商移除了游戏内的AI音乐",
+      "published_at": "2026-11-23T03:03:58+00:00"
+    }
+  ],
   "sections": [
     {
       "id": "gacha",
@@ -19,94 +45,44 @@
       "empty_reason": "",
       "articles": [
         {
-          "event_key": "HoYoverse|发布重大版本|Zenless Zone Zero 3.4 与星穹铁道联动",
-          "title": "《绝区零》3.4版本12月2日上线，联动《崩坏：星穹铁道》",
-          "summary": "HoYoverse公布《绝区零》3.4版本“The Finality of the Day”于2026年12月2日上线，开启与《崩坏：星穹铁道》的联动；Sunbringer作为S级角色登场，Kafka在下半段加入，登录可免费领取Robin。版本登陆PS5、Xbox、PC、iOS和Android，并通过Steam登陆PC。",
-          "published_at": "2026-11-23T11:28:04+08:00",
-          "follow_up": true,
-          "new_facts": "《绝区零》3.4版本日期、罗斯卡利弗篇高潮、与《崩坏：星穹铁道》联动角色Robin与Kafka、Sunbringer与Kafka登场安排、免费Robin奖励及平台列表。",
+          "event_key": "Azur Promilia|在日本发售|PC/iOS/Android版",
+          "title": "《蓝色星原：旅谣》被列入本周日本数字版发售重点",
+          "summary": "Gematsu 周报将《Azur Promilia》列为本週日本发售重点之一，数字版平台为 PC、iOS、Android；周报未给出具体日期、发行商和商业模式。",
+          "published_at": "2026-11-23T10:36:01+08:00",
+          "follow_up": false,
+          "new_facts": "Gematsu 周报将《Azur Promilia》列入本周日本游戏发售重点，归入数字版列表，平台为 PC、iOS、Android；未给出具体发售日、发行商与商业模式。",
           "verification": "single_source",
-          "importance": "重大",
+          "importance": "重要",
           "reliability": "B",
           "entities": [
-            "HoYoverse",
-            "Zenless Zone Zero",
-            "Version 3.4: The Finality of the Day"
+            "Manjuu",
+            "Azur Promilia",
+            "蓝色星原：旅谣"
           ],
-          "limitations": "信息来自HTH Gaming单一报道，未直接取得HoYoverse官方公告；角色机制与版本内容以该报道为准。",
+          "limitations": "仅据 Gematsu 周报列表，未取得官方发售公告；具体发售日、发行商、语言和商业模式未在来源中说明。",
           "facts": [
             {
-              "text": "据HTH Gaming报道，HoYoverse将于2026年12月2日发布《绝区零》3.4版本“The Finality of the Day”。更新把罗斯卡利弗天空岛篇推向高潮，并开启与《崩坏：星穹铁道》的联动，Robin与Kafka将前往新艾利都。",
               "kind": "fact",
-              "verification": "single_source",
+              "text": "据 Gematsu 本周日本游戏发售周报，《Azur Promilia》（蓝色星原：旅谣）被列为本週发售重点之一，并归入数字版列表，平台为 PC、iOS 和 Android。",
               "evidence": [
                 {
-                  "source_id": "s52",
-                  "quote": "HoYoverse will release Version 3.4 of Zenless Zone Zero, titled “The Finality of the Day,” on Dec. 2, 2026."
+                  "source_id": "s1",
+                  "quote": "Azur Promilia for PC , iOS, and Android, and Expelled from Paradise: The Stellar Angel for Switch and PC are the highlights of this week’s Japanese video game releases."
                 },
                 {
-                  "source_id": "s52",
-                  "quote": "opens a crossover with Honkai: Star Rail that sends Robin and Kafka to New Eridu."
+                  "source_id": "s1",
+                  "quote": "Azur Promilia (PC, iOS, Android)"
                 }
-              ]
-            },
-            {
-              "text": "报道称，Sunbringer以S级“Genesis Flare Armorer”身份加入，HoYoverse称其为新Void Hunter、游戏首位Enchainer Agent。Kafka在版本下半段登场，同期复刻S级物理异常角色Alice及S级异常W-Engine“Practiced Perfection”。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s52",
-                  "quote": "Sunbringer, the leader of Roscaelifer, joins the roster as an S-Rank Genesis Flare Armorer Agent. HoYoverse calls the unit a new Void Hunter and the game’s first Enchainer Agent."
-                },
-                {
-                  "source_id": "s52",
-                  "quote": "Kafka arrives in the second half of the version, along with reruns of S-Rank Physical Anomaly Agent Alice and the S-Rank Anomaly W-Engine Practiced Perfection."
-                }
-              ]
-            },
-            {
-              "text": "玩家更新后登录可免费领取联动S级Robin，并获得升至40级的升级材料和整套主属性匹配的Drive Discs。版本登陆PS5、PS5 Pro、Xbox Series X|S、Xbox Cloud Gaming、PC、iOS与Android，并通过Steam登陆PC。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s52",
-                  "quote": "Limited crossover S-Rank Agent Robin on login, with the upgrade materials to reach Lv. 40 and a full set of Drive Discs with matching Main Stats"
-                },
-                {
-                  "source_id": "s52",
-                  "quote": "Version 3.4 launches on PlayStation 5, PlayStation 5 Pro, Xbox Series X|S, Xbox Cloud Gaming, PC, iOS and Android, as well as Steam on PC."
-                }
-              ]
+              ],
+              "verification": "single_source"
             }
           ],
           "bilingual": {
-            "title_en": "Zenless Zone Zero Version 3.4 Launches December 2 With Honkai: Star Rail Crossover",
+            "title_en": "Azur Promilia Listed Among This Week's Key Japanese Digital Releases",
             "sentences": [
               {
-                "en": "According to HTH Gaming, HoYoverse will release Zenless Zone Zero Version 3.4, “The Finality of the Day,” on December 2, 2026.",
-                "zh": "据HTH Gaming报道，HoYoverse将于2026年12月2日发布《绝区零》3.4版本“The Finality of the Day”。"
-              },
-              {
-                "en": "The update brings the Roscalifer Sky Island arc to its climax and launches a crossover with Honkai: Star Rail, with Robin and Kafka heading to New Eridu.",
-                "zh": "更新把罗斯卡利弗天空岛篇推向高潮，并开启与《崩坏：星穹铁道》的联动，Robin与Kafka将前往新艾利都。"
-              },
-              {
-                "en": "According to the report, Sunbringer joins as an S-rank “Genesis Flare Armorer,” which HoYoverse describes as a new Void Hunter and the game’s first Enchainer Agent.",
-                "zh": "报道称，Sunbringer以S级“Genesis Flare Armorer”身份加入，HoYoverse称其为新Void Hunter、游戏首位Enchainer Agent。"
-              },
-              {
-                "en": "Kafka appears in the second half of the version, alongside reruns of the S-rank Physical Anomaly character Alice and the S-rank Anomaly W-Engine “Practiced Perfection.”",
-                "zh": "Kafka在版本下半段登场，同期复刻S级物理异常角色Alice及S级异常W-Engine“Practiced Perfection”。"
-              },
-              {
-                "en": "Players who log in after the update can claim the crossover S-rank Robin for free and receive upgrade materials to raise her to level 40, along with a full set of Drive Discs with matching main stats.",
-                "zh": "玩家更新后登录可免费领取联动S级Robin，并获得升至40级的升级材料和整套主属性匹配的Drive Discs。"
-              },
-              {
-                "en": "The version will be available on PS5, PS5 Pro, Xbox Series X|S, Xbox Cloud Gaming, PC, iOS, and Android, as well as on PC via Steam.",
-                "zh": "版本登陆PS5、PS5 Pro、Xbox Series X|S、Xbox Cloud Gaming、PC、iOS与Android，并通过Steam登陆PC。"
+                "en": "According to Gematsu's weekly Japanese game release report for this week, Azur Promilia was listed as one of the week's release highlights and included in the digital edition list, with PC, iOS, and Android as its platforms.",
+                "zh": "据 Gematsu 本周日本游戏发售周报，《Azur Promilia》（蓝色星原：旅谣）被列为本週发售重点之一，并归入数字版列表，平台为 PC、iOS 和 Android。"
               }
             ]
           }
@@ -116,280 +92,176 @@
     {
       "id": "games",
       "name": "其他热门新作",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
       "empty_reason": "",
       "articles": [
         {
-          "event_key": "Arkheron|开启抢先体验|2026-11-23当周",
-          "title": "三人PvP动作游戏《Arkheron》11月28日开启Steam抢先体验",
-          "summary": "4Gamer报道，三人组队PvP动作游戏《Arkheron》计划11月28日在Steam开启抢先体验，售价2980日元。游戏以记忆筑成的谜之塔为舞台，支持Friend Pass与跨平台联机。",
-          "published_at": "2026-11-23T07:00:00+08:00",
-          "follow_up": true,
-          "new_facts": "《Arkheron》抢先体验日期、Steam售价、三人组队PvP玩法、塔与Eternal背景设定、Friend Pass和跨平台联机。",
-          "verification": "single_source",
+          "event_key": "The Binding of Isaac: Repentance+|移除|AI生成BGM",
+          "title": "《以撒的结合：忏悔+》AI生成音乐引差评，Nicalis移除相关文件",
+          "summary": "《以撒的结合：忏悔+》11月19日更新后，玩家发现一段《GTA》主题流程音乐由 AI 生成并集中差评；Edmund McMillen称不知情，Nicalis随后在PC端补丁中移除生成音乐文件。",
+          "published_at": "2026-11-23T11:03:58+08:00",
+          "follow_up": false,
+          "new_facts": "更新加入未披露的 AI 生成音乐，引发 Steam 差评；Edmund McMillen称完全不知道其如何进入首发版本；Nicalis数小时后发布补丁移除生成音乐文件，PC端已上线，并已提交主机平台。",
+          "verification": "corroborated",
           "importance": "重要",
           "reliability": "B",
           "entities": [
-            "Arkheron"
+            "The Binding of Isaac: Repentance+",
+            "Edmund McMillen"
           ],
-          "limitations": "信息来自4Gamer单一报道，未直接核对Steam商店页；平台标签与抢先体验日期以报道为准。",
+          "limitations": "移除补丁及主机提交信息仅见 IGN 中国报道；AUTOMATON 标题支持争议和删除要求，未取得 Nicalis 原始补丁说明。",
           "facts": [
             {
-              "text": "据4Gamer报道，三人组队PvP动作游戏《Arkheron》计划于11月28日在Steam开启抢先体验，售价2980日元；报道页面列出的平台包括PC、PS5和Xbox Series X|S。",
               "kind": "fact",
-              "verification": "single_source",
+              "text": "《以撒的结合：忏悔+》11月19日推出更新后，玩家发现新加入的一段《GTA》主题流程音乐由 AI 生成，引发 Steam 集中差评。",
               "evidence": [
                 {
-                  "source_id": "s8",
-                  "quote": "【今週のモチベ】見下ろし型PvP「Arkheron」の早期アクセスが始まる 2026年11月23日〜11月29日"
+                  "source_id": "s63",
+                  "quote": "McMillen和Nicalis花了数月时间为他们这款经典动作肉鸽游戏的最新更新造势，准备于2026年11月19日推出，但这次发布很快就蒙上了阴影。"
                 },
                 {
-                  "source_id": "s8",
-                  "quote": "発売日：2026年11月28日（土） ストア： Steam 価格：2980円"
+                  "source_id": "s63",
+                  "quote": "引发争议的据称由AI生成的内容，似乎是专门用于某个以《GTA》为主题的特定游戏流程的音乐"
                 },
                 {
-                  "source_id": "s8",
-                  "quote": "トップ > PC / PS5 / Xbox Series X|S > アクション > Arkheron"
+                  "source_id": "s22",
+                  "quote": "『The Binding of Isaac』新実装の隠しモード、“BGMがAI生成”と発覚して批判殺到。生みの親Edmund McMillen氏も困惑、現行チームに削除要請する事態に"
                 }
-              ]
+              ],
+              "verification": "corroborated"
             },
             {
-              "text": "游戏以由生者世界记忆筑成的谜之塔为舞台。玩家扮演受无法回忆的过去束缚的角色，为逃离导致塔崩坏的深渊而向塔顶战斗；塔在破坏与再生中变化，战士“Eternal”们的过去也会逐步揭示。",
-              "kind": "background",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s8",
-                  "quote": "生者の世界の記憶から築かれた謎の塔を舞台とする，3人1組で戦うチーム対戦型PvPアクション。プレイヤーは思い出せない過去に縛られた者として，塔を崩壊させる深淵から逃れるために頂上を目指して戦い続ける。破壊と再生を繰り返す塔の姿とともに，戦士「エターナル」たちの過去が時間をかけて少しずつ明かされていく物語が魅力の1つとなっている。"
-                }
-              ]
-            },
-            {
-              "text": "游戏支持Friend Pass：一名玩家购买后，另外两人可加入其队伍免费游玩，并支持跨平台联机。",
               "kind": "fact",
-              "verification": "single_source",
+              "text": "创作者 Edmund McMillen 称自己完全不知道 AI 音乐如何进入首发版本，正在调查并移除。",
               "evidence": [
                 {
-                  "source_id": "s8",
-                  "quote": "1人が本作を購入していれば，ほかの2人は「Friend Pass」を使い，そのプレイヤーのパーティに加わることで無料でプレイ可能だ。プラットフォームをまたいだクロスプレイにも対応しているので，まずは仲間を誘って3人で塔に挑んでみるとよいだろう。"
+                  "source_id": "s63",
+                  "quote": "他表示，自己「完全不知道」AI生成音乐是如何进入《以撒的结合：忏悔+》新更新的首发版本的。"
+                },
+                {
+                  "source_id": "s22",
+                  "quote": "生みの親Edmund McMillen氏も困惑、現行チームに削除要請する事態に"
                 }
-              ]
+              ],
+              "verification": "corroborated"
+            },
+            {
+              "kind": "fact",
+              "text": "数小时后，Nicalis 发布补丁确认移除生成音乐文件，PC 端已上线，更新已提交微软、任天堂和索尼。",
+              "evidence": [
+                {
+                  "source_id": "s63",
+                  "quote": "仅仅数小时后，Nicalis推出了一个新补丁，确认「移除了生成的音乐文件」。该更新目前已在PC端上线，工作室补充称，更新已提交给微软、任天堂和索尼。"
+                }
+              ],
+              "verification": "single_source"
             }
           ],
           "bilingual": {
-            "title_en": "Three-Player PvP Action Game Arkheron Opens Steam Early Access on November 28",
+            "title_en": "The Binding of Isaac: Repentance+ AI-Generated Music Draws Negative Reviews; Nicalis Removes Related Files",
             "sentences": [
               {
-                "en": "According to 4Gamer, the three-player team-based PvP action game Arkheron is scheduled to open Steam Early Access on November 28 at a price of 2,980 yen; the platforms listed on the report page include PC, PS5, and Xbox Series X|S.",
-                "zh": "据4Gamer报道，三人组队PvP动作游戏《Arkheron》计划于11月28日在Steam开启抢先体验，售价2980日元；报道页面列出的平台包括PC、PS5和Xbox Series X|S。"
+                "en": "After The Binding of Isaac: Repentance+ launched an update on November 19, players discovered that a newly added GTA-themed gameplay music track was AI-generated, triggering a concentrated wave of negative reviews on Steam.",
+                "zh": "《以撒的结合：忏悔+》11月19日推出更新后，玩家发现新加入的一段《GTA》主题流程音乐由 AI 生成，引发 Steam 集中差评。"
               },
               {
-                "en": "The game is set in a mysterious tower built from the memories of the world of the living.",
-                "zh": "游戏以由生者世界记忆筑成的谜之塔为舞台。"
+                "en": "Creator Edmund McMillen said he had absolutely no idea how the AI music made its way into the launch version and that he was investigating and removing it.",
+                "zh": "创作者 Edmund McMillen 称自己完全不知道 AI 音乐如何进入首发版本，正在调查并移除。"
               },
               {
-                "en": "Players take on the roles of characters bound by a past they cannot remember, fighting toward the top of the tower to escape the abyss that causes the tower to collapse; the tower changes through destruction and regeneration, and the pasts of the warriors called “Eternal” are also gradually revealed.",
-                "zh": "玩家扮演受无法回忆的过去束缚的角色，为逃离导致塔崩坏的深渊而向塔顶战斗；塔在破坏与再生中变化，战士“Eternal”们的过去也会逐步揭示。"
-              },
-              {
-                "en": "The game supports Friend Pass: after one player purchases it, two others can join that player’s team and play for free, and cross-platform multiplayer is also supported.",
-                "zh": "游戏支持Friend Pass：一名玩家购买后，另外两人可加入其队伍免费游玩，并支持跨平台联机。"
+                "en": "Several hours later, Nicalis released a patch confirming the removal of the AI-generated music files; the patch is already live on PC, and the update has been submitted to Microsoft, Nintendo, and Sony.",
+                "zh": "数小时后，Nicalis 发布补丁确认移除生成音乐文件，PC 端已上线，更新已提交微软、任天堂和索尼。"
               }
             ]
           }
         },
         {
-          "event_key": "怪物猎人：崛起|推出Netflix手游版|移动端版本",
-          "title": "《怪物猎人：崛起》Netflix版11月24日登陆手机端",
-          "summary": "17173热点预告称，《怪物猎人：崛起》Netflix版定档11月24日推出，支持手机端游玩。Netflix订阅用户可直接体验游戏本体与全部DLC，并支持联机组队。",
-          "published_at": "2026-11-23T08:30:25+08:00",
-          "follow_up": true,
-          "new_facts": "《怪物猎人：崛起》Netflix版上线日期、手机端形式、订阅用户可玩本体和全部DLC、联机组队。",
+          "event_key": "Grand Theft Auto VI|被指抄袭|枪械涂装",
+          "title": "《GTA 6》枪械涂装被指照搬艺术家旧作",
+          "summary": "IT之家报道称，《GTA 6》一款自定义冲锋枪涂装与毛茸茸艺术家 GabyT 2021年12月插画高度相似，社交媒体用户发布对比；目前仅为指控，无法据此断定侵权。",
+          "published_at": "2026-11-22T16:20:17+08:00",
+          "follow_up": false,
+          "new_facts": "社交媒体用户发现《GTA 6》一款冲锋枪涂装与 GabyT 2021年12月插画相似，发布游戏文件素材和对比视频；报道称该武器需通过角色蔡斯可选遭遇获得，目前无法确定是否获授权，也不能断定构成侵权。",
           "verification": "single_source",
           "importance": "重要",
           "reliability": "B",
           "entities": [
-            "怪物猎人：崛起",
-            "Netflix"
+            "Rockstar Games",
+            "Grand Theft Auto VI",
+            "GTA 6"
           ],
-          "limitations": "信息来自17173汇编预告，未见Netflix或卡普空公告；手机端具体操作系统未在来源中说明。",
+          "limitations": "仅据 IT之家/新浪科技报道，未取得 Rockstar、艺术家或委托方的直接声明；抄袭仍为指控。",
           "facts": [
             {
-              "text": "据17173热点预告，《怪物猎人：崛起》Netflix版定档11月24日推出，支持手机端游玩。Netflix订阅用户可直接体验游戏本体和全部DLC内容。",
               "kind": "fact",
-              "verification": "single_source",
+              "text": "据 IT之家在新浪科技发布的报道，11月21日有社交媒体用户发现，《GTA 6》一款自定义冲锋枪涂装与毛茸茸艺术家 GabyT 2021年12月的一幅插画高度相似；X 用户分享了据称来自游戏文件的素材和对比视频。",
               "evidence": [
                 {
-                  "source_id": "s50",
-                  "quote": "《怪物猎人：崛起》Netflix版本定档11月24日正式推出，支持手机端游玩。"
+                  "source_id": "s59",
+                  "quote": "11 月 21 日，社交媒体用户发现，《GTA 6》中的一款自定义冲锋枪涂装，与毛茸茸文化（Furry）艺术家 GabyT 近五年前创作的一幅插画存在明显相似之处。"
                 },
                 {
-                  "source_id": "s50",
-                  "quote": "Netflix订阅用户可直接体验游戏本体与全部DLC内容，在移动端体验狩猎共斗玩法，支持联机组队挑战各类怪物，完整还原主机版的核心狩猎体验。"
+                  "source_id": "s59",
+                  "quote": "最初 X 用户 Glacius（@TaurineYeen）分享了据称从游戏文件中提取的素材，其中包括这款武器使用的图案，并将其与 GabyT 于 2021 年 12 月发布的一幅委托创作插画联系起来。"
+                },
+                {
+                  "source_id": "s59",
+                  "quote": "X 用户 @sockzthepuppet 随后发布了一段对比视频，展示了两幅作品之间的相似之处。"
                 }
-              ]
+              ],
+              "verification": "single_source"
             },
             {
-              "text": "该版本支持联机组队挑战怪物，报道称其还原主机版的核心狩猎体验；游玩依赖Netflix订阅。",
               "kind": "fact",
-              "verification": "single_source",
+              "text": "报道说，这款武器需通过角色蔡斯的可选遭遇事件获得。现阶段无法确定 Rockstar 是否获得相关使用许可，也不能据此断定构成版权侵权。",
               "evidence": [
                 {
-                  "source_id": "s50",
-                  "quote": "Netflix订阅用户可直接体验游戏本体与全部DLC内容，在移动端体验狩猎共斗玩法，支持联机组队挑战各类怪物，完整还原主机版的核心狩猎体验。"
+                  "source_id": "s59",
+                  "quote": "引发争议的图案出现在一款特殊冲锋枪上。玩家需要通过与《GTA 6》角色蔡斯（Chase）有关的一个可选遭遇事件，才能获得这款武器。"
+                },
+                {
+                  "source_id": "s59",
+                  "quote": "因此，现阶段还无法确定 Rockstar 是否获得了相关使用许可，也不能据此断定其已经构成版权侵权。"
                 }
-              ]
+              ],
+              "verification": "single_source"
             }
           ],
           "bilingual": {
-            "title_en": "Netflix Edition of Monster Hunter Rise to Launch on Mobile on November 24",
+            "title_en": "GTA 6 Weapon Skin Accused of Copying Artist’s Earlier Work",
             "sentences": [
               {
-                "en": "According to a 17173 hot preview, the Netflix edition of Monster Hunter Rise is scheduled to launch on November 24 and will be playable on mobile devices.",
-                "zh": "据17173热点预告，《怪物猎人：崛起》Netflix版定档11月24日推出，支持手机端游玩。"
+                "en": "According to a report by IT Home published on Sina Technology, on November 21 a social media user found that a custom submachine gun skin in \"GTA 6\" was highly similar to an illustration by the furry artist GabyT from December 2021; an X user shared assets allegedly from the game files and a comparison video.",
+                "zh": "据 IT之家在新浪科技发布的报道，11月21日有社交媒体用户发现，《GTA 6》一款自定义冲锋枪涂装与毛茸茸艺术家 GabyT 2021年12月的一幅插画高度相似；X 用户分享了据称来自游戏文件的素材和对比视频。"
               },
               {
-                "en": "Netflix subscribers can directly access the base game and all DLC content.",
-                "zh": "Netflix订阅用户可直接体验游戏本体和全部DLC内容。"
+                "en": "The report said this weapon is obtained through an optional encounter event involving the character Chase.",
+                "zh": "报道说，这款武器需通过角色蔡斯的可选遭遇事件获得。"
               },
               {
-                "en": "This version supports online team play to challenge monsters, and the report says it recreates the core hunting experience of the console version; playing it requires a Netflix subscription.",
-                "zh": "该版本支持联机组队挑战怪物，报道称其还原主机版的核心狩猎体验；游玩依赖Netflix订阅。"
+                "en": "At this stage, it cannot be determined whether Rockstar obtained the relevant usage license, nor can it be concluded on this basis that copyright infringement has occurred.",
+                "zh": "现阶段无法确定 Rockstar 是否获得相关使用许可，也不能据此断定构成版权侵权。"
               }
             ]
           }
         }
       ]
-    },
-    {
-      "id": "game-community",
-      "name": "热门游戏事件与热梗",
-      "empty_reason": "候选消息未达到证据核验标准。",
-      "articles": []
     },
     {
       "id": "acgn-community",
       "name": "其他 ACGN 事件与社区热点",
-      "empty_reason": "",
-      "articles": [
-        {
-          "event_key": "その者。のちに…|TV动画化|2027年",
-          "title": "小说《その者。のちに…》2027年TV动画化，伊东健人、小仓唯配音",
-          "summary": "コミックナタリー报道，ナハァト的小说《その者。のちに…》将于2027年改编为TV动画，主人公ワズ由伊東健人配音、メアル由小倉唯配音。动画由寿門堂制作，大畑晃一任总监督。",
-          "published_at": "2026-11-22T19:00:00+08:00",
-          "follow_up": true,
-          "new_facts": "《その者。のちに…》2027年TV动画化、主要配音、寿門堂制作、大畑晃一总监督、伊東健人演唱OP、原作发表与书籍化、漫画化。",
-          "verification": "single_source",
-          "importance": "重要",
-          "reliability": "B",
-          "entities": [
-            "その者。のちに…",
-            "伊東健人",
-            "小倉唯"
-          ],
-          "limitations": "信息来自コミックナタリー单一报道；页面显示有81次分享和5条评论，但未展示具体评论内容，无法据此判断社区口碑；具体播出平台与时段未在报道中给出。",
-          "facts": [
-            {
-              "text": "コミックナタリー11月22日报道，ナハァト的小说《その者。のちに…》将于2027年改编为TV动画，主人公ワズ由伊東健人配音，メアル由小倉唯配音。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s64",
-                  "quote": "ナハァトの小説「その者。のちに…」が2027年にTVアニメ化。主人公の青年・ワズ役を 伊東健人 、ワズとバディを組む竜の女の子・メアル役を 小倉唯 が演じる。"
-                }
-              ]
-            },
-            {
-              "text": "动画由寿門堂制作，大畑晃一担任总监督；伊東健人还演唱片头主题曲。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s64",
-                  "quote": "アニメーション制作は寿門堂が担当。"
-                },
-                {
-                  "source_id": "s64",
-                  "quote": "総監督：大畑晃一"
-                },
-                {
-                  "source_id": "s64",
-                  "quote": "伊東はオープニング主題歌も担当。"
-                }
-              ]
-            },
-            {
-              "text": "原作在“小説家になろう”发表，经アース・スターノベル书籍化，并有成家慎一郎的漫画版。故事讲述失恋后山笼获得规格外力量的ワズ为追求后宫而旅行，与女主角们展开吵闹冒险。",
-              "kind": "background",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s64",
-                  "quote": "小説投稿サイト・小説家になろうで発表され、アース・スターノベルより書籍化。 成家慎一郎 によるコミカライズも発表されている。"
-                },
-                {
-                  "source_id": "s64",
-                  "quote": "「その者。のちに…」は失恋を機に山籠りして規格外の強さを手に入れ、ハーレムを目指して旅に出たワズと、ヒロインたちのドタバタ冒険劇。"
-                }
-              ]
-            }
-          ],
-          "bilingual": {
-            "title_en": "Novel 'Sono Mono. Nochi ni...' Gets 2027 TV Anime With Kento Ito, Yui Ogura",
-            "sentences": [
-              {
-                "en": "Comic Natalie reported on November 22 that Nahaato's novel 'Sono Mono. Nochi ni...' will be adapted into a TV anime in 2027, with protagonist Waz voiced by Kento Ito and Mearu by Yui Ogura.",
-                "zh": "コミックナタリー11月22日报道，ナハァト的小说《その者。のちに…》将于2027年改编为TV动画，主人公ワズ由伊東健人配音，メアル由小倉唯配音。"
-              },
-              {
-                "en": "The anime is produced by Jumondo, with Koichi Ohata as chief director; Kento Ito will also sing the opening theme.",
-                "zh": "动画由寿門堂制作，大畑晃一担任总监督；伊東健人还演唱片头主题曲。"
-              },
-              {
-                "en": "The original work was published on 'Shosetsuka ni Naro,' was released in book form by Earth Star Novel, and has a manga adaptation by Shin'ichiro Nariie.",
-                "zh": "原作在“小説家になろう”发表，经アース・スターノベル书籍化，并有成家慎一郎的漫画版。"
-              },
-              {
-                "en": "The story follows Waz, who gains extraordinary power after a heartbreak in mountain seclusion, as he travels in pursuit of a harem and sets off on rowdy adventures with the heroines.",
-                "zh": "故事讲述失恋后山笼获得规格外力量的ワズ为追求后宫而旅行，与女主角们展开吵闹冒险。"
-              }
-            ]
-          }
-        }
-      ]
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
     }
   ],
-  "sources": [
-    {
-      "id": "s52",
-      "url": "https://hthgaming.com/zenless-zone-zero-3-4-adds-star-rail-crossover-free-robin",
-      "title": "Zenless Zone Zero 3.4 adds Star Rail crossover, free Robin",
-      "published_at": "2026-11-23T03:28:04+00:00"
-    },
-    {
-      "id": "s50",
-      "url": "https://news.17173.com/content/11232026/083025771.shtml",
-      "title": "热点预告：DNF手游85级版本上线！米哈游《崩坏：因缘精灵》开启幸福测试",
-      "published_at": "2026-11-23T08:30:25+08:00"
-    },
-    {
-      "id": "s8",
-      "url": "https://www.4gamer.net/games/869/G086971/20261122011/",
-      "title": "【今週のモチベ】見下ろし型PvP「Arkheron」の早期アクセスが始まる 2026年11月23日〜11月29日",
-      "published_at": "2026-11-23T08:00:00+09:00"
-    },
-    {
-      "id": "s64",
-      "url": "https://natalie.mu/comic/news/699194",
-      "title": "「その者。のちに…」TVアニメ化　主人公ワズ役に伊東健人、メアル役は小倉唯（コメントあり） - コミックナタリー",
-      "published_at": "2026-11-22T20:00:00+09:00"
-    }
-  ],
-  "edition": "acgn",
   "coverage_notes": [
     "二游的部分资料检索未完成，本期覆盖受限。",
     "热门游戏事件与热梗的部分资料检索未完成，本期覆盖受限。",
-    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。",
-    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。"
   ]
 }

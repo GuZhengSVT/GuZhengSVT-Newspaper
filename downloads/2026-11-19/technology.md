@@ -6,7 +6,7 @@
 
 ### Google发布Gemini 4 Neon
 
-11月19日 05:00 · 重大 · 可靠性 A · 进展
+11月19日 05:00 · 重大 · 可靠性 A · 进展 · 官方陈述
 
 Google在官方博客上线题为《Introducing Gemini 4 Neon》的文章，宣告Gemini 4 Neon。
 
@@ -14,7 +14,7 @@ Google在官方博客上线题为《Introducing Gemini 4 Neon》的文章，宣�
 
 ### Google DeepMind宣布Genie 4可用
 
-11月19日 02:00 · 重要 · 可靠性 A · 进展
+11月19日 02:00 · 重要 · 可靠性 A · 进展 · 官方陈述
 
 Google DeepMind在官方博客宣布，Project Genie更新中的Genie 4现已可用。
 
@@ -22,7 +22,7 @@ Google DeepMind在官方博客宣布，Project Genie更新中的Genie 4现已可
 
 ### RadixArk发布DaisyRose-27B并开放权重
 
-11月19日 03:54 · 重要 · 可靠性 A
+11月19日 03:54 · 重要 · 可靠性 A · 官方陈述
 
 RadixArk发布其首个模型DaisyRose-27B，基于Qwen3.8-27B，checkpoints按Apache 2.0开放，并提供BF16、FP8和NVFP4格式。
 
@@ -36,7 +36,7 @@ RadixArk发布其首个模型DaisyRose-27B，基于Qwen3.8-27B，checkpoints按A
 
 ### 长征二号丁成功发射实践二十四号卫星
 
-11月19日 00:00 · 重要 · 可靠性 A
+11月19日 00:00 · 重要 · 可靠性 A · 官方陈述
 
 国家航天局通报，2026年11月19日6时51分，在太原卫星发射中心用长征二号丁运载火箭发射实践二十四号卫星，卫星进入预定轨道，发射任务成功。
 
@@ -48,7 +48,7 @@ RadixArk发布其首个模型DaisyRose-27B，基于Qwen3.8-27B，checkpoints按A
 
 ### NVIDIA RTX Spark紧凑台式机上市，最高128GB统一内存
 
-11月18日 22:00 · 重要 · 可靠性 A
+11月18日 22:00 · 重要 · 可靠性 A · 官方陈述
 
 NVIDIA称，ASUS、Dell和MSI的RTX Spark紧凑台式机当日上市，Acer、GIGABYTE、HP和Microsoft的机型随后推出。
 

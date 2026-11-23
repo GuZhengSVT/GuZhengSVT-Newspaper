@@ -4,52 +4,34 @@
 
 ## 二游
 
-### 《绝区零》3.4版本12月2日上线，联动《崩坏：星穹铁道》
+### 《蓝色星原：旅谣》被列入本周日本数字版发售重点
 
-11月23日 11:28 · 重大 · 可靠性 B · 进展
+11月23日 10:36 · 重要 · 可靠性 B · 单一来源报道
 
-据HTH Gaming报道，HoYoverse将于2026年12月2日发布《绝区零》3.4版本“The Finality of the Day”。更新把罗斯卡利弗天空岛篇推向高潮，并开启与《崩坏：星穹铁道》的联动，Robin与Kafka将前往新艾利都。
+据 Gematsu 本周日本游戏发售周报，《Azur Promilia》（蓝色星原：旅谣）被列为本週发售重点之一，并归入数字版列表，平台为 PC、iOS 和 Android。
 
-报道称，Sunbringer以S级“Genesis Flare Armorer”身份加入，HoYoverse称其为新Void Hunter、游戏首位Enchainer Agent。Kafka在版本下半段登场，同期复刻S级物理异常角色Alice及S级异常W-Engine“Practiced Perfection”。
+来源：[gematsu.com](<https://www.gematsu.com/2026/11/this-weeks-japanese-game-releases-azur-promilia-expelled-from-paradise-the-stellar-angel-more>)
 
-玩家更新后登录可免费领取联动S级Robin，并获得升至40级的升级材料和整套主属性匹配的Drive Discs。版本登陆PS5、PS5 Pro、Xbox Series X|S、Xbox Cloud Gaming、PC、iOS与Android，并通过Steam登陆PC。
+## 热门游戏事件与热梗
 
-来源：[hthgaming.com](<https://hthgaming.com/zenless-zone-zero-3-4-adds-star-rail-crossover-free-robin>)
+### 《以撒的结合：忏悔+》AI生成音乐引差评，Nicalis移除相关文件
 
-## 其他热门新作
+11月23日 11:03 · 重要 · 可靠性 B · 单一来源报道 · 独立多源核实
 
-### 三人PvP动作游戏《Arkheron》11月28日开启Steam抢先体验
+《以撒的结合：忏悔+》11月19日推出更新后，玩家发现新加入的一段《GTA》主题流程音乐由 AI 生成，引发 Steam 集中差评。
 
-11月23日 07:00 · 重要 · 可靠性 B · 进展
+创作者 Edmund McMillen 称自己完全不知道 AI 音乐如何进入首发版本，正在调查并移除。
 
-据4Gamer报道，三人组队PvP动作游戏《Arkheron》计划于11月28日在Steam开启抢先体验，售价2980日元；报道页面列出的平台包括PC、PS5和Xbox Series X|S。
+数小时后，Nicalis 发布补丁确认移除生成音乐文件，PC 端已上线，更新已提交微软、任天堂和索尼。
 
-游戏以由生者世界记忆筑成的谜之塔为舞台。玩家扮演受无法回忆的过去束缚的角色，为逃离导致塔崩坏的深渊而向塔顶战斗；塔在破坏与再生中变化，战士“Eternal”们的过去也会逐步揭示。
+来源：[ign.com.cn](<https://www.ign.com.cn/ysdjhgame/64204/yi-sa-de-jie-he-kai-fa-shang-yi-chu-liao-you-xi-nei-de-aiyin-le>) · [automaton-media.com](<https://automaton-media.com/articles/newsjp/20261123-480440/>)
 
-游戏支持Friend Pass：一名玩家购买后，另外两人可加入其队伍免费游玩，并支持跨平台联机。
+### 《GTA 6》枪械涂装被指照搬艺术家旧作
 
-来源：[4gamer.net](<https://www.4gamer.net/games/869/G086971/20261122011/>)
+11月22日 16:20 · 重要 · 可靠性 B · 单一来源报道
 
-### 《怪物猎人：崛起》Netflix版11月24日登陆手机端
+据 IT之家在新浪科技发布的报道，11月21日有社交媒体用户发现，《GTA 6》一款自定义冲锋枪涂装与毛茸茸艺术家 GabyT 2021年12月的一幅插画高度相似；X 用户分享了据称来自游戏文件的素材和对比视频。
 
-11月23日 08:30 · 重要 · 可靠性 B · 进展
+报道说，这款武器需通过角色蔡斯的可选遭遇事件获得。现阶段无法确定 Rockstar 是否获得相关使用许可，也不能据此断定构成版权侵权。
 
-据17173热点预告，《怪物猎人：崛起》Netflix版定档11月24日推出，支持手机端游玩。Netflix订阅用户可直接体验游戏本体和全部DLC内容。
-
-该版本支持联机组队挑战怪物，报道称其还原主机版的核心狩猎体验；游玩依赖Netflix订阅。
-
-来源：[news.17173.com](<https://news.17173.com/content/11232026/083025771.shtml>)
-
-## 其他 ACGN 事件与社区热点
-
-### 小说《その者。のちに…》2027年TV动画化，伊东健人、小仓唯配音
-
-11月22日 19:00 · 重要 · 可靠性 B · 进展
-
-コミックナタリー11月22日报道，ナハァト的小说《その者。のちに…》将于2027年改编为TV动画，主人公ワズ由伊東健人配音，メアル由小倉唯配音。
-
-动画由寿門堂制作，大畑晃一担任总监督；伊東健人还演唱片头主题曲。
-
-原作在“小説家になろう”发表，经アース・スターノベル书籍化，并有成家慎一郎的漫画版。故事讲述失恋后山笼获得规格外力量的ワズ为追求后宫而旅行，与女主角们展开吵闹冒险。
-
-来源：[natalie.mu](<https://natalie.mu/comic/news/699194>)
+来源：[finance.sina.com.cn](<https://finance.sina.com.cn/tech/digi/2026-11-22/doc-inizraph1226172.shtml>)

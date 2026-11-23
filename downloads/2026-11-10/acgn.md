@@ -6,7 +6,7 @@
 
 ### 《Warhammer 40,000: Dark Heresy》定于2027年1月28日发售
 
-11月10日 00:13 · 重要 · 可靠性 B · 进展
+11月10日 00:13 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 Owlcat Games宣布，《Warhammer 40,000: Dark Heresy》将于2027年1月28日登陆PS5、Xbox Series和PC，PC版通过Steam、Epic Games Store与GOG发行，Switch 2版后续推出。
 
@@ -18,7 +18,7 @@ Founder’s Packs销售将持续到1月初，面向所有创始人的Beta测试�
 
 ### 《FragPunk》推出Farlands，已在PC和主机开启全球Early Access
 
-11月10日 00:00 · 重要 · 可靠性 A · 进展
+11月10日 00:00 · 重要 · 可靠性 A · 进展 · 官方陈述
 
 Bad Guitar Studio宣布，《FragPunk》迄今规模最大的新章节Farlands已在PC和主机开启全球Early Access。
 
@@ -30,7 +30,7 @@ Farlands是永久性多人送货PvPvE冒险，数十名玩家共享一个持续�
 
 ### 《Medabots Classics Plus》12月登陆Steam，收录8款旧作
 
-11月10日 10:32 · 重要 · 可靠性 B · 进展
+11月10日 10:32 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 Imagineer与开发商SUCCESS Corporation宣布，《Medabots Classics Plus》将于2026年12月在Steam发售，分为Kabuto Ver.和Kuwagata Ver.，日本各售5478日元。 合集收录8款系列旧作，包括《Medabots》至《Medabots 5》以及《Medabots Navi》《Medabots G》《Medabots Two: CORE》。
 
@@ -40,7 +40,7 @@ Imagineer与开发商SUCCESS Corporation宣布，《Medabots Classics Plus》将
 
 ### 《Sea of Remnants》Dawnbreaker封闭测试12月3日开启
 
-11月09日 22:30 · 重要 · 可靠性 B · 进展
+11月09日 22:30 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 网易游戏与Joker Studio宣布，免费海洋冒险RPG《Sea of Remnants》的Dawnbreaker封闭测试将于12月3日开始，覆盖PS5、Xbox Series、PC（专用启动器）、iOS（TestFlight）和Android。预下载12月1日开放，测试资格有限，按先到先得发放。
 
@@ -52,7 +52,7 @@ Imagineer与开发商SUCCESS Corporation宣布，《Medabots Classics Plus》将
 
 ### 《ドラゴンクエストRPG 魔界樹と導かれし島》公布，计划2027年全球同步发行
 
-11月10日 11:28 · 重要 · 可靠性 B · 进展
+11月10日 11:28 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 GREE Holdings于11月10日公开IR信息，旗下WFS与Square Enix共同开发的手机指令RPG《ドラゴンクエストRPG 魔界樹と導かれし島》计划2027年全球同步发行（部分地区除外），登陆iOS和Android，采用基本免费加道具收费。
 

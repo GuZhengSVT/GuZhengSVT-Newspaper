@@ -6,7 +6,7 @@
 
 ### 美国NRC批准Dow与X-energy在得州建设先进核设施
 
-11月14日 01:08 · 重大 · 可靠性 A
+11月14日 01:08 · 重大 · 可靠性 A · 官方陈述
 
 美国能源部11月13日发布公告称，美国核管理委员会（NRC）已于11月9日批准Dow与X-energy在得克萨斯州Seadrift的Dow运营厂址建设Long Mott Generating Station的建设许可。
 

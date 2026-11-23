@@ -6,7 +6,7 @@
 
 ### 《Wolfenstein 3》确认由MachineGames制作
 
-11月13日 09:00 · 重大 · 可靠性 A · 进展
+11月13日 09:00 · 重大 · 可靠性 A · 进展 · 官方陈述 · 独立多源核实
 
 在Xbox 25周年FanFest活动上，Xbox宣布《Wolfenstein 3》已在MachineGames进入制作；Xbox CEO Asha Sharma在X上确认，IGN亦报道了这一消息。
 
@@ -16,7 +16,7 @@ MachineGames同时确认，Brian Bloom与Debra Wilson将回归，分别为BJ Bla
 
 ### 《Fable》公开新实机演示，IGN称约四分钟
 
-11月13日 04:16 · 重要 · 可靠性 B · 进展
+11月13日 04:16 · 重要 · 可靠性 B · 进展 · 官方陈述 · 单一来源报道
 
 Xbox在25周年活动中公开了《Fable》的新实机演示，并称将在官方播客中由Playground Games解析这段演示。
 
@@ -26,7 +26,7 @@ Xbox在25周年活动中公开了《Fable》的新实机演示，并称将在官
 
 ### 《少女与战车 全明星坦克嘉年华》定档2027年3月25日
 
-11月13日 11:13 · 重要 · 可靠性 B · 进展
+11月13日 11:13 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 据4Gamer报道，D3 Publisher于11月13日宣布，《少女与战车 全明星坦克嘉年华》将于2027年3月25日在日本发售，售价6980日元（含税）。
 
@@ -38,7 +38,7 @@ Xbox在25周年活动中公开了《Fable》的新实机演示，并称将在官
 
 ### 《Slay the Spire 2》测试补丁加入Fool与两种新模式
 
-11月13日 11:20 · 重要 · 可靠性 B · 进展
+11月13日 11:20 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 据4Gamer报道，Mega Crit于11月13日为早期访问中的《Slay the Spire 2》发布新测试补丁，加入新角色“Fool（フール）”以及“Blitz”“Dread”两种模式。
 
@@ -50,7 +50,7 @@ Fool被设定为持弓的吟游诗人；Blitz取消地图、金币失去意义�
 
 ### 《Once Human》第五赛季11月18日上线
 
-11月13日 07:00 · 重要 · 可靠性 A · 进展
+11月13日 07:00 · 重要 · 可靠性 A · 进展 · 官方陈述
 
 PlayStation博客刊出的开发者公告显示，Starry Studio的《Once Human》第五赛季“Dissonant Resonance”将于11月18日全球上线，登陆PS5并延续免费游玩。
 
@@ -60,7 +60,7 @@ PlayStation博客刊出的开发者公告显示，Starry Studio的《Once Human�
 
 ### 《Cinder City》12月4日至6日举行全球α测试
 
-11月13日 11:24 · 重要 · 可靠性 B · 进展
+11月13日 11:24 · 重要 · 可靠性 B · 进展 · 单一来源报道
 
 据4Gamer报道，NC于11月12日宣布，BigFire Games开发的《Cinder City》将于12月4日至6日举行全球α测试，覆盖日本等亚洲地区及欧美玩家。
 
@@ -70,7 +70,7 @@ PlayStation博客刊出的开发者公告显示，Starry Studio的《Once Human�
 
 ### 《Vindictus: Defying Fate》宣布明年登陆PS5
 
-11月12日 21:07 · 重要 · 可靠性 A · 进展
+11月12日 21:07 · 重要 · 可靠性 A · 进展 · 官方陈述
 
 PlayStation博客刊出的Nexon公告称，《Vindictus: Defying Fate》将于明年登陆PS5，PS Store页面已上线并开放愿望单。
 

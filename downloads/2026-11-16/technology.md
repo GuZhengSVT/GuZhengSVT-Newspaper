@@ -6,7 +6,7 @@
 
 ### Apple启动健康AI使用研究，计划招募20万美国用户
 
-11月16日 09:18 · 重要 · 可靠性 A · 进展
+11月16日 09:18 · 重要 · 可靠性 A · 进展 · 官方陈述
 
 Apple宣布启动Apple Health AI Usage Study，与临床AI平台OpenEvidence合作，在美国招募最多20万名21岁以上参与者；研究通过配套App评估用户对对话式健康AI的信任、理解、回答质量及日常健康行动。
 
@@ -18,7 +18,7 @@ Apple宣布启动Apple Health AI Usage Study，与临床AI平台OpenEvidence合�
 
 ### ULA Vulcan发射异常，40颗Amazon Leo卫星未入轨
 
-11月16日 05:05 · 重大 · 可靠性 B · 进展
+11月16日 05:05 · 重大 · 可靠性 B · 进展 · 单一来源报道
 
 联合发射联盟（ULA）的Vulcan火箭从佛罗里达州SLC-41发射，搭载40颗Amazon Leo宽带卫星，发射约10分钟后出现异常，未能将任务送入轨道。ULA在社交平台声明中确认了这次异常。
 

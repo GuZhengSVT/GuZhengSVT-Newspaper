@@ -2,146 +2,27 @@
   "schema_version": 2,
   "date": "2026-11-23",
   "title": "2026-11-23 政治",
-  "summary": "本期收录3条通过核验的新闻。",
+  "summary": "本期收录2条新闻。",
   "highlights": [
-    "丁薛祥在新加坡会见黄循财，讨论中新合作机制与人工智能合作",
-    "《卫报》统计：民主党在中期选举中赢得至少258个众议院席位",
-    "乌克兰方面称俄军袭击基辅州住宅楼，伤亡数字报道不一"
+    "以色列组阁谈判结束 内塔尼亚胡与艾森科特阵营未达成协议",
+    "COP31气候谈判在混乱中结束 未达成协议"
   ],
   "window_start": "2026-11-22T12:00:00+08:00",
   "window_end": "2026-11-23T12:00:00+08:00",
-  "generated_at": "2026-11-23T12:36:38.923932+08:00",
+  "generated_at": "2026-11-24T02:37:38.997354+08:00",
   "edition": "politics",
   "sections": [
     {
       "id": "politics-china",
       "name": "中国",
-      "empty_reason": "",
-      "articles": [
-        {
-          "event_key": "丁薛祥|会见|黄循财",
-          "title": "丁薛祥在新加坡会见黄循财，讨论中新合作机制与人工智能合作",
-          "summary": "丁薛祥11月22日在新加坡会见黄循财，表示此访主要任务是主持中新双边合作机制会议，并愿将“十五五”规划同新加坡发展优先事项对接。",
-          "published_at": "2026-11-23T11:55:20+08:00",
-          "follow_up": false,
-          "new_facts": "丁薛祥在新加坡会见黄循财；中方愿将“十五五”规划与新加坡国家发展优先事项对接，深化人工智能、绿色发展合作；新方期待人工智能和数字经济合作。",
-          "verification": "single_source",
-          "importance": "重要",
-          "reliability": "B",
-          "entities": [
-            "丁薛祥",
-            "黄循财",
-            "新加坡"
-          ],
-          "limitations": "中新社报道基于中方通稿，未取得新加坡政府独立文本；会见细节以中方表述为主。",
-          "facts": [
-            {
-              "text": "据中新社报道，11月22日，中共中央政治局常委、国务院副总理丁薛祥在新加坡会见新加坡总理黄循财。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s4",
-                  "quote": "11月22日，中共中央政治局常委、国务院副总理丁薛祥在新加坡会见新加坡总理黄循财。"
-                }
-              ]
-            },
-            {
-              "text": "丁薛祥表示，此访主要任务是同新加坡副总理颜金勇共同主持中新双边合作机制会议，落实两国领导人共识；中方愿将“十五五”规划同新加坡国家发展优先事项对接，深化人工智能、绿色发展等领域合作。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s4",
-                  "quote": "我此次访新，主要任务就是同颜金勇副总理共同主持召开中新双边合作机制会议"
-                },
-                {
-                  "source_id": "s4",
-                  "quote": "中方愿将中国“十五五”规划同新加坡国家发展优先事项更好对接"
-                }
-              ]
-            },
-            {
-              "text": "黄循财表示，访华期间同习近平主席和李强总理就新中关系深入沟通，相信机制会议将巩固和拓展双方合作；新方期待加强人工智能和数字经济合作，并愿在明年担任东盟轮值主席国期间推进东盟同中国合作。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s4",
-                  "quote": "人工智能发展关乎两国和世界的未来，新方期待同中方加强在人工智能和数字经济等领域的合作"
-                },
-                {
-                  "source_id": "s4",
-                  "quote": "明年新加坡将担任东盟轮值主席国"
-                }
-              ]
-            }
-          ],
-          "bilingual": {
-            "title_en": "Ding Xuexiang Meets Singapore PM Lawrence Wong to Discuss China-Singapore Cooperation Mechanisms and AI Cooperation",
-            "sentences": [
-              {
-                "en": "According to a China News Service report, on November 22, Ding Xuexiang, member of the Political Bureau of the CPC Central Committee and Vice Premier of the State Council, met with Singaporean Prime Minister Lawrence Wong in Singapore.",
-                "zh": "据中新社报道，11月22日，中共中央政治局常委、国务院副总理丁薛祥在新加坡会见新加坡总理黄循财。"
-              },
-              {
-                "en": "Ding said the main task of this visit was to co-chair the China-Singapore bilateral cooperation mechanism meeting with Singaporean Deputy Prime Minister Gan Kim Yong and implement the consensus of the two countries' leaders; China is willing to align its \"15th Five-Year Plan\" with Singapore's national development priorities and deepen cooperation in areas such as artificial intelligence and green development.",
-                "zh": "丁薛祥表示，此访主要任务是同新加坡副总理颜金勇共同主持中新双边合作机制会议，落实两国领导人共识；中方愿将“十五五”规划同新加坡国家发展优先事项对接，深化人工智能、绿色发展等领域合作。"
-              },
-              {
-                "en": "Wong said that during his visit to China he had in-depth exchanges with President Xi Jinping and Premier Li Qiang on Singapore-China relations, and that he believed the mechanism meeting would consolidate and expand bilateral cooperation; Singapore looks forward to strengthening cooperation in artificial intelligence and the digital economy and is willing to advance ASEAN-China cooperation during its chairmanship of ASEAN next year.",
-                "zh": "黄循财表示，访华期间同习近平主席和李强总理就新中关系深入沟通，相信机制会议将巩固和拓展双方合作；新方期待加强人工智能和数字经济合作，并愿在明年担任东盟轮值主席国期间推进东盟同中国合作。"
-              }
-            ]
-          }
-        }
-      ]
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
     },
     {
       "id": "politics-us",
       "name": "美国",
-      "empty_reason": "",
-      "articles": [
-        {
-          "event_key": "美国民主党|赢得众议院多数|2026中期选举",
-          "title": "《卫报》统计：民主党在中期选举中赢得至少258个众议院席位",
-          "summary": "《卫报》报道称，民主党在2026年中期选举中赢得至少258个众议院席位，为该党自1992年以来最大优势；报道未提供各州计票细节。",
-          "published_at": "2026-11-23T03:17:56+08:00",
-          "follow_up": false,
-          "new_facts": "《卫报》报道民主党赢得至少258个众议院席位，为1992年以来最大优势。",
-          "verification": "single_source",
-          "importance": "重大",
-          "reliability": "B",
-          "entities": [
-            "美国民主党",
-            "美国众议院",
-            "2026年美国中期选举"
-          ],
-          "limitations": "所获《卫报》内容仅见标题和发布时间，未提供各州计票细节；258席为媒体统计，最终结果以选举机构公布为准。",
-          "facts": [
-            {
-              "text": "据《卫报》报道，民主党在2026年美国中期选举中赢得至少258个众议院席位，为该党自1992年以来最大的一次众议院选举优势。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s39",
-                  "quote": "Democrats capture at least 258 House seats in largest sweep since 1992"
-                }
-              ]
-            }
-          ],
-          "bilingual": {
-            "title_en": "The Guardian's tally: Democrats win at least 258 House seats in midterms",
-            "sentences": [
-              {
-                "en": "The Guardian reported that Democrats won at least 258 House seats in the 2026 U.S. midterm elections, the party's largest House election advantage since 1992.",
-                "zh": "据《卫报》报道，民主党在2026年美国中期选举中赢得至少258个众议院席位，为该党自1992年以来最大的一次众议院选举优势。"
-              }
-            ]
-          }
-        }
-      ]
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
     },
     {
       "id": "politics-europe",
@@ -152,101 +33,54 @@
     {
       "id": "politics-russia-ukraine",
       "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
       "empty_reason": "",
       "articles": [
         {
-          "event_key": "俄罗斯|空袭|乌克兰基辅州公寓楼",
-          "title": "乌克兰方面称俄军袭击基辅州住宅楼，伤亡数字报道不一",
-          "summary": "乌克兰方面称，11月22日清晨俄军袭击基辅州迪梅尔村一栋住宅楼，造成人员死亡；基辅州长称6死6伤，另有人员失踪；《卫报》标题称至少9死，CNA标题称乌方称基辅州12死，未说明是否仅指该住宅楼。",
-          "published_at": "2026-11-23T10:10:55+08:00",
-          "follow_up": true,
-          "new_facts": "乌克兰方面称俄军11月22日清晨袭击基辅州迪梅尔村住宅楼，造成人员死亡；基辅州长称6死6伤，另有失踪；《卫报》标题称至少9死，CNA标题称乌方称基辅州12死；救援因无人机威胁受阻。",
+          "event_key": "以色列内塔尼亚胡与艾森科特阵营|结束|组阁谈判未达成协议",
+          "title": "以色列组阁谈判结束 内塔尼亚胡与艾森科特阵营未达成协议",
+          "summary": "CNA报道，内塔尼亚胡与艾森科特所属政党结束组阁谈判，未达成组建以色列政府的协议。",
+          "published_at": "2026-11-22T22:37:00+08:00",
+          "follow_up": false,
+          "new_facts": "CNA报道双方结束组阁谈判且未达成协议。",
           "verification": "single_source",
           "importance": "重大",
           "reliability": "B",
           "entities": [
-            "俄罗斯",
-            "乌克兰",
-            "基辅州",
-            "迪梅尔（Dymer）"
+            "本雅明·内塔尼亚胡",
+            "加迪·艾森科特",
+            "以色列政府"
           ],
-          "limitations": "伤亡数字来自乌克兰官员和媒体标题，口径和范围不一；俄方对此次袭击的回应未在所获来源中体现；所获材料均为乌方口径或转述乌方口径。",
+          "limitations": "CNA页面抓取内容仅含标题，缺少谈判细节、组阁时限及各方回应。",
           "facts": [
             {
-              "text": "乌克兰方面称，11月22日清晨俄罗斯对基辅州迪梅尔村一栋住宅楼发动袭击，造成人员死亡。",
-              "kind": "fact",
-              "verification": "single_source",
+              "text": "据CNA报道，以色列总理内塔尼亚胡与加迪·艾森科特所属政党结束组阁谈判，双方未就组建以色列政府达成协议。",
               "evidence": [
                 {
-                  "source_id": "s43",
-                  "quote": "The attack early on Sunday morning in the village of Dymer killed six people, Kyiv's regional head Tymur Tkachenko said."
+                  "source_id": "s63",
+                  "quote": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government"
                 }
-              ]
-            },
-            {
-              "text": "伤亡数字各家报道不一：基辅州长特穆尔·特卡琴科称6人死亡、6人受伤，另有人员失踪；《卫报》标题称至少9人死亡；CNA报道标题称乌克兰方面称基辅州有12人死亡，未说明是否仅指该住宅楼。",
+              ],
               "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s43",
-                  "quote": "The attack early on Sunday morning in the village of Dymer killed six people, Kyiv's regional head Tymur Tkachenko said. Six people were injured, while others are still missing."
-                },
-                {
-                  "source_id": "s45",
-                  "quote": "kills at least nine"
-                },
-                {
-                  "source_id": "s89",
-                  "quote": "Ukraine says Russian strikes kill 12 in Kyiv region"
-                }
-              ]
-            },
-            {
-              "text": "乌克兰国家紧急情况局称已从住宅楼废墟中找到数具遗体，因附近仍有无人机威胁，搜救受阻，部分人员当天早些时候已被疏散。",
-              "kind": "fact",
-              "verification": "single_source",
-              "evidence": [
-                {
-                  "source_id": "s43",
-                  "quote": "Several bodies have been recovered from the site of a residential building that was hit by a Russian strike in the Kyiv region, Ukraine's State Emergency Services said."
-                },
-                {
-                  "source_id": "s43",
-                  "quote": "Continued warnings of further drone threats near the site have hampered efforts"
-                },
-                {
-                  "source_id": "s43",
-                  "quote": "but some people were successfully evacuated earlier in the day."
-                }
-              ]
+              "verification": "single_source"
             }
           ],
           "bilingual": {
-            "title_en": "Ukraine Says Russian Strike Hit Residential Building in Kyiv Oblast, Casualty Figures Vary",
+            "title_en": "Israeli Coalition Talks End Without Agreement Between Netanyahu and Eisenkot Camp",
             "sentences": [
               {
-                "en": "Ukraine says Russian forces launched an attack on a residential building in the village of Dimer in Kyiv Oblast early on November 22, causing fatalities.",
-                "zh": "乌克兰方面称，11月22日清晨俄罗斯对基辅州迪梅尔村一栋住宅楼发动袭击，造成人员死亡。"
-              },
-              {
-                "en": "Reports differed on the casualty figures: Kyiv Oblast Governor Timur Tkachenko said six people had been killed and six injured, with others missing; The Guardian headline said at least nine people had died; and a CNA report headline said Ukraine had reported 12 deaths in Kyiv Oblast, without specifying whether that referred only to the residential building.",
-                "zh": "伤亡数字各家报道不一：基辅州长特穆尔·特卡琴科称6人死亡、6人受伤，另有人员失踪；《卫报》标题称至少9人死亡；CNA报道标题称乌克兰方面称基辅州有12人死亡，未说明是否仅指该住宅楼。"
-              },
-              {
-                "en": "The State Emergency Service of Ukraine says several bodies have been found in the rubble of the residential building; search and rescue has been hampered because drone threats remain nearby, and some people had been evacuated earlier that day.",
-                "zh": "乌克兰国家紧急情况局称已从住宅楼废墟中找到数具遗体，因附近仍有无人机威胁，搜救受阻，部分人员当天早些时候已被疏散。"
+                "en": "According to CNA, Israeli Prime Minister Netanyahu and Gadi Eisenkot's party have concluded coalition negotiations, with the two sides failing to reach an agreement on forming an Israeli government.",
+                "zh": "据CNA报道，以色列总理内塔尼亚胡与加迪·艾森科特所属政党结束组阁谈判，双方未就组建以色列政府达成协议。"
               }
             ]
           }
         }
       ]
-    },
-    {
-      "id": "politics-middle-east",
-      "name": "中东地区",
-      "empty_reason": "候选消息未达到证据核验标准。",
-      "articles": []
     },
     {
       "id": "politics-south-america",
@@ -263,44 +97,69 @@
     {
       "id": "politics-other",
       "name": "其他",
-      "empty_reason": "候选消息未达到证据核验标准。",
-      "articles": []
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "COP31|未能达成|气候协议",
+          "title": "COP31气候谈判在混乱中结束 未达成协议",
+          "summary": "CNA报道COP31气候谈判在混乱中结束，未能达成协议。",
+          "published_at": "2026-11-22T22:38:00+08:00",
+          "follow_up": false,
+          "new_facts": "CNA报道COP31谈判破裂、未达成协议。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "COP31",
+            "联合国气候变化大会",
+            "安塔利亚"
+          ],
+          "limitations": "可取得的页面内容仅支持谈判破裂这一结论，缺少协议文本、分歧细节和官方闭幕文件。",
+          "facts": [
+            {
+              "text": "据CNA报道，COP31气候谈判在混乱中结束，未能达成协议。",
+              "evidence": [
+                {
+                  "source_id": "s62",
+                  "quote": "Climate talks collapse in chaotic end to COP31"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "COP31 Climate Talks End in Chaos Without Agreement",
+            "sentences": [
+              {
+                "en": "According to CNA, the COP31 climate talks ended in chaos, failing to reach an agreement.",
+                "zh": "据CNA报道，COP31气候谈判在混乱中结束，未能达成协议。"
+              }
+            ]
+          }
+        }
+      ]
     }
   ],
   "sources": [
     {
-      "id": "s45",
-      "url": "https://www.theguardian.com/world/2026/nov/23/ukraine-war-briefing-race-to-find-survivors-after-russian-attack-on-apartment-block-kills-at-least-nine",
-      "title": "Ukraine war briefing: Race to find survivors after Russian attack on apartment block kills at least nine",
-      "published_at": "2026-11-23T02:10:55+00:00"
+      "id": "s63",
+      "url": "https://www.channelnewsasia.com/world/netanyahu-eisenkot-party-israel-government-talks-deal-6573061",
+      "title": "Netanyahu, Eisenkot parties end talks without deal on forming Israel government",
+      "published_at": "2026-11-22T22:37:00+08:00"
     },
     {
-      "id": "s39",
-      "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-      "title": "Democrats capture at least 258 House seats in largest sweep since 1992",
-      "published_at": "2026-11-22T19:17:56+00:00"
-    },
-    {
-      "id": "s4",
-      "url": "https://www.chinanews.com.cn/gn/2026/11-23/10736278.shtml",
-      "title": "丁薛祥会见新加坡总理黄循财",
-      "published_at": "2026-11-23T11:55:20+08:00"
-    },
-    {
-      "id": "s89",
-      "url": "https://www.channelnewsasia.com/world/ukraine-says-russian-strikes-kill-12-in-kyiv-region-6573721",
-      "title": "Ukraine says Russian strikes kill 12 in Kyiv region",
-      "published_at": "2026-11-23T10:25:45+08:00"
-    },
-    {
-      "id": "s43",
-      "url": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-      "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-      "published_at": null
+      "id": "s62",
+      "url": "https://www.channelnewsasia.com/world/cop31-climate-change-talks-collapse-deal-6572946",
+      "title": "Climate talks collapse in chaotic end to COP31",
+      "published_at": "2026-11-22T22:38:00+08:00"
     }
   ],
   "coverage_notes": [
-    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。",
-    "部分候选消息未能充分核实，未予收录。"
+    "美国的部分资料检索未完成，本期覆盖受限。",
+    "欧洲的部分资料检索未完成，本期覆盖受限。",
+    "俄乌战争的部分资料检索未完成，本期覆盖受限。",
+    "中东地区的部分资料检索未完成，本期覆盖受限。",
+    "南美的部分资料检索未完成，本期覆盖受限。"
   ]
 }
