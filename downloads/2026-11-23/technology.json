@@ -1,0 +1,174 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-23",
+  "title": "2026-11-23 科技",
+  "summary": "本期科技板块仅收录一条新闻：日本晶圆代工厂Rapidus的2纳米GAA制程据报未能在2026年夏季达成SRAM功能单元的关键开发里程碑，SRAM良率据称为零，北海道IIM-1晶圆厂还存在无尘室微粒污染问题，使原定2027财年下半年量产的目标增添变数。公司仍表示按原计划推进。人工智能、航天宇航、数码与信息通信板块本期无入选新闻。",
+  "highlights": [
+    "Rapidus 2纳米GAA制程据报未能达成2026年夏季SRAM功能单元里程碑，SRAM良率仍为0%",
+    "北海道IIM-1晶圆厂传出无尘室微粒污染，2027财年下半年量产目标面临变数",
+    "Rapidus仍称按原计划推进，但启动量产不等于稳定大规模量产"
+  ],
+  "window_start": "2026-11-22T12:00:00+08:00",
+  "window_end": "2026-11-23T12:00:00+08:00",
+  "generated_at": "2026-11-23T12:03:23.719444+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Rapidus|2nm GAA SRAM良率据报为零|2nm制程量产",
+          "title": "Rapidus 2纳米SRAM良率据报为零，2027财年量产目标承压",
+          "summary": "据彭博社报道、TechNews转述，Rapidus采用GAA架构的2纳米制程未能在2026年夏季达成SRAM功能单元的关键开发里程碑，SRAM良率据称为0%；北海道IIM-1晶圆厂存在无尘室微粒污染，使2027财年下半年量产目标面临变数。Rapidus仍称按原计划推进。台积电N2的SRAM良率在2024年已超过90%。",
+          "published_at": "2026-11-23T08:15:00+08:00",
+          "follow_up": true,
+          "new_facts": "Rapidus据报未能达成2026年夏季2nm GAA SRAM功能单元开发里程碑，SRAM良率为0%；北海道千岁市IIM-1晶圆厂存在无尘室微粒污染问题；公司仍维持2027财年下半年量产目标，最迟2028年3月底前启动量产。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Rapidus",
+            "2nm GAA",
+            "SRAM"
+          ],
+          "limitations": "报道核心信息来自彭博社引述的匿名知情人士，TechNews为转述，未直接取得彭博社原文；Rapidus未公布SRAM良率数据，也未确认具体技术瓶颈。候选来源AI News Today疑为AI聚合站点，未用于互证。台积电良率数字来自相关报道，并非本次独立核实。",
+          "facts": [
+            {
+              "text": "据彭博社报道、TechNews转述，日本晶圆代工厂Rapidus采用环绕式闸极（GAA）架构的2纳米制程，未能在2026年夏季达成SRAM功能单元的关键开发里程碑，目前SRAM良率仍为0%。北海道千岁市IIM-1晶圆厂还传出无尘室微粒污染问题，使原定2027财年下半年量产的目标增添变数。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s68",
+                  "quote": "根據彭博社的報導，Rapidus 採用環繞式閘極（GAA）架構的 2 奈米製程，未能在 2026 年夏季達成 SRAM 功能單元的關鍵開發里程碑。據稱目前 SRAM 良率仍為 0%。"
+                },
+                {
+                  "source_id": "s68",
+                  "quote": "此外，北海道千歲市 IIM-1 晶圓廠也傳出無塵室微粒污染問題，使原定 2027 財年下半年量產的目標增添變數。"
+                }
+              ]
+            },
+            {
+              "text": "Rapidus成立于2022年，技术开发主要依赖IBM的2纳米制程合作。2025年7月，执行长小池淳义曾宣布IIM-1厂已成功制造出具预期电气特性的2纳米GAA晶体管。但单颗晶体管能运作，与整合成可用的高密度芯片是不同门槛；SRAM阵列高度规律，任何微小制程偏差都可能造成读写失效，因此SRAM良率常被视为评估先进制程整合能力的重要指标。",
+              "kind": "background",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s68",
+                  "quote": "Rapidus 成立於 2022 年，技術開發主要仰賴 IBM 的 2 奈米製程技術合作。"
+                },
+                {
+                  "source_id": "s68",
+                  "quote": "2025 年 7 月，執行長小池淳義曾宣布，IIM-1 廠已成功製造出具備預期電氣特性的 2 奈米 GAA 電晶體"
+                },
+                {
+                  "source_id": "s68",
+                  "quote": "由於 SRAM 陣列具有高度規律性，任何微小的製程偏差，都可能造成讀寫失效。因此，SRAM 良率通常被視為評估先進製程整合能力的重要指標。"
+                }
+              ]
+            },
+            {
+              "text": "作为对照，台积电N2的256Mb SRAM测试晶片良率在2023年4月突破50%，2024年4月超过90%。Rapidus仍强调按原定计划，在2027财年下半年、即最迟2028年3月底前启动量产。不过启动量产并不等于达到稳定的大规模量产，在此之前仍需完成SRAM功能验证、大型阵列测试、良率提升与制程认证等阶段。",
+              "kind": "explanation",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s68",
+                  "quote": "台積電（TSMC）2 奈米 N2 製程的發展，提供了鮮明對照。據相關報導，其 256Mb SRAM 測試晶片良率於 2023 年 4 月突破 50%，2024 年 4 月進一步超過 90%，並於 2025 年量產前維持在 90% 以上。"
+                },
+                {
+                  "source_id": "s68",
+                  "quote": "Rapidus 仍強調將依照原定計畫，在 2027 財年下半年啟動量產，也就是最遲於 2028 年 3 月底前展開。"
+                },
+                {
+                  "source_id": "s68",
+                  "quote": "但必須注意，啟動量產並不等於達到穩定的大規模量產（HVM）。"
+                },
+                {
+                  "source_id": "s68",
+                  "quote": "在此之前，仍須完成 SRAM 功能驗證、大型陣列測試、良率提升、製程認證及風險試產等階段。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Rapidus 2nm SRAM Yield Reportedly Zero, Putting FY2027 Mass Production Target Under Pressure",
+            "sentences": [
+              {
+                "en": "Bloomberg reported, as relayed by TechNews, that Japanese foundry Rapidus's 2-nanometer process using a gate-all-around (GAA) architecture failed to meet a key development milestone for SRAM functional units in summer 2026, and that its SRAM yield remains 0%.",
+                "zh": "据彭博社报道、TechNews转述，日本晶圆代工厂Rapidus采用环绕式闸极（GAA）架构的2纳米制程，未能在2026年夏季达成SRAM功能单元的关键开发里程碑，目前SRAM良率仍为0%。"
+              },
+              {
+                "en": "The IIM-1 fab in Chitose, Hokkaido, has also been reported to have a cleanroom particle contamination problem, adding uncertainty to the original target of mass production in the second half of fiscal 2027.",
+                "zh": "北海道千岁市IIM-1晶圆厂还传出无尘室微粒污染问题，使原定2027财年下半年量产的目标增添变数。"
+              },
+              {
+                "en": "Rapidus was founded in 2022, and its technology development mainly depends on 2-nanometer process cooperation with IBM.",
+                "zh": "Rapidus成立于2022年，技术开发主要依赖IBM的2纳米制程合作。"
+              },
+              {
+                "en": "In July 2025, CEO Atsuyoshi Koike announced that the IIM-1 fab had successfully manufactured 2-nanometer GAA transistors with the expected electrical characteristics.",
+                "zh": "2025年7月，执行长小池淳义曾宣布IIM-1厂已成功制造出具预期电气特性的2纳米GAA晶体管。"
+              },
+              {
+                "en": "However, a single working transistor and integration into a usable high-density chip are different thresholds; SRAM arrays are highly regular, and any tiny process deviation may cause read/write failure, so SRAM yield is often regarded as an important indicator for assessing the integration capability of advanced processes.",
+                "zh": "但单颗晶体管能运作，与整合成可用的高密度芯片是不同门槛；SRAM阵列高度规律，任何微小制程偏差都可能造成读写失效，因此SRAM良率常被视为评估先进制程整合能力的重要指标。"
+              },
+              {
+                "en": "By comparison, the yield of TSMC's N2 256Mb SRAM test chip exceeded 50% in April 2023 and 90% in April 2024.",
+                "zh": "作为对照，台积电N2的256Mb SRAM测试晶片良率在2023年4月突破50%，2024年4月超过90%。"
+              },
+              {
+                "en": "Rapidus still emphasizes that, according to the original plan, it will start mass production in the second half of fiscal 2027, or by the end of March 2028 at the latest.",
+                "zh": "Rapidus仍强调按原定计划，在2027财年下半年、即最迟2028年3月底前启动量产。"
+              },
+              {
+                "en": "However, starting mass production does not equal achieving stable large-scale mass production; before that, it still needs to complete stages such as SRAM functional verification, large-array testing, yield improvement, and process certification.",
+                "zh": "不过启动量产并不等于达到稳定的大规模量产，在此之前仍需完成SRAM功能验证、大型阵列测试、良率提升与制程认证等阶段。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s68",
+      "url": "https://finance.technews.tw/2026/11/23/rapiduss-2nm-process-yield-hits-zero",
+      "title": "Rapidus 2 奈米製程傳出瓶頸，SRAM 良率掛零使日本半導體復興面臨考驗 | TechNews 科技新報",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": [
+    "人工智能的部分资料检索未完成，本期覆盖受限。",
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
