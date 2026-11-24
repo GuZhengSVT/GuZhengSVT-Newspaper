@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-24",
+  "edition": "acgn",
+  "title": "2026-11-24 ACGN",
+  "summary": "本期收录2条新闻。",
+  "highlights": [
+    "索尼称《GTA VI》成PlayStation史上最大规模发售，PS5玩家超3900万",
+    "《仁王3》DLC“Bloody Insurrection”12月17日上线，完整版明年1月28日推出"
+  ],
+  "window_start": "2026-11-23T12:00:00+08:00",
+  "window_end": "2026-11-24T12:00:00+08:00",
+  "generated_at": "2026-11-24T12:25:08.095780+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Grand Theft Auto VI|发售|PlayStation 史上最大规模发行",
+          "title": "索尼称《GTA VI》成PlayStation史上最大规模发售，PS5玩家超3900万",
+          "summary": "索尼互动娱乐公布《GTA VI》发售窗口数据，称PS5独立玩家超过3900万，并创下PlayStation同时在线玩家纪录。",
+          "published_at": "2026-11-24T07:30:13+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "Grand Theft Auto VI",
+            "Rockstar Games",
+            "PlayStation 5",
+            "Sony Interactive Entertainment"
+          ],
+          "limitations": "数据为索尼互动娱乐内部统计，统计窗口为2026年11月19日至22日；“PlayStation史上最大规模”是索尼基于自身平台数据的表述。",
+          "facts": [
+            {
+              "text": "索尼互动娱乐在PlayStation博客称，截至11月22日，超过3900万独立玩家在PS5上玩过《GTA VI》，该作由此成为PlayStation三十年和五代主机历史上规模最大的游戏发售。索尼说明，上述数字来自其11月19日至22日的内部统计。",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "More than 39 million unique players have experienced Jason and Lucia’s story in Grand Theft Auto VI on PlayStation 5."
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "the biggest game launch in PlayStation history, across three decades and five console generations."
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "All figures are based on SIE internal data collected from November 19, 2026, to November 22, 2026"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "同一公告称，《GTA VI》创下PlayStation上任何游戏的同时在线玩家数新高，PS5玩家累计游玩6.83亿小时，首发数日人均17.4小时；发售窗口内，70%的新PS5首次游玩的是该作。",
+              "evidence": [
+                {
+                  "source_id": "s15",
+                  "quote": "GTAVI set a new record for the highest number of concurrent players for any game on PlayStation , surpassing previous records across multiplayer, free-to-play, and single-player titles. Across PS5, players cumulatively logged an incredible 683 million hours of gameplay in GTAVI , reflecting the enthusiasm of the PlayStation community. Each player has spent an average of 17.4 hours exploring the state of Leonida during the game’s opening days."
+                },
+                {
+                  "source_id": "s15",
+                  "quote": "Since its launch, GTAVI was the first game played on 70% of new PS5 consoles."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ]
+        },
+        {
+          "event_key": "Nioh 3|推出第二弹DLC及完整版|Bloody Insurrection / Complete Edition",
+          "title": "《仁王3》DLC“Bloody Insurrection”12月17日上线，完整版明年1月28日推出",
+          "summary": "光荣特库摩与Team NINJA公布《仁王3》DLC“Bloody Insurrection”12月17日上线，包含本体和两款DLC的完整版2027年1月28日登陆PS5、Xbox Series和PC。",
+          "published_at": "2026-11-24T09:41:52+08:00",
+          "follow_up": false,
+          "new_facts": "本期新增：《仁王3》DLC“Bloody Insurrection”定于12月17日上线；完整版2027年1月28日登陆PS5、Xbox Series及PC，包含本体和两款DLC。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Nioh 3",
+            "Bloody Insurrection",
+            "Koei Tecmo",
+            "Team NINJA"
+          ],
+          "limitations": "Gematsu转述光荣特库摩与Team NINJA公告；未提供语言、售价和分级信息。",
+          "facts": [
+            {
+              "text": "据Gematsu报道，光荣特库摩与Team NINJA宣布，《仁王3》DLC“Bloody Insurrection”将于12月17日上线；包含本体和两款DLC的完整版将于2027年1月28日登陆PS5、Xbox Series及PC（Steam和Microsoft Store）。",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "will launch on December 17, and a Nioh 3 Complete Edition featuring the base game and both downloadable contents will launch for PlayStation 5 , Xbox Series , and PC via Steam and Microsoft Store on January 28, 2027, publisher Koei Tecmo and developer Team NINJA announced."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "DLC剧情发生在1638年的岛原，玩家将进入叛乱势力、炼金术士与妖怪联手对抗幕府军的战场，并遇到天草四郎等新角色。",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "arriving in Shimabara in 1638."
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "There, a battlefield where rebel forces, alchemists, and yokai join forces to wage a fierce and bloody struggle against the shogunate army."
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "encountering a host of new figures along the way, including Amakusa Shiro, leader of the rebels"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s15",
+      "url": "https://blog.playstation.com/2026/11/23/thank-you-for-making-grand-theft-auto-vi-the-biggest-launch-in-playstation-history/",
+      "title": "Thank you for making Grand Theft Auto VI the biggest launch in PlayStation history",
+      "published_at": "2026-11-23T15:30:13-08:00"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.gematsu.com/2026/11/nioh-3-dlc-bloody-insurrection-launches-december-17-complete-edition-launches-january-28-2027-alongside-xbox-series-version",
+      "title": "Nioh 3 DLC ‘Bloody Insurrection’ launches December 17; Complete Edition launches January 28, 2027 alongside Xbox Series version",
+      "published_at": "2026-11-24T01:41:52+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "二游的部分资料检索未完成，本期覆盖受限。",
+    "热门游戏事件与热梗的部分资料检索未完成，本期覆盖受限。",
+    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
