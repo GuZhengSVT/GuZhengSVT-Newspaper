@@ -1,0 +1,94 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-24",
+  "title": "2026-11-24 科技",
+  "summary": "本期收录1条新闻。",
+  "highlights": [
+    "NASA寻求合作伙伴设计月球首座核反应堆"
+  ],
+  "window_start": "2026-11-23T12:00:00+08:00",
+  "window_end": "2026-11-24T12:00:00+08:00",
+  "generated_at": "2026-11-24T12:04:15.627748+08:00",
+  "edition": "technology",
+  "sources": [
+    {
+      "id": "s20",
+      "url": "https://www.nasa.gov/directorates/rtmd/nasa-seeks-partners-to-design-first-nuclear-reactor-for-the-moon/",
+      "title": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon ",
+      "published_at": "2026-11-23T12:23:50-05:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NASA|征集合作伙伴|设计月球首座核反应堆LR-1",
+          "title": "NASA寻求合作伙伴设计月球首座核反应堆",
+          "summary": "NASA官网发布消息，正寻求合作伙伴设计月球首座核反应堆。",
+          "published_at": "2026-11-24T01:23:50+08:00",
+          "follow_up": false,
+          "new_facts": "NASA公开征集合作伙伴，设计月球首座核反应堆。",
+          "verification": "official_statement",
+          "importance": "重大",
+          "reliability": "A",
+          "entities": [
+            "NASA",
+            "Lunar Reactor-1"
+          ],
+          "limitations": "已抓取的NASA页面主要内容为站内导航，未包含反应堆功率、时间表及合作范围等细节。",
+          "facts": [
+            {
+              "text": "NASA官网11月23日发布消息，称正寻求合作伙伴设计月球首座核反应堆。",
+              "evidence": [
+                {
+                  "source_id": "s20",
+                  "quote": "页面元数据 datePublished: 2026-11-23T12:23:50-05:00"
+                },
+                {
+                  "source_id": "s20",
+                  "quote": "NASA Seeks Partners to Design First Nuclear Reactor for the Moon"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "coverage_notes": [
+    "人工智能的部分资料检索未完成，本期覆盖受限。",
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "硬件的部分资料检索未完成，本期覆盖受限。",
+    "数码的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
