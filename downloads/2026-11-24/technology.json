@@ -61,7 +61,16 @@
               "kind": "fact",
               "verification": "official_statement"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "NASA Seeks Partners to Design First Lunar Nuclear Reactor",
+            "sentences": [
+              {
+                "en": "NASA announced on its website on November 23 that it is seeking partners to design the first nuclear reactor on the Moon.",
+                "zh": "NASA官网11月23日发布消息，称正寻求合作伙伴设计月球首座核反应堆。"
+              }
+            ]
+          }
         }
       ]
     },

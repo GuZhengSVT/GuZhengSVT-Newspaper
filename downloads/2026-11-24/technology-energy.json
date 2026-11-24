@@ -92,7 +92,36 @@
             "室温超导（room-temperature superconductivity）",
             "电子对（electron pairs）"
           ],
-          "limitations": "来源为ScienceDaily转载的乌得勒支大学新闻稿，未取得《科学》论文原文；摘要未给出具体材料体系、电子对形成温度数值和独立复现信息。报道所指是电子配对条件可在室温满足，不是已经实现室温超导。"
+          "limitations": "来源为ScienceDaily转载的乌得勒支大学新闻稿，未取得《科学》论文原文；摘要未给出具体材料体系、电子对形成温度数值和独立复现信息。报道所指是电子配对条件可在室温满足，不是已经实现室温超导。",
+          "bilingual": {
+            "title_en": "Superconductivity research: electron pairs can remain intact at room temperature, and phase coherence may be the bottleneck for room-temperature superconductivity",
+            "sentences": [
+              {
+                "en": "Superconducting materials can allow current to pass without resistance, but electrons must first form Cooper pairs and then these pairs must maintain the same quantum phase and move in a coordinated way.",
+                "zh": "超导材料可让电流无电阻通过，但需要电子先结成库珀对，再让这些对保持同一量子相位、协同运动。"
+              },
+              {
+                "en": "In conventional superconductors, electron pairing and this collective coordination appear at similar temperatures.",
+                "zh": "常规超导体中，电子配对与这种集体协同在相近温度出现。"
+              },
+              {
+                "en": "Researchers from Utrecht, Leiden and Munich, in a study published in Science, found that one basic condition required for superconductivity can be met without relying on extreme cooling: electron pairs in high-temperature superconductors can form at temperatures far above the superconducting transition and remain intact at room temperature.",
+                "zh": "来自乌得勒支、莱顿和慕尼黑的研究人员在《科学》发表研究，发现超导所需的一个基本条件可在不依赖极端冷却的情况下满足：高温超导体中的电子对能在远高于超导转变的温度形成，并可在室温保持完整。"
+              },
+              {
+                "en": "Swart said the “glue” binding electron pairs remains strong enough at room temperature, suggesting that the second key condition—phase coherence—is the bottleneck; if phase coherence is understood, it may be possible to find a path to superconductivity at higher temperatures.",
+                "zh": "斯瓦特说，束缚电子对的“胶水”在室温下仍足够强，这提示第二个关键条件——相位相干——是瓶颈；如果理解了相位相干，或许能找到通往更高温度超导的路径。"
+              },
+              {
+                "en": "This means the study demonstrates one of the two key conditions; with electron pairs alone, the material still will not superconduct.",
+                "zh": "这意味着研究展示的是两个关键条件之一；仅有电子对，材料仍不会超导。"
+              },
+              {
+                "en": "The finding points the problem to phase coherence and does not turn existing materials into room-temperature superconductors.",
+                "zh": "该发现把问题指向相位相干，并未把现有材料变成室温超导体。"
+              }
+            ]
+          }
         }
       ]
     }
