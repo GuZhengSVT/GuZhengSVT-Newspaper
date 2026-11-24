@@ -1,0 +1,161 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-24",
+  "title": "2026-11-24 政治",
+  "summary": "本期收录1条通过核验的新闻。",
+  "highlights": [
+    "泽连斯基称乌无人机在利比亚击沉俄护卫舰"
+  ],
+  "window_start": "2026-11-23T12:00:00+08:00",
+  "window_end": "2026-11-24T12:00:00+08:00",
+  "generated_at": "2026-11-24T12:18:16.394734+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "乌克兰|无人机袭击|俄罗斯梅尔库里号护卫舰",
+          "title": "泽连斯基称乌无人机在利比亚击沉俄护卫舰",
+          "summary": "泽连斯基称，乌克兰海上无人机22日在利比亚班加西港击沉俄罗斯“梅尔库里”号护卫舰，并击中俄货船“MV ANGARA”。BBC核实视频与卫星图像显示船只起火、倾覆。俄方未直接确认，利比亚两个政府谴责袭击。",
+          "published_at": "2026-11-23T20:11:54+08:00",
+          "follow_up": false,
+          "new_facts": "泽连斯基23日称，乌军22日以七架海军无人机在利比亚班加西港击沉俄“梅尔库里”号护卫舰，并击中货船“MV ANGARA”、摧毁一架卡-27直升机；BBC核实视频和卫星图像显示船只起火及沉没。",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "乌克兰",
+            "俄罗斯",
+            "梅尔库里号护卫舰（Merkury）",
+            "利比亚"
+          ],
+          "limitations": "核心战果为泽连斯基主张，俄方未直接确认；损毁与伤亡未独立核实。发布时间依据BBC视频页“16 hours ago”相对时间换算，仅近似。",
+          "facts": [
+            {
+              "text": "乌克兰总统泽连斯基周一称，乌海上无人机22日在利比亚班加西港击沉俄罗斯海军“梅尔库里”号护卫舰，并击中一艘被用于运输武器的俄货船“MV ANGARA”。他说行动动用七架海军无人机，还摧毁一架卡-27直升机。上述战果为乌方主张。",
+              "evidence": [
+                {
+                  "source_id": "s41",
+                  "quote": "A Russian warship was sunk by Ukrainian drones at a port in Libya on Sunday, President Volodymyr Zelensky has said."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "Seven naval drones were deployed to target and sink the corvette Merkury, one of Russia's newest ships, Zelensky said in a statement on Monday."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "He added that a Ka-27 combat helicopter was also destroyed. The Ukrainian president said the second ship was the MV ANGARA, a Russian container carrier."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "Zelensky added that Ukraine's attack hit a second Russian vessel, a cargo ship which he claimed was being used to transport weapons."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "BBC Verify核对的社交媒体视频显示，遇袭船只清晨在班加西港起火冒烟；Planet Labs卫星图像显示当天05:47 GMT港口有船着火。Vantor公司称，高分辨率图像显示周日该舰大部分倾覆沉没，仅前艏露出水面。",
+              "evidence": [
+                {
+                  "source_id": "s41",
+                  "quote": "Videos posted on social media and geolocated by BBC Verify show the ship that was struck in the morning engulfed in flames and smoke."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "Satellite imagery from Planet Labs PBC also shows a boat on fire at 05:47 GMT at the Benghazi port."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "Vantor collected high-resolution images that it said showed Project 20380 Steregushchiy-class corvette (Merkury) - a Russian navy ship - moored in the port on Saturday, and on Sunday showed most of the same ship capsized and sunk with only the forward bow still visible."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "克里姆林宫发言人佩斯科夫拒绝对利比亚袭击直接评论，称相关信息将由俄国防部提供。利比亚两个对立政府均谴责袭击，联合国利比亚支助团呼吁立即、独立和透明调查。",
+              "evidence": [
+                {
+                  "source_id": "s41",
+                  "quote": "Peskov declined to comment on the strikes on Russian ships in Libya and said that that information would be provided by Russia's Defence Ministry."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "Libya's two governments - the UN-recognised government in the capital, Tripoli, and a rival administration in the east - have both condemned the attack."
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "The UN mission in Libya expressed \"serious concern\" over the attacks on Sunday, calling for \"an immediate, independent and transparent investigation\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s41",
+      "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": [
+    "美国的部分资料检索未完成，本期覆盖受限。",
+    "欧洲的部分资料检索未完成，本期覆盖受限。",
+    "俄乌战争的部分资料检索未完成，本期覆盖受限。",
+    "中东地区的部分资料检索未完成，本期覆盖受限。",
+    "南美的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
