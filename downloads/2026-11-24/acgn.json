@@ -75,7 +75,24 @@
               "kind": "fact",
               "verification": "official_statement"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Sony Says GTA VI Is PlayStation's Biggest Launch Ever, With Over 39 Million PS5 Players",
+            "sentences": [
+              {
+                "en": "Sony Interactive Entertainment said on the PlayStation Blog that as of November 22, more than 39 million unique players had played GTA VI on PS5, making it the largest game launch in PlayStation's 30-year, five-console history.",
+                "zh": "索尼互动娱乐在PlayStation博客称，截至11月22日，超过3900万独立玩家在PS5上玩过《GTA VI》，该作由此成为PlayStation三十年和五代主机历史上规模最大的游戏发售。"
+              },
+              {
+                "en": "Sony said the figures came from its internal statistics for November 19 to November 22.",
+                "zh": "索尼说明，上述数字来自其11月19日至22日的内部统计。"
+              },
+              {
+                "en": "The same announcement said GTA VI set a new record for the highest number of concurrent players of any game on PlayStation, with PS5 players accumulating 683 million hours of playtime and an average of 17.4 hours per player in the first few days; during the launch window, GTA VI was the first game played on 70% of new PS5s.",
+                "zh": "同一公告称，《GTA VI》创下PlayStation上任何游戏的同时在线玩家数新高，PS5玩家累计游玩6.83亿小时，首发数日人均17.4小时；发售窗口内，70%的新PS5首次游玩的是该作。"
+              }
+            ]
+          }
         },
         {
           "event_key": "Nioh 3|推出第二弹DLC及完整版|Bloody Insurrection / Complete Edition",
@@ -125,7 +142,20 @@
               "kind": "fact",
               "verification": "single_source"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Nioh 3 DLC “Bloody Insurrection” Launches December 17; Complete Edition Arrives January 28 Next Year",
+            "sentences": [
+              {
+                "en": "According to Gematsu, Koei Tecmo and Team NINJA announced that the Nioh 3 DLC “Bloody Insurrection” will launch on December 17; the Complete Edition, which includes the base game and two DLCs, will arrive on PS5, Xbox Series, and PC (Steam and Microsoft Store) on January 28, 2027.",
+                "zh": "据Gematsu报道，光荣特库摩与Team NINJA宣布，《仁王3》DLC“Bloody Insurrection”将于12月17日上线；包含本体和两款DLC的完整版将于2027年1月28日登陆PS5、Xbox Series及PC（Steam和Microsoft Store）。"
+              },
+              {
+                "en": "The DLC’s story takes place in Shimabara in 1638, where players will enter a battlefield on which rebellious forces, alchemists, and yokai join forces against the shogunate army and encounter new characters such as Amakusa Shiro.",
+                "zh": "DLC剧情发生在1638年的岛原，玩家将进入叛乱势力、炼金术士与妖怪联手对抗幕府军的战场，并遇到天草四郎等新角色。"
+              }
+            ]
+          }
         }
       ]
     },
