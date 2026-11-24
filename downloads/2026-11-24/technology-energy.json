@@ -1,0 +1,112 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-24",
+  "title": "2026-11-24 科技 · 能源",
+  "summary": "本期收录1条新闻。",
+  "highlights": [
+    "超导研究：电子对可室温保持，相位相干或成室温超导瓶颈"
+  ],
+  "window_start": "2026-11-17T12:00:00+08:00",
+  "window_end": "2026-11-24T12:00:00+08:00",
+  "generated_at": "2026-11-24T12:09:35.535874+08:00",
+  "sections": [
+    {
+      "id": "energy",
+      "name": "能源",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "超导研究|发现|室温下稳定电子对",
+          "title": "超导研究：电子对可室温保持，相位相干或成室温超导瓶颈",
+          "summary": "乌得勒支大学等机构的研究人员在《科学》报告，高温超导体中的电子对可在远高于超导转变的温度形成，并在室温保持；他们认为相位相干而非电子配对是室温超导的主要瓶颈。",
+          "published_at": "2026-11-18T20:16:46+08:00",
+          "follow_up": false,
+          "new_facts": "乌得勒支大学等称高温超导体电子对可在室温保持，相位相干而非配对被视为室温超导瓶颈。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "超导材料可让电流无电阻通过，但需要电子先结成库珀对，再让这些对保持同一量子相位、协同运动。常规超导体中，电子配对与这种集体协同在相近温度出现。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "Superconductivity depends on two essential processes. First, electrons must join together in pairs called Cooper pairs. Second, those pairs must move in a coordinated way, maintaining a shared quantum state that allows electrical current to flow without resistance."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "In conventional superconductors, electron pairing and this collective coordination emerge at the same temperature."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            },
+            {
+              "text": "来自乌得勒支、莱顿和慕尼黑的研究人员在《科学》发表研究，发现超导所需的一个基本条件可在不依赖极端冷却的情况下满足：高温超导体中的电子对能在远高于超导转变的温度形成，并可在室温保持完整。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "Their findings, published in the journal Science , reveal that one of the essential requirements for superconductivity can already be satisfied without extreme cooling."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "The new findings show that high-temperature superconductors behave differently. Their electrons can form pairs at temperatures substantially higher than those needed for superconductivity itself to appear. Even more remarkably, the researchers found that these pairs can remain intact at room temperature."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "斯瓦特说，束缚电子对的“胶水”在室温下仍足够强，这提示第二个关键条件——相位相干——是瓶颈；如果理解了相位相干，或许能找到通往更高温度超导的路径。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "The 'glue' that holds the pairs together is strong enough to keep them together even at room temperature,\" says Swart. \"This suggests that the second key ingredient, phase coherence, is the bottleneck."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "If we understand phase coherence, it may point to a path toward superconductivity at higher temperatures."
+                }
+              ],
+              "kind": "explanation",
+              "verification": "single_source"
+            },
+            {
+              "text": "这意味着研究展示的是两个关键条件之一；仅有电子对，材料仍不会超导。该发现把问题指向相位相干，并未把现有材料变成室温超导体。",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "We show that one of the two key conditions for superconductivity can be met at room temperature. If that weren't possible, room-temperature superconductivity would be out of reach altogether."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "Without it, the pairs may exist, but the material does not become superconducting."
+                }
+              ],
+              "kind": "limitation",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "超导材料（superconductors）",
+            "室温超导（room-temperature superconductivity）",
+            "电子对（electron pairs）"
+          ],
+          "limitations": "来源为ScienceDaily转载的乌得勒支大学新闻稿，未取得《科学》论文原文；摘要未给出具体材料体系、电子对形成温度数值和独立复现信息。报道所指是电子配对条件可在室温满足，不是已经实现室温超导。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s14",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261116023358.htm",
+      "title": "New discovery reveals what may be holding back room-temperature superconductors",
+      "published_at": "2026-11-18T07:16:46-05:00"
+    }
+  ],
+  "edition": "technology-energy",
+  "coverage_notes": [
+    "能源的部分资料检索未完成，本期覆盖受限。"
+  ]
+}
