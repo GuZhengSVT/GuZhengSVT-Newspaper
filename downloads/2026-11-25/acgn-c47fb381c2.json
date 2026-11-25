@@ -153,7 +153,36 @@
               "kind": "fact",
               "verification": "single_source"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Acacia Delays Two Titles; The Magical Girl's Inshū Village Targets 2027",
+            "sentences": [
+              {
+                "en": "According to an ACGCH report on November 23, creative brand Acacia announced that \"The Streamer Girl's Secret Account Labyrinth\" and \"The Magical Girl's Inshū Village,\" originally scheduled for release in 2026, have been delayed.",
+                "zh": "据ACGCH 11月23日报道，创意品牌Acacia宣布，原定2026年内发售的《主播少女的秘密账号迷宫》与《魔法少女的因习村》延期。"
+              },
+              {
+                "en": "Acacia said that, in order to deliver the works at sufficient quality, it is carrying out overall final adjustments to the titles.",
+                "zh": "Acacia称，为以足够品质交付，正对作品进行整体最终调整。"
+              },
+              {
+                "en": "\"The Magical Girl's Inshū Village\" has its script written by Minami Kita of \"Magical Girl's Witch Trial\" and Makoto Kedouin of the \"Corpse Party\" series, and is published by Good Smile Company.",
+                "zh": "《魔法少女的因习村》由《魔法少女的魔女审判》的喜多南与《尸体派对》系列祁答院慎负责剧本，Good Smile Company发行。"
+              },
+              {
+                "en": "The official explanation states that final adjustments are being made toward 2027, and the Steam release date will be announced on December 1; this notice did not announce a new schedule for the Switch version.",
+                "zh": "官方说明正朝2027年进行最终调整，Steam版发售日将于12月1日公布；本次告知未公布Switch版新档期。"
+              },
+              {
+                "en": "\"The Streamer Girl's Secret Account Labyrinth\" is a collaboration project between Acacia and G-MODE and is a secret-account labyrinth novel RPG centered on the all-female band \"Rag Drops.\"",
+                "zh": "《主播少女的秘密账号迷宫》是Acacia与G-MODE的合作项目，是一款以女子乐队“Rag Drops”为核心的里账号迷宫小说RPG。"
+              },
+              {
+                "en": "Its Steam release date will be announced during the 14th livestream of \"Acacia Broadcasting Station\" at 20:00 on November 27; a new schedule for the Switch version has not yet been announced.",
+                "zh": "其Steam版发售日将在11月27日20:00的“Acacia放送局”第14回直播中公布；Switch版新日程尚未公布。"
+              }
+            ]
+          }
         }
       ]
     },
