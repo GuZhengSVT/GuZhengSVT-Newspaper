@@ -237,7 +237,32 @@
               "kind": "fact",
               "verification": "single_source"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Frieren: Beyond Journey's End: Another Tale to Start Short-Term Serialization on December 2",
+            "sentences": [
+              {
+                "en": "According to ACGCH, the official website for the anime Frieren: Beyond Journey's End announced on November 25 that the manga Frieren: Beyond Journey's End: Another Tale will be serialized in a short, concentrated run in Shogakukan's Weekly Shonen Sunday, starting with New Year's Issue 1, on sale December 2.",
+                "zh": "据ACGCH报道，动画《葬送のフリーレン》官方网站11月25日宣布，漫画《葬送のフリーレン 別譚》将在小学馆《周刊少年Sunday》短期集中连载，从12月2日发售的新年1号开始刊登。"
+              },
+              {
+                "en": "The work is adapted from Mei Hachimoku's novel Frieren: Beyond Journey's End: Prelude and is supervised by the original manga's Kanehito Yamada with art by Tsukasa Abe.",
+                "zh": "该作改编自八目迷的小说《小说 葬送のフリーレン ～前奏～》，由原作漫画的山田钟人监修、阿贝司卡作画。"
+              },
+              {
+                "en": "It is officially described as an \"orthodox side-story fantasy\" that tells the main story from another perspective.",
+                "zh": "官方将其介绍为从另一视角讲述本编的“正统别谭幻想”。"
+              },
+              {
+                "en": "It initially depicts the story of Fern and Heiter between Episode 1 and Episode 2 of Frieren: Beyond Journey's End.",
+                "zh": "最初描绘的是《葬送のフリーレン》第1话与第2话之间费伦与海塔的故事。"
+              },
+              {
+                "en": "The official X account for the original work posted an announcement image at 0:00 on November 25, and the official X account for the anime relayed the website news the same day.",
+                "zh": "原作官方X于11月25日0时发布告知图，动画官方X同日转达官网消息。"
+              }
+            ]
+          }
         }
       ]
     }

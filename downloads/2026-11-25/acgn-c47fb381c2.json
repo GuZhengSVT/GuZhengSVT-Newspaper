@@ -72,7 +72,24 @@
               "kind": "fact",
               "verification": "official_statement"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "NEKOPARA Sekai Connect Launches on Steam as Free-to-Play Title With Ongoing Story Updates",
+            "sentences": [
+              {
+                "en": "Sekai Project announced on its official website on November 18 that the Steam version of NEKOPARA Sekai Connect has been released, with Good Smile Company as the publisher and Sekai Project handling the English localization.",
+                "zh": "Sekai Project官网11月18日发布消息，《NEKOPARA Sekai Connect》Steam版已经发售，发行商为Good Smile Company，Sekai Project负责英文本地化。"
+              },
+              {
+                "en": "The game is the latest entry in the series and is officially described as a 'warm catgirl chat RPG'; it is free to play and supports four languages, with Sekai Project handling English and NEKO WORKs handling Simplified and Traditional Chinese localization.",
+                "zh": "该作是系列最新作，官方称其为“温暖猫娘聊天RPG”，免费游玩，支持4种语言：Sekai Project负责英文，NEKO WORKs负责简体与繁体中文本地化。"
+              },
+              {
+                "en": "The game includes adventure segments, a Comm Mode for interacting with catgirls, and a rhythm game featuring original songs, and additional story content will continue to be added after release.",
+                "zh": "游戏包含冒险段落、与猫娘互动的Comm Mode和原创曲音游，发售后会继续追加剧情。"
+              }
+            ]
+          }
         },
         {
           "event_key": "Acacia|延期发售|主播少女的秘密账号迷宫、魔法少女的因习村",
