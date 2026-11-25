@@ -172,7 +172,36 @@
                 }
               ]
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Nature News: Specific DNA methylation differences found in brain tissue of PTSD patients",
+            "sentences": [
+              {
+                "en": "Nature News reported on November 24 that a study published in Cell Reports analyzed DNA methylation in brain cells from patients with post-traumatic stress disorder (PTSD) and depression.",
+                "zh": "《自然》新闻11月24日报道，一项发表于《细胞报告》的研究分析了创伤后应激障碍（PTSD）和抑郁症患者脑细胞的DNA甲基化。"
+              },
+              {
+                "en": "The study included postmortem brain tissue and medical records from 101 patients with PTSD, 101 patients with depression, and 100 controls without psychiatric disorders.",
+                "zh": "研究纳入101名PTSD患者、101名抑郁症患者和100名无精神疾病对照的死后脑组织与病历。"
+              },
+              {
+                "en": "DNA methylation is a chemical modification that adds methyl groups to or removes them from DNA; it does not change the DNA sequence but can affect how genes work.",
+                "zh": "DNA甲基化是在DNA上添加或移除甲基的化学修饰，不改变DNA序列，但可影响基因如何工作。"
+              },
+              {
+                "en": "The team examined methylation in more than 850,000 genomic regions in the amygdala, hippocampus, and prefrontal cortex.",
+                "zh": "团队检测了杏仁核、海马和前额叶皮层中超过85万个基因组区域的甲基化。"
+              },
+              {
+                "en": "Compared with the control group, four DNA regions in the prefrontal cortex of PTSD patients showed different methylation patterns, while the same differences were not found in the amygdala or hippocampus.",
+                "zh": "相比对照组，PTSD患者前额叶皮层有四个DNA区域呈现不同甲基化模式，杏仁核和海马未发现同样差异。"
+              },
+              {
+                "en": "At the cellular level, oligodendrocytes in the amygdala of PTSD patients were significantly reduced; among 58 donors who experienced trauma in adulthood, this reduction occurred in all three brain regions, whereas 97 donors with childhood trauma did not show the same pattern.",
+                "zh": "细胞层面，PTSD患者杏仁核的寡突胶质细胞显著减少；在58名成年期经历创伤的供体中，三个脑区都出现这种减少，而97名童年期创伤供体未呈现同样模式。"
+              }
+            ]
+          }
         },
         {
           "event_key": "研究|发现|全球变暖阻止地球下一次冰期",
@@ -241,7 +270,32 @@
                 }
               ]
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Study Says Global Warming May Have Interrupted a New Ice Age That Began About 2,000 Years Ago",
+            "sentences": [
+              {
+                "en": "ScienceDaily reported on November 24, citing research from Columbia Climate School, that about 2,000 years ago the remnants of a huge ice cap in the Canadian Arctic began to expand again; the researchers believe this may have been the start of Earth's next ice age.",
+                "zh": "ScienceDaily 11月24日转述哥伦比亚气候学院的研究称，约2000年前，加拿大北极一处巨大冰盖的残余开始重新扩张；研究者认为，这可能是地球下一次冰期的开端。"
+              },
+              {
+                "en": "The research site is the Barnes Ice Cap in the Canadian Arctic.",
+                "zh": "研究地点是加拿大北极的Barnes Ice Cap。"
+              },
+              {
+                "en": "Unlike most glaciers, it is frozen to the bedrock and does not slide over the landscape, so ancient plants buried by the expanding ice cap can be preserved in place for radiocarbon dating.",
+                "zh": "与多数冰川不同，它冻结在基岩上、不在景观上滑动，因此被扩张冰盖掩埋的古植物能原位保存，供放射性碳定年。"
+              },
+              {
+                "en": "By the 1960s, summer warming had reversed this trend, and the ice cap began to retreat.",
+                "zh": "到1960年代，夏季升温扭转了这一趋势，冰盖转为退缩。"
+              },
+              {
+                "en": "On this basis, the study suggests that global warming may have interrupted a new ice age that had already begun.",
+                "zh": "研究据此提出，全球变暖可能中断了一次已经启动的新冰期。"
+              }
+            ]
+          }
         }
       ]
     }
