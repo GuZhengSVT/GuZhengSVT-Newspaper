@@ -195,7 +195,24 @@
               ]
             }
           ],
-          "limitations": "报道基于IT之家对论坛演讲的转述，未取得华为或行芯科技的一手公告；“行业首次”与工具能力均为演讲方说法，报道未给出客户名单或独立验证。"
+          "limitations": "报道基于IT之家对论坛演讲的转述，未取得华为或行芯科技的一手公告；“行业首次”与工具能力均为演讲方说法，报道未给出客户名单或独立验证。",
+          "bilingual": {
+            "title_en": "Xingsin Technology Says It Built ‘Tao EDA’ with Huawei, Completing Domestic EDA Tool Chain",
+            "sentences": [
+              {
+                "en": "IT Home reported that the seventh Huawei Innovation and Intellectual Property Forum was held in Beijing on November 24, and He Qing, chairman and general manager of Xingsin Technology, said in a speech that the domestic EDA tool ‘Tao EDA’ for ‘Tao chips’ was developed through years of deep collaboration between Xingsin and Huawei.",
+                "zh": "据IT之家报道，第七届华为创新和知识产权论坛11月24日在北京举办，行芯科技董事长兼总经理贺青在演讲中介绍，面向“韬芯片”的国产EDA工具“韬EDA”由行芯与华为多年深度协作打磨而成。"
+              },
+              {
+                "en": "The two self-developed products He Qing introduced were the signal-path RC extraction tool GloryEX and the power-path PI signoff tool GloryBolt; the former won the 2025 China Chip EDA special program's ‘Product Innovation Award,’ while the latter won the 2026 ‘Golden Reputation Product Award.’",
+                "zh": "贺青介绍的两款自研产品分别是信号路径RC抽取工具GloryEX和电源路径PI签核工具GloryBolt，前者获2025年中国芯EDA专项“产品革新奖”，后者获2026年“金口碑产品奖”。"
+              },
+              {
+                "en": "The report said Huawei further connected Xingsin EDA with other domestic EDA tools and completed the chaining based on real-world projects, achieving the industry's first successful chaining of domestic EDA tools; the two sides' 2027 joint innovation project has planned 30 new product features.",
+                "zh": "报道称，华为进一步拉通行芯EDA与其他国产EDA工具，基于实战项目完成串链，实现行业首次国产EDA工具串链成功；双方2027年联合创新项目已规划30项产品新功能。"
+              }
+            ]
+          }
         }
       ]
     },
