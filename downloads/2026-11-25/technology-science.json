@@ -1,0 +1,253 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-25",
+  "title": "2026-11-25 科技 · 基础学科",
+  "summary": "本期收录3条通过核验的新闻。",
+  "highlights": [
+    "Quanta报道完美韧性网络理论进展：四类结构导致路由环路",
+    "《自然》新闻：PTSD患者脑组织出现特定DNA甲基化差异",
+    "研究称全球变暖可能中断约2000年前开始的新冰期"
+  ],
+  "window_start": "2026-11-18T12:00:00+08:00",
+  "window_end": "2026-11-25T12:00:00+08:00",
+  "generated_at": "2026-11-25T12:10:33.066550+08:00",
+  "sections": [
+    {
+      "id": "science",
+      "name": "基础学科",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "网络研究者|证明|完美韧性网络理论",
+          "title": "Quanta报道完美韧性网络理论进展：四类结构导致路由环路",
+          "summary": "Quanta Magazine报道称，计算机科学家确定了导致通信网络在链路故障时循环路由的四类简单结构，并用图论minor和Robertson-Seymour定理描述“完美韧性”。",
+          "published_at": "2026-11-20T22:50:41+08:00",
+          "follow_up": false,
+          "new_facts": "Quanta Magazine于11月20日报道，四类简单网络结构会导致通信网络在链路故障时出现循环路由；报道用图论minor和Robertson-Seymour定理说明完美韧性的结构性质。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "完美韧性网络理论（perfect resilience）",
+            "四类网络结构",
+            "Quanta Magazine"
+          ],
+          "limitations": "Quanta文章为科普采编，未给出四类结构名称及原始论文出处；定理的完整表述和同行评审状态无法由现有材料确认。",
+          "facts": [
+            {
+              "text": "Quanta Magazine 11月20日报道，计算机科学家确定了四类简单网络结构；通信链路故障时，消息会在这些结构中陷入循环路由。报道称，这补全了“完美韧性”网络理论。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "Computer scientists now know that four simple network structures are to blame."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "When links in a communication network go down, messages can get routed in a loop."
+                }
+              ]
+            },
+            {
+              "text": "报道用图论解释：网络可看作节点与边构成的图，通过删节点、删边或合并相邻节点得到“minor”；若原图具有完美韧性，其所有minor也具有完美韧性。结合Robertson-Seymour定理，非完美韧性的minor只有有限多个。",
+              "kind": "explanation",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s14",
+                  "quote": "The graphs that you can obtain by combining these operations are known as the minors of the larger graph."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "If a graph is perfectly resilient, then so are all of its minors."
+                },
+                {
+                  "source_id": "s14",
+                  "quote": "there’s only a finite number of minors that are not perfectly resilient"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "event_key": "创伤|留下|细胞分子疤痕",
+          "title": "《自然》新闻：PTSD患者脑组织出现特定DNA甲基化差异",
+          "summary": "《自然》新闻11月24日报道，一项Cell Reports研究分析300余名死者脑组织，发现PTSD患者前额叶皮层四个DNA区域甲基化模式不同，杏仁核寡突胶质细胞减少，后者与成年创伤暴露相关。",
+          "published_at": "2026-11-24T08:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "Cell Reports论文比较101名PTSD患者、101名抑郁症患者和100名对照的死后脑组织，发现PTSD患者前额叶皮层四个DNA区域甲基化不同，杏仁核寡突胶质细胞减少；成年创伤供体三个脑区均出现减少，童年创伤供体未呈现同样模式。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "创伤",
+            "细胞分子疤痕",
+            "Nature新闻"
+          ],
+          "limitations": "Nature新闻是二手报道，未直接取得Cell Reports论文；研究为死后脑组织横断面比较，不能确立创伤与表观遗传变化的因果关系。",
+          "facts": [
+            {
+              "text": "《自然》新闻11月24日报道，一项发表于《细胞报告》的研究分析了创伤后应激障碍（PTSD）和抑郁症患者脑细胞的DNA甲基化。研究纳入101名PTSD患者、101名抑郁症患者和100名无精神疾病对照的死后脑组织与病历。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "The study, published in Cell Reports on 20 November 1 , identifies molecular changes to DNA inside the brain cells of people with post-traumatic stress disorder (PTSD) and depression."
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "The study analysed postmortem brain tissues and medical records donated by 101 people who were diagnosed with PTSD, 101 people with depression and 100 control participants who did not have a mental-health condition."
+                }
+              ]
+            },
+            {
+              "text": "DNA甲基化是在DNA上添加或移除甲基的化学修饰，不改变DNA序列，但可影响基因如何工作。团队检测了杏仁核、海马和前额叶皮层中超过85万个基因组区域的甲基化。",
+              "kind": "background",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "Epigenetic marks can affect how genes work, but do not alter DNA sequences."
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "an epigenetic mechanism in which methyl groups are added to or removed from DNA sequences"
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "Champagne and her colleagues examined DNA methylation across more than 850,000 genomic regions in cells taken from three parts of the brain: the amygdala, hippocampus and prefrontal cortex"
+                }
+              ]
+            },
+            {
+              "text": "相比对照组，PTSD患者前额叶皮层有四个DNA区域呈现不同甲基化模式，杏仁核和海马未发现同样差异。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "The study found distinct methylation patterns in four DNA regions in the prefrontal cortex when comparing the PTSD group with the control group, but none in the amygdala or the hippocampus."
+                }
+              ]
+            },
+            {
+              "text": "细胞层面，PTSD患者杏仁核的寡突胶质细胞显著减少；在58名成年期经历创伤的供体中，三个脑区都出现这种减少，而97名童年期创伤供体未呈现同样模式。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s4",
+                  "quote": "Compared with the control group, the amygdala in people with PTSD had significantly reduced levels of oligodendrocytes"
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "Oligodendrocytes were reduced across all three brain regions in 58 people who had experienced trauma as adults"
+                },
+                {
+                  "source_id": "s4",
+                  "quote": "The researchers did not observe the same pattern in 97 donors who experienced childhood trauma."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "event_key": "研究|发现|全球变暖阻止地球下一次冰期",
+          "title": "研究称全球变暖可能中断约2000年前开始的新冰期",
+          "summary": "ScienceDaily转述哥伦比亚气候学院研究称，加拿大北极Barnes Ice Cap下保存的古植物显示，约2000年前冰盖残余重新扩张，1960年代夏季升温使其转为退缩；研究者认为这可能意味着一次新冰期被全球变暖中断。",
+          "published_at": "2026-11-24T17:29:15+08:00",
+          "follow_up": false,
+          "new_facts": "ScienceDaily 11月24日转述一项发表于Science的研究：Barnes Ice Cap下古植物表明约2000年前冰盖残余重新扩张，1960年代夏季升温使其转为退缩，研究者认为全球变暖可能中断了一次新冰期。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "地球下一次冰期",
+            "全球变暖",
+            "Barnes Ice Cap",
+            "古植物"
+          ],
+          "limitations": "结论来自单一冰帽残迹和古植物定年，“下一次冰期已开始”是作者解释，不是全球冰期已发生的直接观测；ScienceDaily为新闻稿转述。",
+          "facts": [
+            {
+              "text": "ScienceDaily 11月24日转述哥伦比亚气候学院的研究称，约2000年前，加拿大北极一处巨大冰盖的残余开始重新扩张；研究者认为，这可能是地球下一次冰期的开端。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "About 2,000 years ago, the remnants of a massive ice sheet in the Canadian Arctic began expanding once again."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "This slow buildup of ice may have marked the beginning of Earth's next glacial period"
+                }
+              ]
+            },
+            {
+              "text": "研究地点是加拿大北极的Barnes Ice Cap。与多数冰川不同，它冻结在基岩上、不在景观上滑动，因此被扩张冰盖掩埋的古植物能原位保存，供放射性碳定年。",
+              "kind": "background",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "By studying ancient plants preserved beneath the Barnes Ice Cap in the Canadian Arctic, researchers discovered that the remnants of a massive ice sheet began expanding again about 2,000 years ago"
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "Unlike most glaciers, it is frozen directly to the bedrock beneath it and does not slide across the landscape."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "As a result, plants that once grew in areas later covered by expanding ice can remain preserved in place for thousands of years."
+                }
+              ]
+            },
+            {
+              "text": "到1960年代，夏季升温扭转了这一趋势，冰盖转为退缩。研究据此提出，全球变暖可能中断了一次已经启动的新冰期。",
+              "kind": "fact",
+              "verification": "single_source",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "By the 1960s, rising summer temperatures had reversed the trend, causing the ice to retreat instead of grow."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "The findings suggest that global warming may have interrupted a new ice age that was already getting underway"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s14",
+      "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+      "title": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+      "published_at": "2026-11-20T14:50:41+00:00"
+    },
+    {
+      "id": "s4",
+      "url": "https://www.nature.com/articles/d41586-026-03821-6",
+      "title": "The brain keeps the score: how trauma leaves molecular scars in cells",
+      "published_at": "2026-11-24T00:00:00+00:00"
+    },
+    {
+      "id": "s16",
+      "url": "https://www.sciencedaily.com/releases/2026/11/261123005350.htm",
+      "title": "Earth's next ice age may have already begun. Global warming stopped it",
+      "published_at": "2026-11-24T04:29:15-05:00"
+    }
+  ],
+  "edition": "technology-science",
+  "coverage_notes": [
+    "基础学科的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
