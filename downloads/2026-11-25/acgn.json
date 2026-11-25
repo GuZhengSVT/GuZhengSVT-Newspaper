@@ -82,7 +82,28 @@
               "kind": "fact",
               "verification": "single_source"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Mario Kart World’s Free Version 1.9.0 Update Is Live, Adding 8 Tracks",
+            "sentences": [
+              {
+                "en": "Nintendo released the free Version 1.9.0 update for Mario Kart World on Switch 2 on November 25.",
+                "zh": "任天堂于11月25日为Switch 2《马力欧卡丁车 世界》推送免费更新Ver.1.9.0。"
+              },
+              {
+                "en": "According to 4Gamer, distribution began that day.",
+                "zh": "据4Gamer报道，更新当天开始配信。"
+              },
+              {
+                "en": "The update adds eight tracks, including “Mario Bros. Circuit 2,” “DK Snow Mountain 2,” and “Hey-Ho Carnival 2,” all adapted from existing tracks.",
+                "zh": "更新新增8条赛道，包括“马力欧兄弟赛道2”“DK雪山2”“嘿呵嘉年华2”等，均对原有赛道做了改编。"
+              },
+              {
+                "en": "Survival mode adds two routes, “Hanerally” and “Maneki Neko Rally,” which become selectable after the player completes at least one Survival Rally; the menu also adds a replay feature.",
+                "zh": "生存模式新增“ハネラリー”和“まねきネコラリー”两条路线，玩家完成至少一条生存拉力赛后可选；菜单同时加入回放功能。"
+              }
+            ]
+          }
         },
         {
           "event_key": "Team NINJA|登陆Xbox|仁王3",
@@ -128,7 +149,20 @@
               "kind": "fact",
               "verification": "official_statement"
             }
-          ]
+          ],
+          "bilingual": {
+            "title_en": "Nioh 3 Arrives on Xbox for the First Time, Launching January 28, 2027",
+            "sentences": [
+              {
+                "en": "On November 24, Xbox Wire published an announcement by John Hardin, public relations manager at Koei Tecmo America, announcing that Team NINJA and Koei Tecmo will bring Nioh 3 and Nioh 3: Complete Edition to Xbox Series X|S on January 28, 2027; the announcement said this is the first time the Nioh series has come to Xbox.",
+                "zh": "Xbox Wire于11月24日刊登Koei Tecmo America公关经理John Hardin的公告，宣布Team NINJA与光荣特库摩将把《仁王3》和《仁王3：完整版》带到Xbox Series X|S，2027年1月28日发售；公告称这是《仁王》系列首次登陆Xbox。"
+              },
+              {
+                "en": "The announcement describes Nioh 3 as a dark samurai action RPG whose story spans multiple locations and eras of feudal Japan, blending fantasy and history, and allowing players to seamlessly switch between the series' classic samurai style and a new ninja style.",
+                "zh": "公告介绍，《仁王3》是黑暗武士动作RPG，故事横跨封建日本多个地点与时代，融合奇幻与历史，并可在系列经典的武士风格与全新忍者风格之间无缝切换。"
+              }
+            ]
+          }
         }
       ]
     },
