@@ -1,0 +1,157 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-25",
+  "title": "2026-11-25 政治",
+  "summary": "本期收录1条新闻。",
+  "highlights": [
+    "所罗门群岛与澳大利亚签安全条约，据报不再续签对华安全协议"
+  ],
+  "window_start": "2026-11-24T12:00:00+08:00",
+  "window_end": "2026-11-25T12:00:00+08:00",
+  "generated_at": "2026-11-25T12:14:01.494448+08:00",
+  "edition": "politics",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "所罗门群岛|终止|与中国安全协议",
+          "title": "所罗门群岛与澳大利亚签安全条约，据报不再续签对华安全协议",
+          "summary": "所罗门群岛与澳大利亚签署安全与经济条约，双方称澳将成为所罗门群岛的首选安全伙伴。据澳媒报道，所罗门群岛已告知中国不续签2022年安全协议；韦尔称与中方仍有讨论，中国外交部未确认终止。新条约要求所罗门群岛在关键基础设施上与澳磋商，并规定领土不得用于外国军事或安全基地。",
+          "published_at": "2026-11-25T11:16:00+08:00",
+          "follow_up": false,
+          "new_facts": "所罗门群岛与澳大利亚签署安全与经济条约；据澳媒报道所罗门群岛不续签2022年对华安全协议；中国外交部未确认终止；新条约含关键基础设施磋商和排除外国军事或安全基地条款。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "所罗门群岛与澳大利亚周三在堪培拉签署安全与经济条约，两国总理称条约将确保澳大利亚成为所罗门群岛的“首选安全伙伴”。韦尔称，这使所罗门群岛在多年地区不确定性后实现重置。",
+              "evidence": [
+                {
+                  "source_id": "s80",
+                  "quote": "At a press conference in Canberra on Wednesday, Australian Prime Minister Anthony Albanese and Solomon Islands counterpart Matthew Wale said the new treaty would ensure that Australia was the Pacific nation's \"security partner of choice\"."
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "He said the treaty with Australia provided a reset after several years in which the Solomon Islands had been a point of \"uncertainty and doubt in the region\"."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "据澳媒报道，所罗门群岛已告知北京不续签2022年安全协议，该协议预计2027年4月到期。韦尔称与中方仍有讨论，但因保密协议无法谈论。中国外交部发言人未确认也未否认终止，称中国与太平洋岛国合作不存在地缘竞争或阵营对抗。",
+              "evidence": [
+                {
+                  "source_id": "s80",
+                  "quote": "On Tuesday, Australian media outlets reported that Honiara had told Beijing it would not renew the pact, understood to be expiring in April 2027."
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "Wale told reporters on Wednesday there were \"ongoing discussions\" with China but he was \"unable to talk about\" the pact, because of a non-disclosure agreement."
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "On Tuesday China's foreign ministry spokesman, Guo Jiukan, did not confirm or deny that the pact had been terminated. \"There is no element of geopolitical rivalry or bloc confrontation in cooperation between China and Pacific island countries, including the Solomon Islands,\" Guo said."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "新条约要求所罗门群岛在关键基础设施上与澳事前磋商，安全合作须与太平洋岛国论坛成员进行，敏感设施不得军事化或受外国干涉，领土不得用于外国军事或安全基地。澳方将提供教育、体育、签证和能源基础设施支持。澳广报道额外资金逾9.8亿澳元，BBC称未能独立核实。",
+              "evidence": [
+                {
+                  "source_id": "s80",
+                  "quote": "Under the new treaty, the Solomon Islands commits to prior consultation with Australia on critical infrastructure and to ensure any security cooperations are with Pacific Islands Forum members."
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "Honiara also commits to its sensitive infrastructure remaining \"free from militarisation, any form of foreign interference or unauthorised access\", and to not permit its territory to be used for any foreign military or security base."
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "The Solomons will receive support for its free education system and sports programs, improved visa arrangements, and support for the expansion of affordable and renewable energy and infrastructure development."
+                },
+                {
+                  "source_id": "s80",
+                  "quote": "Earlier this week the ABC reported the package promised more than A$980m (£460.7m, $648,000) in additional funding, citing leaked text messages. The BBC has not independently verified the text messages."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "所罗门群岛",
+            "澳大利亚",
+            "中国",
+            "马修·韦尔",
+            "安东尼·阿尔巴尼斯"
+          ],
+          "limitations": "报道称所罗门群岛“据报”告知中国不续签协议，韦尔因保密协议未直接确认；中国外交部未确认终止。ABC关于逾9.8亿澳元资金的报道基于泄露短信，BBC未能独立核实。稿件发布时间据页面“56分钟前”与抓取时间推算。"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s80",
+      "url": "https://www.bbc.co.uk/news/articles/ckdd1z2gvlgno?at_medium=RSS&at_campaign=rss",
+      "title": "Solomon Islands ends controversial security pact with China for Australian treaty",
+      "published_at": null
+    }
+  ],
+  "coverage_notes": [
+    "美国的部分资料检索未完成，本期覆盖受限。",
+    "欧洲的部分资料检索未完成，本期覆盖受限。",
+    "俄乌战争的部分资料检索未完成，本期覆盖受限。",
+    "中东地区的部分资料检索未完成，本期覆盖受限。",
+    "南美的部分资料检索未完成，本期覆盖受限。"
+  ]
+}
