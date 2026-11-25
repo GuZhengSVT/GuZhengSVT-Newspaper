@@ -1,0 +1,219 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-25",
+  "title": "2026-11-25 科技",
+  "summary": "本期收录2条新闻。",
+  "highlights": [
+    "Anthropic上市不到一周跌破83美元发行价",
+    "行芯科技称与华为打造“韬EDA”，完成国产EDA工具串链"
+  ],
+  "window_start": "2026-11-24T12:00:00+08:00",
+  "window_end": "2026-11-25T12:00:00+08:00",
+  "generated_at": "2026-11-25T12:04:47.772393+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Anthropic|IPO|跌破发行价",
+          "title": "Anthropic上市不到一周跌破83美元发行价",
+          "summary": "Anthropic在11月24日美股交易中首次跌破83美元IPO发行价，收报81.91美元，单日下跌6.54%；此前官方公告显示其已完成S-1提交并宣布完成IPO。",
+          "published_at": "2026-11-25T11:29:13+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Anthropic"
+          ],
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据IT之家11月25日转述彭博社报道，Anthropic在11月24日美股交易中首次跌破83美元IPO发行价，收报81.91美元，单日下跌6.54%。该报道称，其上市首日开盘111.50美元，盘中一度超过115美元，11月24日盘中最低约76美元。",
+              "evidence": [
+                {
+                  "source_id": "s48",
+                  "quote": "IT之家 11 月 25 日消息，彭博社昨日（11 月 24 日）发布博文，报道称“人类史上最大 IPO”上市（11 月 19 日）的 Anthropic 首次跌破每股 83 美元"
+                },
+                {
+                  "source_id": "s48",
+                  "quote": "收报 81.91 美元 （现汇率约合 547 元人民币） ，单日下跌 6.54%"
+                },
+                {
+                  "source_id": "s48",
+                  "quote": "上市首日曾以 111.50 美元 （现汇率约合 744.6 元人民币） 开盘，较发行价高出 34%，盘中一度突破 115 美元"
+                },
+                {
+                  "source_id": "s48",
+                  "quote": "Anthropic 盘中最低跌至约 76 美元"
+                }
+              ]
+            },
+            {
+              "kind": "background",
+              "verification": "official_statement",
+              "text": "Anthropic官方10月26日公告显示，公司已就拟议IPO向美国SEC提交S-1注册声明，计划在纳斯达克上市，代码“ANT”；官方页面还列出11月20日宣布完成IPO的相关公告。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock."
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "intends to list its Class A common stock on the Nasdaq Global Select Market under the symbol “ANT.”"
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "Nov 20, 2026 Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement"
+                }
+              ]
+            },
+            {
+              "kind": "explanation",
+              "verification": "single_source",
+              "text": "IT之家报道将本轮下跌放在AI企业盈利、算力资本开支和高估值担忧引发的科技股抛售背景下，并称标普500和道指上周进入技术性回调。",
+              "evidence": [
+                {
+                  "source_id": "s48",
+                  "quote": "市场对 AI 企业盈利能力、巨额算力资本开支以及高估值可持续性的疑虑升温，引发科技股广泛抛售。"
+                },
+                {
+                  "source_id": "s48",
+                  "quote": "标普 500 指数与道琼斯工业指数双双进入技术性回调区间"
+                }
+              ]
+            }
+          ],
+          "limitations": "破发价格、跌幅和盘中低点来自IT之家转述彭博社，未直接取得彭博原文；83美元发行价与11月19日上市日期也来自该转述，Anthropic官方公告未在可取得内容中给出发行价。"
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "华为、行芯科技|发布|韬EDA国产工具链",
+          "title": "行芯科技称与华为打造“韬EDA”，完成国产EDA工具串链",
+          "summary": "行芯科技董事长贺青在第七届华为创新和知识产权论坛上介绍与华为共同打磨的“韬EDA”，并称完成行业首次国产EDA工具串链。",
+          "published_at": "2026-11-25T11:23:55+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "华为",
+            "行芯科技",
+            "韬 EDA"
+          ],
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据IT之家报道，第七届华为创新和知识产权论坛11月24日在北京举办，行芯科技董事长兼总经理贺青在演讲中介绍，面向“韬芯片”的国产EDA工具“韬EDA”由行芯与华为多年深度协作打磨而成。",
+              "evidence": [
+                {
+                  "source_id": "s49",
+                  "quote": "第七届华为创新和知识产权论坛于 11 月 24 日在北京举办"
+                },
+                {
+                  "source_id": "s49",
+                  "quote": "面向韬芯片的国产 EDA 工具 —— 韬 EDA ，正是与华为开展多年深度协作共同打磨而成。"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "贺青介绍的两款自研产品分别是信号路径RC抽取工具GloryEX和电源路径PI签核工具GloryBolt，前者获2025年中国芯EDA专项“产品革新奖”，后者获2026年“金口碑产品奖”。",
+              "evidence": [
+                {
+                  "source_id": "s49",
+                  "quote": "信号路径 RC 抽取工具 GloryEX 锁定 τ 演进收益"
+                },
+                {
+                  "source_id": "s49",
+                  "quote": "电源路径 PI 签核工具 GloryBolt 保障 τ 演进稳定"
+                },
+                {
+                  "source_id": "s49",
+                  "quote": "荣获 2025 年中国芯 EDA 专项“产品革新奖”"
+                },
+                {
+                  "source_id": "s49",
+                  "quote": "荣获 2026 年中国芯 EDA 专项“金口碑产品奖”"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "报道称，华为进一步拉通行芯EDA与其他国产EDA工具，基于实战项目完成串链，实现行业首次国产EDA工具串链成功；双方2027年联合创新项目已规划30项产品新功能。",
+              "evidence": [
+                {
+                  "source_id": "s49",
+                  "quote": "华为进一步拉通行芯 EDA 与其他国产 EDA 工具，基于实战项目完成串链， 实现行业首次国产 EDA 工具串链成功 。"
+                },
+                {
+                  "source_id": "s49",
+                  "quote": "2027 年双方联合创新项目已规划 30 项产品新功能 。"
+                }
+              ]
+            }
+          ],
+          "limitations": "报道基于IT之家对论坛演讲的转述，未取得华为或行芯科技的一手公告；“行业首次”与工具能力均为演讲方说法，报道未给出客户名单或独立验证。"
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s48",
+      "url": "https://www.ithome.com/1/031/983.htm",
+      "title": "“人类史上最大 IPO”上市不到 1 周就破发，Anthropic 跌破 83 美元发行价",
+      "published_at": "2026-11-25T11:29:13+08:00"
+    },
+    {
+      "id": "s49",
+      "url": "https://www.ithome.com/1/031/982.htm",
+      "title": "华为与行芯科技打造“韬 EDA”，实现行业首次国产 EDA 工具串链成功",
+      "published_at": "2026-11-25T11:23:55+08:00"
+    },
+    {
+      "id": "s5",
+      "url": "https://www.anthropic.com/news/s1-sec",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering Today, Anthropic, PBC filed a registration statement on Form S-1 with the U.S. Securities and Exchange Commission relating to its proposed initial public offering of its Class A common stock.",
+      "published_at": "2026-10-26T00:00:00+00:00"
+    }
+  ],
+  "coverage_notes": [
+    "人工智能的部分资料检索未完成，本期覆盖受限。",
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
