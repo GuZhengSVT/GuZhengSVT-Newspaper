@@ -1,0 +1,165 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-25",
+  "title": "2026-11-25 ACGN · Galgame / 新番播出与情报",
+  "summary": "本期收录2条新闻。",
+  "highlights": [
+    "《NEKOPARA Sekai Connect》Steam版发售，免费运营并持续追加剧情",
+    "Acacia两作延期，《魔法少女的因习村》目标2027年"
+  ],
+  "window_start": "2026-11-18T12:00:00+08:00",
+  "window_end": "2026-11-25T12:00:00+08:00",
+  "generated_at": "2026-11-25T12:20:48.978179+08:00",
+  "edition": "acgn-c47fb381c2",
+  "sections": [
+    {
+      "id": "galgame",
+      "name": "Galgame",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NEKOPARA Sekai Connect|登陆|Steam",
+          "title": "《NEKOPARA Sekai Connect》Steam版发售，免费运营并持续追加剧情",
+          "summary": "Sekai Project于11月18日宣布《NEKOPARA Sekai Connect》Steam版发售，发行商为Good Smile Company，Sekai Project负责英文本地化。游戏免费，支持4种语言，包含冒险、Comm Mode与音游，发售后继续追加剧情。",
+          "published_at": "2026-11-18T19:00:44+08:00",
+          "follow_up": false,
+          "new_facts": "《NEKOPARA Sekai Connect》Steam版现已发售；由Good Smile Company发行，Sekai Project负责英文本地化；游戏免费游玩，支持4种语言；包含冒险段落、Comm Mode与音游，发售后继续追加剧情。",
+          "verification": "official_statement",
+          "limitations": "消息来自Sekai Project官方新闻页；游戏内容、免费运营和语言支持均为该页面说明，未取得独立验证。原文未逐一列出4种语言的具体名称。",
+          "importance": "重要",
+          "reliability": "A",
+          "entities": [
+            "NEKOPARA Sekai Connect",
+            "Good Smile Company",
+            "Sekai Project"
+          ],
+          "facts": [
+            {
+              "text": "Sekai Project官网11月18日发布消息，《NEKOPARA Sekai Connect》Steam版已经发售，发行商为Good Smile Company，Sekai Project负责英文本地化。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "The Steam version of Nekopara Sekai Connect, published by Good Smile Company, is out now! Sekai Project handled the English localization of this title."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "该作是系列最新作，官方称其为“温暖猫娘聊天RPG”，免费游玩，支持4种语言：Sekai Project负责英文，NEKO WORKs负责简体与繁体中文本地化。游戏包含冒险段落、与猫娘互动的Comm Mode和原创曲音游，发售后会继续追加剧情。",
+              "evidence": [
+                {
+                  "source_id": "s13",
+                  "quote": "The latest entry in the Nekopara adventure game series, which has sold over 7 million copies worldwide, Nekopara Sekai Connect is “A Heartwarming Cat Chat RPG.”"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "It’s all free to play!"
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "Available in 4 Languages: Sekai Project localized the entire story into English, while NEKO WORKs handled the Chinese (Simplified and Traditional) localization."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "On top of that, enjoy Comm Mode, where you can interact closely with your favorite Neko, and the Rhythm Game, played along to MVs of the game’s original songs."
+                },
+                {
+                  "source_id": "s13",
+                  "quote": "The Story Keeps Growing: New scenarios will continue to be added after launch."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ]
+        },
+        {
+          "event_key": "Acacia|延期发售|主播少女的秘密账号迷宫、魔法少女的因习村",
+          "title": "Acacia两作延期，《魔法少女的因习村》目标2027年",
+          "summary": "据ACGCH转述Acacia官方X，Acacia于11月23日宣布《主播少女的秘密账号迷宫》《魔法少女的因习村》延期，原定2026年内发售。两作正进行整体最终调整，《魔法少女的因习村》正朝2027年调整、12月1日公布Steam版发售日；《主播少女的秘密账号迷宫》11月27日直播公布Steam版发售日；Switch版新档期均未公布。",
+          "published_at": "2026-11-23T21:14:28.736000+08:00",
+          "follow_up": false,
+          "new_facts": "Acacia于11月23日宣布《主播少女的秘密账号迷宫》《魔法少女的因习村》从2026年内延期，正在进行整体最终调整；《魔法少女的因习村》目标2027年，Steam版发售日12月1日公布；《主播少女的秘密账号迷宫》Steam版发售日11月27日直播公布；两作Switch版新档期未公布。",
+          "verification": "single_source",
+          "limitations": "ACGCH称其整理并评述Acacia官方X的告知，本稿未直接取得官方X原文，按单一来源处理。Switch版新档期在本次告知中未公布。",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Acacia",
+            "主播少女的秘密账号迷宫",
+            "魔法少女的因习村"
+          ],
+          "facts": [
+            {
+              "text": "据ACGCH 11月23日报道，创意品牌Acacia宣布，原定2026年内发售的《主播少女的秘密账号迷宫》与《魔法少女的因习村》延期。Acacia称，为以足够品质交付，正对作品进行整体最终调整。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "创意品牌Acacia于11月23日宣布，原定2026年内发售的《主播少女的秘密账号迷宫》与《魔法少女的因习村》将延期。"
+                },
+                {
+                  "source_id": "s39",
+                  "quote": "官方表示，为了以足够的品质交到玩家手中，目前正在对作品进行整体的最终调整。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《魔法少女的因习村》由《魔法少女的魔女审判》的喜多南与《尸体派对》系列祁答院慎负责剧本，Good Smile Company发行。官方说明正朝2027年进行最终调整，Steam版发售日将于12月1日公布；本次告知未公布Switch版新档期。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "《魔法少女的因习村》是由《魔法少女的魔女审判》的喜多南与《尸体派对》系列祁答院慎担任剧本、Good Smile Company发行的冒险游戏。"
+                },
+                {
+                  "source_id": "s39",
+                  "quote": "官方说明目前正朝着2027年进行最终调整，Steam版发售日将于12月1日（周二）公布。本次告知中未公布Nintendo Switch版的新档期。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《主播少女的秘密账号迷宫》是Acacia与G-MODE的合作项目，是一款以女子乐队“Rag Drops”为核心的里账号迷宫小说RPG。其Steam版发售日将在11月27日20:00的“Acacia放送局”第14回直播中公布；Switch版新日程尚未公布。",
+              "evidence": [
+                {
+                  "source_id": "s39",
+                  "quote": "《主播少女的秘密账号迷宫》是Acacia与G-MODE的合作项目，是一部以女子乐队「Rag Drops」为核心的里账号迷宫小说RPG。"
+                },
+                {
+                  "source_id": "s39",
+                  "quote": "Steam版发售日将在11月27日（周五）20:00开始的「Acacia放送局」第14回直播中公布。Switch版新日程尚未公布。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "name": "新番播出与情报",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s13",
+      "url": "https://sekaiproject.com/nekopara-sekai-connect-now-out-on-steam/",
+      "title": "NEKOPARA Sekai Connect Now Out On Steam!",
+      "published_at": "2026-11-18T11:00:44+00:00"
+    },
+    {
+      "id": "s39",
+      "url": "https://acgch.com/zh-hans/news/acacia-hanoura-inshuu-mura-release-delay",
+      "title": "Acacia宣布《主播少女的秘密账号迷宫》《魔法少女的因习村》延期发售",
+      "published_at": "2026-11-23T13:14:28.736000+00:00"
+    }
+  ],
+  "coverage_notes": []
+}
