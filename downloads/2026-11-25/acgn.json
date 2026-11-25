@@ -1,0 +1,238 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-25",
+  "title": "2026-11-25 ACGN",
+  "summary": "任天堂为Switch 2《马力欧卡丁车 世界》发布Ver.1.9.0免费更新，新增8条改编赛道、两条生存路线及回放功能。Xbox Wire公告确认《仁王3》与完整版于2027年1月28日登陆Xbox Series X|S，为系列首次登陆Xbox。动画官网宣布《葬送のフリーレン 別譚》将于12月2日起在《周刊少年Sunday》短期集中连载。",
+  "highlights": [
+    "任天堂为Switch 2《马力欧卡丁车 世界》发布Ver.1.9.0免费更新，新增8条赛道、2条生存路线和回放功能。",
+    "Xbox Wire公告确认《仁王3》与《仁王3：完整版》2027年1月28日登陆Xbox Series X|S，为系列首次登陆Xbox。",
+    "动画官网宣布《葬送のフリーレン 別譚》12月2日起在《周刊少年Sunday》短期集中连载。"
+  ],
+  "window_start": "2026-11-24T12:00:00+08:00",
+  "window_end": "2026-11-25T12:00:00+08:00",
+  "generated_at": "2026-11-25T12:17:27.973114+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "任天堂|发布1.9.0更新|马力欧卡丁车 世界",
+          "title": "《马力欧卡丁车 世界》Ver.1.9.0免费更新上线，新增8条赛道",
+          "summary": "任天堂11月25日发布Switch 2《马力欧卡丁车 世界》Ver.1.9.0免费更新，新增8条改编赛道、两条生存路线和回放功能。",
+          "published_at": "2026-11-25T11:08:40+08:00",
+          "follow_up": false,
+          "new_facts": "任天堂发布Ver.1.9.0：新增8条赛道、2条生存路线及回放功能。",
+          "verification": "single_source",
+          "entities": [
+            "任天堂",
+            "Nintendo",
+            "马力欧卡丁车 世界",
+            "Mario Kart World"
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "limitations": "更新细节依据4Gamer对任天堂公告的转述，未直接取得官方补丁说明。",
+          "facts": [
+            {
+              "text": "任天堂于11月25日为Switch 2《马力欧卡丁车 世界》推送免费更新Ver.1.9.0。据4Gamer报道，更新当天开始配信。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "任天堂は本日（2026年11月25日），Nintendo Switch 2用ソフト「 マリオカート ワールド 」の 無料アップデート「Ver.1.9.0」 の配信を開始した。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "更新新增8条赛道，包括“马力欧兄弟赛道2”“DK雪山2”“嘿呵嘉年华2”等，均对原有赛道做了改编。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "追加されたコースは， いつものコースにアレンジを加えたもの で，「マリオブラザーズサーキット2」「DKスノーマウンテン2」「ヘイホーカーニバル2」などとなっている。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "生存模式新增“ハネラリー”和“まねきネコラリー”两条路线，玩家完成至少一条生存拉力赛后可选；菜单同时加入回放功能。",
+              "evidence": [
+                {
+                  "source_id": "s11",
+                  "quote": "サバイバルに2つの新ルート が追加された。"
+                },
+                {
+                  "source_id": "s11",
+                  "quote": "新ルートは，サバイバルのラリーを1つ以上クリアすると選べるようになる。"
+                },
+                {
+                  "source_id": "s11",
+                  "quote": "メニュー画面に 「リプレイ」機能 が追加された。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ]
+        },
+        {
+          "event_key": "Team NINJA|登陆Xbox|仁王3",
+          "title": "《仁王3》首次登陆Xbox，2027年1月28日发售",
+          "summary": "Xbox Wire公告确认《仁王3》与《仁王3：完整版》2027年1月28日登陆Xbox Series X|S，为系列首次登陆Xbox；游戏可在武士与忍者战斗风格间切换。",
+          "published_at": "2026-11-25T03:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "official_statement",
+          "entities": [
+            "Team NINJA",
+            "仁王3",
+            "Nioh 3",
+            "Xbox"
+          ],
+          "importance": "重要",
+          "reliability": "A",
+          "limitations": "Xbox Wire文章节选未列出《仁王3：完整版》的具体收录内容。",
+          "facts": [
+            {
+              "text": "Xbox Wire于11月24日刊登Koei Tecmo America公关经理John Hardin的公告，宣布Team NINJA与光荣特库摩将把《仁王3》和《仁王3：完整版》带到Xbox Series X|S，2027年1月28日发售；公告称这是《仁王》系列首次登陆Xbox。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "bringing the Nioh series to XBOX for the first time ever with Nioh 3 and Nioh 3: Complete Edition coming to XBOX Series X|S on January 28, 2027"
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            },
+            {
+              "text": "公告介绍，《仁王3》是黑暗武士动作RPG，故事横跨封建日本多个地点与时代，融合奇幻与历史，并可在系列经典的武士风格与全新忍者风格之间无缝切换。",
+              "evidence": [
+                {
+                  "source_id": "s16",
+                  "quote": "The Dark Samurai Action RPG explores a variety of locations and time periods of feudal Japan in an epic story that blends fantasy and history."
+                },
+                {
+                  "source_id": "s16",
+                  "quote": "plus the ability to seamlessly switch between Nioh’s classic Samurai and brand-new Ninja Combat styles."
+                }
+              ],
+              "kind": "fact",
+              "verification": "official_statement"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "葬送のフリーレン|短期集中连载|别谭",
+          "title": "《葬送のフリーレン 別譚》将于12月2日起短期集中连载",
+          "summary": "动画官网宣布《葬送のフリーレン 別譚》12月2日起在《周刊少年Sunday》短期集中连载，改编自八目迷小说，山田钟人监修、阿贝司卡作画。",
+          "published_at": "2026-11-25T09:20:56.818000+08:00",
+          "follow_up": false,
+          "new_facts": "动画官网宣布《葬送のフリーレン 別譚》从12月2日发售的《周刊少年Sunday》新年1号开始短期集中连载；改编自八目迷小说，山田钟人监修、阿贝司卡作画。",
+          "verification": "single_source",
+          "entities": [
+            "葬送のフリーレン",
+            "Frieren: Beyond Journey's End",
+            "周刊少年Sunday",
+            "山田钟人",
+            "阿贝司卡"
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "limitations": "报道转述动画官网和官方X，未直接取得官网原文；来源未说明连载话数。",
+          "facts": [
+            {
+              "text": "据ACGCH报道，动画《葬送のフリーレン》官方网站11月25日宣布，漫画《葬送のフリーレン 別譚》将在小学馆《周刊少年Sunday》短期集中连载，从12月2日发售的新年1号开始刊登。",
+              "evidence": [
+                {
+                  "source_id": "s44",
+                  "quote": "アニメ『葬送のフリーレン』公式サイトは2026年11月25日、漫画『葬送のフリーレン 別譚』が小学館『週刊少年サンデー』で短期集中連載されると発表した。12月2日（水）発売の新年1号から掲載される。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该作改编自八目迷的小说《小说 葬送のフリーレン ～前奏～》，由原作漫画的山田钟人监修、阿贝司卡作画。官方将其介绍为从另一视角讲述本编的“正统别谭幻想”。",
+              "evidence": [
+                {
+                  "source_id": "s44",
+                  "quote": "今作は、八目迷（はちもく・めい）による小説『小説 葬送のフリーレン ～前奏～』を漫画化したもので、原作漫画を手がける山田鐘人が監修し、アベツカサが作画を担当する。"
+                },
+                {
+                  "source_id": "s44",
+                  "quote": "公式サイトは、本編を別の視点から紡ぐ「正統別譚（アナザー）ファンタジー」だと紹介している。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "最初描绘的是《葬送のフリーレン》第1话与第2话之间费伦与海塔的故事。原作官方X于11月25日0时发布告知图，动画官方X同日转达官网消息。",
+              "evidence": [
+                {
+                  "source_id": "s44",
+                  "quote": "最初に描かれるのは、『葬送のフリーレン』第1話と第2話のあいだにあった、フェルンとハイターの物語である。"
+                },
+                {
+                  "source_id": "s44",
+                  "quote": "原作公式X（@FRIEREN_PR）は11月25日0時（日本時間）に告知画像を投稿し、アニメ公式X（@Anime_Frieren）も同日、公式サイトの発表を伝えた。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "edition": "acgn",
+  "sources": [
+    {
+      "id": "s16",
+      "url": "https://news.xbox.com/en-us/2026/11/24/nioh-3-xbox-series-debut/",
+      "title": "Nioh 3 Is Coming to XBOX in 2027",
+      "published_at": "2026-11-24T19:00:00+00:00"
+    },
+    {
+      "id": "s44",
+      "url": "https://acgch.com/ja/news/frieren-bettan-manga-short-serialization-shonen-sunday",
+      "title": "『葬送のフリーレン 別譚』が週刊少年サンデーで短期集中連載へ",
+      "published_at": "2026-11-25T01:20:56.818000+00:00"
+    },
+    {
+      "id": "s11",
+      "url": "https://www.4gamer.net/games/897/G089761/20261125003/",
+      "title": "「マリオカート ワールド」，無料アップデート「Ver.1.9.0」を配信開始。いつものコースにアレンジを加えた8つのコースが追加",
+      "published_at": "2026-11-25T12:08:40+09:00"
+    }
+  ],
+  "coverage_notes": [
+    "二游的部分资料检索未完成，本期覆盖受限。",
+    "热门游戏事件与热梗的部分资料检索未完成，本期覆盖受限。",
+    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}
