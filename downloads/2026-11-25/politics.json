@@ -134,7 +134,44 @@
             "马修·韦尔",
             "安东尼·阿尔巴尼斯"
           ],
-          "limitations": "报道称所罗门群岛“据报”告知中国不续签协议，韦尔因保密协议未直接确认；中国外交部未确认终止。ABC关于逾9.8亿澳元资金的报道基于泄露短信，BBC未能独立核实。稿件发布时间据页面“56分钟前”与抓取时间推算。"
+          "limitations": "报道称所罗门群岛“据报”告知中国不续签协议，韦尔因保密协议未直接确认；中国外交部未确认终止。ABC关于逾9.8亿澳元资金的报道基于泄露短信，BBC未能独立核实。稿件发布时间据页面“56分钟前”与抓取时间推算。",
+          "bilingual": {
+            "title_en": "Solomon Islands Signs Security Treaty With Australia, Reportedly Won't Renew China Security Pact",
+            "sentences": [
+              {
+                "en": "Solomon Islands signed a security and economic treaty with Australia in Canberra on Wednesday, with the prime ministers of both countries saying the treaty will ensure Australia becomes Solomon Islands' “preferred security partner.”",
+                "zh": "所罗门群岛与澳大利亚周三在堪培拉签署安全与经济条约，两国总理称条约将确保澳大利亚成为所罗门群岛的“首选安全伙伴”。"
+              },
+              {
+                "en": "Wei'er said this allows Solomon Islands to reset after years of regional uncertainty.",
+                "zh": "韦尔称，这使所罗门群岛在多年地区不确定性后实现重置。"
+              },
+              {
+                "en": "According to Australian media reports, Solomon Islands has told Beijing it will not renew the 2022 security agreement, which is expected to expire in April 2027.",
+                "zh": "据澳媒报道，所罗门群岛已告知北京不续签2022年安全协议，该协议预计2027年4月到期。"
+              },
+              {
+                "en": "Wei'er said discussions with the Chinese side were still ongoing but could not be discussed due to a confidentiality agreement.",
+                "zh": "韦尔称与中方仍有讨论，但因保密协议无法谈论。"
+              },
+              {
+                "en": "A Chinese Foreign Ministry spokesperson neither confirmed nor denied the termination, saying that China's cooperation with Pacific island countries involves no geopolitical competition or bloc confrontation.",
+                "zh": "中国外交部发言人未确认也未否认终止，称中国与太平洋岛国合作不存在地缘竞争或阵营对抗。"
+              },
+              {
+                "en": "The new treaty requires Solomon Islands to consult Australia in advance on critical infrastructure, requires security cooperation to be conducted with Pacific Islands Forum members, stipulates that sensitive facilities must not be militarized or subject to foreign interference, and provides that its territory must not be used for foreign military or security bases.",
+                "zh": "新条约要求所罗门群岛在关键基础设施上与澳事前磋商，安全合作须与太平洋岛国论坛成员进行，敏感设施不得军事化或受外国干涉，领土不得用于外国军事或安全基地。"
+              },
+              {
+                "en": "Australia will provide support in education, sports, visas, and energy infrastructure.",
+                "zh": "澳方将提供教育、体育、签证和能源基础设施支持。"
+              },
+              {
+                "en": "ABC reported additional funding of more than A$980 million, which the BBC said it could not independently verify.",
+                "zh": "澳广报道额外资金逾9.8亿澳元，BBC称未能独立核实。"
+              }
+            ]
+          }
         }
       ]
     }

@@ -89,7 +89,28 @@
               ]
             }
           ],
-          "limitations": "破发价格、跌幅和盘中低点来自IT之家转述彭博社，未直接取得彭博原文；83美元发行价与11月19日上市日期也来自该转述，Anthropic官方公告未在可取得内容中给出发行价。"
+          "limitations": "破发价格、跌幅和盘中低点来自IT之家转述彭博社，未直接取得彭博原文；83美元发行价与11月19日上市日期也来自该转述，Anthropic官方公告未在可取得内容中给出发行价。",
+          "bilingual": {
+            "title_en": "Anthropic Falls Below $83 IPO Price Less Than a Week After Listing",
+            "sentences": [
+              {
+                "en": "According to Bloomberg, as cited by IT Home on November 25, Anthropic fell below its $83 IPO price for the first time in U.S. stock trading on November 24, closing at $81.91, a single-day decline of 6.54%.",
+                "zh": "据IT之家11月25日转述彭博社报道，Anthropic在11月24日美股交易中首次跌破83美元IPO发行价，收报81.91美元，单日下跌6.54%。"
+              },
+              {
+                "en": "The report said it opened at $111.50 on its first trading day, briefly exceeded $115 during intraday trading, and hit an intraday low of about $76 on November 24.",
+                "zh": "该报道称，其上市首日开盘111.50美元，盘中一度超过115美元，11月24日盘中最低约76美元。"
+              },
+              {
+                "en": "Anthropic's official announcement on October 26 shows that the company has submitted an S-1 registration statement to the U.S. SEC for a proposed IPO, planning to list on Nasdaq under the ticker \"ANT\"; the official page also lists a related announcement on November 20 confirming the completion of the IPO.",
+                "zh": "Anthropic官方10月26日公告显示，公司已就拟议IPO向美国SEC提交S-1注册声明，计划在纳斯达克上市，代码“ANT”；官方页面还列出11月20日宣布完成IPO的相关公告。"
+              },
+              {
+                "en": "The IT Home report placed this decline in the context of a tech stock selloff triggered by concerns over AI company profitability, computing power capital expenditure, and high valuations, and said the S&P 500 and the Dow entered a technical correction last week.",
+                "zh": "IT之家报道将本轮下跌放在AI企业盈利、算力资本开支和高估值担忧引发的科技股抛售背景下，并称标普500和道指上周进入技术性回调。"
+              }
+            ]
+          }
         }
       ]
     },
