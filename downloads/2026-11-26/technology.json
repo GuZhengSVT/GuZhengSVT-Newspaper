@@ -1,0 +1,262 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-26",
+  "title": "2026-11-26 科技",
+  "summary": "本期科技日报收录两条重要新闻：ESA Hera 探测器新图像显示 NASA DART 撞击 Dimorphos 形成横跨小行星的体育场大小撞击坑，并发现撞击后翻滚与绕行巨石；42名州总检察长请求破产法院阻止 Character.AI 在破产拍卖中出售用户聊天历史等敏感数据。",
+  "highlights": [
+    "ESA Hera 新图像显示 DART 撞击 Dimorphos 形成横跨小行星的体育场大小坑。",
+    "42名州总检察长请求破产法院阻止 Character.AI 拍卖用户聊天记录。"
+  ],
+  "window_start": "2026-11-25T12:00:00+08:00",
+  "window_end": "2026-11-26T12:00:00+08:00",
+  "generated_at": "2026-11-26T12:04:43.654245+08:00",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Character.AI|拍卖用户聊天记录遭州检察长阻止|用户聊天历史",
+          "title": "42名州总检察长请求阻止 Character.AI 拍卖用户聊天记录",
+          "summary": "42名州总检察长向破产法院提出请求，试图阻止 Character.AI 在破产拍卖中出售用户聊天历史等敏感数据；拍卖定于12月1日，Character.AI 上月申请破产。",
+          "published_at": "2026-11-26T04:04:07+08:00",
+          "follow_up": false,
+          "new_facts": "42名州总检察长请求破产法院阻止 Character.AI 拍卖用户聊天历史，要求排除儿童和敏感数据并拒绝35万美元分手费；拍卖定于12月1日。",
+          "verification": "single_source",
+          "limitations": "信息来自 Engadget 对法院文件和州总检察长声明的报道，未直接取得法院文书；报道时拍卖仍定于12月1日。",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Character.AI",
+            "用户聊天记录拍卖"
+          ],
+          "facts": [
+            {
+              "text": "据 Engadget 11月25日报道，42名州总检察长向破产法院提出请求，试图阻止 Character.AI 在破产程序中拍卖用户聊天历史等敏感信息。拍卖定于12月1日，他们要求法院禁止把儿童聊天和敏感数据纳入出售，并拒绝公司若另售买家可收取35万美元分手费的安排。",
+              "evidence": [
+                {
+                  "source_id": "s60",
+                  "quote": "A group of 42 attorneys general are trying to block the chatbot company from auctioning off users' chat histories and other sensitive information."
+                },
+                {
+                  "source_id": "s60",
+                  "quote": "The auction is currently scheduled for December 1."
+                },
+                {
+                  "source_id": "s60",
+                  "quote": "The AGs are asking the bankruptcy court to block the sale to Smirks and deny a \"break-up fee\" that would allow the company to collect $350,000 if Character.AI sells to another buyer."
+                },
+                {
+                  "source_id": "s60",
+                  "quote": "They're also asking for children's chatbot conversations and \"sensitive\" data to be barred from any potential sale."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "加州总检察长 Rob Bonta 称，拟出售内容包含用户 IP 地址和私聊，其中许多用户是儿童，还有 AI 角色把儿童和成人引入露骨性对话，以及与冒充医生、治疗师的 AI 讨论自残、饮食失调和自杀等话题。",
+              "evidence": [
+                {
+                  "source_id": "s60",
+                  "quote": "\"Character.AI's plan to auction off its platform, including the IP addresses and private chats histories of its users — many of them children — with zero protection for those users is appalling,\" California Attorney General Rob Bonta said in a statement."
+                },
+                {
+                  "source_id": "s60",
+                  "quote": "According to Bonta's office, the proposed sale includes chat histories, including conversations \"in which AI characters drew children and adults into explicit sexual conversations.\""
+                },
+                {
+                  "source_id": "s60",
+                  "quote": "The buyer would also get access to chats in which users interacted with AI characters posing as physicians and therapists and discussed self harm, eating disorders, suicidal thoughts and other sensitive topics."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Character.AI 上月申请破产，称将进行法院监督的资产出售，用户数据仍受隐私政策保护；总检察长们指出，协议没有限制买家在交易完成后如何处理数据。目前披露的唯一匿名竞标实体 Smirks and Pangs Acquisition LLC 在 Character.AI 选定其为拍卖底价的前一天成立，资金来源未披露。",
+              "evidence": [
+                {
+                  "source_id": "s60",
+                  "quote": "The company, which had faced numerous investigations and lawsuits over its safety record, filed for bankruptcy last month ."
+                },
+                {
+                  "source_id": "s60",
+                  "quote": "The company said at the time that it would begin a \"a court-supervised sale of all or substantially all of our assets\" but that users data would continue to be \"protected\" by its privacy policy."
+                },
+                {
+                  "source_id": "s60",
+                  "quote": "\"Nothing in the agreement restricts what the buyer may do with the data after closing, including selling it,\" the AGs say in a court filing ."
+                },
+                {
+                  "source_id": "s60",
+                  "quote": "That entity, called Smirks and Pangs Acquisition LLC, was formed \"one day before Character.AI picked it as the base bid for the auction,\" and its source of funding hasn't been disclosed."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "42 state attorneys general ask court to block Character.AI auction of user chat records",
+            "sentences": [
+              {
+                "en": "According to an Engadget report on November 25, 42 state attorneys general filed a request with a bankruptcy court seeking to block Character.AI from auctioning user chat histories and other sensitive information in the bankruptcy proceedings.",
+                "zh": "据 Engadget 11月25日报道，42名州总检察长向破产法院提出请求，试图阻止 Character.AI 在破产程序中拍卖用户聊天历史等敏感信息。"
+              },
+              {
+                "en": "The auction is set for December 1; they are asking the court to prohibit the inclusion of children's chats and sensitive data in the sale and to reject an arrangement under which the company could receive a $350,000 breakup fee if it sells to another buyer.",
+                "zh": "拍卖定于12月1日，他们要求法院禁止把儿童聊天和敏感数据纳入出售，并拒绝公司若另售买家可收取35万美元分手费的安排。"
+              },
+              {
+                "en": "California Attorney General Rob Bonta said the content proposed for sale includes users' IP addresses and private chats, many of whose users are children, as well as AI characters that lead children and adults into explicit sexual conversations and discussions with AI posing as doctors or therapists about topics such as self-harm, eating disorders, and suicide.",
+                "zh": "加州总检察长 Rob Bonta 称，拟出售内容包含用户 IP 地址和私聊，其中许多用户是儿童，还有 AI 角色把儿童和成人引入露骨性对话，以及与冒充医生、治疗师的 AI 讨论自残、饮食失调和自杀等话题。"
+              },
+              {
+                "en": "Character.AI filed for bankruptcy last month, saying it would conduct a court-supervised asset sale and that user data remains protected by its privacy policy; the attorneys general noted that the agreement does not restrict how the buyer may handle the data after the transaction closes.",
+                "zh": "Character.AI 上月申请破产，称将进行法院监督的资产出售，用户数据仍受隐私政策保护；总检察长们指出，协议没有限制买家在交易完成后如何处理数据。"
+              },
+              {
+                "en": "Smirks and Pangs Acquisition LLC, the only anonymous bidding entity disclosed so far, was formed the day before Character.AI selected it as the auction's floor bid, and its source of funding has not been disclosed.",
+                "zh": "目前披露的唯一匿名竞标实体 Smirks and Pangs Acquisition LLC 在 Character.AI 选定其为拍卖底价的前一天成立，资金来源未披露。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "NASA|Hera观测DART撞击坑|Dimorphos",
+          "title": "Hera 新图像显示 DART 撞击坑横跨 Dimorphos",
+          "summary": "ESA Hera 新图像显示，NASA DART 2022年撞击 Dimorphos 形成横跨小行星的体育场大小坑，并发现撞击后翻滚和数百块绕行巨石；Hera 计划12月近距拍摄、明年1月部署立方星。",
+          "published_at": "2026-11-26T04:01:08+08:00",
+          "follow_up": false,
+          "new_facts": "Hera 从约25至30公里外拍摄的图像显示 DART 撞击坑横跨 Dimorphos 整个宽度；Hera 还发现 Dimorphos 在新轨道翻滚、周围有数百块绕行巨石，并计划12月近距拍摄、明年1月部署立方星。",
+          "verification": "single_source",
+          "limitations": "信息来自 Engadget 报道，未直接取得 ESA 原始图像或研究论文；“体育场大小”为 Hera 首席研究员 Patrick Michel 的描述。",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "NASA",
+            "DART",
+            "ESA",
+            "Hera",
+            "Dimorphos"
+          ],
+          "facts": [
+            {
+              "text": "据 Engadget 11月25日报道，欧洲航天局 Hera 探测器从约25至30公里外拍摄的图像显示，NASA 2022年 DART 撞击 Dimorphos 留下一个“体育场大小”的撞击坑，坑横跨这颗小行星的整个宽度。",
+              "evidence": [
+                {
+                  "source_id": "s61",
+                  "quote": "The 2022 controlled crash created an \"impact crater the size of a sports stadium,\" according to Patrick Michel, the Director of Research at France's National Centre for Scientific Research (CNRS) and Hera's principal investigator. The crater extends across the entire width of Dimorphos, according to Michel"
+                },
+                {
+                  "source_id": "s61",
+                  "quote": "All of these new details were captured by Hera's monochrome Asteroid Framing Camera, multi-spectral Hyperscout H and JAXA-developed Thermal Infrared Imager from about 25 to 30km away from the asteroids, the ESA says."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "Hera 还发现，DART 撞击让 Dimorphos 在新轨道上翻滚，Dimorphos 与 Didymos 周围有数百块绕行巨石。",
+              "evidence": [
+                {
+                  "source_id": "s61",
+                  "quote": "Besides physically altering the surface of Dimorphos, the ESA found that the DART impact sent the asteroid tumbling in its new orbit."
+                },
+                {
+                  "source_id": "s61",
+                  "quote": "Hera also revealed that both Dimorphos and Didymos are surrounded by hundreds of orbiting boulders."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "ESA 计划12月将 Hera 移近目标拍摄更高分辨率图像，并于明年1月部署 Juventas 和 Milani 两颗立方星；Juventas 用雷达探测小行星内部并最终着陆，Milani 探测尘埃和周围物质。这些仍是计划。",
+              "evidence": [
+                {
+                  "source_id": "s61",
+                  "quote": "In December, the ESA plans to move Hera closer to Dimorphos and Didymos to capture even higher-resolution images of the impact site. In January, Hera will also deploy shoebox-sized CubeSats to collect other types of data."
+                },
+                {
+                  "source_id": "s61",
+                  "quote": "The Juventas CubeSat, created by a Luxembourg-led research team, will use radar to probe the asteroid's interior and eventually land on its surface. An Italian-led team will use the other CubeSat, Milani, to prospect asteroid dust and other surrounding materials."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "New Hera Images Show DART Impact Crater Spanning Dimorphos",
+            "sentences": [
+              {
+                "en": "According to a November 25 report by Engadget, images captured by the European Space Agency's Hera probe from about 25 to 30 kilometers away show that NASA's 2022 DART impact on Dimorphos left a “stadium-sized” crater spanning the entire width of the asteroid.",
+                "zh": "据 Engadget 11月25日报道，欧洲航天局 Hera 探测器从约25至30公里外拍摄的图像显示，NASA 2022年 DART 撞击 Dimorphos 留下一个“体育场大小”的撞击坑，坑横跨这颗小行星的整个宽度。"
+              },
+              {
+                "en": "Hera also found that the DART impact left Dimorphos tumbling in a new orbit and that hundreds of boulders are orbiting around Dimorphos and Didymos.",
+                "zh": "Hera 还发现，DART 撞击让 Dimorphos 在新轨道上翻滚，Dimorphos 与 Didymos 周围有数百块绕行巨石。"
+              },
+              {
+                "en": "ESA plans to move Hera closer to the target in December to take higher-resolution images and to deploy the two CubeSats Juventas and Milani in January next year; Juventas will use radar to probe the asteroid's interior and eventually land, while Milani will probe dust and surrounding material.",
+                "zh": "ESA 计划12月将 Hera 移近目标拍摄更高分辨率图像，并于明年1月部署 Juventas 和 Milani 两颗立方星；Juventas 用雷达探测小行星内部并最终着陆，Milani 探测尘埃和周围物质。"
+              },
+              {
+                "en": "These are still plans.",
+                "zh": "这些仍是计划。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s61",
+      "url": "https://www.engadget.com/2328617/nasas-dart-mission-left-a-stadium-sized-crater-in-an-asteroid-the-esa-finds/",
+      "title": "NASA's DART mission left a stadium-sized crater in an asteroid, the ESA finds",
+      "published_at": "2026-11-25T20:01:08+00:00"
+    },
+    {
+      "id": "s60",
+      "url": "https://www.engadget.com/2328630/state-ags-are-trying-to-stop-characterai-from-auctioning-off-users-chat-histories/",
+      "title": "State AGs are trying to stop Character.AI from auctioning off users' chat histories",
+      "published_at": "2026-11-25T20:04:07+00:00"
+    }
+  ],
+  "edition": "technology",
+  "coverage_notes": [
+    "人工智能的部分资料检索未完成，本期覆盖受限。",
+    "航天宇航的部分资料检索未完成，本期覆盖受限。",
+    "部分候选原文无法取得，已放弃报道，不能据此判断该板块没有重要事件。"
+  ]
+}

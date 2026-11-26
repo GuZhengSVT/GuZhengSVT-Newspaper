@@ -1,0 +1,377 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-26",
+  "title": "2026-11-26 政治",
+  "summary": "本期政治版收录三条重要消息。欧盟委员会主席冯德莱恩称欧洲将参加下一轮俄乌和平谈判，并提出以能源停火检验俄方诚意；以色列法院法官建议检方重新考虑对内塔尼亚胡最严重的贿赂指控，内塔尼亚胡要求立即终止审判；巴西因阿根廷外长质疑其选举合法性而永久召回驻阿大使，双边关系降级。",
+  "highlights": [
+    "冯德莱恩：欧洲将参加下一轮俄乌和谈，团队含德法英意波与欧盟机构",
+    "以色列法官建议检方重新考虑内塔尼亚胡案最严重贿赂指控",
+    "巴西永久召回驻阿根廷大使，双边关系降级"
+  ],
+  "window_start": "2026-11-25T12:00:00+08:00",
+  "window_end": "2026-11-26T12:00:00+08:00",
+  "generated_at": "2026-11-26T12:10:02.285903+08:00",
+  "sources": [
+    {
+      "id": "s50",
+      "url": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss",
+      "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
+      "published_at": null
+    },
+    {
+      "id": "s136",
+      "url": "https://english.elpais.com/international/2026-11-25/brazil-permanently-recalls-its-ambassador-to-buenos-aires-amid-ongoing-bilateral-crisis.html",
+      "title": "Brazil permanently recalls its ambassador to Buenos Aires amid ongoing bilateral crisis",
+      "published_at": "2026-11-25T11:00:49+01:00"
+    },
+    {
+      "id": "s112",
+      "url": "https://kyivpost.com/post/91182",
+      "title": "Von der Leyen: Europe Will Join Next Round of Talks With Russia",
+      "published_at": "2026-11-25T16:57:21+02:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "欧盟|参与|下一轮俄乌和平谈判",
+          "title": "冯德莱恩称欧洲将参加下一轮俄乌和谈，欧盟提出新制裁与融资方案",
+          "summary": "欧盟委员会主席冯德莱恩称欧洲将参加下一轮结束俄乌战争的谈判，并提出以能源停火检验俄方诚意；欧盟同时提出第22轮制裁方案和450亿欧元对乌融资工具。克里姆林宫此前称扩大谈判参与方未与俄方商定。",
+          "published_at": "2026-11-25T22:57:21+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "欧盟委员会",
+            "乌尔苏拉·冯德莱恩",
+            "俄罗斯",
+            "乌克兰"
+          ],
+          "limitations": "《政治报》相关页面未取得正文，冯德莱恩讲话内容依据《基辅邮报》单篇报道；第22轮制裁与450亿欧元融资方案转引自RBC-乌克兰，未直接核对欧盟官方文件。",
+          "facts": [
+            {
+              "text": "欧盟委员会主席冯德莱恩25日在斯特拉斯堡表示，欧洲将参加下一轮旨在结束俄乌战争的谈判。据《基辅邮报》报道，她说欧洲将派出“强有力的团队”，因为乌克兰的安全直接关系到欧洲自身安全。欧盟委员会发言人平霍表示，团队由德国、法国、英国、意大利、波兰以及欧盟委员会和欧洲理事会组成，而非单一谈判代表。",
+              "evidence": [
+                {
+                  "source_id": "s112",
+                  "quote": "European Commission President Ursula von der Leyen said Europe will take part in the next round of negotiations on ending Russia’s war against Ukraine."
+                },
+                {
+                  "source_id": "s112",
+                  "quote": "She said a strong European team will join the talks because Ukraine’s security directly affects Europe’s own."
+                },
+                {
+                  "source_id": "s112",
+                  "quote": "Commission spokesperson Paula Pinho said that instead of a single negotiator, the bloc will field a team made up of the E5 countries, consisting of Germany, France, the UK, Italy and Poland, plus the European Commission and the European Council."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "她提到“意愿联盟”上周的呼吁：俄罗斯停止在冬季袭击乌克兰能源设施，并同意保障黑海航运的停火。她说，莫斯科若接受这些步骤，将表明其认真对待谈判；欧盟将依据俄方行动而不只是表态来判断进展。",
+              "evidence": [
+                {
+                  "source_id": "s112",
+                  "quote": "Von der Leyen noted calls from the “Coalition of the Willing” last week for Russia to stop strikes on Ukrainian energy infrastructure over the winter and agree to a truce allowing safe shipping through the Black Sea."
+                },
+                {
+                  "source_id": "s112",
+                  "quote": "She added that the EU will judge progress by Russia’s actions, not only its statements, and that it will keep supporting Ukraine and defending its own interests."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道称，欧盟委员会已提出第22轮对俄制裁方案，并为2027年提出450亿欧元的对乌融资工具，其中200亿欧元用于预算支持、250亿欧元用于军事需求。克里姆林宫助理乌沙科夫此前表示，下一轮仍将是美、乌、俄三方会谈，扩大参与方并未与莫斯科商定。",
+              "evidence": [
+                {
+                  "source_id": "s112",
+                  "quote": "According to RBC-Ukraine , the European Commission has presented proposals for a 22nd sanctions package. For 2027, it has also proposed an additional financing tool for Ukraine worth €45 billion ($49 billion), made up of €20 billion ($22 billion) in budget support and €25 billion ($27 billion) for military needs."
+                },
+                {
+                  "source_id": "s112",
+                  "quote": "Kremlin aide Yuri Ushakov told reporters on Nov. 16 that the next round would be trilateral, between the US, Ukraine and Russia, and that expanding the format had not been agreed with Moscow."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Von der Leyen Says Europe Will Take Part in Next Round of Russia-Ukraine Talks; EU Proposes New Sanctions and Financing Package",
+            "sentences": [
+              {
+                "en": "European Commission President Ursula von der Leyen said in Strasbourg on the 25th that Europe will take part in the next round of negotiations aimed at ending the Russia-Ukraine war.",
+                "zh": "欧盟委员会主席冯德莱恩25日在斯特拉斯堡表示，欧洲将参加下一轮旨在结束俄乌战争的谈判。"
+              },
+              {
+                "en": "According to the Kyiv Post, she said Europe will send a “strong team,” because Ukraine’s security is directly tied to Europe’s own security.",
+                "zh": "据《基辅邮报》报道，她说欧洲将派出“强有力的团队”，因为乌克兰的安全直接关系到欧洲自身安全。"
+              },
+              {
+                "en": "European Commission spokesperson Pinho said the team will consist of Germany, France, the United Kingdom, Italy, Poland, the European Commission and the European Council, rather than a single negotiator.",
+                "zh": "欧盟委员会发言人平霍表示，团队由德国、法国、英国、意大利、波兰以及欧盟委员会和欧洲理事会组成，而非单一谈判代表。"
+              },
+              {
+                "en": "She mentioned the call made last week by the “coalition of the willing”: Russia should stop attacks on Ukraine’s energy facilities in winter and agree to a ceasefire that safeguards Black Sea shipping.",
+                "zh": "她提到“意愿联盟”上周的呼吁：俄罗斯停止在冬季袭击乌克兰能源设施，并同意保障黑海航运的停火。"
+              },
+              {
+                "en": "She said that if Moscow accepts these steps, it will show that it is serious about negotiations; the EU will judge progress based on Russia’s actions, not just its statements.",
+                "zh": "她说，莫斯科若接受这些步骤，将表明其认真对待谈判；欧盟将依据俄方行动而不只是表态来判断进展。"
+              },
+              {
+                "en": "The report said the European Commission has proposed a 22nd round of sanctions against Russia and a €45 billion financing instrument for Ukraine for 2027, with €20 billion for budget support and €25 billion for military needs.",
+                "zh": "报道称，欧盟委员会已提出第22轮对俄制裁方案，并为2027年提出450亿欧元的对乌融资工具，其中200亿欧元用于预算支持、250亿欧元用于军事需求。"
+              },
+              {
+                "en": "Kremlin aide Ushakov previously said that the next round will still be trilateral talks among the United States, Ukraine and Russia, and that expanding the participants had not been agreed with Moscow.",
+                "zh": "克里姆林宫助理乌沙科夫此前表示，下一轮仍将是美、乌、俄三方会谈，扩大参与方并未与莫斯科商定。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "以色列法院|建议撤销|内塔尼亚胡腐败案最严重指控",
+          "title": "以色列法官建议检方重新考虑内塔尼亚胡案最严重贿赂指控",
+          "summary": "以色列耶路撒冷地区法院法官召见总检察长，表示内塔尼亚胡所涉最严重贿赂案定罪可能性低，建议检方重新考虑，并建议在另一案中寻求认罪协议。内塔尼亚胡要求立即终止审判并否认指控。",
+          "published_at": "2026-11-26T04:07:00+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "本雅明·内塔尼亚胡",
+            "以色列法院",
+            "以色列检方"
+          ],
+          "limitations": "依据BBC单篇报道；法官建议对检方的约束力及后续程序，来源未作说明。发布时刻由页面相对时间“8 hours ago”估算。",
+          "facts": [
+            {
+              "text": "以色列耶路撒冷地区法院的法官25日罕见召见总检察长巴哈拉夫-米亚拉，表示总理内塔尼亚胡所涉腐败案中最严重的一项贿赂指控定罪可能性低，建议检方重新考虑。据BBC报道，法官们还质疑另一案中的行为是否达到犯罪门槛，并建议在第三案中寻求认罪协议；总检察长表示将考虑法官的建议。",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "Judges in Israel have suggested prosecutors drop bribery charges against Benjamin Netanyahu, potentially handing the caretaker prime minister a boost as he fights for his political survival."
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "In a highly unusual step, a judging panel at the Jerusalem District Court summoned Israeli Attorney General Gali Baharav-Miara on Wednesday to express their concerns."
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "\"The chances of conviction are low – to an extent that warrants reconsidering the matter,\" Judge Rivka Friedman-Feldman told her, Israeli media reported."
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "They also questioned whether his actions amounted to criminal conduct in a second corruption case, and suggested prosecutors seek a plea deal in a third."
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "Baharav-Miara said she would consider the judges' recommendations."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "内塔尼亚胡同日发表电视讲话，称审判应“立即”结束，称自己与家人遭受了十年痛苦。他否认所有指控，并称针对他的案件是“捏造”的。",
+              "evidence": [
+                {
+                  "source_id": "s50",
+                  "quote": "Netanyahu has consistently denied the allegations against him and called on Wednesday for the trial to be ended \"immediately\"."
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "\"Ten years of terrible suffering for me, my family, my son,\" he said in a televised statement."
+                },
+                {
+                  "source_id": "s50",
+                  "quote": "He has always claimed to be the victim of a political witch-hunt and said on Wednesday that the \"fabricated cases\" against him were now falling apart."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Israeli judges recommend prosecutors reconsider most serious bribery charge in Netanyahu case",
+            "sentences": [
+              {
+                "en": "Judges at Israel's Jerusalem District Court unusually summoned Attorney General Baharav-Miara on the 25th, saying that the most serious bribery charge in the corruption case involving Prime Minister Netanyahu has a low likelihood of conviction and recommending that prosecutors reconsider it.",
+                "zh": "以色列耶路撒冷地区法院的法官25日罕见召见总检察长巴哈拉夫-米亚拉，表示总理内塔尼亚胡所涉腐败案中最严重的一项贿赂指控定罪可能性低，建议检方重新考虑。"
+              },
+              {
+                "en": "According to BBC, the judges also questioned whether conduct in another case reached the criminal threshold and recommended seeking a plea deal in a third case; the attorney general said she would consider the judges' recommendations.",
+                "zh": "据BBC报道，法官们还质疑另一案中的行为是否达到犯罪门槛，并建议在第三案中寻求认罪协议；总检察长表示将考虑法官的建议。"
+              },
+              {
+                "en": "Netanyahu said in a televised address the same day that the trial should end 'immediately,' saying that he and his family had suffered for ten years.",
+                "zh": "内塔尼亚胡同日发表电视讲话，称审判应“立即”结束，称自己与家人遭受了十年痛苦。"
+              },
+              {
+                "en": "He denied all the charges and called the case against him 'fabricated.'",
+                "zh": "他否认所有指控，并称针对他的案件是“捏造”的。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "巴西|永久召回|驻阿根廷大使",
+          "title": "巴西永久召回驻阿根廷大使，双边关系降级",
+          "summary": "巴西政府决定永久召回驻布宜诺斯艾利斯大使，双边关系降级。报道称导火索是阿根廷外长质疑巴西总统选举合法性；卢拉还决定不邀请米莱出席就职仪式。",
+          "published_at": "2026-11-25T18:00:49+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "巴西",
+            "阿根廷",
+            "路易斯·伊纳西奥·卢拉·达席尔瓦",
+            "哈维尔·米莱"
+          ],
+          "limitations": "依据《国家报》单篇报道；召回决定由该报引述巴西外交消息人士证实，未取得巴西外交部正式公告；不邀请米莱的消息源自UOL，未获独立核实。",
+          "facts": [
+            {
+              "text": "西班牙《国家报》25日报道，巴西政府决定永久召回驻布宜诺斯艾利斯大使胡利奥·比泰利，两国关系降级。该报称，巴西外交消息人士证实了这一决定；此前巴西已于7月召回比泰利，此次他不会再返回任所。",
+              "evidence": [
+                {
+                  "source_id": "s136",
+                  "quote": "The government of Luiz Inácio Lula da Silva has decided to permanently recall its ambassador to Buenos Aires, according to a report Tuesday by the online news outlet UOL and as confirmed by Brazilian diplomatic sources to this newspaper."
+                },
+                {
+                  "source_id": "s136",
+                  "quote": "Ambassador Bittelli’s departure is now final. The diplomat will not return to his post. And bilateral relations have been downgraded."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道称，此次危机的直接导火索是阿根廷外长基尔诺在电视节目中质疑巴西总统选举的合法性，但未提供证据。巴西总统卢拉在选举中击败极右翼候选人弗拉维奥·博索纳罗。",
+              "evidence": [
+                {
+                  "source_id": "s136",
+                  "quote": "The decision comes after the Argentine foreign minister questioned, without evidence, the legitimacy of the elections in which the Brazilian leftist was reelected against far-right candidate Flávio Bolsonaro last month."
+                },
+                {
+                  "source_id": "s136",
+                  "quote": "The remarks made by Argentine Foreign Minister Pablo Quirno on a television program last weekend were the last straw in a crisis whose fuse was lit by Milei immediately after winning the 2023 election."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道还援引巴西新闻网站UOL称，卢拉决定不邀请阿根廷总统米莱出席明年1月5日的就职仪式。阿根廷政府承认两国存在意识形态分歧，但表示不会把分歧带入外交领域。",
+              "evidence": [
+                {
+                  "source_id": "s136",
+                  "quote": "The website also reports that Brasília will not invite the Argentine president, the far-right Javier Milei, to Lula’s inauguration on January 5."
+                },
+                {
+                  "source_id": "s136",
+                  "quote": "The Argentine government acknowledges the ideological differences between the presidents but insists that, unlike Brazil, “it has decided not to bring those ideological differences into the diplomatic arena.”"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Brazil Permanently Recalls Ambassador to Argentina, Downgrading Bilateral Relations",
+            "sentences": [
+              {
+                "en": "Spain's El País reported on the 25th that the Brazilian government had decided to permanently recall its ambassador to Buenos Aires, Julio Bitelli, downgrading relations between the two countries.",
+                "zh": "西班牙《国家报》25日报道，巴西政府决定永久召回驻布宜诺斯艾利斯大使胡利奥·比泰利，两国关系降级。"
+              },
+              {
+                "en": "The newspaper said Brazilian diplomatic sources confirmed the decision; Brazil had already recalled Bitelli in July, and he will not return to his post this time.",
+                "zh": "该报称，巴西外交消息人士证实了这一决定；此前巴西已于7月召回比泰利，此次他不会再返回任所。"
+              },
+              {
+                "en": "The report said the direct trigger for the crisis was Argentine Foreign Minister Quirno's questioning on a television program of the legitimacy of Brazil's presidential election, without providing evidence.",
+                "zh": "报道称，此次危机的直接导火索是阿根廷外长基尔诺在电视节目中质疑巴西总统选举的合法性，但未提供证据。"
+              },
+              {
+                "en": "Brazilian President Lula defeated far-right candidate Flávio Bolsonaro in the election.",
+                "zh": "巴西总统卢拉在选举中击败极右翼候选人弗拉维奥·博索纳罗。"
+              },
+              {
+                "en": "The report also cited Brazilian news website UOL as saying that Lula had decided not to invite Argentine President Milei to the inauguration ceremony on January 5 next year.",
+                "zh": "报道还援引巴西新闻网站UOL称，卢拉决定不邀请阿根廷总统米莱出席明年1月5日的就职仪式。"
+              },
+              {
+                "en": "The Argentine government acknowledged that ideological differences exist between the two countries but said it would not bring those differences into the diplomatic sphere.",
+                "zh": "阿根廷政府承认两国存在意识形态分歧，但表示不会把分歧带入外交领域。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "美国的部分资料检索未完成，本期覆盖受限。",
+    "欧洲的部分资料检索未完成，本期覆盖受限。",
+    "俄乌战争的部分资料检索未完成，本期覆盖受限。",
+    "中东地区的部分资料检索未完成，本期覆盖受限。",
+    "南美的部分资料检索未完成，本期覆盖受限。"
+  ]
+}

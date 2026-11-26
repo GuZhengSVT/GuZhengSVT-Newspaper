@@ -1,0 +1,440 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-26",
+  "title": "2026-11-26 ACGN",
+  "summary": "本期收录4条新闻。",
+  "highlights": [
+    "《Azur Promilia》正式开服：基本免费加道具收费，开服活动可免费抽卡40次以上",
+    "《Arknights: Endfield》新版本配信，新★6“ケーちゃん”登场",
+    "《GTA 6》街景国旗墙被玩家发现含中华民国国旗，引发社群讨论",
+    "《幼稚園WARS》电视动画定档2027年4月，Ado演唱片头曲"
+  ],
+  "window_start": "2026-11-25T12:00:00+08:00",
+  "window_end": "2026-11-26T12:00:00+08:00",
+  "generated_at": "2026-11-26T12:36:02.957215+08:00",
+  "edition": "acgn",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Azur Promilia|正式上线|游戏",
+          "title": "《Azur Promilia》正式开服：基本免费加道具收费，开服活动可免费抽卡40次以上",
+          "summary": "Yostar与Manjuu Games共同发行的幻想RPG《Azur Promilia》11月26日正式开服，登陆iOS、Android、PC，基本免费加道具收费；开服活动含免费40抽以上、新手卡池30抽内必出★5及限定角色卡池。",
+          "published_at": "2026-11-26T11:59:21+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "single_source",
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Azur Promilia",
+            "アズールプロミリア",
+            "Manjuu Games",
+            "Yostar"
+          ],
+          "limitations": "消息来自4Gamer对厂商发布文的转述，未直接取得Yostar或Manjuu Games公告原文；来源未说明各地区上线时间与语言配置，卡池与活动时间按原文写法保留。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据4Gamer报道，Yostar与Manjuu Games共同发行的幻想RPG《Azur Promilia》（アズールプロミリア）于11月26日正式开始服务，登陆iOS、Android和PC，采用基本免费加道具收费的模式。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "Yostarは本日（2026年11月26日），Manjuu Gamesと共同でパブリッシングを行う新作RPG 「アズールプロミリア」 （ iOS / Android / PC ）の 正式サービスを開始 した。基本プレイ無料でアイテム課金制となっている。"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "游戏以幻想生物“キボ”栖息的プロミリア大陆为舞台，玩家扮演预言中的“星臨者”，与个性各异的伙伴共同对抗威胁世界的敌人，并逐步解开大陆之谜。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "本作は，幻想的な生きもの 「キボ」 が暮らすプロミリア大陸を舞台としたファンタジーワールドRPGだ。プレイヤーは，予言された存在 「星臨者」 となり，個性豊かな仲間たちと世界を脅かす敵に立ち向かいながら，大陸に眠る謎を解き明かしていく。"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "开服纪念活动中，首次登录可领取★4角色“アニス”和20个抽卡道具“無垢な痕跡”，加上登录与任务奖励，累计可免费抽卡40次以上；新手卡池“始源の観測”十连消耗8个道具，30次以内必出★5。限定角色“塗山小玉”及其专属“アニマ”的卡池持续至12月17日4时59分，分别在最多90抽和80抽内确定，相关剧情活动持续至2027年1月5日4时59分。",
+              "evidence": [
+                {
+                  "source_id": "s9",
+                  "quote": "初回ログインで，グローバル事前登録者数達成報酬の★4キャラクター 「アニス」 や，ガチャに使用する 「無垢な痕跡」 20個を獲得できるほか，ログインや指定クエストのクリアなどで各種報酬を受け取れる。これらの特典により，キャラクターガチャを40回以上無料で引けるという。"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "また，ガチャ機能の開放後に利用できる初心者向けガチャ 「始源の観測」 では，「無垢な痕跡」8個で10連ガチャを引け，累計30回以内に★5キャラクターを必ず獲得できる。"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "12月17日4：59までは，遊び好きでお茶目な妖狐の★5キャラクター 「塗山小玉」 と，彼女をモチーフにした★5アニマ 「花ノ舞」 の期間限定ピックアップガチャが開催される。キャラクターは最大90回，アニマは最大80回でピックアップ対象が確定排出される仕組みだ。"
+                },
+                {
+                  "source_id": "s9",
+                  "quote": "2027年1月5日4：59まで，塗山小玉のストーリーイベント 「花逢ひの縁契りて」 も開催中だ。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Azur Promilia Officially Launches: Free-to-Play with In-App Purchases, Launch Events Offer Over 40 Free Draws",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, the fantasy RPG Azur Promilia (アズールプロミリア), jointly published by Yostar and Manjuu Games, officially began service on November 26 for iOS, Android, and PC under a free-to-play model with in-app purchases.",
+                "zh": "据4Gamer报道，Yostar与Manjuu Games共同发行的幻想RPG《Azur Promilia》（アズールプロミリア）于11月26日正式开始服务，登陆iOS、Android和PC，采用基本免费加道具收费的模式。"
+              },
+              {
+                "en": "Set on the Promilia continent, where fantasy creatures called 'Kibo' dwell, the game has players take on the role of the prophesied 'Xinglinzhe,' fighting alongside companions of diverse personalities against enemies threatening the world and gradually unraveling the continent's mysteries.",
+                "zh": "游戏以幻想生物“キボ”栖息的プロミリア大陆为舞台，玩家扮演预言中的“星臨者”，与个性各异的伙伴共同对抗威胁世界的敌人，并逐步解开大陆之谜。"
+              },
+              {
+                "en": "During the launch celebration, a first login grants the ★4 character 'Anis' and 20 gacha items called 'Innocent Traces,' and together with login and quest rewards, players can make more than 40 free draws in total; a ten-pull on the beginner banner 'Observation of the Origin' costs 8 items, with a ★5 guaranteed within 30 pulls.",
+                "zh": "开服纪念活动中，首次登录可领取★4角色“アニス”和20个抽卡道具“無垢な痕跡”，加上登录与任务奖励，累计可免费抽卡40次以上；新手卡池“始源の観測”十连消耗8个道具，30次以内必出★5。"
+              },
+              {
+                "en": "The gacha banners for the limited character 'Tushan Xiaoyu' and her exclusive 'Anima' run until December 17 at 4:59, with the former guaranteed within at most 90 pulls and the latter within 80, while the related story event runs until January 5, 2027, at 4:59.",
+                "zh": "限定角色“塗山小玉”及其专属“アニマ”的卡池持续至12月17日4时59分，分别在最多90抽和80抽内确定，相关剧情活动持续至2027年1月5日4时59分。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Arknights: Endfield|发布新版本|キノコ菌グ！？君との大冒険！",
+          "title": "《Arknights: Endfield》新版本配信，新★6“ケーちゃん”登场",
+          "summary": "GRYPHLINE宣布《Arknights: Endfield》新版本“キノコ菌グ！？君との大冒険！”11月25日配信，新增★6“ケーちゃん”，12月16日起登录免费发放★5“ミミノ”及武器。",
+          "published_at": "2026-11-25T17:55:02+08:00",
+          "follow_up": false,
+          "new_facts": "",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Arknights: Endfield",
+            "アークナイツ：エンドフィールド",
+            "GRYPHLINE",
+            "Hypergryph"
+          ],
+          "limitations": "仅见Inside一篇报道转述官方版本公告，未直接取得GRYPHLINE公告原文；活动时间均为服务器时间，来源未说明各地区版本差异。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据Inside报道，GRYPHLINE宣布由Hypergryph开发、GRYPHLINE发行的3D实时战略RPG《Arknights: Endfield》新版本“キノコ菌グ！？君との大冒険！”于11月25日开始配信，平台为PS5、PC（Steam）、iOS和Android，基本免费加道具收费。",
+              "evidence": [
+                {
+                  "source_id": "s61",
+                  "quote": "GRYPHLINEは、3Dリアルタイム戦略RPG『アークナイツ：エンドフィールド』の新バージョン「キノコ菌グ！？君との大冒険！」を11月25日より配信開始しました。"
+                },
+                {
+                  "source_id": "s61",
+                  "quote": "『アークナイツ：エンドフィールド』は、Hypergryphが開発しGRYPHLINEが販売する3Dリアルタイム戦略RPGです。"
+                },
+                {
+                  "source_id": "s61",
+                  "quote": "『アークナイツ：エンドフィールド』は、PS5/PC（Steam）/iOS/Android向けに基本プレイ無料（アイテム課金あり）で配信中です。"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "版本新增★6干员“ケーちゃん”（CV瀬戸麻沙美，自然属性），其特别寻访持续至12月23日11时59分（服务器时间）；★5干员“ミミノ”（CV菱川花菜，物理属性）与★5武器“ライジングスター”则从12月16日12时起至下次版本升级维护开始前，通过登录免费发放。",
+              "evidence": [
+                {
+                  "source_id": "s61",
+                  "quote": "新★6オペレーター「ケーちゃん」（CV：瀬戸麻沙美、属性：自然）が登場します。バージョン開始後から12月23日11時59分（サーバー時間）まで開催される特別スカウト「『かじ』とバッグとハチミツ！」にて、「ケーちゃん」の提供割合がアップします。"
+                },
+                {
+                  "source_id": "s61",
+                  "quote": "12月16日12時（サーバー時間）から次回バージョンアップメンテナンス開始までの期間中、ログインするだけで新★5オペレーター「ミミノ」（CV：菱川花菜、属性：物理）と新★5武器「ライジングスター」を無料で獲得できます。"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "版本同时追加常设内容“封鎖区域再建”，玩家推进任务并生产物资完成建设任务后可获得“赤晶玉”等奖励；另有含两种多人卡牌游戏的休闲活动“ラッキーキャロット”陆续开放。",
+              "evidence": [
+                {
+                  "source_id": "s61",
+                  "quote": "さらに、新たな常設コンテンツ「封鎖区域再建」が追加されます。"
+                },
+                {
+                  "source_id": "s61",
+                  "quote": "イベント面では、新たなレジャーイベント「『ラッキーキャロット』のわくわくゲーム」が順次登場します。「巫術パラダイス」シリーズのカードゲームとして「巫数バトル」と「文明デュエル」の2種類が収録されており、どちらもマルチプレイに対応しています。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Arknights: Endfield New Version Launches, Introducing New ★6 'Ke-chan'",
+            "sentences": [
+              {
+                "en": "According to Inside, GRYPHLINE announced that the new version 'Kinoko-kin Gu!? Adventure with You!' of the 3D real-time strategy RPG Arknights: Endfield, developed by Hypergryph and published by GRYPHLINE, began distribution on November 25 for PS5, PC (Steam), iOS, and Android, as a free-to-play title with in-app purchases.",
+                "zh": "据Inside报道，GRYPHLINE宣布由Hypergryph开发、GRYPHLINE发行的3D实时战略RPG《Arknights: Endfield》新版本“キノコ菌グ！？君との大冒険！”于11月25日开始配信，平台为PS5、PC（Steam）、iOS和Android，基本免费加道具收费。"
+              },
+              {
+                "en": "The version adds ★6 operator 'Ke-chan' (CV: Asami Seto, Nature attribute), whose special Headhunting runs until 11:59 on December 23 (server time); ★5 operator 'Mimino' (CV: Hana Hishikawa, Physical attribute) and the ★5 weapon 'Rising Star' will be distributed free via login from 12:00 on December 16 until the start of maintenance for the next version update.",
+                "zh": "版本新增★6干员“ケーちゃん”（CV瀬戸麻沙美，自然属性），其特别寻访持续至12月23日11时59分（服务器时间）；★5干员“ミミノ”（CV菱川花菜，物理属性）与★5武器“ライジングスター”则从12月16日12时起至下次版本升级维护开始前，通过登录免费发放。"
+              },
+              {
+                "en": "The version also adds the permanent content 'Blockaded Area Reconstruction,' in which players can obtain rewards such as 'Red Crystal Jade' after advancing missions and producing materials to complete construction tasks; a casual event 'Lucky Carrot' featuring two multiplayer card games will also open gradually.",
+                "zh": "版本同时追加常设内容“封鎖区域再建”，玩家推进任务并生产物资完成建设任务后可获得“赤晶玉”等奖励；另有含两种多人卡牌游戏的休闲活动“ラッキーキャロット”陆续开放。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Grand Theft Auto VI|游戏场景出现台湾国旗彩蛋引发热议|台湾国旗",
+          "title": "《GTA 6》街景国旗墙被玩家发现含中华民国国旗，引发社群讨论",
+          "summary": "多名玩家在《GTA 6》地图中发现一处仓库外墙并排多国国旗，其中含中华民国国旗、未见中华人民共和国国旗，截图在Threads传播并引发讨论。",
+          "published_at": "2026-11-25T19:12:59+08:00",
+          "follow_up": false,
+          "new_facts": "玩家在《GTA 6》地图“艾米里歐車坊加油站”附近的仓库外墙发现并列多国国旗，其中含中华民国国旗、未见中华人民共和国国旗；相关截图11月25日起在Threads传播，联合新闻网与自由时报报道。",
+          "verification": "corroborated",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Grand Theft Auto VI",
+            "GTA 6",
+            "Rockstar Games"
+          ],
+          "limitations": "核心内容来自玩家分享的游戏画面与社群发言，未取得Rockstar Games官方说明；社群反应仅反映部分贴文，不代表玩家共识。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "corroborated",
+              "text": "联合新闻网与自由时报11月25日报道，多名玩家在Threads分享《GTA 6》游戏画面，称一处仓库外墙并排绘有阿根廷、哥伦比亚、法国、委内瑞拉、巴西、加拿大等国国旗，其中包含中华民国国旗，未见中华人民共和国国旗。据自由时报，该处位于游戏地图“艾米里歐車坊加油站”附近、外墙标有“EMILIO'S AUTO CENTER”字样的建筑。",
+              "evidence": [
+                {
+                  "source_id": "s65",
+                  "quote": "多名台灣玩家在Threads分享遊戲畫面"
+                },
+                {
+                  "source_id": "s65",
+                  "quote": "與阿根廷、哥倫比亞、法國、委內瑞拉、巴西、加拿大等國旗並列，牆面上卻未見中華人民共和國的國旗"
+                },
+                {
+                  "source_id": "s62",
+                  "quote": "只見一間車庫的外牆上繪有中華民國國旗，與巴西、加拿大等國的國旗並列。"
+                },
+                {
+                  "source_id": "s65",
+                  "quote": "據悉，該彩蛋位於遊戲地圖中的「艾米里歐車坊加油站」附近，在標有紅色英文字樣「EMILIO'S AUTO CENTER」的建築物外牆上。"
+                }
+              ]
+            },
+            {
+              "kind": "community",
+              "verification": "single_source",
+              "text": "相关贴文引发讨论，有网友以“辱华”调侃，也有人表示要前往该处拍照留念。",
+              "evidence": [
+                {
+                  "source_id": "s62",
+                  "quote": "有網友笑稱，這恐怕會讓GTA 6被貼上「辱華」的標籤"
+                },
+                {
+                  "source_id": "s62",
+                  "quote": "甚至有人因此被勸敗，「衝著這面國旗，本來不打算買的，決定衝一下了」、「我要來這裡拍照紀念」。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "GTA 6 Street Flag Wall Found to Include Republic of China Flag, Sparking Community Discussion",
+            "sentences": [
+              {
+                "en": "On November 25, UDN News and Liberty Times reported that multiple players shared GTA 6 game footage on Threads, saying that the exterior wall of a warehouse had the national flags of Argentina, Colombia, France, Venezuela, Brazil, and Canada painted side by side, including the flag of the Republic of China but no flag of the People's Republic of China.",
+                "zh": "联合新闻网与自由时报11月25日报道，多名玩家在Threads分享《GTA 6》游戏画面，称一处仓库外墙并排绘有阿根廷、哥伦比亚、法国、委内瑞拉、巴西、加拿大等国国旗，其中包含中华民国国旗，未见中华人民共和国国旗。"
+              },
+              {
+                "en": "According to Liberty Times, the location is near \"Emilio's Auto Center Gas Station\" on the game map, at a building with \"EMILIO'S AUTO CENTER\" on its exterior wall.",
+                "zh": "据自由时报，该处位于游戏地图“艾米里歐車坊加油站”附近、外墙标有“EMILIO'S AUTO CENTER”字样的建筑。"
+              },
+              {
+                "en": "Related posts sparked discussion, with some netizens joking about it as \"insulting China,\" while others said they wanted to go to the location to take photos as a memento.",
+                "zh": "相关贴文引发讨论，有网友以“辱华”调侃，也有人表示要前往该处拍照留念。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "幼稚園WARS|宣布电视动画 2027 年 4 月放送|电视动画",
+          "title": "《幼稚園WARS》电视动画定档2027年4月，Ado演唱片头曲",
+          "summary": "电视动画《幼稚園WARS》定档2027年4月在东京电视台系6局网络播出，サンライズFelixFilm制作，Ado演唱片头曲《ビバヤタラメッタ》。",
+          "published_at": "2026-11-25T17:00:00+08:00",
+          "follow_up": false,
+          "new_facts": "电视动画定档2027年4月东京电视台系6局网络，监督五味伸介、系列构成金﨑貴臣、角色设计山中純子，サンライズFelixFilm制作，Ado演唱片头曲《ビバヤタラメッタ》，第1弹PV与主视觉公开。",
+          "verification": "single_source",
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "幼稚園WARS",
+            "Kindergarten Wars",
+            "Ado"
+          ],
+          "limitations": "消息来自Famitsu引用的官方新闻稿，未直接取得动画官网公告；Famitsu的报道未提供社区讨论数据，也未提及具体播出时段与海外配信安排。",
+          "facts": [
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "据Famitsu报道，动画官方新闻稿宣布，漫画《幼稚園WARS》的电视动画将于2027年4月在东京电视台系6局网络播出，第1弹PV、主视觉与主要制作阵容同时公开。原作由千葉侑生在《少年Jump+》连载，单行本发行量突破200万部，类型为暴力与恋爱喜剧。",
+              "evidence": [
+                {
+                  "source_id": "s53",
+                  "quote": "テレビアニメ 『幼稚園WARS』 がテレ東系列6局ネットで2027年4月に放送決定した。あわせて、第1弾PVやメインスタッフ、オープニング主題歌も公開された。"
+                },
+                {
+                  "source_id": "s53",
+                  "quote": "本作は 『少年ジャンプ＋』 で連載中のバイオレンス×ラブコメディ。世界の重鎮の子どもが通うブラック幼稚園を舞台に、最強の元殺し屋や元詐欺師といった犯罪者が、特殊教諭として園児たちを狙う悪者と戦う姿が描かれる。"
+                },
+                {
+                  "source_id": "s53",
+                  "quote": "発行部数200万部を突破し、「少年ジャンプ＋」にて好評連載中の大人気バイオレンス×ラブコメディ"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "动画由サンライズFelixFilm制作，监督为五味伸介，系列构成与脚本为金﨑貴臣，角色设计为山中純子。片头曲为Ado演唱的《ビバヤタラメッタ》，由Vocaloid P和田たけあき创作。",
+              "evidence": [
+                {
+                  "source_id": "s53",
+                  "quote": "監督：五味伸介 シリーズ構成・脚本：金﨑貴臣 キャラクターデザイン：山中純子"
+                },
+                {
+                  "source_id": "s53",
+                  "quote": "アニメーション制作：サンライズFelixFilm"
+                },
+                {
+                  "source_id": "s53",
+                  "quote": "オープニングテーマはAdoが歌う 『ビバヤタラメッタ』 。"
+                },
+                {
+                  "source_id": "s53",
+                  "quote": "新曲「ビバヤタラメッタ」はボカロPの和田たけあきさんに書いていただきました。"
+                }
+              ]
+            },
+            {
+              "kind": "fact",
+              "verification": "single_source",
+              "text": "故事舞台是世界各国要人的孩子就读的“黑色幼儿园”，原杀手等罪犯以“特殊教师”身份保护园童、与袭击者战斗，主角是原杀手リタ。",
+              "evidence": [
+                {
+                  "source_id": "s53",
+                  "quote": "政治家、世界企業の社長、石油王、ハリウッドスター…。 世界の重鎮の子どもが通うブラック幼稚園。 ここでは政府の命令により、減刑と引きかえに犯罪者が“特殊教諭”として子どもを守っていた。 元殺し屋・リタは絶賛彼氏募集中の新人教諭。"
+                }
+              ]
+            },
+            {
+              "kind": "limitation",
+              "verification": "single_source",
+              "text": "Famitsu的报道列出上述制作信息，未提供社区讨论数据。",
+              "evidence": [
+                {
+                  "source_id": "s53",
+                  "quote": "テレビアニメ 『幼稚園WARS』 がテレ東系列6局ネットで2027年4月に放送決定した。あわせて、第1弾PVやメインスタッフ、オープニング主題歌も公開された。"
+                }
+              ]
+            }
+          ],
+          "bilingual": {
+            "title_en": "Kindergarten WARS TV Anime Set for April 2027, Ado to Perform Opening Theme",
+            "sentences": [
+              {
+                "en": "According to Famitsu, the anime's official press release announced that the TV anime of the manga Kindergarten WARS will air in April 2027 on the six-station TV Tokyo network, with the first PV, key visual, and main production staff also unveiled at the same time.",
+                "zh": "据Famitsu报道，动画官方新闻稿宣布，漫画《幼稚園WARS》的电视动画将于2027年4月在东京电视台系6局网络播出，第1弹PV、主视觉与主要制作阵容同时公开。"
+              },
+              {
+                "en": "The original is by Yusei Chiba and has been serialized on Shonen Jump+; its collected volumes have exceeded 2 million copies in circulation, and it is a violent romantic comedy.",
+                "zh": "原作由千葉侑生在《少年Jump+》连载，单行本发行量突破200万部，类型为暴力与恋爱喜剧。"
+              },
+              {
+                "en": "The anime is produced by Sunrise FelixFilm, with Shinsuke Gomi as director, Takaomi Kanasaki handling series composition and scripts, and Junko Yamanaka as character designer.",
+                "zh": "动画由サンライズFelixFilm制作，监督为五味伸介，系列构成与脚本为金﨑貴臣，角色设计为山中純子。"
+              },
+              {
+                "en": "The opening theme is 'Viva Yatarametta,' sung by Ado and created by Vocaloid P Takeaki Wada.",
+                "zh": "片头曲为Ado演唱的《ビバヤタラメッタ》，由Vocaloid P和田たけあき创作。"
+              },
+              {
+                "en": "The story is set in a 'Black Kindergarten' attended by the children of dignitaries from around the world, where former assassins and other criminals serve as 'special teachers' to protect the children and fight attackers, with former assassin Rita as the protagonist.",
+                "zh": "故事舞台是世界各国要人的孩子就读的“黑色幼儿园”，原杀手等罪犯以“特殊教师”身份保护园童、与袭击者战斗，主角是原杀手リタ。"
+              },
+              {
+                "en": "Famitsu's report lists the above production information but does not provide community discussion data.",
+                "zh": "Famitsu的报道列出上述制作信息，未提供社区讨论数据。"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s9",
+      "url": "https://www.4gamer.net/games/784/G078489/20261126013/",
+      "title": "幻想的な生きもの「キボ」と旅するRPG「アズールプロミリア」，正式サービスを開始。リリース記念イベントも多数開催",
+      "published_at": "2026-11-26T12:59:21+09:00"
+    },
+    {
+      "id": "s61",
+      "url": "https://inside-games.jp/article/2026/11/25/191552.html",
+      "title": "『アークナイツ：エンドフィールド』新バージョン「キノコ菌グ！？君との大冒険！」配信開始！新★6「ケーちゃん」登場や新★5「ミミノ」無料配布も",
+      "published_at": "2026-11-25T18:55:02+09:00"
+    },
+    {
+      "id": "s62",
+      "url": "https://tech.udn.com/tech/story/123158/9900932",
+      "title": "《GTA 6》驚見「青天白日滿地紅」！國旗位置曝光 玩家搶朝聖",
+      "published_at": "2026-11-25T13:22:12+08:00"
+    },
+    {
+      "id": "s53",
+      "url": "https://famitsu.com/article/202611/95048",
+      "title": "アニメ『幼稚園WARS』2027年4月に放送決定。AdoがOP主題歌を担当。個性豊かな幼稚園教諭たちの日常を描いたPVも公開",
+      "published_at": "2026-11-25T18:00:00+09:00"
+    },
+    {
+      "id": "s65",
+      "url": "https://news.ltn.com.tw/news/life/breakingnews/5653077",
+      "title": "台灣國旗現蹤《GTA 6》！列多國卻未見五星旗 網笑：又辱華了",
+      "published_at": "2026-11-25T19:12:59+08:00"
+    }
+  ],
+  "coverage_notes": [
+    "二游的部分资料检索未完成，本期覆盖受限。",
+    "热门游戏事件与热梗的部分资料检索未完成，本期覆盖受限。",
+    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。"
+  ]
+}
