@@ -1,0 +1,176 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-28",
+  "title": "2026-11-28 政治",
+  "summary": "巴西联邦最高法院法官迪诺以临时裁定暂停参议员弗拉维奥·博索纳罗的14项2027年预算修正案，涉7930万雷亚尔，并要求参议院说明其境外行踪。",
+  "highlights": [
+    "巴西最高法院法官迪诺临时暂停弗拉维奥·博索纳罗14项2027年预算修正案，涉7930万雷亚尔。"
+  ],
+  "window_start": "2026-11-27T12:00:00+08:00",
+  "window_end": "2026-11-28T12:00:00+08:00",
+  "generated_at": "2026-11-28T14:16:10.413013+08:00",
+  "sections": [
+    {
+      "id": "politics-china",
+      "name": "中国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-us",
+      "name": "美国",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-europe",
+      "name": "欧洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-russia-ukraine",
+      "name": "俄乌战争",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-middle-east",
+      "name": "中东地区",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-south-america",
+      "name": "南美",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "巴西联邦最高法院|暂停|Flávio Bolsonaro议会修正案",
+          "title": "巴西最高法院法官暂停弗拉维奥·博索纳罗的2027年预算修正案",
+          "summary": "巴西通讯社报道，最高法院法官迪诺临时暂停参议员弗拉维奥·博索纳罗提交的14项2027年预算修正案，总额7930万雷亚尔；裁定要求参议院说明其境外行踪，最终决定待后续程序。",
+          "published_at": "2026-11-28T07:41:00+08:00",
+          "follow_up": false,
+          "new_facts": "迪诺以临时裁定暂停弗拉维奥·博索纳罗的14项2027年预算修正案，涉7930万雷亚尔，并要求参议院说明其旅行授权或官方外访情况。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "巴西通讯社27日报道，巴西联邦最高法院法官迪诺（Flávio Dino）以临时裁定暂停参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）提交给2027年预算案的14项议会修正案，总额7930万雷亚尔。迪诺称，此举旨在保护预算程序正当性，避免难以挽回的损害。",
+              "evidence": [
+                {
+                  "source_id": "s52",
+                  "quote": "O ministro do Supremo Tribunal Federal (STF) Flávio Dino suspendeu a execução de emendas parlamentares apresentadas pelo senador Flávio Bolsonaro (PL-RJ) ao Projeto de Lei Orçamentária Anual (Ploa) de 2027. São 14 emendas, totalizando R$ 79,3 milhões."
+                },
+                {
+                  "source_id": "s52",
+                  "quote": "A fim de resguardar a higidez do devido processo orçamentário e evitar a consumação de dano de difícil ou impossível reparação, determino, por cautela, a imediata suspensão da tramitação das emendas parlamentares individuais de autoria do Exmo. Senador Flávio Bolsonaro."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "裁定回应众议员桑塔纳·布拉加（Santana Braga）的请求。迪诺要求参议院说明是否批准博索纳罗旅行，或他是否在官方外访，并让参议员本人陈述意见。报道称，这项裁定是临时性的，最终决定将在双方表态后作出，还可能提交最高法院全体会议。",
+              "evidence": [
+                {
+                  "source_id": "s52",
+                  "quote": "O ministro atendeu ao pedido do deputado Santana Braga (PT-SP)"
+                },
+                {
+                  "source_id": "s52",
+                  "quote": "Dino abriu espaço para manifestação do senador e pediu que o Senado explique se houve autorização de viagem para Bolsonaro ou se ele se encontra em missão oficial no exterior. A decisão do ministro é em caráter liminar. Uma decisão final será tomada após o posicionamento de Flávio e do Senado. A questão pode ainda ser submetida ao Plenário do Supremo."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "巴西通讯社称，博索纳罗目前与家人在美国，远程参加参议院全会投票。此前，另一名最高法院法官莫赖斯在一起洗钱调查中要求其交出护照；博索纳罗与律师否认有不当行为。",
+              "evidence": [
+                {
+                  "source_id": "s52",
+                  "quote": "Atualmente, o senador mora nos Estados Unidos com a família, e vota remotamente nas sessões plenárias do Senado Federal."
+                },
+                {
+                  "source_id": "s52",
+                  "quote": "Moraes havia determinado a entrega dos passaportes de Flávio no âmbito de um inquérito em que o senador é investigado por lavagem de dinheiro, juntamente com o advogado Willer Tomaz, seu amigo. Ambos negam qualquer irregularidade."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "巴西联邦最高法院",
+            "Flávio Bolsonaro",
+            "巴西"
+          ],
+          "limitations": "仅依据巴西通讯社报道，未直接取得法院裁定原文；裁定为临时性，参议员和参议院尚未在报道中表态，最终结果待后续程序。报道所述洗钱调查及护照措施为背景，参议员方面否认不当行为。",
+          "bilingual": {
+            "title_en": "Brazil Supreme Court justice suspends Flávio Bolsonaro's 2027 budget amendments",
+            "sentences": [
+              {
+                "en": "Brazil's Agência Brasil reported on the 27th that Brazil Supreme Court justice Flávio Dino issued a provisional ruling suspending 14 parliamentary amendments submitted by Senator Flávio Bolsonaro to the 2027 budget bill, totaling 79.3 million reais.",
+                "zh": "巴西通讯社27日报道，巴西联邦最高法院法官迪诺（Flávio Dino）以临时裁定暂停参议员弗拉维奥·博索纳罗（Flávio Bolsonaro）提交给2027年预算案的14项议会修正案，总额7930万雷亚尔。"
+              },
+              {
+                "en": "Dino said the move was intended to protect the integrity of the budget process and prevent irreparable harm.",
+                "zh": "迪诺称，此举旨在保护预算程序正当性，避免难以挽回的损害。"
+              },
+              {
+                "en": "The ruling responded to a request from Congressman Santana Braga.",
+                "zh": "裁定回应众议员桑塔纳·布拉加（Santana Braga）的请求。"
+              },
+              {
+                "en": "Dino asked the Senate to clarify whether Bolsonaro's travel was approved, or whether he was on an official trip abroad, and asked the senator himself to submit his comments.",
+                "zh": "迪诺要求参议院说明是否批准博索纳罗旅行，或他是否在官方外访，并让参议员本人陈述意见。"
+              },
+              {
+                "en": "The report said the ruling is provisional, with a final decision to be made after both sides present their positions, and it may also be referred to the full Supreme Court.",
+                "zh": "报道称，这项裁定是临时性的，最终决定将在双方表态后作出，还可能提交最高法院全体会议。"
+              },
+              {
+                "en": "Agência Brasil said Bolsonaro is currently in the United States with his family and is participating remotely in the Senate floor vote.",
+                "zh": "巴西通讯社称，博索纳罗目前与家人在美国，远程参加参议院全会投票。"
+              },
+              {
+                "en": "Previously, another Supreme Court justice, Moraes, ordered him to surrender his passport in a money-laundering investigation; Bolsonaro and his lawyer deny any wrongdoing.",
+                "zh": "此前，另一名最高法院法官莫赖斯在一起洗钱调查中要求其交出护照；博索纳罗与律师否认有不当行为。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "politics-africa",
+      "name": "非洲",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "politics-other",
+      "name": "其他",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s52",
+      "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-11/stf-dino-suspende-emendas-parlamentares-de-flavio-bolsonaro",
+      "title": "STF: Dino suspende emendas parlamentares de Flávio Bolsonaro Decisão é em caráter liminar; senador mora nos EUA após fuga do Brasil",
+      "published_at": "2026-11-27T20:41:00-03:00"
+    }
+  ],
+  "edition": "politics",
+  "coverage_notes": [
+    "美国的部分资料检索未完成，本期覆盖受限。",
+    "欧洲的部分资料检索未完成，本期覆盖受限。",
+    "俄乌战争的部分资料检索未完成，本期覆盖受限。",
+    "中东地区的部分资料检索未完成，本期覆盖受限。",
+    "南美的部分资料检索未完成，本期覆盖受限。"
+  ]
+}

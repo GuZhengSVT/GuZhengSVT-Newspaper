@@ -1,0 +1,379 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-28",
+  "title": "2026-11-28 科技",
+  "summary": "本期收录4条新闻。",
+  "highlights": [
+    "OpenAI反诉Apple，指控窃取商业秘密",
+    "我国成功发射遥感五十号04星",
+    "EE Times：华为将在ISSCC 2027披露定制HBM设计",
+    "影石Ace Pro 3定档12月1日发布，规格仍来自爆料"
+  ],
+  "window_start": "2026-11-27T12:00:00+08:00",
+  "window_end": "2026-11-28T12:00:00+08:00",
+  "generated_at": "2026-11-28T14:29:01.567033+08:00",
+  "edition": "technology",
+  "sections": [
+    {
+      "id": "ai",
+      "name": "人工智能",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "OpenAI|反诉|Apple",
+          "title": "OpenAI反诉Apple，指控窃取商业秘密",
+          "summary": "据Engadget报道，OpenAI于11月27日反诉Apple，指控其窃取商业秘密并胁迫同时与两家公司合作的供应商；报道称信息来自《金融时报》，Apple尚未回应。",
+          "published_at": "2026-11-28T03:44:38+08:00",
+          "follow_up": false,
+          "new_facts": "OpenAI对Apple提起反诉，指控Apple窃取商业秘密并胁迫供应商；Apple尚未回应。",
+          "verification": "single_source",
+          "reliability": "B",
+          "importance": "重要",
+          "entities": [
+            "OpenAI",
+            "Apple"
+          ],
+          "limitations": "信息来自Engadget对《金融时报》报道的转述，未取得诉状原文；法院、案号和具体法律请求未能确认；Apple未回应。",
+          "facts": [
+            {
+              "text": "据Engadget 11月27日报道，OpenAI已对Apple提起反诉，指控Apple窃取商业秘密，并称Apple“胁迫和威胁”同时与两家公司合作的供应商。该报道称相关信息来自《金融时报》。",
+              "evidence": [
+                {
+                  "source_id": "s57",
+                  "quote": "OpenAI has filed a major lawsuit against Apple that accuses the iPhone maker of stealing trade secrets, according to a report by Financial Times ."
+                },
+                {
+                  "source_id": "s57",
+                  "quote": "The folks behind ChatGPT have also accused Apple of \"coercing and threatening\" suppliers who work with both companies."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道称，这起诉讼是对Apple此前起诉OpenAI的回应。Apple在OpenAI收购由前Apple设计主管Jony Ive领导的io后提起诉讼，指控OpenAI窃取秘密信息。",
+              "evidence": [
+                {
+                  "source_id": "s57",
+                  "quote": "This follows a suit issued by Apple against OpenAI that accused the AI company of stealing secret trade information . This was filed after OpenAI acquired an entity called io , which is a studio led by Apple's former design chief Jony Ive."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道还称，OpenAI指控一名前员工返回Apple后分享了产品计划和供应商信息。Engadget称Apple尚未对此置评。",
+              "evidence": [
+                {
+                  "source_id": "s57",
+                  "quote": "To that end, the company has accused a former employee of returning to Apple and sharing details about product plans and suppliers ."
+                },
+                {
+                  "source_id": "s57",
+                  "quote": "Apple has yet to comment on today's lawsuit"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "OpenAI Countersues Apple, Alleging Trade Secret Theft",
+            "sentences": [
+              {
+                "en": "According to an Engadget report on November 27, OpenAI has filed a counterclaim against Apple, alleging that Apple stole trade secrets and saying that Apple “coerced and threatened” suppliers that work with both companies.",
+                "zh": "据Engadget 11月27日报道，OpenAI已对Apple提起反诉，指控Apple窃取商业秘密，并称Apple“胁迫和威胁”同时与两家公司合作的供应商。"
+              },
+              {
+                "en": "The report said the information came from the Financial Times.",
+                "zh": "该报道称相关信息来自《金融时报》。"
+              },
+              {
+                "en": "The report said the lawsuit was a response to Apple’s earlier lawsuit against OpenAI.",
+                "zh": "报道称，这起诉讼是对Apple此前起诉OpenAI的回应。"
+              },
+              {
+                "en": "Apple filed the lawsuit after OpenAI acquired io, which was led by former Apple design chief Jony Ive, alleging that OpenAI stole confidential information.",
+                "zh": "Apple在OpenAI收购由前Apple设计主管Jony Ive领导的io后提起诉讼，指控OpenAI窃取秘密信息。"
+              },
+              {
+                "en": "The report also said that OpenAI alleged that a former employee shared product plans and supplier information after returning to Apple.",
+                "zh": "报道还称，OpenAI指控一名前员工返回Apple后分享了产品计划和供应商信息。"
+              },
+              {
+                "en": "Engadget said Apple had not yet commented.",
+                "zh": "Engadget称Apple尚未对此置评。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "space",
+      "name": "航天宇航",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "中国航天|发射|遥感五十号04星",
+          "title": "我国成功发射遥感五十号04星",
+          "summary": "11月27日21时05分，我国在太原卫星发射中心用长征六号改运载火箭成功发射遥感五十号04星，卫星进入预定轨道；该星用于国土普查、农作物估产和防灾减灾。",
+          "published_at": "2026-11-28T08:21:59+08:00",
+          "follow_up": false,
+          "new_facts": "遥感五十号04星发射成功并进入预定轨道，任务为长征系列第682次飞行。",
+          "verification": "single_source",
+          "reliability": "B",
+          "importance": "重要",
+          "entities": [
+            "长征六号改运载火箭",
+            "遥感五十号04星",
+            "太原卫星发射中心"
+          ],
+          "limitations": "发射事实、卫星用途和长征系列飞行次数均依据央广网转引的央视新闻客户端报道；未取得中国国家航天局或发射场的一手通报，新华社图片报道与央视稿件同属发射通稿。",
+          "facts": [
+            {
+              "text": "央视新闻客户端报道，北京时间11月27日21时05分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号04星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。",
+              "evidence": [
+                {
+                  "source_id": "s72",
+                  "quote": "北京时间2026年11月27日21时05分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号04星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
+                },
+                {
+                  "source_id": "s73",
+                  "quote": "11月27日21时05分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号04星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "该报道称，该卫星主要用于国土普查、农作物估产和防灾减灾等领域。",
+              "evidence": [
+                {
+                  "source_id": "s72",
+                  "quote": "该卫星主要用于国土普查、农作物估产和防灾减灾等领域。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "此次任务是长征系列运载火箭的第682次飞行。",
+              "evidence": [
+                {
+                  "source_id": "s72",
+                  "quote": "此次任务是长征系列运载火箭的第682次飞行。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "China Successfully Launches Yaogan-50 04 Satellite",
+            "sentences": [
+              {
+                "en": "CCTV News app reported that at 21:05 Beijing time on November 27, China successfully launched the Yaogan-50 04 satellite into space using a Long March 6A carrier rocket at the Taiyuan Satellite Launch Center; the satellite smoothly entered its planned orbit, and the launch mission achieved complete success.",
+                "zh": "央视新闻客户端报道，北京时间11月27日21时05分，我国在太原卫星发射中心使用长征六号改运载火箭，成功将遥感五十号04星发射升空，卫星顺利进入预定轨道，发射任务取得圆满成功。"
+              },
+              {
+                "en": "The report said the satellite is mainly used for land surveys, crop yield estimation, and disaster prevention and mitigation, among other fields.",
+                "zh": "该报道称，该卫星主要用于国土普查、农作物估产和防灾减灾等领域。"
+              },
+              {
+                "en": "This mission was the 682nd flight of the Long March series of carrier rockets.",
+                "zh": "此次任务是长征系列运载火箭的第682次飞行。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "hardware",
+      "name": "硬件",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "华为|披露定制HBM设计|ISSCC 2027",
+          "title": "EE Times：华为将在ISSCC 2027披露定制HBM设计",
+          "summary": "据EE Times报道，华为将在明年年初于旧金山举行的ISSCC 2027上介绍定制HBM设计；报道还称华为向昇腾960DT潜在客户提出自行采购HBM。",
+          "published_at": "2026-11-27T16:56:46+08:00",
+          "follow_up": false,
+          "new_facts": "EE Times报道华为将在ISSCC 2027披露定制HBM设计，并称华为要求昇腾960DT客户自行采购HBM。",
+          "verification": "single_source",
+          "reliability": "B",
+          "importance": "重要",
+          "entities": [
+            "华为",
+            "HBM"
+          ],
+          "limitations": "信息来自EE Times单一报道，未获得华为官方确认或ISSCC议程原文；报道未说明该定制HBM设计处于设计、样片还是量产阶段。",
+          "facts": [
+            {
+              "text": "据EE Times 11月27日报道，华为将在明年年初于旧金山举行的ISSCC 2027上介绍其定制高带宽存储器（HBM）设计。报道称，华为本月早些时候向潜在客户展示昇腾960DT AI加速器时，要求客户自行采购HBM。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "The Shenzhen-based tech firm will provide details about its custom HBM design at ISSCC 2027 in San Francisco early next year."
+                },
+                {
+                  "source_id": "s23",
+                  "quote": "Huawei, while presenting its Ascend 960DT AI accelerator to prospective customers early this month, asked them to source their own high-bandwidth memory (HBM), which has become essential infrastructure for training and running large-scale AI models."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "报道还称，HBM供应目前由三星电子和SK海力士主导。",
+              "evidence": [
+                {
+                  "source_id": "s23",
+                  "quote": "Its supply is currently dominated by Samsung Electronics and SK Hynix."
+                }
+              ],
+              "kind": "background",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "EE Times: Huawei to Disclose Custom HBM Design at ISSCC 2027",
+            "sentences": [
+              {
+                "en": "According to a November 27 report by EE Times, Huawei will present its custom high-bandwidth memory (HBM) design at ISSCC 2027 in San Francisco early next year.",
+                "zh": "据EE Times 11月27日报道，华为将在明年年初于旧金山举行的ISSCC 2027上介绍其定制高带宽存储器（HBM）设计。"
+              },
+              {
+                "en": "The report said that when Huawei showed its Ascend 960DT AI accelerator to potential customers earlier this month, it asked customers to source HBM themselves.",
+                "zh": "报道称，华为本月早些时候向潜在客户展示昇腾960DT AI加速器时，要求客户自行采购HBM。"
+              },
+              {
+                "en": "The report also said that HBM supply is currently dominated by Samsung Electronics and SK Hynix.",
+                "zh": "报道还称，HBM供应目前由三星电子和SK海力士主导。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "digital",
+      "name": "数码",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "影石Insta360|发布|Ace Pro 3",
+          "title": "影石Ace Pro 3定档12月1日发布，规格仍来自爆料",
+          "summary": "据IT之家报道，影石Insta360 Ace Pro 3已定档12月1日20时在中国发布，官方预热涉及对焦、可变光圈和镜头组件更换；1/1.1英寸传感器、2250mAh电池等规格来自爆料。",
+          "published_at": "2026-11-28T11:14:50+08:00",
+          "follow_up": false,
+          "new_facts": "影石Ace Pro 3定档12月1日20时发布，官方预热对焦控制和可变光圈；爆料称其采用1/1.1英寸方形传感器和双OLED屏。",
+          "verification": "single_source",
+          "reliability": "B",
+          "importance": "重要",
+          "entities": [
+            "影石Insta360",
+            "Ace Pro 3"
+          ],
+          "limitations": "IT之家报道中的具体规格来自爆料者Igor Bogdanov分享的宣传资料，尚未获影石官方确认；12月1日为计划发布日期，发布尚未举行。",
+          "facts": [
+            {
+              "text": "据IT之家11月28日报道，影石Insta360新一代旗舰运动相机Ace Pro 3已定档12月1日20时在中国发布，官方预热主题为“定局已破”。官方预热视频展示了对焦控制、背景虚化、可变光圈以及镜头或光学组件更换等功能。",
+              "evidence": [
+                {
+                  "source_id": "s41",
+                  "quote": "影石 Insta360 的新一代旗舰运动相机 Ace Pro 3 已定档 12 月 1 日晚 8 点在中国发布，官方预热主题为“定局已破”。"
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "在发布会前，官方预热视频重点展示了对焦控制、背景虚化、可变光圈以及镜头或光学组件更换等功能，暗示该系列产品可能在影像系统方面迎来较大调整。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "爆料者Igor Bogdanov分享的宣传资料显示，Ace Pro 3可能配备徕卡Summicron主摄、1/1.1英寸方形传感器、F1.77至F4.0可变光圈、2.5英寸OLED翻转屏和2250mAh电池等。上述规格来自爆料，尚未获官方确认；12月1日只是计划发布日期。",
+              "evidence": [
+                {
+                  "source_id": "s41",
+                  "quote": "爆料者 Igor Bogdanov 分享的宣传资料显示，影石 Ace Pro 3 可能配备徕卡 Summicron 主摄（等效焦距 22mm）+ 超广角镜头（等效焦距 14mm）。新机还可能采用 1/1.1 英寸方形传感器，尺寸较 Ace Pro 2 的 1/1.3 英寸传感器有所增加。"
+                },
+                {
+                  "source_id": "s41",
+                  "quote": "泄露资料还提及 F1.77 至 F4.0 可变光圈、最高 8K 30fps 视频录制、5000 万像素照片、2.5 英寸 OLED 翻转屏、2250mAh 电池、50GB 机身存储以及 20 米裸机防水等配置。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "bilingual": {
+            "title_en": "Insta360 Ace Pro 3 Set for December 1 Launch, Specs Still Based on Leaks",
+            "sentences": [
+              {
+                "en": "According to an IT Home report on November 28, Insta360's new flagship action camera, the Ace Pro 3, is set to launch in China on December 1 at 20:00, with the official teaser theme “The Settled Outcome Has Been Broken.”",
+                "zh": "据IT之家11月28日报道，影石Insta360新一代旗舰运动相机Ace Pro 3已定档12月1日20时在中国发布，官方预热主题为“定局已破”。"
+              },
+              {
+                "en": "The official teaser video shows features such as focus control, background blur, variable aperture, and lens or optical component replacement.",
+                "zh": "官方预热视频展示了对焦控制、背景虚化、可变光圈以及镜头或光学组件更换等功能。"
+              },
+              {
+                "en": "Promotional materials shared by leaker Igor Bogdanov indicate that the Ace Pro 3 may feature a Leica Summicron main camera, a 1/1.1-inch square sensor, an F1.77–F4.0 variable aperture, a 2.5-inch OLED flip screen, and a 2250mAh battery, among other specifications.",
+                "zh": "爆料者Igor Bogdanov分享的宣传资料显示，Ace Pro 3可能配备徕卡Summicron主摄、1/1.1英寸方形传感器、F1.77至F4.0可变光圈、2.5英寸OLED翻转屏和2250mAh电池等。"
+              },
+              {
+                "en": "The above specifications come from leaks and have not been officially confirmed; December 1 is only the planned launch date.",
+                "zh": "上述规格来自爆料，尚未获官方确认；12月1日只是计划发布日期。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "communications",
+      "name": "信息与通信",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s57",
+      "url": "https://www.engadget.com/2329747/openai-countersues-apple-and-accuses-it-of-stealing-trade-secrets/",
+      "title": "OpenAI countersues Apple and accuses it of stealing trade secrets",
+      "published_at": "2026-11-27T19:44:38+00:00"
+    },
+    {
+      "id": "s72",
+      "url": "https://news.cnr.cn/native/gd/20261127/t20261127_527885632.shtml",
+      "title": "我国成功发射遥感五十号04星_央广网",
+      "published_at": null
+    },
+    {
+      "id": "s23",
+      "url": "https://www.eetimes.com/huawei-next-big-ai-move-hbm-workaround/",
+      "title": "Huawei’s Next Big AI Move: HBM Workaround",
+      "published_at": "2026-11-27T08:56:46+00:00"
+    },
+    {
+      "id": "s41",
+      "url": "https://www.ithome.com/1/033/821.htm",
+      "title": "影石 Ace Pro 3 被曝采用 1/1.1 英寸方形传感器、双 OLED 屏、2250mAh 电池，12 月 1 日发布",
+      "published_at": "2026-11-28T11:14:50+08:00"
+    },
+    {
+      "id": "s73",
+      "url": "https://politics.gmw.cn/2026-11/28/content_39126680.htm",
+      "title": "我国成功发射遥感五十号04星",
+      "published_at": "2026-11-28T08:21:59+08:00"
+    }
+  ],
+  "coverage_notes": [
+    "人工智能的部分资料检索未完成，本期覆盖受限。",
+    "航天宇航的部分资料检索未完成，本期覆盖受限。"
+  ]
+}

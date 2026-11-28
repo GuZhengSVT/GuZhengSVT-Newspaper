@@ -1,0 +1,446 @@
+{
+  "schema_version": 2,
+  "date": "2026-11-28",
+  "title": "2026-11-28 ACGN",
+  "summary": "本期收录4条通过核验的新闻。",
+  "highlights": [
+    "《Hollow Knight: Silksong》免费扩展“Sea of Sorrow”定档12月11日",
+    "Team Cherry设立发行品牌Presents，公布两款PC新作",
+    "《The Streamer’s Alt Account Labyrinth》定档2027年1月29日登陆PC",
+    "《Windrose》大型更新Ashlands今冬上线，公开陆战与海战新要素"
+  ],
+  "window_start": "2026-11-27T12:00:00+08:00",
+  "window_end": "2026-11-28T12:00:00+08:00",
+  "generated_at": "2026-11-28T14:23:07.305900+08:00",
+  "sections": [
+    {
+      "id": "gacha",
+      "name": "二游",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "games",
+      "name": "其他热门新作",
+      "empty_reason": "",
+      "articles": [
+        {
+          "event_key": "Team Cherry|发布|《Hollow Knight: Silksong》免费扩展包 Sea of Sorrow",
+          "title": "《Hollow Knight: Silksong》免费扩展“Sea of Sorrow”定档12月11日",
+          "summary": "Team Cherry宣布《Hollow Knight: Silksong》免费扩展“Sea of Sorrow”于12月11日上线，扩展包含Pharloom海域探索、新Boss和Christopher Larkin音乐；游戏已登陆多平台。",
+          "published_at": "2026-11-27T23:11:41+08:00",
+          "follow_up": false,
+          "new_facts": "Team Cherry宣布Silksong免费扩展Sea of Sorrow于12月11日上线，并披露扩展区域与内容。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据游戏媒体Gematsu报道，Team Cherry宣布《Hollow Knight: Silksong》的免费扩展包“Sea of Sorrow”将于12月11日上线。",
+              "evidence": [
+                {
+                  "source_id": "s1",
+                  "quote": "Hollow Knight: Silksong free expansion “Sea of Sorrow” will launch on December 11, developer Team Cherry announced"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "按Team Cherry在报道中的说法，玩家将在Pharloom被遗忘的海洋上方和下方航行，穿越岛屿、堡垒和水下洞穴；扩展包含疯狂角色、冒险和史诗Boss，以及Christopher Larkin创作的音乐。",
+              "evidence": [
+                {
+                  "source_id": "s1",
+                  "quote": "“In ‘Sea of Sorrow,’ players will voyage above and beneath Pharloom’s forgotten ocean, across islands, through forts and into deep caverns beneath the waves,” Team Cherry said."
+                },
+                {
+                  "source_id": "s1",
+                  "quote": "crazed characters, high adventure, and epic bosses"
+                },
+                {
+                  "source_id": "s1",
+                  "quote": "music by the eternally talented Christopher Larkin"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《Hollow Knight: Silksong》目前已登陆PlayStation 5、Xbox Series、Switch 2、PlayStation 4、Xbox One、Switch和PC，PC版通过Steam、GOG、Humble Store与Microsoft Store发售。",
+              "evidence": [
+                {
+                  "source_id": "s1",
+                  "quote": "Hollow Knight: Silksong is available now for PlayStation 5 , Xbox Series , Switch 2 , PlayStation 4 , Xbox One , Switch , and PC via Steam , GOG , Humble Store , and Microsoft Store ."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重大",
+          "reliability": "B",
+          "entities": [
+            "Team Cherry",
+            "Hollow Knight: Silksong",
+            "Sea of Sorrow"
+          ],
+          "limitations": "发布日期为Team Cherry公布的计划，未说明扩展包在各平台的具体上线时区；未取得官方公告原文，依据Gematsu转述。",
+          "bilingual": {
+            "title_en": "Hollow Knight: Silksong Free Expansion 'Sea of Sorrow' Set for December 11",
+            "sentences": [
+              {
+                "en": "According to game media outlet Gematsu, Team Cherry announced that the free expansion pack \"Sea of Sorrow\" for Hollow Knight: Silksong will launch on December 11.",
+                "zh": "据游戏媒体Gematsu报道，Team Cherry宣布《Hollow Knight: Silksong》的免费扩展包“Sea of Sorrow”将于12月11日上线。"
+              },
+              {
+                "en": "As stated by Team Cherry in the report, players will sail above and below the forgotten sea of Pharloom, traversing islands, fortresses, and underwater caves; the expansion includes mad characters, adventures, and epic bosses, as well as music created by Christopher Larkin.",
+                "zh": "按Team Cherry在报道中的说法，玩家将在Pharloom被遗忘的海洋上方和下方航行，穿越岛屿、堡垒和水下洞穴；扩展包含疯狂角色、冒险和史诗Boss，以及Christopher Larkin创作的音乐。"
+              },
+              {
+                "en": "Hollow Knight: Silksong is currently available on PlayStation 5, Xbox Series, Switch 2, PlayStation 4, Xbox One, Switch, and PC, with the PC version sold through Steam, GOG, Humble Store, and Microsoft Store.",
+                "zh": "《Hollow Knight: Silksong》目前已登陆PlayStation 5、Xbox Series、Switch 2、PlayStation 4、Xbox One、Switch和PC，PC版通过Steam、GOG、Humble Store与Microsoft Store发售。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Team Cherry|成立|发行品牌 Team Cherry Presents 并公布首批新作",
+          "title": "Team Cherry设立发行品牌Presents，公布两款PC新作",
+          "summary": "Team Cherry新设发行品牌Team Cherry Presents，公布Makoto Koji的《The Botanist and the Translator》和Studio Stobie的《Radio Rain》，两款PC游戏均未定发售日。",
+          "published_at": "2026-11-27T23:10:07+08:00",
+          "follow_up": false,
+          "new_facts": "Team Cherry设立发行品牌Team Cherry Presents，公布The Botanist and the Translator与Radio Rain两款PC新作，均未定发售日。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据Gematsu报道，Team Cherry设立新发行品牌Team Cherry Presents，并公布两款PC新作：Makoto Koji开发的植物解谜冒险游戏《The Botanist and the Translator》，以及Studio Stobie开发的平台冒险游戏《Radio Rain》。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "Team Cherry Presents , a new publishing label under Hollow Knight developer Team Cherry , and developer Makoto Koji have announced The Botanist and the Translator"
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "Team Cherry Presents , a new publishing label under Hollow Knight developer Team Cherry , and developer Studio Stobie have announced Radio Rain"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "两款游戏都将通过Steam登陆PC，发售日期均未公布。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "It will be available for PC via Steam . A release date was not announced."
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "It will be available for PC via Steam . A release date was not announced."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《The Botanist and the Translator》让植物学家Hatti与翻译Oliver调查一颗被黏稠花粉覆盖的星球，用植物学技能解决问题，并配有Yunomi的管弦乐。",
+              "evidence": [
+                {
+                  "source_id": "s2",
+                  "quote": "The talented botanist Hatti and her trusty translator Oliver are summoned to investigate a planet blanketed in thick, sticky pollen."
+                },
+                {
+                  "source_id": "s2",
+                  "quote": "Use your botany skills to solve their problems and they might just help you on your adventure!"
+                },
+                {
+                  "source_id": "s2",
+                  "quote": "Experience a stellar orchestral score by acclaimed composer Yunomi, full of catchy spacebop melodies and ethereal vibes!"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "《Radio Rain》讲述女孩Cass被传送到风暴笼罩的陌生世界，释放火焰精灵Ember后与其一同寻找回家之路，并配有lofi电台音乐。",
+              "evidence": [
+                {
+                  "source_id": "s3",
+                  "quote": "A young girl, Cass, finds herself transported to an unfamiliar world in the shadow of a storm-covered mountain."
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "After Cass frees the flame spirit Ember, they set off together to find a way home and uncover the truth behind the perpetual storm."
+                },
+                {
+                  "source_id": "s3",
+                  "quote": "Tune in to a mysterious radio broadcast and experience a moody, handcrafted lofi soundtrack."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Team Cherry",
+            "Team Cherry Presents",
+            "The Botanist and the Translator",
+            "Radio Rain"
+          ],
+          "limitations": "两款新作均未公布发售日；品牌与作品信息来自Gematsu对Steam页面的转述，未取得Team Cherry官方公告原文。两篇报道同属Gematsu，不构成独立互证。",
+          "bilingual": {
+            "title_en": "Team Cherry launches publishing brand Presents, announces two new PC games",
+            "sentences": [
+              {
+                "en": "According to Gematsu, Team Cherry has established a new publishing label, Team Cherry Presents, and announced two new PC games: the plant puzzle adventure game The Botanist and the Translator, developed by Makoto Koji, and the platform adventure game Radio Rain, developed by Studio Stobie.",
+                "zh": "据Gematsu报道，Team Cherry设立新发行品牌Team Cherry Presents，并公布两款PC新作：Makoto Koji开发的植物解谜冒险游戏《The Botanist and the Translator》，以及Studio Stobie开发的平台冒险游戏《Radio Rain》。"
+              },
+              {
+                "en": "Both games will launch on PC via Steam; release dates for both have not been announced.",
+                "zh": "两款游戏都将通过Steam登陆PC，发售日期均未公布。"
+              },
+              {
+                "en": "The Botanist and the Translator follows botanist Hatti and translator Oliver as they investigate a planet covered in sticky pollen, using botanical skills to solve problems, and features orchestral music by Yunomi.",
+                "zh": "《The Botanist and the Translator》让植物学家Hatti与翻译Oliver调查一颗被黏稠花粉覆盖的星球，用植物学技能解决问题，并配有Yunomi的管弦乐。"
+              },
+              {
+                "en": "Radio Rain follows a girl named Cass, who is transported to a strange, storm-shrouded world and, after releasing the fire spirit Ember, searches with Ember for a way home, and features lofi radio music.",
+                "zh": "《Radio Rain》讲述女孩Cass被传送到风暴笼罩的陌生世界，释放火焰精灵Ember后与其一同寻找回家之路，并配有lofi电台音乐。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Acacia/G-MODE|公布|《配信少女ノ裏垢迷宮》发售日",
+          "title": "《The Streamer’s Alt Account Labyrinth》定档2027年1月29日登陆PC",
+          "summary": "G-MODE与Acacia宣布《The Streamer’s Alt Account Labyrinth》2027年1月29日登陆PC Steam，Switch版稍后；支持英日繁简中，玩法结合地牢探索与视觉小说。",
+          "published_at": "2026-11-27T20:15:42+08:00",
+          "follow_up": false,
+          "new_facts": "G-MODE/Acacia宣布The Streamer’s Alt Account Labyrinth于2027年1月29日登陆PC Steam，Switch版稍后。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据Gematsu报道，发行商G-MODE与开发商Acacia宣布，地牢RPG与视觉小说结合的《The Streamer’s Alt Account Labyrinth》将于2027年1月29日通过Steam登陆PC，Switch版稍后推出。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "The Streamer’s Alt Account Labyrinth will launch for PC via Steam on January 29, 2027, followed by Switch at a later date, publisher G-MODE Corporation and developer Acacia announced"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "游戏支持英语、日语、繁体中文和简体中文。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "It will support English, Japanese, Traditional Chinese, and Simplified Chinese language options."
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "故事围绕全女子乐队Rag Drops被指控犯罪后，成员进入社交媒体阴暗面具象化的异世界UraU；玩法分为地牢探索与充满秘密的冒险段落，玩家要在迷宫中追查“里账号”的主人。",
+              "evidence": [
+                {
+                  "source_id": "s5",
+                  "quote": "The all-girl band Rag Drops is breaking out on social media with the vocalist of the century, Neon, taking the lead."
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "Rag Drops is accused of heinous crimes."
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "Welcome to the otherworld UraU, girls, where the dark side of social media materializes!"
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "Side 2: Twisty Adventure Sections Chock Full of Secrets"
+                },
+                {
+                  "source_id": "s5",
+                  "quote": "Slaughter malicious monsters infesting the alt and hunt down the Secret Alt’s Owner waiting in the dungeon depths"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "G-MODE",
+            "Re,AER / Acacia",
+            "配信少女ノ裏垢迷宮",
+            "The Streamer’s Alt Account Labyrinth"
+          ],
+          "limitations": "发售日为公布的计划；Switch版仅称稍后，未给日期；价格未公布。",
+          "bilingual": {
+            "title_en": "\"The Streamer’s Alt Account Labyrinth\" Sets January 29, 2027 PC Release",
+            "sentences": [
+              {
+                "en": "According to Gematsu, publisher G-MODE and developer Acacia have announced that \"The Streamer’s Alt Account Labyrinth,\" a blend of dungeon RPG and visual novel, will launch on PC via Steam on January 29, 2027, with a Switch version to follow later.",
+                "zh": "据Gematsu报道，发行商G-MODE与开发商Acacia宣布，地牢RPG与视觉小说结合的《The Streamer’s Alt Account Labyrinth》将于2027年1月29日通过Steam登陆PC，Switch版稍后推出。"
+              },
+              {
+                "en": "The game will support English, Japanese, Traditional Chinese, and Simplified Chinese.",
+                "zh": "游戏支持英语、日语、繁体中文和简体中文。"
+              },
+              {
+                "en": "The story centers on the all-female band Rag Drops, whose members, after being accused of a crime, enter UraU, an otherworld where the dark side of social media is made manifest; the gameplay is divided into dungeon exploration and adventure segments full of secrets, with players tasked with tracking down the owner of the \"alt account\" in the labyrinth.",
+                "zh": "故事围绕全女子乐队Rag Drops被指控犯罪后，成员进入社交媒体阴暗面具象化的异世界UraU；玩法分为地牢探索与充满秘密的冒险段落，玩家要在迷宫中追查“里账号”的主人。"
+              }
+            ]
+          }
+        },
+        {
+          "event_key": "Pocketpair|公布|《Windrose》大型更新 Ashlands",
+          "title": "《Windrose》大型更新Ashlands今冬上线，公开陆战与海战新要素",
+          "summary": "Pocketpair公开《Windrose》大型更新Ashlands开发博客第6弹，更新今冬上线，新增复活骷髅、重装骷髅破甲与五类海战敌船能力。",
+          "published_at": "2026-11-27T23:24:29+08:00",
+          "follow_up": false,
+          "new_facts": "Pocketpair公开Windrose大型更新Ashlands开发博客第6弹，新增复活骷髅与五类海战敌船能力，更新今冬上线。",
+          "verification": "single_source",
+          "facts": [
+            {
+              "text": "据4Gamer报道，Pocketpair于11月27日公开《Windrose》大型更新“Ashlands”的开发博客第6弹，更新计划于今年冬季上线。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "ポケットペアは本日（2026年11月27日），アーリーアクセス中のPC用ソフト「 Windrose 」について，大型アップデート 「Ashlands」 の 開発ブログ第6弾 を公開した。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "「Windrose」，今冬配信予定の大型アプデ「Ashlands」で陸上戦と海戦に新要素を実装。復活するスケルトンや援軍を呼ぶ敵船が登場する"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "新区域Ashlands的陆战会出现为财宝而来的英国士兵和拥有棘手能力的骷髅。部分骷髅被击倒后会重新拼合散落的骨头站起，重装骷髅则需先破坏其体干、再剥下防具。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "新バイオーム 「Ashlands」 では，財宝を求めてやってきたイギリス兵や，厄介な能力を持つスケルトンが待ち受ける。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "一部のスケルトンは， 倒されても散らばった骨を組み直して立ち上がる 。どのような仕組みで復活するかは明かされていない。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "重装備のスケルトンに対しては，体幹を崩してから防具を引きはがせるという。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            },
+            {
+              "text": "海战中，全海域现有敌船会按战斗角色使用特殊能力，包括在常规火炮射程外炮击、冲撞、召唤援军、投下火药桶，以及接近后爆炸的小型船；除自爆小船外，敌船角色不按船种固定。",
+              "evidence": [
+                {
+                  "source_id": "s12",
+                  "quote": "海戦では，全海域の既存の敵船が戦闘で担う役割に応じて特殊能力を使うようになる。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "開発ブログで紹介されたのは「通常の大砲の射程外から砲撃する船」「体当たりを仕掛ける船」「援軍を呼ぶ船」「進路に火薬樽を落とす船」「接近して爆発する小型船」の5タイプ。"
+                },
+                {
+                  "source_id": "s12",
+                  "quote": "接近して爆発する小型船を除き，敵の役割は船種ごとに固定されていない。"
+                }
+              ],
+              "kind": "fact",
+              "verification": "single_source"
+            }
+          ],
+          "importance": "重要",
+          "reliability": "B",
+          "entities": [
+            "Pocketpair",
+            "Windrose",
+            "Ashlands"
+          ],
+          "limitations": "更新仅称今冬上线，未给具体日期；开发博客内容由4Gamer转述，未直接取得Pocketpair原文。",
+          "bilingual": {
+            "title_en": "Windrose’s Major Ashlands Update to Launch This Winter, Unveiling New Land and Naval Combat Features",
+            "sentences": [
+              {
+                "en": "According to 4Gamer, Pocketpair published the sixth development blog post for Windrose’s major “Ashlands” update on November 27, and the update is scheduled to launch this winter.",
+                "zh": "据4Gamer报道，Pocketpair于11月27日公开《Windrose》大型更新“Ashlands”的开发博客第6弹，更新计划于今年冬季上线。"
+              },
+              {
+                "en": "Land combat in the new Ashlands region will feature British soldiers drawn by treasure and skeletons with troublesome abilities.",
+                "zh": "新区域Ashlands的陆战会出现为财宝而来的英国士兵和拥有棘手能力的骷髅。"
+              },
+              {
+                "en": "Some skeletons will reassemble their scattered bones and rise after being knocked down, while heavily armored skeletons must have their torsos destroyed first before their armor can be stripped off.",
+                "zh": "部分骷髅被击倒后会重新拼合散落的骨头站起，重装骷髅则需先破坏其体干、再剥下防具。"
+              },
+              {
+                "en": "In naval combat, existing enemy ships across all sea areas will use special abilities according to their combat roles, including bombarding from beyond conventional cannon range, ramming, summoning reinforcements, dropping gunpowder barrels, and small boats that explode after closing in; except for the self-detonating small boats, enemy ship roles are not fixed by ship type.",
+                "zh": "海战中，全海域现有敌船会按战斗角色使用特殊能力，包括在常规火炮射程外炮击、冲撞、召唤援军、投下火药桶，以及接近后爆炸的小型船；除自爆小船外，敌船角色不按船种固定。"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "game-community",
+      "name": "热门游戏事件与热梗",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    },
+    {
+      "id": "acgn-community",
+      "name": "其他 ACGN 事件与社区热点",
+      "empty_reason": "候选消息未达到证据核验标准。",
+      "articles": []
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "url": "https://www.gematsu.com/2026/11/hollow-knight-silksong-free-expansion-sea-of-sorrow-launches-december-11",
+      "title": "Hollow Knight: Silksong free expansion ‘Sea of Sorrow’ launches December 11",
+      "published_at": "2026-11-27T15:11:41+00:00"
+    },
+    {
+      "id": "s2",
+      "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-makoto-koji-announce-plant-mystery-adventure-game-the-botanist-and-the-translator-for-pc",
+      "title": "Team Cherry Presents and Makoto Koji announce plant mystery adventure game The Botanist and the Translator for PC",
+      "published_at": "2026-11-27T15:10:07+00:00"
+    },
+    {
+      "id": "s5",
+      "url": "https://www.gematsu.com/2026/11/the-streamers-alt-account-labyrinth-launches-january-29-2027-for-pc-later-for-switch",
+      "title": "The Streamer’s Alt Account Labyrinth launches January 29, 2027 for PC, later for Switch",
+      "published_at": "2026-11-27T12:15:42+00:00"
+    },
+    {
+      "id": "s12",
+      "url": "https://www.4gamer.net/games/966/G096663/20261128001/",
+      "title": "「Windrose」，今冬配信予定の大型アプデ「Ashlands」で陸上戦と海戦に新要素を実装。復活するスケルトンや援軍を呼ぶ敵船が登場する",
+      "published_at": "2026-11-28T00:24:29+09:00"
+    },
+    {
+      "id": "s3",
+      "url": "https://www.gematsu.com/2026/11/team-cherry-presents-and-studio-stobie-announce-moody-platform-adventure-game-radio-rain-for-pc",
+      "title": "Team Cherry Presents and Studio Stobie announce moody platform adventure game Radio Rain for PC",
+      "published_at": "2026-11-27T15:08:06+00:00"
+    }
+  ],
+  "edition": "acgn",
+  "coverage_notes": [
+    "二游的部分资料检索未完成，本期覆盖受限。",
+    "热门游戏事件与热梗的部分资料检索未完成，本期覆盖受限。",
+    "其他 ACGN 事件与社区热点的部分资料检索未完成，本期覆盖受限。",
+    "部分候选消息未能充分核实，未予收录。"
+  ]
+}
